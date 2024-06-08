@@ -1,2 +1,3 @@
-# moodleacademy_id
-Translate moodle.academy courses into Bahasa Indonesia
+# moodle.academy translations
+Translate moodle.academy courses
+* Into Bahasa Indonesia (ID)
