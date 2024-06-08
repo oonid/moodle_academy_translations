@@ -1,10 +1,11 @@
-md5key,rawtext,substitutetext,targetlanguage,contextid
-5a5d29db529043be1dcaee73455bb0ac,"<p dir=""ltr"" style=""text-align: left;"">Learn how to add courses and gain an insight into course editing with this free, self-paced course, part of the Administrator Learning Pathway.</p><p dir=""ltr"" style=""text-align: left;"">This course relates to the following competence(s):<br></p><p dir=""ltr"" style=""text-align: left;""></p><ul><li>3.2 Course / Category management.</li></ul><p></p>",,id,5913
-085a36c66a4a7c3f8b33a093ce3175ab,"<p>This self-paced beginner level&nbsp;course is part of the Administrator Learning Pathway and teaches you the very basics of Moodle course creation.</p>",,id,5913
-63fb247e7e216648bf808008c7218d16,"<p dir=""ltr"" style=""text-align: left;"">When you have completed all the required activities, the Course check will appear for you to check your understanding.<br></p>",,id,5913
-4201defa06d9562e6d420147ec16d11e,"<div class=""no-overflow"">Before you begin, review the&nbsp;Course overview,&nbsp;Learning outcomes,&nbsp;Course structure&nbsp;and&nbsp;Completion and assessment&nbsp;information.</div>",,id,5935
-bd4c84733ab23f5582b585747dfeb7d6,"Completion and assessment",,id,5935
-214a53b3b63a46f1b42d575003304797,"<p dir=""ltr"">To complete the course you need to complete the following activities:</p>
+"location","source","target","id","fuzzy"
+"md5key","rawtext","substitutetext","targetlanguage","contextid"
+"5a5d29db529043be1dcaee73455bb0ac","<p dir=""ltr"" style=""text-align: left;"">Learn how to add courses and gain an insight into course editing with this free, self-paced course, part of the Administrator Learning Pathway.</p><p dir=""ltr"" style=""text-align: left;"">This course relates to the following competence(s):<br></p><p dir=""ltr"" style=""text-align: left;""></p><ul><li>3.2 Course / Category management.</li></ul><p></p>","","id","5913"
+"085a36c66a4a7c3f8b33a093ce3175ab","<p>This self-paced beginner level&nbsp;course is part of the Administrator Learning Pathway and teaches you the very basics of Moodle course creation.</p>","<p>Kursus mandiri tingkat pemula&nbsp; ini adalah bagian dari Jalur Pembelajaran Administrator dan mengajarkan Anda dasar-dasar pembuatan kursus Moodle.</p>","id","False"
+"63fb247e7e216648bf808008c7218d16","<p dir=""ltr"" style=""text-align: left;"">When you have completed all the required activities, the Course check will appear for you to check your understanding.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Setelah Anda menyelesaikan semua aktivitas yang diperlukan, pemeriksaan Kursus akan muncul untuk memeriksa pemahaman Anda.<br></p>","id","False"
+"4201defa06d9562e6d420147ec16d11e","<div class=""no-overflow"">Before you begin, review the&nbsp;Course overview,&nbsp;Learning outcomes,&nbsp;Course structure&nbsp;and&nbsp;Completion and assessment&nbsp;information.</div>","<div class=""no-overflow"">Sebelum memulai, tinjau &nbsp;Ikhtisar kursus,&nbsp;Capaian pembelajaran,&nbsp;Struktur kursus&nbsp;dan&nbsp;informasi Kelulusan dan penilaian&nbsp;.</div>","id","False"
+"bd4c84733ab23f5582b585747dfeb7d6","Completion and assessment","Kelulusan dan penilaian","id","False"
+"214a53b3b63a46f1b42d575003304797","<p dir=""ltr"">To complete the course you need to complete the following activities:</p>
 <p dir=""ltr""></p>
 <ul>
     <li>View&nbsp; 'About this course', reading all sections.<br></li>
@@ -23,25 +24,25 @@ bd4c84733ab23f5582b585747dfeb7d6,"Completion and assessment",,id,5935
 <p></p>
 <h4>Course badge</h4>
 <p>Upon successful completion of this course you will be automatically awarded with a badge to showcase the skills and knowledge you have obtained.</p>
-<p></p>",,id,5935
-8d282a8bd2fe903679ba3011d408c26a,Licence,,id,5935
-832e827ab429c203499cd0cac8ae8dcb,"<p><a rel=""license"" href=""http://creativecommons.org/licenses/by/4.0/""><img src=""https://moodle.academy/pluginfile.php/5935/mod_book/chapter/861/ccby.png"" alt=""Creative Commons Licence"" width=""120"" height=""42"" style=""float:left"" class=""img-fluid atto_image_button_middle""></a>
+<p></p>","","id","5935"
+"8d282a8bd2fe903679ba3011d408c26a","Licence","","id","5935"
+"832e827ab429c203499cd0cac8ae8dcb","<p><a rel=""license"" href=""http://creativecommons.org/licenses/by/4.0/""><img src=""https://moodle.academy/pluginfile.php/5935/mod_book/chapter/861/ccby.png"" alt=""Creative Commons Licence"" width=""120"" height=""42"" style=""float:left"" class=""img-fluid atto_image_button_middle""></a>
     This course by Moodle Academy (Moodle Pty Ltd) is licensed under&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>. Original resources available at&nbsp;<a href=""https://moodle.academy/"">https://moodle.academy</a>.<br></p>
 <p>
     <span class=""moodle-orange bold larger"">›</span>
 
     <a href=""https://moodle.academy/mod/glossary/showentry.php?eid=272"">Read more about how you should attribute this work.</a><br>
-</p>",,id,5935
-a209901e4d65897541bb3eacb6998def,"Learning outcomes",,id,5935
-84f4820e898743986b6871acdf66fea4,"<h4 style=""text-align: left;""><span style=""color: rgb(73, 80, 87); font-size: 1rem;"">By the end of this course, you will be able to:</span><br></h4>
+</p>","","id","5935"
+"a209901e4d65897541bb3eacb6998def","Learning outcomes","","id","5935"
+"84f4820e898743986b6871acdf66fea4","<h4 style=""text-align: left;""><span style=""color: rgb(73, 80, 87); font-size: 1rem;"">By the end of this course, you will be able to:</span><br></h4>
 <p dir=""ltr""></p>
 <ul>
     <li>Confidently set up categories and courses individually and in bulk;</li>
     <li>Be aware of how teachers edit courses and create content.</li>
 </ul>
-<p></p>",,id,5935
-7ea5cbe222bf3ce7da84b61986a9fffb,"Next steps and Certificate",,id,5935
-21478217d1ff132dccb6d25de9ad6475,"<p>If you complete this course successfully, why not take the other courses in the Administrator Learning Pathway Beginner level and optionally purchase a certificate? </p>
+<p></p>","","id","5935"
+"7ea5cbe222bf3ce7da84b61986a9fffb","Next steps and Certificate","","id","5935"
+"21478217d1ff132dccb6d25de9ad6475","<p>If you complete this course successfully, why not take the other courses in the Administrator Learning Pathway Beginner level and optionally purchase a certificate? </p>
 <ul>
     <li>Moodle Administration Settings<ul>
             <li>Explore the main administration settings, site admin presets and basic file management.</li>
@@ -58,9 +59,9 @@ a209901e4d65897541bb3eacb6998def,"Learning outcomes",,id,5935
             <li>Explore advanced features, competencies, badges, plugins and other settings you will learn with further Admin training.</li>
         </ul>
     </li>
-</ul>",,id,5935
-0e5231c0d444d5b1538faad5e4729066,"Course overview",,id,5935
-06f82b9e8aabdcf9352b6b46403e92ff,"<h4 style=""text-align: left;"">Aim</h4>
+</ul>","","id","5935"
+"0e5231c0d444d5b1538faad5e4729066","Course overview","","id","5935"
+"06f82b9e8aabdcf9352b6b46403e92ff","<h4 style=""text-align: left;"">Aim</h4>
 <p>In this course you will</p>
 <ul>
     <li>Learn about the structure of courses and categories in a Moodle site;</li>
@@ -74,15 +75,15 @@ a209901e4d65897541bb3eacb6998def,"Learning outcomes",,id,5935
 <h4>Format</h4>
 <p dir=""ltr"">This is a self-paced course without active moderation.</p>
 <h4 style=""text-align: left;"">Estimated time</h4>
-<p dir=""ltr"" style=""text-align: left;"">The estimated time to complete this course is 3 hours.</p>",,id,5935
-815c7fb91561296c9ad3e407821bffb3,"Course structure",,id,5935
-0b1b385304dbbf57874e11c8a5500fe9,"<ul>
+<p dir=""ltr"" style=""text-align: left;"">The estimated time to complete this course is 3 hours.</p>","","id","5935"
+"815c7fb91561296c9ad3e407821bffb3","Course structure","","id","5935"
+"0b1b385304dbbf57874e11c8a5500fe9","<ul>
     <li>This is a free, self-paced course provided by Moodle Academy.</li>
     <li>You must be an administrator of a Moodle site, although you do not need server access.</li><li>Although this course is not facilitated, you are welcome to ask any questions in the General discussion forum.</li>
     <li>We would love to hear what you think of the course, if anything is unclear, or you have any ideas for improvements. Please provide feedback so we can improve the course for everyone.</li>
-</ul>",,id,5935
-84c4e266939f0718ce9af02de1191c53,"Is this course right for you?",,id,5935
-ad2edcaae5bc5587cae38b871eaaeefd,"<p>This course is one of four in a program designed to help you understand the basics of Moodle administration. You will learn about managing a Moodle site from the Administration interface within Moodle.</p>
+</ul>","","id","5935"
+"84c4e266939f0718ce9af02de1191c53","Is this course right for you?","","id","5935"
+"ad2edcaae5bc5587cae38b871eaaeefd","<p>This course is one of four in a program designed to help you understand the basics of Moodle administration. You will learn about managing a Moodle site from the Administration interface within Moodle.</p>
 <p>We shall assume that you have a MoodleCloud site or other Moodle site with an admin account. (You can also explore <a href=""https://moodlebox.net/"">MoodleBox</a> on a Raspberry Pi)&nbsp; Alternatively, you can log in to the <a href=""https://sandbox.moodledemo.net/"">Moodle sandbox demo</a> site as an admin (remembering that this site is reset every hour on the hour).</p>
 <p><b>This course IS...</b></p>
 <ul>
@@ -93,18 +94,18 @@ ad2edcaae5bc5587cae38b871eaaeefd,"<p>This course is one of four in a program des
 <p><b>This course IS NOT...</b></p>
 <ul>
     <li>for Moodle users wanting help with installation, server management or operating systems - please post instead in our <a href=""https://moodle.org/mod/forum/view.php?id=28"">Installing and upgrading help forum</a> on moodle.org.</li>
-</ul>",,id,5935
-026b9211dddd47ed34f0f354f2c55961,"Moodle versions",,id,5935
-d2622ffbd7211ce7014c30eedc9d3de5,"The activities and screenshots in this course are based on the standard Boost theme and the latest version of Moodle LMS, currently 4.4.&nbsp;See <a href=""https://docs.moodle.org/404/en/Main_page"">Moodle 4.4 documentation overview</a> and&nbsp;<a href=""https://docs.moodle.org/404/New_features"">New Features 4.4 documentation.</a><br>&nbsp;If your Moodle site looks different, ask your Moodle support staff about the theme and version being used.
+</ul>","","id","5935"
+"026b9211dddd47ed34f0f354f2c55961","Moodle versions","","id","5935"
+"d2622ffbd7211ce7014c30eedc9d3de5","The activities and screenshots in this course are based on the standard Boost theme and the latest version of Moodle LMS, currently 4.4.&nbsp;See <a href=""https://docs.moodle.org/404/en/Main_page"">Moodle 4.4 documentation overview</a> and&nbsp;<a href=""https://docs.moodle.org/404/New_features"">New Features 4.4 documentation.</a><br>&nbsp;If your Moodle site looks different, ask your Moodle support staff about the theme and version being used.
 <br><br>&nbsp;You can access documentation about earlier, supported versions of Moodle LMS below. This documentation includes the videos related to each version.<br>
 <ul>
     <li><a href=""https://docs.moodle.org/403/en/Main_page"">Moodle 4.3 documentation</a> and <a href=""https://docs.moodle.org/403/en/New_features"">New Features 4.3 documentation</a>.</li>
     <li><a href=""https://docs.moodle.org/402/en/Main_page"">Moodle 4.2 documentation overview</a>&nbsp;and&nbsp;<a href=""https://docs.moodle.org/402/en/New_features"">New Features 4.2 documentation.</a></li>
 
     <li><a href=""https://docs.moodle.org/401/en/Main_page"">Moodle 4.1 documentation overview</a> and&nbsp;<a href=""https://docs.moodle.org/401/en/New_features"">New Features 4.1 documentation.</a></li>
-</ul><p dir=""ltr"" style=""text-align: left;""><br></p>",,id,5935
-64a39273573e4fc2b712d51106db7a4e,"Change log",,id,5935
-1c8bdb6e8b8a58ec6438707b2b943d53,"
+</ul><p dir=""ltr"" style=""text-align: left;""><br></p>","","id","5935"
+"64a39273573e4fc2b712d51106db7a4e","Change log","","id","5935"
+"1c8bdb6e8b8a58ec6438707b2b943d53","
 <p>All notable changes to this course will be documented in this page.</p>
 <hr>
 <p>Date:&nbsp; June 4 2024<br>Changed by: Mary Cooch<br>Changes:</p><p></p><ul><li>Updated the versions page in this Book to reference 4.4.</li><li>Updated the YouTube video How can I manage courses on my Moodle site?</li><li>Replaced said video in the videos for download folder with the 4.4 version.</li><li>Updated the YouTube video How can I create a course on my Moodle site?</li><li>Replaced said video in the videos for download folder with the 4.4 version and replaced the transcript in the transcript folder.</li><li>Updated the YouTube video How can I upload a course to my Moodle site?</li><li>Replaced said video in the videos for download folder with the 4.4 version.</li><li>Updated the YouTube video How can I add content to my Moodle course?&nbsp;</li><li>Replaced said video in the videos for download folder with the 4.4 version and replaced the transcript in the transcripts folder.</li><li>Updated the screenshot of the Activity chooser in the tutorial.</li><li>Updated the side text block to reference 4.4</li></ul><p></p>
@@ -141,36 +142,36 @@ d2622ffbd7211ce7014c30eedc9d3de5,"The activities and screenshots in this course 
     <li>Added versions page and changed text block to say 4.1</li>
     <li>Redid the Add course content video to show the new Text and Media rea instead of Label in Resources. The transcript is the same and it is such a minor visual change that there is no need for you to update the video unless you really want to. The updated video is in the Downloads folder and the Youtube video is linked to on the page in the Tutorial.<br><br></li>
 </ul>
-<hr>",,id,5935
-e821ad7f1e1e18d62b1d2319e78e1858,"Tutorial: Course Creation Basics",,id,5939
-8b4b861ceabf283e53b08780eae84065,"Quick check",,id,5939
-4f61868dcd2c3b42ead5c3f78540d4e2,"Test your understanding with this Quick check. The scores are not recorded, so you can try as often as you like.<br>{Q{embed/embed3|bd3c6697b7cdfd554ef34e9be40c7b5f379527c90f0ecd44e5d9e4f644f9921b}Q}<br><br>",,id,5939
-8b4b861ceabf283e53b08780eae84065,"Quick check",,id,5939
-2356437dbcd7451d9cde07c4f4730dfa,"<p dir=""ltr"" style=""text-align: left;"">Test your understanding with this Quick check. The scores are not recorded, so you can try as often as you like.</p><p dir=""ltr"" style=""text-align: left;"">{Q{embed/embed1|c40d9e3ad98bce58f71b73c688f2570c23e3acdeafbea959848889895f223a22}Q}<br></p><p dir=""ltr"" style=""text-align: left;""><br></p>",,id,5939
-9ca233803806fdc5af63008082e95370,"Download course content",,id,5939
-0c5a6a685af975fa74aacbcd04ddae25,"<p dir=""ltr"" style=""text-align: left;"">Available from Site administration &gt; Courses &gt;Download course content, this feature can be enabled so that learners can download some elements of the course if the teacher allows. The admin needs to:</p><p dir=""ltr"" style=""text-align: left;""></p><ul><li>enable the setting from Site administration &gt; Courses &gt; Download course content;</li><li>enable the setting also from Site administration &gt; Courses &gt; Course default settings</li><li>explain to the teaching staff that they should enable the setting from Course navigation &gt; Settings in each course where this is wanted.</li></ul><p>Once all these settings are enabled, 'Download course content' will be visible from the More link.</p><p><img src=""https://moodle.academy/pluginfile.php/5939/mod_book/chapter/863/DownloadCourseContent4.png"" alt=""Screenshot showing location of Download course content - from Course navigation, More"" width=""700"" height=""203"" class=""img-fluid atto_image_button_text-bottom""><br></p><p><strong>Note:</strong> Currently only File, Folder, Page and Label can be downloaded.</p><p></p>",,id,5939
-92788a8e84e3e51d987dea3cdbbee6df,"Focus for this tutorial",,id,5939
-b201ae66bb4b13342542ee1b767a62fe,"<p>In this tutorial we explore:</p>
+<hr>","","id","5935"
+"e821ad7f1e1e18d62b1d2319e78e1858","Tutorial: Course Creation Basics","","id","5939"
+"8b4b861ceabf283e53b08780eae84065","Quick check","","id","5939"
+"4f61868dcd2c3b42ead5c3f78540d4e2","Test your understanding with this Quick check. The scores are not recorded, so you can try as often as you like.<br>{Q{embed/embed3|bd3c6697b7cdfd554ef34e9be40c7b5f379527c90f0ecd44e5d9e4f644f9921b}Q}<br><br>","","id","5939"
+"8b4b861ceabf283e53b08780eae84065","Quick check","","id","5939"
+"2356437dbcd7451d9cde07c4f4730dfa","<p dir=""ltr"" style=""text-align: left;"">Test your understanding with this Quick check. The scores are not recorded, so you can try as often as you like.</p><p dir=""ltr"" style=""text-align: left;"">{Q{embed/embed1|c40d9e3ad98bce58f71b73c688f2570c23e3acdeafbea959848889895f223a22}Q}<br></p><p dir=""ltr"" style=""text-align: left;""><br></p>","","id","5939"
+"9ca233803806fdc5af63008082e95370","Download course content","","id","5939"
+"0c5a6a685af975fa74aacbcd04ddae25","<p dir=""ltr"" style=""text-align: left;"">Available from Site administration &gt; Courses &gt;Download course content, this feature can be enabled so that learners can download some elements of the course if the teacher allows. The admin needs to:</p><p dir=""ltr"" style=""text-align: left;""></p><ul><li>enable the setting from Site administration &gt; Courses &gt; Download course content;</li><li>enable the setting also from Site administration &gt; Courses &gt; Course default settings</li><li>explain to the teaching staff that they should enable the setting from Course navigation &gt; Settings in each course where this is wanted.</li></ul><p>Once all these settings are enabled, 'Download course content' will be visible from the More link.</p><p><img src=""https://moodle.academy/pluginfile.php/5939/mod_book/chapter/863/DownloadCourseContent4.png"" alt=""Screenshot showing location of Download course content - from Course navigation, More"" width=""700"" height=""203"" class=""img-fluid atto_image_button_text-bottom""><br></p><p><strong>Note:</strong> Currently only File, Folder, Page and Label can be downloaded.</p><p></p>","","id","5939"
+"92788a8e84e3e51d987dea3cdbbee6df","Focus for this tutorial","","id","5939"
+"b201ae66bb4b13342542ee1b767a62fe","<p>In this tutorial we explore:</p>
 <ul>
     <li>how courses and categories are organised on your Moodle site</li>
     <li>how to add a single course</li>
     <li>how to add courses in bulk</li>
     <li>how a Moodle course works for teachers and students</li>
 </ul>
-<br>",,id,5939
-81254ed01e1849e9bbb041571b2cbad8,"Activity chooser",,id,5939
-e6c7ccacfbfd54e4d6f7a2d850cbe3f2,"<p dir=""ltr"" style=""text-align: left;""></p><ul><li>The Activity chooser appears when someone with course editing rights clicks Add an activity or resource. It presents all the activities and resources available for selection.</li><li>As admin you can decide which tabs are shown on the Activity chooser. You do this from Site administration &gt; Courses &gt; Activity chooser settings.</li><li>You can also decide to show or not to show the link to <a href=""https://moodle.net"">MoodleNet</a> in the footer of the Activity chooser.</li><li>From Site administration &gt; Courses &gt; Recommended activities you can check activities and resources which will appear in the Recommended tab, to give teachers quick access to these popular items.</li></ul><p><img src=""https://moodle.academy/pluginfile.php/5939/mod_book/chapter/906/44activitychooser.png"" alt="""" width=""895"" height=""895"" role=""presentation"" class=""img-fluid atto_image_button_text-bottom""><br></p><p></p><p dir=""ltr"" style=""text-align: left;""><br></p>",,id,5939
-5bb546a7b3bc31f35c2bf361dfbc6e11,"Bulk create courses",,id,5939
-7a9fe14a27d4310016e5c66bde98f6cf,"<ul>
+<br>","","id","5939"
+"81254ed01e1849e9bbb041571b2cbad8","Activity chooser","","id","5939"
+"e6c7ccacfbfd54e4d6f7a2d850cbe3f2","<p dir=""ltr"" style=""text-align: left;""></p><ul><li>The Activity chooser appears when someone with course editing rights clicks Add an activity or resource. It presents all the activities and resources available for selection.</li><li>As admin you can decide which tabs are shown on the Activity chooser. You do this from Site administration &gt; Courses &gt; Activity chooser settings.</li><li>You can also decide to show or not to show the link to <a href=""https://moodle.net"">MoodleNet</a> in the footer of the Activity chooser.</li><li>From Site administration &gt; Courses &gt; Recommended activities you can check activities and resources which will appear in the Recommended tab, to give teachers quick access to these popular items.</li></ul><p><img src=""https://moodle.academy/pluginfile.php/5939/mod_book/chapter/906/44activitychooser.png"" alt="""" width=""895"" height=""895"" role=""presentation"" class=""img-fluid atto_image_button_text-bottom""><br></p><p></p><p dir=""ltr"" style=""text-align: left;""><br></p>","","id","5939"
+"5bb546a7b3bc31f35c2bf361dfbc6e11","Bulk create courses","","id","5939"
+"7a9fe14a27d4310016e5c66bde98f6cf","<ul>
     <li>As an admin you can create course settings in a file offline and upload them from Site administration&nbsp; &gt;&nbsp; Courses &gt; Upload courses.</li>
     <li>You create them with a spreadsheet program or simple text (.csv) file.</li>
     <li>Required fields are: shortname, fullname and category. (The category must exist and you use its number, not name).</li>
 </ul><strong style=""font-size: 1rem;"">Note: you are not uploading courses with content; merely uploading the relevant course information.</strong><br>
 <ul>
 </ul>
-<p>The video below explains how to bulk create courses. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=""https://moodle.academy/course/view.php?id=39#section-4"">Videos and transcripts for download.</a><br></p><a href=""https://www.youtube.com/watch?v=8pIEW6ji4q8"">https://www.youtube.com/watch?v=8pIEW6ji4q8</a><br>",,id,5939
-5b6cf869265c13af8566f192b4ab3d2a,Documentation,,id,5939
-f83f0dece8247f643783d3b83dad5fad,"<p dir=""ltr"" style=""text-align: left;"">Moodle has detailed <a href=""https://docs.moodle.org/en/Main_page"">documentation in English</a>, as well as <a href=""https://docs.moodle.org/en/MoodleDocs:Overview"">documentation in other languages</a> with varying degrees of completion.</p>
+<p>The video below explains how to bulk create courses. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=""https://moodle.academy/course/view.php?id=39#section-4"">Videos and transcripts for download.</a><br></p><a href=""https://www.youtube.com/watch?v=8pIEW6ji4q8"">https://www.youtube.com/watch?v=8pIEW6ji4q8</a><br>","","id","5939"
+"5b6cf869265c13af8566f192b4ab3d2a","Documentation","","id","5939"
+"f83f0dece8247f643783d3b83dad5fad","<p dir=""ltr"" style=""text-align: left;"">Moodle has detailed <a href=""https://docs.moodle.org/en/Main_page"">documentation in English</a>, as well as <a href=""https://docs.moodle.org/en/MoodleDocs:Overview"">documentation in other languages</a> with varying degrees of completion.</p>
 <p dir=""ltr"" style=""text-align: left;"">Optionally, if you want to read more information about the topics covered in this tutorial, follow the links below to the English documentation:</p>
 <h5>Manage your courses</h5>
 <ul>
@@ -199,31 +200,31 @@ f83f0dece8247f643783d3b83dad5fad,"<p dir=""ltr"" style=""text-align: left;"">Moo
     <li><a href=""https://docs.moodle.org/en/Activities"">Activities</a>.</li>
     <li><a href=""https://docs.moodle.org/en/Resources"">Resources</a>.</li>
     <li><a href=""https://docs.moodle.org/en/Blocks"">Blocks</a>.</li>
-</ul>",,id,5939
-ee28114c773501c6beef34fdf247e803,"Manage your courses",,id,5939
-0a816dc82251c1c19dd6805b9d971775,"<ul>
+</ul>","","id","5939"
+"ee28114c773501c6beef34fdf247e803","Manage your courses","","id","5939"
+"0a816dc82251c1c19dd6805b9d971775","<ul>
     <li> A course in Moodle is a space where teachers add learning materials for their students.</li>
     <li>Courses can be organised into course categories and subcategories, which you can hide if you wish. Courses can only be in one category.</li><li>The default category in a new Moodle site is called Category 1, but you can rename it.</li>
     <li>You can specify course default settings from Site administration &gt; Courses &gt; Course default settings. Teachers can change these settings in their courses.</li>
     <li>You can also enable Course requests. This displays a button so users can request an empty course be made for them.</li>
 </ul>
-<p>The video below explains how to manage courses. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=""https://moodle.academy/course/view.php?id=39#section-4"">Videos and transcripts for download.</a><br></p><a href=""https://youtu.be/NIubD5A4yMY?si=9KCCvjwMXuDBvDO6"">How can I manage courses?</a><br>",,id,5939
-73f2a2c1a8c1059ce8cd3949facb3eba,"Create a course",,id,5939
-aa1adce98e47a3b46b67ffb061d2d7c2,"<ul>
+<p>The video below explains how to manage courses. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=""https://moodle.academy/course/view.php?id=39#section-4"">Videos and transcripts for download.</a><br></p><a href=""https://youtu.be/NIubD5A4yMY?si=9KCCvjwMXuDBvDO6"">How can I manage courses?</a><br>","","id","5939"
+"73f2a2c1a8c1059ce8cd3949facb3eba","Create a course","","id","5939"
+"aa1adce98e47a3b46b67ffb061d2d7c2","<ul>
     <li>An administrator can add a new course from Site administration&nbsp; &gt;&nbsp; Courses&nbsp; &gt;&nbsp; Add a new course.
     </li>
     <li>The list of courses is also shown on the courses page yoursite.com/<i><b>course</b></i></li>
     <li>Once you have added a course and added a teacher to it, they can edit the course settings.</li>
 </ul>
-<p>The video below explains how to create one course. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=""https://moodle.academy/course/view.php?id=39#section-4"">Videos and transcripts for download.</a><br></p><p><a href=""https://youtu.be/uWPIq0rGn6U?si=iwIwB3YT-R4suL8A"">How can I create a course on my Moodle site?</a></p>",,id,5939
-e7b4a87a6305dbe6523b939db20e8237,"Upload an existing course",,id,5939
-51cb0692b9c41871627c002f5629172f,"<ul>
+<p>The video below explains how to create one course. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=""https://moodle.academy/course/view.php?id=39#section-4"">Videos and transcripts for download.</a><br></p><p><a href=""https://youtu.be/uWPIq0rGn6U?si=iwIwB3YT-R4suL8A"">How can I create a course on my Moodle site?</a></p>","","id","5939"
+"e7b4a87a6305dbe6523b939db20e8237","Upload an existing course","","id","5939"
+"51cb0692b9c41871627c002f5629172f","<ul>
     <li>When a course is saved, it is known as a backup. This backup can be downloaded and then uploaded to a different site, or to a different area in the same site.</li>
     <li>This process is known as Restore.</li>
     <li>An administrator can upload an existing course from a different site or from the same site from Site administration &gt; Courses &gt; Course restore.</li>
-</ul><p>The video below explains how to upload an existing course. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=""https://moodle.academy/course/view.php?id=39#section-4"">Videos and transcripts for download.</a><br></p><a href=""https://youtu.be/OW1A835SseM?si=hHtDTM2IjvsloOhk"">How can I upload a course to my Moodle site?</a><br>",,id,5939
-6ebb1ad643f8d9c60d86f191cbad5523,"Add course content",,id,5939
-7fd49cd79858a0558dc7cc687965bea6,"This tutorial is for administrators to help you manage courses on your Moodle site. It's not to help you teach with Moodle. For more information about teaching with Moodle, explore our <a href=""https://moodle.academy/mod/page/view.php?id=57&amp;forceview=1"">Educator pathway.&nbsp;</a><br><br>&nbsp;Here is a brief overview of how teachers add course content.
+</ul><p>The video below explains how to upload an existing course. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=""https://moodle.academy/course/view.php?id=39#section-4"">Videos and transcripts for download.</a><br></p><a href=""https://youtu.be/OW1A835SseM?si=hHtDTM2IjvsloOhk"">How can I upload a course to my Moodle site?</a><br>","","id","5939"
+"6ebb1ad643f8d9c60d86f191cbad5523","Add course content","","id","5939"
+"7fd49cd79858a0558dc7cc687965bea6","This tutorial is for administrators to help you manage courses on your Moodle site. It's not to help you teach with Moodle. For more information about teaching with Moodle, explore our <a href=""https://moodle.academy/mod/page/view.php?id=57&amp;forceview=1"">Educator pathway.&nbsp;</a><br><br>&nbsp;Here is a brief overview of how teachers add course content.
 <br><br>
 <ul>
     <li>The Course navigation gives editing teachers access to Settings (for example, changing the course name), Participants (where they can edit enrolment methods if allowed) and Grades.&nbsp;</li>
@@ -235,9 +236,9 @@ e7b4a87a6305dbe6523b939db20e8237,"Upload an existing course",,id,5939
     <li>Blocks provide extra learning content or information and&nbsp; may&nbsp; be added to the side of the main course content from the Block drawer on the right.</li>
 </ul>
 <p>The video below explains how to add course content. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=""https://moodle.academy/course/view.php?id=39#section-4"">Videos and transcripts for download.</a><br></p>
-<a href=""https://youtu.be/zFSox81Be-Y?si=WYq-Eeh1A-s-Pi-n"">How can I add course content?</a><br>",,id,5939
-d12fca1db52fc60f75f2348c4cccb4c0,"Tasks: Course Creation Basics",,id,5924
-5371a20e3871b365231d8845f3fd24df,"<p>Try these tasks to give you practice in site administration.</p>
+<a href=""https://youtu.be/zFSox81Be-Y?si=WYq-Eeh1A-s-Pi-n"">How can I add course content?</a><br>","","id","5939"
+"d12fca1db52fc60f75f2348c4cccb4c0","Tasks: Course Creation Basics","","id","5924"
+"5371a20e3871b365231d8845f3fd24df","<p>Try these tasks to give you practice in site administration.</p>
 <ol>
     <li>Rename Category 1 (the default category in your new site)&nbsp; to 'General courses';</li>
     <li>Add a new category ""Science"";</li>
@@ -246,161 +247,161 @@ d12fca1db52fc60f75f2348c4cccb4c0,"Tasks: Course Creation Basics",,id,5924
     <li>Create a CSV file to upload two new courses, for example Physics and Chemistry. (<a href=""https://moodle.academy/pluginfile.php/5924/mod_page/content/12/courseupload.csv"">Example .csv file here</a>)</li>
     <li>Go into a course and change the course format to Topics</li>
     <li>Enable Edit mode and see what happens when you drag and drop a word-processed document from your desktop.</li>
-</ol>",,id,5924
-bf19934d767d2a8fb7849cb2615af1ea,"Checklist: Course Creation Basics",,id,5925
-3bb9b8d52ef7445e208792c78506b295,"Related Courses",,id,316155
-27088ca8249ace54bb3fe5bf73b00ebe,"<div class=""no-overflow""><h4><i class=""fa fa-graduation-cap"" aria-hidden=""true"" style=""font-size: 1rem;""></i>&nbsp;Related courses</h4>
+</ol>","","id","5924"
+"bf19934d767d2a8fb7849cb2615af1ea","Checklist: Course Creation Basics","","id","5925"
+"3bb9b8d52ef7445e208792c78506b295","Related Courses","","id","316155"
+"27088ca8249ace54bb3fe5bf73b00ebe","<div class=""no-overflow""><h4><i class=""fa fa-graduation-cap"" aria-hidden=""true"" style=""font-size: 1rem;""></i>&nbsp;Related courses</h4>
 <p>This course is part of the <strong>'Moodle Admin Basics'</strong> program. Visit the program course to enrol in other courses in this program:</p>
 <ul>
     <li><a href=""https://moodle.academy/course/view.php?id=60"">Moodle Admin Basics program and certificate</a>.</li>
 </ul>
-</div>",,id,316155
-5914c9b729001618579f1eed29c074fd,"<div class=""no-overflow""><p dir=""ltr"" style=""text-align: left;"">We would appreciate if you would answer these short questions. It should take only a few minutes to complete.</p></div>",,id,5934
-ca80a219d0c0561c8af1604af381ff0a,"Images courtesy of Pixabay&nbsp;and&nbsp;UnSplash....",,id,17257
-1f415d76f1216aaa75c10a67ff100bce,"<div class=""no-overflow"">Images courtesy of <a href=""https://pixabay.com/"" target=""_blank"">Pixabay</a>&nbsp;and&nbsp;<a href=""https://unsplash.com/"" target=""_blank"">UnSplash</a>.
-<p dir=""ltr"" style=""text-align: left;""><br></p></div>",,id,17257
-f1ebcb42037f6ad3958f3e26539afedc,"This course launched in April 2022 and is now based on <a href=""https://docs.moodle.org/404/en/Main_page"">Moodle 4.4</a> functionality.",,id,6909
-f615237738eee2073d1a002e22ddd97f,"<p>You have created a new course but the course is not showing for students in their My courses tab in the 'In progress' dropdown. What might be the reasons? You can select more than one.</p>",,id,5913
-654a4b925cd385ae10d1d0d60c16f630,"Your answer is correct.",,id,5913
-168db2cba8a52b5e38ad809a457707a0,"Your answer is partially correct.",,id,5913
-5105c3bec08b913c493157e439a407d9,"Your answer is incorrect.",,id,5913
-45ae9a8785d82ca86a52360d43e2e015,"<p>In the course settings, you set the course visibility to 'hide'</p>",,id,5913
-bdd554ff09f30bb921d6aac718057412,"<p>Correct. That is one reason. You hid it while you were preparing it.</p>",,id,5913
-61513d5ad33887130b8e819c17c6a4cb,"<p>In the course settings you have set the start date to a time in the future</p>",,id,5913
-c37fabfd292c6511541112b77a23a354,"<p>Yes. The course will probably be in their 'Future' dropdown.</p>",,id,5913
-6fc3e9b857e23a14f8ccce3fb5c3a392,"<p>You have not yet enrolled the students into the course</p>",,id,5913
-704436a77b1844fc2ec43361f9aa2b95,"<p>Correct. It only appears in My courses when they are enrolled.</p>",,id,5913
-8584e4e414a628fa0dfa9ac2f4a1c9cf,"<p>The course does not have any content in it yet if they are enrolled.</p>",,id,5913
-7c028fed7fa79a8eef003b88469cd851,"<p>Incorrect. That should not make any difference.</p>",,id,5913
-f41c0c998d0f59398f2f0145433288dd,"<p>This screenshot shows a student's My courses page with course images for each course.&nbsp; How did the course images get there?</p><p><img src=""@@PLUGINFILE@@/mycoursesadminbasics.png"" alt=""My courses page for a student, showing three courses each with a graphic representing the course."" width=""702"" height=""340"" class=""img-fluid atto_image_button_text-bottom""><br></p>",,id,5913
-bd646256287d249579e411cf19a124f8,"Your answer is correct.",,id,5913
-e3ff0849280b8846e9ee11f336d47a8f,"Your answer is partially correct.",,id,5913
-32cc62cab594618f5cef3339f85b9bb1,"Your answer is incorrect.",,id,5913
-e5541ba50ae7c329e7b658a9eafc0b57,"<p>They are part of the standard Boost theme</p>",,id,5913
-5b93c91d3902dd302acf5fdf18c94b65,"<p>No - these images do not depend on the Boost theme.</p>",,id,5913
-ec90aa936931d3da470f5d9d31ecded4,"<p>The administrator adds them from Site administration&nbsp; &gt; Courses&nbsp; &gt; Course default settings.</p>",,id,5913
-7ad5df400809910c03075a80daafae08,"<p>Go and check!</p>",,id,5913
-a682aec06ea13a3e0edc970ce66739e6,"They are added from the course settings within each course.",,id,5913
-9a05f8300b1879ddde83302846d62935,"<p>Yes. Anyone who can edit the course settings such as admins or teachers can add them.</p>",,id,5913
-f9e502a3bd01349f2e3c44dd5ec37c8f,"<p>They are part of a course template.</p>",,id,5913
-628d07e8cd6851f02a800f7b81f99067,"<p>No. No template is needed to add the various images.</p>",,id,5913
-bc7d65badd4c770d180b954176137ce0,"<p>A course may be set up in a variety of formats. Your teacher wants an English language course with four sections, not dependent on weeks in a term. The sections are Reading, Speaking, Listening and Writing. Which course format would be best?</p>",,id,5913
-59252fde6b3b8c946346b76285adc372,"Your answer is correct.",,id,5913
-0c82f20834530b4ae11aa3c79dc8edbc,"Your answer is partially correct.",,id,5913
-227bc07ad18361398eb6a4b69aaaa8e7,"Your answer is incorrect.",,id,5913
-d0477410b7b17454f3aa4c702b2108ad,"<p>Custom sections format</p>",,id,5913
-8004605900099427954f8fdbcd3f4ffc,"<p>This would be the most appropriate, yes.</p>",,id,5913
-989bf06d6c62c8a08e50dafd7b08bd3c,"<p>Weekly format</p>",,id,5913
-c72b3dbe93161a6bd08d94797620b0c3,"<p>She doesn't need the course divided into weeks.</p>",,id,5913
-8dee975618aaf9341df7cb4cca628ec7,"<p>Social format</p>",,id,5913
-0ff573fc1f8d5b601d6edc737c1712a3,"<p>This is more for discussions only.</p>",,id,5913
-6f4faf876f8c3d2bb9caa365ce65be80,"<p>Single activity format</p>",,id,5913
-29c4545daa816fa613126e0a4863fdc6,"<p>This would only allow her to create one activity in her course.</p>",,id,5913
-17d867f0925a6b5228193fe0b88797fd,"<p>Which of the following statements about Moodle courses are correct? Select all that apply.</p>",,id,5913
-d7a608ea7f76818840555c1f6ef3f6c5,"Your answer is correct.",,id,5913
-10ce46a364042f1779564c4259108f1e,"Your answer is partially correct.",,id,5913
-4756d9cfaae1f072b5e7080bd6bde4fd,"Your answer is incorrect.",,id,5913
-ae3520ee80bb36076d835773163668dd,"<p>Courses may be added one at a time or&nbsp; else course settings can be uploaded in bulk.</p>",,id,5913
-497baee635975e1daaec5bcea409dac1,"<p>Which type is best for you?</p>",,id,5913
-3bad8f10e824135579c93f9afd9a8581,"<p>A course can only belong to one category.</p>",,id,5913
-d9c060691278562be1b62c973e68f560,"<p>By default, someone with the editing teacher role in a course can edit the course settings.</p>",,id,5913
-8004aaeeebf736119292df67f06fcb30,"<p>The 'Activity chooser' allows teachers in a course to add course content.</p>",,id,5913
-ae6f0fbbb22e2a788372122490ca12aa,"Why not explore our<a href=""https://moodle.academy/mod/page/view.php?id=57&amp;forceview=1""> Educator pathway</a> to learn more about teaching with Moodle?",,id,5913
-30c53a82a334f9de8007824e6402d39c,"<p>You want to upload these courses as a CSV file into your new empty Moodle site. Will this file work?</p>
+</div>","","id","316155"
+"5914c9b729001618579f1eed29c074fd","<div class=""no-overflow""><p dir=""ltr"" style=""text-align: left;"">We would appreciate if you would answer these short questions. It should take only a few minutes to complete.</p></div>","","id","5934"
+"ca80a219d0c0561c8af1604af381ff0a","Images courtesy of Pixabay&nbsp;and&nbsp;UnSplash....","","id","17257"
+"1f415d76f1216aaa75c10a67ff100bce","<div class=""no-overflow"">Images courtesy of <a href=""https://pixabay.com/"" target=""_blank"">Pixabay</a>&nbsp;and&nbsp;<a href=""https://unsplash.com/"" target=""_blank"">UnSplash</a>.
+<p dir=""ltr"" style=""text-align: left;""><br></p></div>","","id","17257"
+"f1ebcb42037f6ad3958f3e26539afedc","This course launched in April 2022 and is now based on <a href=""https://docs.moodle.org/404/en/Main_page"">Moodle 4.4</a> functionality.","","id","6909"
+"f615237738eee2073d1a002e22ddd97f","<p>You have created a new course but the course is not showing for students in their My courses tab in the 'In progress' dropdown. What might be the reasons? You can select more than one.</p>","","id","5913"
+"654a4b925cd385ae10d1d0d60c16f630","Your answer is correct.","","id","5913"
+"168db2cba8a52b5e38ad809a457707a0","Your answer is partially correct.","","id","5913"
+"5105c3bec08b913c493157e439a407d9","Your answer is incorrect.","","id","5913"
+"45ae9a8785d82ca86a52360d43e2e015","<p>In the course settings, you set the course visibility to 'hide'</p>","","id","5913"
+"bdd554ff09f30bb921d6aac718057412","<p>Correct. That is one reason. You hid it while you were preparing it.</p>","","id","5913"
+"61513d5ad33887130b8e819c17c6a4cb","<p>In the course settings you have set the start date to a time in the future</p>","","id","5913"
+"c37fabfd292c6511541112b77a23a354","<p>Yes. The course will probably be in their 'Future' dropdown.</p>","","id","5913"
+"6fc3e9b857e23a14f8ccce3fb5c3a392","<p>You have not yet enrolled the students into the course</p>","","id","5913"
+"704436a77b1844fc2ec43361f9aa2b95","<p>Correct. It only appears in My courses when they are enrolled.</p>","","id","5913"
+"8584e4e414a628fa0dfa9ac2f4a1c9cf","<p>The course does not have any content in it yet if they are enrolled.</p>","","id","5913"
+"7c028fed7fa79a8eef003b88469cd851","<p>Incorrect. That should not make any difference.</p>","","id","5913"
+"f41c0c998d0f59398f2f0145433288dd","<p>This screenshot shows a student's My courses page with course images for each course.&nbsp; How did the course images get there?</p><p><img src=""@@PLUGINFILE@@/mycoursesadminbasics.png"" alt=""My courses page for a student, showing three courses each with a graphic representing the course."" width=""702"" height=""340"" class=""img-fluid atto_image_button_text-bottom""><br></p>","","id","5913"
+"bd646256287d249579e411cf19a124f8","Your answer is correct.","","id","5913"
+"e3ff0849280b8846e9ee11f336d47a8f","Your answer is partially correct.","","id","5913"
+"32cc62cab594618f5cef3339f85b9bb1","Your answer is incorrect.","","id","5913"
+"e5541ba50ae7c329e7b658a9eafc0b57","<p>They are part of the standard Boost theme</p>","","id","5913"
+"5b93c91d3902dd302acf5fdf18c94b65","<p>No - these images do not depend on the Boost theme.</p>","","id","5913"
+"ec90aa936931d3da470f5d9d31ecded4","<p>The administrator adds them from Site administration&nbsp; &gt; Courses&nbsp; &gt; Course default settings.</p>","","id","5913"
+"7ad5df400809910c03075a80daafae08","<p>Go and check!</p>","","id","5913"
+"a682aec06ea13a3e0edc970ce66739e6","They are added from the course settings within each course.","","id","5913"
+"9a05f8300b1879ddde83302846d62935","<p>Yes. Anyone who can edit the course settings such as admins or teachers can add them.</p>","","id","5913"
+"f9e502a3bd01349f2e3c44dd5ec37c8f","<p>They are part of a course template.</p>","","id","5913"
+"628d07e8cd6851f02a800f7b81f99067","<p>No. No template is needed to add the various images.</p>","","id","5913"
+"bc7d65badd4c770d180b954176137ce0","<p>A course may be set up in a variety of formats. Your teacher wants an English language course with four sections, not dependent on weeks in a term. The sections are Reading, Speaking, Listening and Writing. Which course format would be best?</p>","","id","5913"
+"59252fde6b3b8c946346b76285adc372","Your answer is correct.","","id","5913"
+"0c82f20834530b4ae11aa3c79dc8edbc","Your answer is partially correct.","","id","5913"
+"227bc07ad18361398eb6a4b69aaaa8e7","Your answer is incorrect.","","id","5913"
+"d0477410b7b17454f3aa4c702b2108ad","<p>Custom sections format</p>","","id","5913"
+"8004605900099427954f8fdbcd3f4ffc","<p>This would be the most appropriate, yes.</p>","","id","5913"
+"989bf06d6c62c8a08e50dafd7b08bd3c","<p>Weekly format</p>","","id","5913"
+"c72b3dbe93161a6bd08d94797620b0c3","<p>She doesn't need the course divided into weeks.</p>","","id","5913"
+"8dee975618aaf9341df7cb4cca628ec7","<p>Social format</p>","","id","5913"
+"0ff573fc1f8d5b601d6edc737c1712a3","<p>This is more for discussions only.</p>","","id","5913"
+"6f4faf876f8c3d2bb9caa365ce65be80","<p>Single activity format</p>","","id","5913"
+"29c4545daa816fa613126e0a4863fdc6","<p>This would only allow her to create one activity in her course.</p>","","id","5913"
+"17d867f0925a6b5228193fe0b88797fd","<p>Which of the following statements about Moodle courses are correct? Select all that apply.</p>","","id","5913"
+"d7a608ea7f76818840555c1f6ef3f6c5","Your answer is correct.","","id","5913"
+"10ce46a364042f1779564c4259108f1e","Your answer is partially correct.","","id","5913"
+"4756d9cfaae1f072b5e7080bd6bde4fd","Your answer is incorrect.","","id","5913"
+"ae3520ee80bb36076d835773163668dd","<p>Courses may be added one at a time or&nbsp; else course settings can be uploaded in bulk.</p>","","id","5913"
+"497baee635975e1daaec5bcea409dac1","<p>Which type is best for you?</p>","","id","5913"
+"3bad8f10e824135579c93f9afd9a8581","<p>A course can only belong to one category.</p>","","id","5913"
+"d9c060691278562be1b62c973e68f560","<p>By default, someone with the editing teacher role in a course can edit the course settings.</p>","","id","5913"
+"8004aaeeebf736119292df67f06fcb30","<p>The 'Activity chooser' allows teachers in a course to add course content.</p>","","id","5913"
+"ae6f0fbbb22e2a788372122490ca12aa","Why not explore our<a href=""https://moodle.academy/mod/page/view.php?id=57&amp;forceview=1""> Educator pathway</a> to learn more about teaching with Moodle?","","id","5913"
+"30c53a82a334f9de8007824e6402d39c","<p>You want to upload these courses as a CSV file into your new empty Moodle site. Will this file work?</p>
 <p><img src=""@@PLUGINFILE@@/courseupload.png"" alt=""CSV file. Shortname, fullname, summary, category
 Phys,Physics, Theoretical Physics Unit X, 2
-"" width=""433"" height=""154"" role=""presentation"" class=""img-fluid atto_image_button_text-bottom""></p>",,id,5913
-e899f1434de282c517334b7558ed5bbc,"Your answer is correct.",,id,5913
-57d9afecc9e9e2760cd0fcbcc32123f1,"Your answer is partially correct.",,id,5913
-f132cfbf47a4c89818367e058c008aef,"Your answer is incorrect.",,id,5913
-52445b80e31516e4ad581416a40882b6,"<p>Yes, without any problems</p>",,id,5913
-d617c2e38f2298410bad828317527e08,"<p>There might be a problem...</p>",,id,5913
-e3d73af4b0ab42ba40d851fb91e8cd0f,"<p>No, because 'summary' is not a required field</p>",,id,5913
-6fc432a16233e2c89ba0032158b64014,"<p>That should not make any difference if the other fields are correct.</p>",,id,5913
-f61862f6cd55cfc9b64e52a02336a8c2,"Yes IF those categories have been created on your site",,id,5913
-b52b1364c9ea3df07cccb0e8676d582f,"<p>Correct! If the categories do not exist then it won't work.</p>",,id,5913
-f38345021132af996e16215d3df02264,"<p>No because the file is in Notepad and not a spreadsheet program like Excel™</p>",,id,5913
-4c07a9b0471d1f2ce05a7fc8d0c93d15,"<p>That will not matter.</p>",,id,5913
-4fad6070b2e9c1e9b1beebfc9021c502,"Jan, one of your teaching staff, wants to know what exactly learners can download if they click the Download course content link in his course. Which of the following can be downloaded by learners from the website when they click the link? Select all that apply.",,id,5913
-4f0b307d2d22435d02729324c7dcd29d,"<p dir=""ltr"" style=""text-align: left;"">Review the section Download course content in the Tutorial: Set up Courses for more information.</p>",,id,5913
-93a3ac6a700aec53707da310f62d71c3,"Your answer is correct.",,id,5913
-1c4f5f7759a887b4c104430457d0682c,"Your answer is partially correct.",,id,5913
-cf6554773c2f09d5640eedf4dd0fca17,"Your answer is incorrect.",,id,5913
-fa0d56aa706c3fcd3f5e6de137cac804,"<p dir=""ltr"" style=""text-align: left;"">Wikis</p>",,id,5913
-2fb0c443bbf7d3b986ea4f6d294ae275,"<p dir=""ltr"" style=""text-align: left;"">Forum posts</p>",,id,5913
-1bc4808ad4eb29706248944d7aec2c2a,"<p dir=""ltr"" style=""text-align: left;"">Folders</p>",,id,5913
-e169a00737710b053935124a79214f23,"<p dir=""ltr"" style=""text-align: left;"">Pages</p>",,id,5913
-f0860178882fa0d436ed00a235a95725,"<p dir=""ltr"" style=""text-align: left;"">Elio is the administrator of a new Moodle site. There are fifty teaching staff and they each want a course of their own. What is the most efficient way for him to organise this?</p>",,id,5913
-6d3882aca3f6f56b8db43656561fa2a2,"<p dir=""ltr"" style=""text-align: left;"">Review the Tutorial: Course set up for more information.</p>",,id,5913
-7c8681c22bb2b09dd8595dfc6933f7fb,"Your answer is correct.",,id,5913
-d13f26d519e0baa1f480ff2fae38a26e,"Your answer is partially correct.",,id,5913
-0ae1052fd10d73177d3913ff941cb8ec,"Your answer is incorrect.",,id,5913
-783d78048fcef7f88693b1751ac8ecc6,"<p dir=""ltr"" style=""text-align: left;"">Enable Course request and ask them to each request a course.</p>",,id,5913
-ac366a0ea56fc6cb786434b75aa9a6dd,"<p dir=""ltr"" style=""text-align: left;"">This would work, but is not the most efficient way, since Elio would still have to manually approve all the courses - and wait for some staff who might be late with their requests.</p>",,id,5913
-6a5f8ab92f05482a60842552ba9bae4c,"<p dir=""ltr"" style=""text-align: left;"">Add the details of the courses and teachers to a CSV and upload the file.</p>",,id,5913
-0953889c29585c8f370f0879c706f93b,"<p dir=""ltr"" style=""text-align: left;"">This is the most efficient way.</p>",,id,5913
-1b84c0609d30be729098ce36c3e6fb8a,"<p dir=""ltr"" style=""text-align: left;"">Manually create fifty courses by clicking 'Add a new course'</p>",,id,5913
-696c14cf801f28baeddf106a3b508cff,"<p dir=""ltr"" style=""text-align: left;"">This would take ages!</p>",,id,5913
-64ce403f501ebe87744650986a5e368f,"<p dir=""ltr"" style=""text-align: left;"">Employ an intern to create the courses by clicking 'Add a new course'</p>",,id,5913
-50d020e562b4b0376caa42798113dbfe,"<p dir=""ltr"" style=""text-align: left;"">This is not the most efficient way, even if we assume it is possible for Elio to employ an intern.</p>",,id,5913
-d461661877b7f45fedea3e36404b2343,"<p dir=""ltr"" style=""text-align: left;"">Trainer Bob attended a Moodle Academy webinar on MoodleNet, the site for finding, sharing and curating open source educational content. He was told that he can access it in his course from the Activity chooser when he clicks Add and activity or resource, but he doesn't see the link to MoodleNet. What might be the problem?</p>",,id,5913
-23294d294778f55fdf74ab2282340349,"<p dir=""ltr"" style=""text-align: left;"">Review the section 'Add content' in the Tutorial: Set up courses for more information.</p>",,id,5913
-b0e8ca458f7309f5692147ae635c5717,"Your answer is correct.",,id,5913
-0564a598c74f4c29b2e70419087eb63e,"Your answer is partially correct.",,id,5913
-4cf19781bb841dac601807096e310f32,"Your answer is incorrect.",,id,5913
-88f7ab28dfc86cc7e56841e774437f46,"<p dir=""ltr"" style=""text-align: left;"">MoodleNet integration is disabled in Site administration &gt;Advanced features.</p>",,id,5913
-12ae42e2715997d01fe7f6243263da96,"<p dir=""ltr"" style=""text-align: left;"">Yes. From Moodle 4.0 onwards, it is enabled by default, so he should speak to the administrator about this.</p>",,id,5913
-7305b85e48bc4184514b1dee629110ca,"<p dir=""ltr"" style=""text-align: left;"">He is looking in the wrong place. MoodleNet is in the More link from Course navigation.</p>",,id,5913
-e1edd5812804287591f1b6bcb4249470,"<p dir=""ltr"" style=""text-align: left;"">The administrator needs to manually add MoodleNet as an External tool (LTI)</p>",,id,5913
-5f4052092aff9eacd73f85c8b68d5649,"<p dir=""ltr"" style=""text-align: left;"">Not necessary.</p>",,id,5913
-1f6b9bc5b85c26a27fe9255fff26b19f,"<p dir=""ltr"" style=""text-align: left;"">MoodleNet is a separate site from his organisation's Moodle site.</p>",,id,5913
-54bcff584e8b6c1b87ade766d2ec693d,"<p dir=""ltr"" style=""text-align: left;"">That's true, but not relevant.</p>",,id,5913
-f9a5212c6cad733eedbd5031445b57ce,"<p>A friend has given you a copy ('backup') of a Moodle course they designed on their Moodle site. You need to add it to your Moodle site. Where would you go to add this course?</p>",,id,5913
-03158527fa4061add76e34836605777f,"Your answer is correct.",,id,5913
-61d16a3f896e9dc990ca772f9f187916,"Your answer is partially correct.",,id,5913
-bf4a37c07c6768a251b701c9c8f57399,"Your answer is incorrect.",,id,5913
-6005612214352472f0e341d1d39f7b88,"<p>Upload courses</p>",,id,5913
-17de4a6086b7dfe6128e89c8d94d2634,"<p>No. This only takes CSV files.</p>",,id,5913
-9dc75f0e5b9c92220881f415d4db5146,"<p>Add a new course</p>",,id,5913
-58b70a871cd0e89a4226711f854f3191,"<p>It is not necessary to use the 'Add a new course' option simply to upload the course your friend made.</p>",,id,5913
-1746638aa850fc7b2035a7fa125f2f68,"<p>Restore course</p>",,id,5913
-6840429b2f22a02ff52311ec521ceb75,"<p>This is correct. The process of uploading an existing course backup is called 'Course restore'.</p>",,id,5913
-f0eed9ee6b7326f14d88d39a839d23cf,"Import course",,id,5913
-d96459df931ddd0ad4bd202a10b0d6c1,"<p>No. The term 'import' is used in Moodle for bringing in materials from courses already on your site, not courses from other sites.</p>",,id,5913
-bdca26080b32c04ca9fbb90500f5e562,"<p>This image shows part of an important course element. What is it?</p>
-<p><img src=""@@PLUGINFILE@@/44activitychooser.png"" alt=""Activities and resource icons, with different tabs for All, Activities, Resources, Recommended."" width=""895"" height=""895"" class=""img-fluid atto_image_button_text-bottom""><br></p>",,id,5913
-48184c65176480c898626727ae4049d9,"Your answer is correct.",,id,5913
-3b594b22d145b6bd00a1ed925b67e822,"Your answer is partially correct.",,id,5913
-34ce7575b430ccab8509cd34f3d9b810,"Your answer is incorrect.",,id,5913
-4f7454d28cc710320201d10b57b90788,"<p>It's the Add block element in the Block drawer to add side blocks to the Moodle course</p>",,id,5913
-e52c55ba29db72c032f63e8f77b5d9d4,"<p>No. Why not go to a course and try to find it?</p>",,id,5913
-56665ea22875cbfaf5bed89c3d6997e9,"<p>It's the Activity chooser that lets a teacher select content for the students</p>",,id,5913
-f43576e35c3eab5c41f4d34294a25790,"<p>Yes. It is worth exploring this feature.</p>",,id,5913
-46536e53174f542bd5a0fa8f744aad2e,"<p>It's the File manager that lets teachers choose a file repository</p>",,id,5913
-e0cd5bc7a36fa9bbc10d034d2addf944,"<p>No. Why not go to a course and try to find it?</p>",,id,5913
-7e6ac25c81579f50245187a67c55d326,"<p dir=""ltr"" style=""text-align: left;"">Your teaching staff only use resources and not activities, so they don't need the Activities tab in the Activity chooser. How can you remove this?</p>",,id,5913
-64e89fb55e30f013872b95fdf7accb37,"<p dir=""ltr"" style=""text-align: left;"">Review the section 'Activity chooser' in the Tutorial: Course Creation for more information, and explore <a href=""https://docs.moodle.org/en/Activity_chooser"">the Activity chooser documentation.</a></p>",,id,5913
-fbc61586bf64e88803de28b015896373,"Your answer is correct.",,id,5913
-1f8c4f55a424888e24008ed2c4d03ebd,"Your answer is partially correct.",,id,5913
-30ee6e62ea9a2bcd9b57bbf0429c1cb0,"Your answer is incorrect.",,id,5913
-948c6858d85c443b7ab206ffe6e2e36b,"<p dir=""ltr"" style=""text-align: left;"">Teaching staff can remove the tab themselves from the course settings.</p>",,id,5913
-a904948472a9f0963fb15651fcb2d55a,"<p dir=""ltr"" style=""text-align: left;"">Think again! And check the <a href=""https://docs.moodle.org/en/Activity_chooser"">Activity chooser documentation</a>.</p>",,id,5913
-dda4e7799f6f35357bff95486349f49d,"You can remove the tab from Site administration &gt; Courses &gt; Activity chooser settings.",,id,5913
-515549be64163598da0057749ac4ee95,"<p dir=""ltr"" style=""text-align: left;"">Yes, well remembered!&nbsp;</p>",,id,5913
-a35df83472084566ee491c29bda47bc1,"You can remove the tab from Site administration &gt; Appearance &gt; Navigation.",,id,5913
-7e3654a9196b116ac0b36173e0daabba,"<p dir=""ltr"" style=""text-align: left;"">Think again! And check the <a href=""https://docs.moodle.org/en/Activity_chooser"">Activity chooser documentation.</a></p>",,id,5913
-d2c97346c455037c29b621964ef18365,"<p dir=""ltr"" style=""text-align: left;"">It is not possible to remove the Activities tab but you can star the Resources tab to highlight it.</p>",,id,5913
-f0e53130b2a9c7a17ad248d72e2fe947,"<p dir=""ltr"" style=""text-align: left;"">This is not possible - starring is for items, not tabs.</p>",,id,5913
-deda8f00c452fa0ec9822533e82e6708,"<p dir=""ltr"" style=""text-align: left;"">Your colleague is confused by the term 'Restore'. When do you use it?</p>",,id,5913
-1d4d96f640add680874ecca1fd9a3820,"<p dir=""ltr"" style=""text-align: left;"">Review the sections 1 - 5 in the Tutorial: Course creation for more information.</p>",,id,5913
-d1f73e4b05bc877b7836136eb8282e66,"Your answer is correct.",,id,5913
-47546487f1545994f5bf058d8157bc13,"Your answer is partially correct.",,id,5913
-9fa937c0ac509c2203edc89342ef9393,"Your answer is incorrect.",,id,5913
-95bab53266a6121152629caef54377f2,"<p dir=""ltr"" style=""text-align: left;"">It helps you fix a problem with a corrupted course.</p>",,id,5913
-5cbf7643a983f104f1bade98934342ae,"<p dir=""ltr"" style=""text-align: left;"">Think again.</p>",,id,5913
-e4e398e501f215e5f90c62c99e71c37c,"<p dir=""ltr"" style=""text-align: left;"">It is Moodle's term for saving and downloading a course to your computer.</p>",,id,5913
-bbf2fe17b2143b95d1e9cf13e105f294,"<p dir=""ltr"" style=""text-align: left;"">That is another term - make sure you know it!</p>",,id,5913
-5c35faaf21245b17622f741f285cc1b6,"<p dir=""ltr"" style=""text-align: left;"">It is for uploading an existing course to your Moodle site.</p>",,id,5913
-66ef94c68106b7cdd7723144d60beb8e,"<p dir=""ltr"" style=""text-align: left;"">Yes. Usually it is from a different Moodle site but you can also restore a course from within your site.</p>",,id,5913
-f0ed2c01853793f91c46eee26cd2812d,"<p dir=""ltr"" style=""text-align: left;"">It is for uploading a CSV file with course information.</p>",,id,5913
-4e26a4c86eb8fa1d2e991fa228de0f1a,"<p dir=""ltr"" style=""text-align: left;"">Think again!</p>",,id,5913
+"" width=""433"" height=""154"" role=""presentation"" class=""img-fluid atto_image_button_text-bottom""></p>","","id","5913"
+"e899f1434de282c517334b7558ed5bbc","Your answer is correct.","","id","5913"
+"57d9afecc9e9e2760cd0fcbcc32123f1","Your answer is partially correct.","","id","5913"
+"f132cfbf47a4c89818367e058c008aef","Your answer is incorrect.","","id","5913"
+"52445b80e31516e4ad581416a40882b6","<p>Yes, without any problems</p>","","id","5913"
+"d617c2e38f2298410bad828317527e08","<p>There might be a problem...</p>","","id","5913"
+"e3d73af4b0ab42ba40d851fb91e8cd0f","<p>No, because 'summary' is not a required field</p>","","id","5913"
+"6fc432a16233e2c89ba0032158b64014","<p>That should not make any difference if the other fields are correct.</p>","","id","5913"
+"f61862f6cd55cfc9b64e52a02336a8c2","Yes IF those categories have been created on your site","","id","5913"
+"b52b1364c9ea3df07cccb0e8676d582f","<p>Correct! If the categories do not exist then it won't work.</p>","","id","5913"
+"f38345021132af996e16215d3df02264","<p>No because the file is in Notepad and not a spreadsheet program like Excel™</p>","","id","5913"
+"4c07a9b0471d1f2ce05a7fc8d0c93d15","<p>That will not matter.</p>","","id","5913"
+"4fad6070b2e9c1e9b1beebfc9021c502","Jan, one of your teaching staff, wants to know what exactly learners can download if they click the Download course content link in his course. Which of the following can be downloaded by learners from the website when they click the link? Select all that apply.","","id","5913"
+"4f0b307d2d22435d02729324c7dcd29d","<p dir=""ltr"" style=""text-align: left;"">Review the section Download course content in the Tutorial: Set up Courses for more information.</p>","","id","5913"
+"93a3ac6a700aec53707da310f62d71c3","Your answer is correct.","","id","5913"
+"1c4f5f7759a887b4c104430457d0682c","Your answer is partially correct.","","id","5913"
+"cf6554773c2f09d5640eedf4dd0fca17","Your answer is incorrect.","","id","5913"
+"fa0d56aa706c3fcd3f5e6de137cac804","<p dir=""ltr"" style=""text-align: left;"">Wikis</p>","","id","5913"
+"2fb0c443bbf7d3b986ea4f6d294ae275","<p dir=""ltr"" style=""text-align: left;"">Forum posts</p>","","id","5913"
+"1bc4808ad4eb29706248944d7aec2c2a","<p dir=""ltr"" style=""text-align: left;"">Folders</p>","","id","5913"
+"e169a00737710b053935124a79214f23","<p dir=""ltr"" style=""text-align: left;"">Pages</p>","","id","5913"
+"f0860178882fa0d436ed00a235a95725","<p dir=""ltr"" style=""text-align: left;"">Elio is the administrator of a new Moodle site. There are fifty teaching staff and they each want a course of their own. What is the most efficient way for him to organise this?</p>","","id","5913"
+"6d3882aca3f6f56b8db43656561fa2a2","<p dir=""ltr"" style=""text-align: left;"">Review the Tutorial: Course set up for more information.</p>","","id","5913"
+"7c8681c22bb2b09dd8595dfc6933f7fb","Your answer is correct.","","id","5913"
+"d13f26d519e0baa1f480ff2fae38a26e","Your answer is partially correct.","","id","5913"
+"0ae1052fd10d73177d3913ff941cb8ec","Your answer is incorrect.","","id","5913"
+"783d78048fcef7f88693b1751ac8ecc6","<p dir=""ltr"" style=""text-align: left;"">Enable Course request and ask them to each request a course.</p>","","id","5913"
+"ac366a0ea56fc6cb786434b75aa9a6dd","<p dir=""ltr"" style=""text-align: left;"">This would work, but is not the most efficient way, since Elio would still have to manually approve all the courses - and wait for some staff who might be late with their requests.</p>","","id","5913"
+"6a5f8ab92f05482a60842552ba9bae4c","<p dir=""ltr"" style=""text-align: left;"">Add the details of the courses and teachers to a CSV and upload the file.</p>","","id","5913"
+"0953889c29585c8f370f0879c706f93b","<p dir=""ltr"" style=""text-align: left;"">This is the most efficient way.</p>","","id","5913"
+"1b84c0609d30be729098ce36c3e6fb8a","<p dir=""ltr"" style=""text-align: left;"">Manually create fifty courses by clicking 'Add a new course'</p>","","id","5913"
+"696c14cf801f28baeddf106a3b508cff","<p dir=""ltr"" style=""text-align: left;"">This would take ages!</p>","","id","5913"
+"64ce403f501ebe87744650986a5e368f","<p dir=""ltr"" style=""text-align: left;"">Employ an intern to create the courses by clicking 'Add a new course'</p>","","id","5913"
+"50d020e562b4b0376caa42798113dbfe","<p dir=""ltr"" style=""text-align: left;"">This is not the most efficient way, even if we assume it is possible for Elio to employ an intern.</p>","","id","5913"
+"d461661877b7f45fedea3e36404b2343","<p dir=""ltr"" style=""text-align: left;"">Trainer Bob attended a Moodle Academy webinar on MoodleNet, the site for finding, sharing and curating open source educational content. He was told that he can access it in his course from the Activity chooser when he clicks Add and activity or resource, but he doesn't see the link to MoodleNet. What might be the problem?</p>","","id","5913"
+"23294d294778f55fdf74ab2282340349","<p dir=""ltr"" style=""text-align: left;"">Review the section 'Add content' in the Tutorial: Set up courses for more information.</p>","","id","5913"
+"b0e8ca458f7309f5692147ae635c5717","Your answer is correct.","","id","5913"
+"0564a598c74f4c29b2e70419087eb63e","Your answer is partially correct.","","id","5913"
+"4cf19781bb841dac601807096e310f32","Your answer is incorrect.","","id","5913"
+"88f7ab28dfc86cc7e56841e774437f46","<p dir=""ltr"" style=""text-align: left;"">MoodleNet integration is disabled in Site administration &gt;Advanced features.</p>","","id","5913"
+"12ae42e2715997d01fe7f6243263da96","<p dir=""ltr"" style=""text-align: left;"">Yes. From Moodle 4.0 onwards, it is enabled by default, so he should speak to the administrator about this.</p>","","id","5913"
+"7305b85e48bc4184514b1dee629110ca","<p dir=""ltr"" style=""text-align: left;"">He is looking in the wrong place. MoodleNet is in the More link from Course navigation.</p>","","id","5913"
+"e1edd5812804287591f1b6bcb4249470","<p dir=""ltr"" style=""text-align: left;"">The administrator needs to manually add MoodleNet as an External tool (LTI)</p>","","id","5913"
+"5f4052092aff9eacd73f85c8b68d5649","<p dir=""ltr"" style=""text-align: left;"">Not necessary.</p>","","id","5913"
+"1f6b9bc5b85c26a27fe9255fff26b19f","<p dir=""ltr"" style=""text-align: left;"">MoodleNet is a separate site from his organisation's Moodle site.</p>","","id","5913"
+"54bcff584e8b6c1b87ade766d2ec693d","<p dir=""ltr"" style=""text-align: left;"">That's true, but not relevant.</p>","","id","5913"
+"f9a5212c6cad733eedbd5031445b57ce","<p>A friend has given you a copy ('backup') of a Moodle course they designed on their Moodle site. You need to add it to your Moodle site. Where would you go to add this course?</p>","","id","5913"
+"03158527fa4061add76e34836605777f","Your answer is correct.","","id","5913"
+"61d16a3f896e9dc990ca772f9f187916","Your answer is partially correct.","","id","5913"
+"bf4a37c07c6768a251b701c9c8f57399","Your answer is incorrect.","","id","5913"
+"6005612214352472f0e341d1d39f7b88","<p>Upload courses</p>","","id","5913"
+"17de4a6086b7dfe6128e89c8d94d2634","<p>No. This only takes CSV files.</p>","","id","5913"
+"9dc75f0e5b9c92220881f415d4db5146","<p>Add a new course</p>","","id","5913"
+"58b70a871cd0e89a4226711f854f3191","<p>It is not necessary to use the 'Add a new course' option simply to upload the course your friend made.</p>","","id","5913"
+"1746638aa850fc7b2035a7fa125f2f68","<p>Restore course</p>","","id","5913"
+"6840429b2f22a02ff52311ec521ceb75","<p>This is correct. The process of uploading an existing course backup is called 'Course restore'.</p>","","id","5913"
+"f0eed9ee6b7326f14d88d39a839d23cf","Import course","","id","5913"
+"d96459df931ddd0ad4bd202a10b0d6c1","<p>No. The term 'import' is used in Moodle for bringing in materials from courses already on your site, not courses from other sites.</p>","","id","5913"
+"bdca26080b32c04ca9fbb90500f5e562","<p>This image shows part of an important course element. What is it?</p>
+<p><img src=""@@PLUGINFILE@@/44activitychooser.png"" alt=""Activities and resource icons, with different tabs for All, Activities, Resources, Recommended."" width=""895"" height=""895"" class=""img-fluid atto_image_button_text-bottom""><br></p>","","id","5913"
+"48184c65176480c898626727ae4049d9","Your answer is correct.","","id","5913"
+"3b594b22d145b6bd00a1ed925b67e822","Your answer is partially correct.","","id","5913"
+"34ce7575b430ccab8509cd34f3d9b810","Your answer is incorrect.","","id","5913"
+"4f7454d28cc710320201d10b57b90788","<p>It's the Add block element in the Block drawer to add side blocks to the Moodle course</p>","","id","5913"
+"e52c55ba29db72c032f63e8f77b5d9d4","<p>No. Why not go to a course and try to find it?</p>","","id","5913"
+"56665ea22875cbfaf5bed89c3d6997e9","<p>It's the Activity chooser that lets a teacher select content for the students</p>","","id","5913"
+"f43576e35c3eab5c41f4d34294a25790","<p>Yes. It is worth exploring this feature.</p>","","id","5913"
+"46536e53174f542bd5a0fa8f744aad2e","<p>It's the File manager that lets teachers choose a file repository</p>","","id","5913"
+"e0cd5bc7a36fa9bbc10d034d2addf944","<p>No. Why not go to a course and try to find it?</p>","","id","5913"
+"7e6ac25c81579f50245187a67c55d326","<p dir=""ltr"" style=""text-align: left;"">Your teaching staff only use resources and not activities, so they don't need the Activities tab in the Activity chooser. How can you remove this?</p>","","id","5913"
+"64e89fb55e30f013872b95fdf7accb37","<p dir=""ltr"" style=""text-align: left;"">Review the section 'Activity chooser' in the Tutorial: Course Creation for more information, and explore <a href=""https://docs.moodle.org/en/Activity_chooser"">the Activity chooser documentation.</a></p>","","id","5913"
+"fbc61586bf64e88803de28b015896373","Your answer is correct.","","id","5913"
+"1f8c4f55a424888e24008ed2c4d03ebd","Your answer is partially correct.","","id","5913"
+"30ee6e62ea9a2bcd9b57bbf0429c1cb0","Your answer is incorrect.","","id","5913"
+"948c6858d85c443b7ab206ffe6e2e36b","<p dir=""ltr"" style=""text-align: left;"">Teaching staff can remove the tab themselves from the course settings.</p>","","id","5913"
+"a904948472a9f0963fb15651fcb2d55a","<p dir=""ltr"" style=""text-align: left;"">Think again! And check the <a href=""https://docs.moodle.org/en/Activity_chooser"">Activity chooser documentation</a>.</p>","","id","5913"
+"dda4e7799f6f35357bff95486349f49d","You can remove the tab from Site administration &gt; Courses &gt; Activity chooser settings.","","id","5913"
+"515549be64163598da0057749ac4ee95","<p dir=""ltr"" style=""text-align: left;"">Yes, well remembered!&nbsp;</p>","","id","5913"
+"a35df83472084566ee491c29bda47bc1","You can remove the tab from Site administration &gt; Appearance &gt; Navigation.","","id","5913"
+"7e3654a9196b116ac0b36173e0daabba","<p dir=""ltr"" style=""text-align: left;"">Think again! And check the <a href=""https://docs.moodle.org/en/Activity_chooser"">Activity chooser documentation.</a></p>","","id","5913"
+"d2c97346c455037c29b621964ef18365","<p dir=""ltr"" style=""text-align: left;"">It is not possible to remove the Activities tab but you can star the Resources tab to highlight it.</p>","","id","5913"
+"f0e53130b2a9c7a17ad248d72e2fe947","<p dir=""ltr"" style=""text-align: left;"">This is not possible - starring is for items, not tabs.</p>","","id","5913"
+"deda8f00c452fa0ec9822533e82e6708","<p dir=""ltr"" style=""text-align: left;"">Your colleague is confused by the term 'Restore'. When do you use it?</p>","","id","5913"
+"1d4d96f640add680874ecca1fd9a3820","<p dir=""ltr"" style=""text-align: left;"">Review the sections 1 - 5 in the Tutorial: Course creation for more information.</p>","","id","5913"
+"d1f73e4b05bc877b7836136eb8282e66","Your answer is correct.","","id","5913"
+"47546487f1545994f5bf058d8157bc13","Your answer is partially correct.","","id","5913"
+"9fa937c0ac509c2203edc89342ef9393","Your answer is incorrect.","","id","5913"
+"95bab53266a6121152629caef54377f2","<p dir=""ltr"" style=""text-align: left;"">It helps you fix a problem with a corrupted course.</p>","","id","5913"
+"5cbf7643a983f104f1bade98934342ae","<p dir=""ltr"" style=""text-align: left;"">Think again.</p>","","id","5913"
+"e4e398e501f215e5f90c62c99e71c37c","<p dir=""ltr"" style=""text-align: left;"">It is Moodle's term for saving and downloading a course to your computer.</p>","","id","5913"
+"bbf2fe17b2143b95d1e9cf13e105f294","<p dir=""ltr"" style=""text-align: left;"">That is another term - make sure you know it!</p>","","id","5913"
+"5c35faaf21245b17622f741f285cc1b6","<p dir=""ltr"" style=""text-align: left;"">It is for uploading an existing course to your Moodle site.</p>","","id","5913"
+"66ef94c68106b7cdd7723144d60beb8e","<p dir=""ltr"" style=""text-align: left;"">Yes. Usually it is from a different Moodle site but you can also restore a course from within your site.</p>","","id","5913"
+"f0ed2c01853793f91c46eee26cd2812d","<p dir=""ltr"" style=""text-align: left;"">It is for uploading a CSV file with course information.</p>","","id","5913"
+"4e26a4c86eb8fa1d2e991fa228de0f1a","<p dir=""ltr"" style=""text-align: left;"">Think again!</p>","","id","5913"
