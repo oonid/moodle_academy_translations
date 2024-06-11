@@ -468,9 +468,9 @@ ca80a219d0c0561c8af1604af381ff0a,Images courtesy of Pixabay&nbsp;and&nbsp;UnSpla
 <p dir=""ltr"" style=""text-align: left;""><br></p></div>‍‍​‌​‌‌‍‍</div>",id,17257
 f1ebcb42037f6ad3958f3e26539afedc,"This course launched in April 2022 and is now based on <a href=""https://docs.moodle.org/404/en/Main_page"">Moodle 4.4</a> functionality.","Kursus ini diluncurkan pada bulan April 2022 dan sekarang didasarkan pada fungsionalitas <a href=""https://docs.moodle.org/404/en/Main_page"">Moodle 4.4</a>.",id,6909
 f615237738eee2073d1a002e22ddd97f,<p>You have created a new course but the course is not showing for students in their My courses tab in the 'In progress' dropdown. What might be the reasons? You can select more than one.</p>,<p>Anda telah membuat kursus baru namun kursus tersebut tidak ditampilkan kepada siswa di tab Kursus saya di tarik-turun 'Sedang berlangsung'. Apa alasannya? Anda dapat memilih lebih dari satu.</p>,id,5913
-654a4b925cd385ae10d1d0d60c16f630,Your answer is correct.,,id,5913
-168db2cba8a52b5e38ad809a457707a0,Your answer is partially correct.,,id,5913
-5105c3bec08b913c493157e439a407d9,Your answer is incorrect.,,id,5913
+654a4b925cd385ae10d1d0d60c16f630,Your answer is correct.,Jawaban Anda benar.,id,5913
+168db2cba8a52b5e38ad809a457707a0,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5913
+5105c3bec08b913c493157e439a407d9,Your answer is incorrect.,Jawaban Anda salah.,id,5913
 45ae9a8785d82ca86a52360d43e2e015,"<p>In the course settings, you set the course visibility to 'hide'</p>","<p>Dalam pengaturan kursus, Anda mengatur visibilitas kursus ke 'sembunyikan'</p>",id,5913
 bdd554ff09f30bb921d6aac718057412,<p>Correct. That is one reason. You hid it while you were preparing it.</p>,<p>Benar. Itu salah satu alasannya. Anda menyembunyikannya saat Anda sedang mempersiapkannya.</p>,id,5913
 61513d5ad33887130b8e819c17c6a4cb,<p>In the course settings you have set the start date to a time in the future</p>,<p>Dalam pengaturan kursus Anda telah menetapkan tanggal mulai ke waktu di masa depan</p>,id,5913
@@ -480,9 +480,9 @@ c37fabfd292c6511541112b77a23a354,<p>Yes. The course will probably be in their 'F
 8584e4e414a628fa0dfa9ac2f4a1c9cf,<p>The course does not have any content in it yet if they are enrolled.</p>,<p>Kursus belum memiliki konten apa pun di dalamnya jika mereka terdaftar.</p>,id,5913
 7c028fed7fa79a8eef003b88469cd851,<p>Incorrect. That should not make any difference.</p>,<p>Salah. Seharusnya tidak ada bedanya.</p>,id,5913
 f41c0c998d0f59398f2f0145433288dd,"<p>This screenshot shows a student's My courses page with course images for each course.&nbsp; How did the course images get there?</p><p><img src=""@@PLUGINFILE@@/mycoursesadminbasics.png"" alt=""My courses page for a student, showing three courses each with a graphic representing the course."" width=""702"" height=""340"" class=""img-fluid atto_image_button_text-bottom""><br></p>","<p>Tangkapan layar ini menunjukkan laman Kursus saya milik siswa dengan gambar kursus untuk setiap kursus.&nbsp; Bagaimana gambar kursus sampai di sana?</p><p><img src=""@@PLUGINFILE@@/mycoursesadminbasics.png"" alt=""Halaman kursus saya untuk siswa, menampilkan tiga kursus masing-masing dengan grafik yang mewakili kursus tersebut ."" width=""702"" height=""340"" class=""img-fluid atto_image_button_text-bottom""><br></p>",id,5913
-bd646256287d249579e411cf19a124f8,Your answer is correct.,,id,5913
-e3ff0849280b8846e9ee11f336d47a8f,Your answer is partially correct.,,id,5913
-32cc62cab594618f5cef3339f85b9bb1,Your answer is incorrect.,,id,5913
+bd646256287d249579e411cf19a124f8,Your answer is correct.,Jawaban Anda benar.,id,5913
+e3ff0849280b8846e9ee11f336d47a8f,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5913
+32cc62cab594618f5cef3339f85b9bb1,Your answer is incorrect.,Jawaban Anda salah.,id,5913
 e5541ba50ae7c329e7b658a9eafc0b57,<p>They are part of the standard Boost theme</p>,<p>Itu adalah bagian dari tema Boost standar</p>,id,5913
 5b93c91d3902dd302acf5fdf18c94b65,<p>No - these images do not depend on the Boost theme.</p>,<p>Tidak - gambar ini tidak bergantung pada tema Boost.</p>,id,5913
 ec90aa936931d3da470f5d9d31ecded4,<p>The administrator adds them from Site administration&nbsp; &gt; Courses&nbsp; &gt; Course default settings.</p>,<p>Administrator menambahkannya dari Administrasi situs&nbsp; &gt; Kursus&nbsp; &gt; Pengaturan bawaan kursus.</p>,id,5913
@@ -492,9 +492,9 @@ a682aec06ea13a3e0edc970ce66739e6,They are added from the course settings within 
 f9e502a3bd01349f2e3c44dd5ec37c8f,<p>They are part of a course template.</p>,<p>Mereka adalah bagian dari templat kursus.</p>,id,5913
 628d07e8cd6851f02a800f7b81f99067,<p>No. No template is needed to add the various images.</p>,<p>Tidak. Tidak diperlukan templat untuk menambahkan berbagai gambar.</p>,id,5913
 bc7d65badd4c770d180b954176137ce0,"<p>A course may be set up in a variety of formats. Your teacher wants an English language course with four sections, not dependent on weeks in a term. The sections are Reading, Speaking, Listening and Writing. Which course format would be best?</p>","<p>Kursus dapat diatur dalam berbagai format. Guru Anda menginginkan kursus bahasa Inggris dengan empat bagian, tidak bergantung pada minggu dalam satu semester. Bagian-bagiannya adalah Membaca, Berbicara, Mendengarkan dan Menulis. Format kursus manakah yang terbaik?</p>",id,5913
-59252fde6b3b8c946346b76285adc372,Your answer is correct.,,id,5913
-0c82f20834530b4ae11aa3c79dc8edbc,Your answer is partially correct.,,id,5913
-227bc07ad18361398eb6a4b69aaaa8e7,Your answer is incorrect.,,id,5913
+59252fde6b3b8c946346b76285adc372,Your answer is correct.,Jawaban Anda benar.,id,5913
+0c82f20834530b4ae11aa3c79dc8edbc,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5913
+227bc07ad18361398eb6a4b69aaaa8e7,Your answer is incorrect.,Jawaban Anda salah.,id,5913
 d0477410b7b17454f3aa4c702b2108ad,<p>Custom sections format</p>,<p>Format bagian khusus</p>,id,5913
 8004605900099427954f8fdbcd3f4ffc,"<p>This would be the most appropriate, yes.</p>",<p>Ini yang paling tepat ya.</p>,id,5913
 989bf06d6c62c8a08e50dafd7b08bd3c,<p>Weekly format</p>,<p>Format mingguan</p>,id,5913
@@ -504,9 +504,9 @@ c72b3dbe93161a6bd08d94797620b0c3,<p>She doesn't need the course divided into wee
 6f4faf876f8c3d2bb9caa365ce65be80,<p>Single activity format</p>,<p>Format aktivitas tunggal</p>,id,5913
 29c4545daa816fa613126e0a4863fdc6,<p>This would only allow her to create one activity in her course.</p>,<p>Ini hanya memungkinkan dia membuat satu aktivitas dalam kursusnya.</p>,id,5913
 17d867f0925a6b5228193fe0b88797fd,<p>Which of the following statements about Moodle courses are correct? Select all that apply.</p>,<p>Manakah pernyataan berikut tentang kursus Moodle yang benar? Pilih semua yang sesuai.</p>,id,5913
-d7a608ea7f76818840555c1f6ef3f6c5,Your answer is correct.,,id,5913
-10ce46a364042f1779564c4259108f1e,Your answer is partially correct.,,id,5913
-4756d9cfaae1f072b5e7080bd6bde4fd,Your answer is incorrect.,,id,5913
+d7a608ea7f76818840555c1f6ef3f6c5,Your answer is correct.,Jawaban Anda benar.,id,5913
+10ce46a364042f1779564c4259108f1e,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5913
+4756d9cfaae1f072b5e7080bd6bde4fd,Your answer is incorrect.,Jawaban Anda salah.,id,5913
 ae3520ee80bb36076d835773163668dd,<p>Courses may be added one at a time or&nbsp; else course settings can be uploaded in bulk.</p>,<p>Kursus dapat ditambahkan satu per satu atau&nbsp; pengaturan kursus lainnya dapat diunggah secara massal.</p>,id,5913
 497baee635975e1daaec5bcea409dac1,<p>Which type is best for you?</p>,<p>Jenis mana yang terbaik untuk Anda?</p>,id,5913
 3bad8f10e824135579c93f9afd9a8581,<p>A course can only belong to one category.</p>,<p>Suatu kursus hanya dapat dimasukkan ke dalam satu kategori.</p>,id,5913
@@ -520,9 +520,9 @@ Phys,Physics, Theoretical Physics Unit X, 2
 <p><img src=""@@PLUGINFILE@@/courseupload.png"" alt=""Berkas CSV. Nama pendek, nama lengkap, ringkasan, kategori
 Fis, Fisika, Fisika Teoritis Unit X, 2
 "" width=""433"" height=""154"" role=""presentation"" class=""img-fluid atto_image_button_text-bottom""></p>",id,5913
-e899f1434de282c517334b7558ed5bbc,Your answer is correct.,,id,5913
-57d9afecc9e9e2760cd0fcbcc32123f1,Your answer is partially correct.,,id,5913
-f132cfbf47a4c89818367e058c008aef,Your answer is incorrect.,,id,5913
+e899f1434de282c517334b7558ed5bbc,Your answer is correct.,Jawaban Anda benar.,id,5913
+57d9afecc9e9e2760cd0fcbcc32123f1,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5913
+f132cfbf47a4c89818367e058c008aef,Your answer is incorrect.,Jawaban Anda salah.,id,5913
 52445b80e31516e4ad581416a40882b6,"<p>Yes, without any problems</p>","<p>Ya, tanpa masalah</p>",id,5913
 d617c2e38f2298410bad828317527e08,<p>There might be a problem...</p>,<p>Mungkin ada masalah...</p>,id,5913
 e3d73af4b0ab42ba40d851fb91e8cd0f,"<p>No, because 'summary' is not a required field</p>","<p>Tidak, karena 'ringkasan' bukan kolom yang wajib diisi</p>",id,5913
@@ -533,18 +533,18 @@ f38345021132af996e16215d3df02264,<p>No because the file is in Notepad and not a 
 4c07a9b0471d1f2ce05a7fc8d0c93d15,<p>That will not matter.</p>,<p>Itu tidak masalah.</p>,id,5913
 4fad6070b2e9c1e9b1beebfc9021c502,"Jan, one of your teaching staff, wants to know what exactly learners can download if they click the Download course content link in his course. Which of the following can be downloaded by learners from the website when they click the link? Select all that apply.","Jan, salah satu staf pengajar Anda, ingin mengetahui apa sebenarnya yang dapat diunduh oleh pelajar jika mereka mengeklik tautan Unduh konten kursus dalam kursusnya. Manakah dari berikut ini yang dapat diunduh oleh pelajar dari situs web ketika mereka mengeklik tautannya? Pilih semua yang berlaku.",id,5913
 4f0b307d2d22435d02729324c7dcd29d,"<p dir=""ltr"" style=""text-align: left;"">Review the section Download course content in the Tutorial: Set up Courses for more information.</p>","<p dir=""ltr"" style=""text-align: left;"">Tinjau bagian Unduh konten kursus di Tutorial: Mengatur Kursus untuk informasi lebih lanjut.</p>",id,5913
-93a3ac6a700aec53707da310f62d71c3,Your answer is correct.,,id,5913
-1c4f5f7759a887b4c104430457d0682c,Your answer is partially correct.,,id,5913
-cf6554773c2f09d5640eedf4dd0fca17,Your answer is incorrect.,,id,5913
+93a3ac6a700aec53707da310f62d71c3,Your answer is correct.,Jawaban Anda benar.,id,5913
+1c4f5f7759a887b4c104430457d0682c,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5913
+cf6554773c2f09d5640eedf4dd0fca17,Your answer is incorrect.,Jawaban Anda salah.,id,5913
 fa0d56aa706c3fcd3f5e6de137cac804,"<p dir=""ltr"" style=""text-align: left;"">Wikis</p>","<p dir=""ltr"" style=""text-align: left;"">Wiki</p>",id,5913
 2fb0c443bbf7d3b986ea4f6d294ae275,"<p dir=""ltr"" style=""text-align: left;"">Forum posts</p>","<p dir=""ltr"" style=""text-align: left;"">Post pada forum</p>",id,5913
 1bc4808ad4eb29706248944d7aec2c2a,"<p dir=""ltr"" style=""text-align: left;"">Folders</p>","<p dir=""ltr"" style=""text-align: left;"">Folder</p>",id,5913
 e169a00737710b053935124a79214f23,"<p dir=""ltr"" style=""text-align: left;"">Pages</p>","<p dir=""ltr"" style=""text-align: left;"">Halaman</p>",id,5913
 f0860178882fa0d436ed00a235a95725,"<p dir=""ltr"" style=""text-align: left;"">Elio is the administrator of a new Moodle site. There are fifty teaching staff and they each want a course of their own. What is the most efficient way for him to organise this?</p>","<p dir=""ltr"" style=""text-align: left;"">Elio adalah administrator situs Moodle baru. Ada lima puluh staf pengajar dan mereka masing-masing menginginkan kursusnya sendiri. Apa cara paling efisien baginya untuk mengatur ini?</p>",id,5913
 6d3882aca3f6f56b8db43656561fa2a2,"<p dir=""ltr"" style=""text-align: left;"">Review the Tutorial: Course set up for more information.</p>","<p dir=""ltr"" style=""text-align: left;"">Tinjau Tutorial: Pengaturan kursus untuk informasi lebih lanjut.</p>",id,5913
-7c8681c22bb2b09dd8595dfc6933f7fb,Your answer is correct.,,id,5913
-d13f26d519e0baa1f480ff2fae38a26e,Your answer is partially correct.,,id,5913
-0ae1052fd10d73177d3913ff941cb8ec,Your answer is incorrect.,,id,5913
+7c8681c22bb2b09dd8595dfc6933f7fb,Your answer is correct.,Jawaban Anda benar.,id,5913
+d13f26d519e0baa1f480ff2fae38a26e,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5913
+0ae1052fd10d73177d3913ff941cb8ec,Your answer is incorrect.,Jawaban Anda salah.,id,5913
 783d78048fcef7f88693b1751ac8ecc6,"<p dir=""ltr"" style=""text-align: left;"">Enable Course request and ask them to each request a course.</p>","<p dir=""ltr"" style=""text-align: left;"">Aktifkan permintaan Kursus dan minta mereka untuk setiap permintaan kursus.</p>",id,5913
 ac366a0ea56fc6cb786434b75aa9a6dd,"<p dir=""ltr"" style=""text-align: left;"">This would work, but is not the most efficient way, since Elio would still have to manually approve all the courses - and wait for some staff who might be late with their requests.</p>","<p dir=""ltr"" style=""text-align: left;"">Ini akan berhasil, tetapi bukan cara yang paling efisien, karena Elio masih harus menyetujui semua kursus secara manual - dan menunggu beberapa staf yang mungkin terlambat menyampaikan permintaan mereka.</p>",id,5913
 6a5f8ab92f05482a60842552ba9bae4c,"<p dir=""ltr"" style=""text-align: left;"">Add the details of the courses and teachers to a CSV and upload the file.</p>","<p dir=""ltr"" style=""text-align: left;"">Tambahkan detail kursus dan pengajar ke CSV dan unggah file.</p>",id,5913
@@ -555,9 +555,9 @@ ac366a0ea56fc6cb786434b75aa9a6dd,"<p dir=""ltr"" style=""text-align: left;"">Thi
 50d020e562b4b0376caa42798113dbfe,"<p dir=""ltr"" style=""text-align: left;"">This is not the most efficient way, even if we assume it is possible for Elio to employ an intern.</p>","<p dir=""ltr"" style=""text-align: left;"">Ini bukan cara yang paling efisien, meskipun kami berasumsi Elio mungkin mempekerjakan pekerja magang.</p>",id,5913
 d461661877b7f45fedea3e36404b2343,"<p dir=""ltr"" style=""text-align: left;"">Trainer Bob attended a Moodle Academy webinar on MoodleNet, the site for finding, sharing and curating open source educational content. He was told that he can access it in his course from the Activity chooser when he clicks Add and activity or resource, but he doesn't see the link to MoodleNet. What might be the problem?</p>","<p dir=""ltr"" style=""text-align: left;"">Pelatih Bob menghadiri webinar Moodle Academy di MoodleNet, situs untuk menemukan, berbagi, dan mengkurasi konten pendidikan sumber terbuka. Dia diberitahu bahwa dia dapat mengaksesnya dalam kursusnya dari pemilih Aktivitas ketika dia mengklik Tambah dan aktivitas atau sumber daya, namun dia tidak melihat tautan ke MoodleNet. Apa masalahnya?</p>",id,5913
 23294d294778f55fdf74ab2282340349,"<p dir=""ltr"" style=""text-align: left;"">Review the section 'Add content' in the Tutorial: Set up courses for more information.</p>","<p dir=""ltr"" style=""text-align: left;"">Tinjau bagian 'Tambahkan konten' di Tutorial: Menyiapkan kursus untuk informasi lebih lanjut.</p>",id,5913
-b0e8ca458f7309f5692147ae635c5717,Your answer is correct.,,id,5913
-0564a598c74f4c29b2e70419087eb63e,Your answer is partially correct.,,id,5913
-4cf19781bb841dac601807096e310f32,Your answer is incorrect.,,id,5913
+b0e8ca458f7309f5692147ae635c5717,Your answer is correct.,Jawaban Anda benar.,id,5913
+0564a598c74f4c29b2e70419087eb63e,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5913
+4cf19781bb841dac601807096e310f32,Your answer is incorrect.,Jawaban Anda salah.,id,5913
 88f7ab28dfc86cc7e56841e774437f46,"<p dir=""ltr"" style=""text-align: left;"">MoodleNet integration is disabled in Site administration &gt;Advanced features.</p>","<p dir=""ltr"" style=""text-align: left;"">Integrasi MoodleNet dinonaktifkan di Administrasi situs &gt;Fitur lanjutan.</p>",id,5913
 12ae42e2715997d01fe7f6243263da96,"<p dir=""ltr"" style=""text-align: left;"">Yes. From Moodle 4.0 onwards, it is enabled by default, so he should speak to the administrator about this.</p>","<p dir=""ltr"" style=""text-align: left;"">Ya. Mulai Moodle 4.0 dan seterusnya, ini diaktifkan secara default, jadi dia harus membicarakan hal ini dengan administrator.</p>",id,5913
 7305b85e48bc4184514b1dee629110ca,"<p dir=""ltr"" style=""text-align: left;"">He is looking in the wrong place. MoodleNet is in the More link from Course navigation.</p>","<p dir=""ltr"" style=""text-align: left;"">Dia mencari di tempat yang salah. MoodleNet ada di tautan Lainnya dari navigasi Kursus.</p>",id,5913
@@ -566,9 +566,9 @@ e1edd5812804287591f1b6bcb4249470,"<p dir=""ltr"" style=""text-align: left;"">The
 1f6b9bc5b85c26a27fe9255fff26b19f,"<p dir=""ltr"" style=""text-align: left;"">MoodleNet is a separate site from his organisation's Moodle site.</p>","<p dir=""ltr"" style=""text-align: left;"">MoodleNet adalah situs terpisah dari organisasinya situs Moodle.</p>",id,5913
 54bcff584e8b6c1b87ade766d2ec693d,"<p dir=""ltr"" style=""text-align: left;"">That's true, but not relevant.</p>","<p dir=""ltr"" style=""text-align: left;"">Itu benar, tapi tidak relevan.</p>",id,5913
 f9a5212c6cad733eedbd5031445b57ce,<p>A friend has given you a copy ('backup') of a Moodle course they designed on their Moodle site. You need to add it to your Moodle site. Where would you go to add this course?</p>,<p>Seorang teman memberi Anda salinan ('cadangan') kursus Moodle yang mereka rancang di situs Moodle mereka. Anda perlu menambahkannya ke situs Moodle Anda. Di mana Anda ingin menambahkan kursus ini?</p>,id,5913
-03158527fa4061add76e34836605777f,Your answer is correct.,,id,5913
-61d16a3f896e9dc990ca772f9f187916,Your answer is partially correct.,,id,5913
-bf4a37c07c6768a251b701c9c8f57399,Your answer is incorrect.,,id,5913
+03158527fa4061add76e34836605777f,Your answer is correct.,Jawaban Anda benar.,id,5913
+61d16a3f896e9dc990ca772f9f187916,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5913
+bf4a37c07c6768a251b701c9c8f57399,Your answer is incorrect.,Jawaban Anda salah.,id,5913
 6005612214352472f0e341d1d39f7b88,<p>Upload courses</p>,<p>Unggah kursus</p>,id,5913
 17de4a6086b7dfe6128e89c8d94d2634,<p>No. This only takes CSV files.</p>,<p>Tidak. Ini hanya membutuhkan file CSV.</p>,id,5913
 9dc75f0e5b9c92220881f415d4db5146,<p>Add a new course</p>,<p>Tambahkan kursus baru</p>,id,5913
@@ -580,20 +580,20 @@ d96459df931ddd0ad4bd202a10b0d6c1,"<p>No. The term 'import' is used in Moodle for
 bdca26080b32c04ca9fbb90500f5e562,"<p>This image shows part of an important course element. What is it?</p>
 <p><img src=""@@PLUGINFILE@@/44activitychooser.png"" alt=""Activities and resource icons, with different tabs for All, Activities, Resources, Recommended."" width=""895"" height=""895"" class=""img-fluid atto_image_button_text-bottom""><br></p>","<p>Gambar ini menunjukkan bagian dari elemen kursus yang penting. Apa itu?</p>
 <p><img src=""@@PLUGINFILE@@/44activitychooser.png"" alt=""Ikon aktivitas dan sumber daya, dengan tab berbeda untuk Semua, Aktivitas, Sumber Daya, Direkomendasikan."" width=""895"" height=""895"" class=""img-fluid atto_image_button_text-bottom""><br></p>",id,5913
-48184c65176480c898626727ae4049d9,Your answer is correct.,,id,5913
-3b594b22d145b6bd00a1ed925b67e822,Your answer is partially correct.,,id,5913
-34ce7575b430ccab8509cd34f3d9b810,Your answer is incorrect.,,id,5913
+48184c65176480c898626727ae4049d9,Your answer is correct.,Jawaban Anda benar.,id,5913
+3b594b22d145b6bd00a1ed925b67e822,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5913
+34ce7575b430ccab8509cd34f3d9b810,Your answer is incorrect.,Jawaban Anda salah.,id,5913
 4f7454d28cc710320201d10b57b90788,<p>It's the Add block element in the Block drawer to add side blocks to the Moodle course</p>,<p>Ini adalah elemen Tambahkan blok di laci Blok untuk menambahkan blok samping ke kursus Moodle</p>,id,5913
-e52c55ba29db72c032f63e8f77b5d9d4,<p>No. Why not go to a course and try to find it?</p>,,id,5913
+e52c55ba29db72c032f63e8f77b5d9d4,<p>No. Why not go to a course and try to find it?</p>,<p>Tidak. Mengapa tidak pergi ke kursus dan mencoba menemukannya?</p>,id,5913
 56665ea22875cbfaf5bed89c3d6997e9,<p>It's the Activity chooser that lets a teacher select content for the students</p>,<p>Pemilih Aktivitaslah yang memungkinkan pengajar memilih konten untuk siswa</p>,id,5913
 f43576e35c3eab5c41f4d34294a25790,<p>Yes. It is worth exploring this feature.</p>,<p>Ya. Sebaiknya jelajahi fitur ini.</p>,id,5913
 46536e53174f542bd5a0fa8f744aad2e,<p>It's the File manager that lets teachers choose a file repository</p>,<p>Ini adalah Manajer berkas yang memungkinkan guru memilih penyimpanan berkas</p>,id,5913
 e0cd5bc7a36fa9bbc10d034d2addf944,<p>No. Why not go to a course and try to find it?</p>,<p>Tidak. Mengapa tidak pergi ke kursus dan mencoba menemukannya?</p>,id,5913
 7e6ac25c81579f50245187a67c55d326,"<p dir=""ltr"" style=""text-align: left;"">Your teaching staff only use resources and not activities, so they don't need the Activities tab in the Activity chooser. How can you remove this?</p>","<p dir=""ltr"" style=""text-align: left;"">Staf pengajar Anda hanya menggunakan sumber daya dan bukan aktivitas, sehingga mereka tidak memerlukan tab Aktivitas di pemilih Aktivitas. Bagaimana cara menghapus ini?</p>",id,5913
 64e89fb55e30f013872b95fdf7accb37,"<p dir=""ltr"" style=""text-align: left;"">Review the section 'Activity chooser' in the Tutorial: Course Creation for more information, and explore <a href=""https://docs.moodle.org/en/Activity_chooser"">the Activity chooser documentation.</a></p>","<p dir=""ltr"" style=""text-align: left;"">Tinjau bagian 'Pemilih aktivitas' dalam Tutorial: Pembuatan Kursus untuk informasi lebih lanjut, dan jelajahi <a href=""https://docs.moodle.org/en/Activity_chooser"">dokumentasi pemilih aktivitas.</a></p>",id,5913
-fbc61586bf64e88803de28b015896373,Your answer is correct.,,id,5913
-1f8c4f55a424888e24008ed2c4d03ebd,Your answer is partially correct.,,id,5913
-30ee6e62ea9a2bcd9b57bbf0429c1cb0,Your answer is incorrect.,,id,5913
+fbc61586bf64e88803de28b015896373,Your answer is correct.,Jawaban Anda benar.,id,5913
+1f8c4f55a424888e24008ed2c4d03ebd,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5913
+30ee6e62ea9a2bcd9b57bbf0429c1cb0,Your answer is incorrect.,Jawaban Anda salah.,id,5913
 948c6858d85c443b7ab206ffe6e2e36b,"<p dir=""ltr"" style=""text-align: left;"">Teaching staff can remove the tab themselves from the course settings.</p>","<p dir=""ltr"" style=""text-align: left;"">Staf pengajar dapat menghapus sendiri tab tersebut dari pengaturan kursus.</p>",id,5913
 a904948472a9f0963fb15651fcb2d55a,"<p dir=""ltr"" style=""text-align: left;"">Think again! And check the <a href=""https://docs.moodle.org/en/Activity_chooser"">Activity chooser documentation</a>.</p>","<p dir=""ltr"" style=""text-align: left;"">Pikirkan lagi! Dan periksa <a href=""https://docs.moodle.org/en/Activity_chooser"">Dokumentasi pemilih aktivitas</a>.</p>",id,5913
 dda4e7799f6f35357bff95486349f49d,You can remove the tab from Site administration &gt; Courses &gt; Activity chooser settings.,Anda dapat menghapus tab dari Administrasi situs &gt; Kursus &gt; Pengaturan pemilih aktivitas.,id,5913
