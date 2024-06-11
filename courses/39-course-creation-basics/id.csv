@@ -615,3 +615,13 @@ bbf2fe17b2143b95d1e9cf13e105f294,"<p dir=""ltr"" style=""text-align: left;"">Tha
 66ef94c68106b7cdd7723144d60beb8e,"<p dir=""ltr"" style=""text-align: left;"">Yes. Usually it is from a different Moodle site but you can also restore a course from within your site.</p>","<p dir=""ltr"" style=""text-align: left;"">Ya. Biasanya kursus tersebut berasal dari situs Moodle yang berbeda namun Anda juga dapat memulihkan kursus dari dalam situs Anda.</p>",id,5913
 f0ed2c01853793f91c46eee26cd2812d,"<p dir=""ltr"" style=""text-align: left;"">It is for uploading a CSV file with course information.</p>","<p dir=""ltr"" style=""text-align: left;"">Ini untuk mengunggah file CSV dengan informasi kursus.</p>",id,5913
 4e26a4c86eb8fa1d2e991fa228de0f1a,"<p dir=""ltr"" style=""text-align: left;"">Think again!</p>","<p dir=""ltr"" style=""text-align: left;"">Pikirkan lagi!</p>",id,5913
+4201defa06d9562e6d420147ec16d11e,"<div class=""no-overflow"">Before you begin, review the&nbsp;Course overview,&nbsp;Learning outcomes,&nbsp;Course structure&nbsp;and&nbsp;Completion and assessment&nbsp;information.</div>",,id,5935
+27088ca8249ace54bb3fe5bf73b00ebe,"<div class=""no-overflow""><h4><i class=""fa fa-graduation-cap"" aria-hidden=""true"" style=""font-size: 1rem;""></i>&nbsp;Related courses</h4>
+<p>This course is part of the <strong>'Moodle Admin Basics'</strong> program. Visit the program course to enrol in other courses in this program:</p>
+<ul>
+    <li><a href=""https://moodle.academy/course/view.php?id=60"">Moodle Admin Basics program and certificate</a>.</li>
+</ul>
+</div>",,id,316155
+5914c9b729001618579f1eed29c074fd,"<div class=""no-overflow""><p dir=""ltr"" style=""text-align: left;"">We would appreciate if you would answer these short questions. It should take only a few minutes to complete.</p></div>",,id,5934
+1f415d76f1216aaa75c10a67ff100bce,"<div class=""no-overflow"">Images courtesy of <a href=""https://pixabay.com/"" target=""_blank"">Pixabay</a>&nbsp;and&nbsp;<a href=""https://unsplash.com/"" target=""_blank"">UnSplash</a>.
+<p dir=""ltr"" style=""text-align: left;""><br></p></div>",,id,17257
