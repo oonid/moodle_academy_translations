@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-12 06:35+0000\n"
+"Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
+"Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
+"39-course-creation-basics/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 # {"targetlanguage": "id", "contextid": "5913", "md5key":
 # "5a5d29db529043be1dcaee73455bb0ac"}
@@ -1849,6 +1856,9 @@ msgid ""
 "overview,&nbsp;Learning outcomes,&nbsp;Course "
 "structure&nbsp;and&nbsp;Completion and assessment&nbsp;information.</div>"
 msgstr ""
+"<div class=\"no-overflow\">Sebelum memulai, tinjau &nbsp;Ikhtisar "
+"kursus,&nbsp;Capaian pembelajaran,&nbsp;Struktur kursus&nbsp;dan&nbsp;"
+"informasi Kelulusan dan penilaian&nbsp;.</div>"
 
 # {"targetlanguage": "id", "contextid": "316155", "md5key":
 # "27088ca8249ace54bb3fe5bf73b00ebe"}
@@ -1860,6 +1870,16 @@ msgid ""
 "</ul>\n"
 "</div>"
 msgstr ""
+"<div class=\"no-overflow\"><h4><i class=\"fa fa-graduation-cap\" aria-hidden="
+"\"true\" style=\"font-size: 1rem;\"></i>&nbsp;Kursus terkait</h4>\n"
+"<p>Kursus ini adalah bagian dari program <strong>'Dasar-Dasar Admin Moodle'</"
+"strong>. Kunjungi kursus program untuk mendaftar kursus lain dalam program "
+"ini:</p>\n"
+"<ul>\n"
+"    <li><a href=\"https://moodle.academy/course/view.php?id=60\">Program dan "
+"sertifikat Dasar-Dasar Admin Moodle</a>.</li>\n"
+"</ul>\n"
+"</div>"
 
 # {"targetlanguage": "id", "contextid": "5934", "md5key":
 # "5914c9b729001618579f1eed29c074fd"}
@@ -1868,6 +1888,9 @@ msgid ""
 "would appreciate if you would answer these short questions. It should take "
 "only a few minutes to complete.</p></div>"
 msgstr ""
+"<div class=\"no-overflow\"><p dir=\"ltr\" style=\"text-align: left;\">Kami "
+"akan sangat menghargai jika Anda bersedia menjawab pertanyaan singkat ini. "
+"Hanya perlu beberapa menit untuk menyelesaikannya.</p></div>"
 
 # {"targetlanguage": "id", "contextid": "17257", "md5key":
 # "1f415d76f1216aaa75c10a67ff100bce"}
@@ -1875,3 +1898,7 @@ msgid ""
 "<div class=\"no-overflow\">Images courtesy of <a href=\"https://pixabay.com/\" target=\"_blank\">Pixabay</a>&nbsp;and&nbsp;<a href=\"https://unsplash.com/\" target=\"_blank\">UnSplash</a>.\n"
 "<p dir=\"ltr\" style=\"text-align: left;\"><br></p></div>"
 msgstr ""
+"<div class=\"no-overflow\">Gambar milik <a href=\"https://pixabay.com/\" "
+"target=\"_blank\">Pixabay</a>&nbsp;dan&nbsp;<a href=\"https:/ /unsplash.com/"
+"\" target=\"_blank\">UnSplash</a>.\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"><br></p></div>"
