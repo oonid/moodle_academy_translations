@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-12 09:15+0000\n"
+"Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
+"Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
+"46-introduction-to-moodle/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "a42b4a300a295670ed3c41cf65d161d6"}
@@ -13,6 +20,10 @@ msgid ""
 "we recommend starting with this course for an overview of what Moodle can "
 "offer.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\">Kursus ini memberikan pengenalan Sistem Manajemen "
+"Pembelajaran Moodle. Baik Anda seorang Administrator, Pendidik, atau "
+"Pengembang, kami sarankan untuk memulai dengan kursus ini untuk mendapatkan "
+"gambaran umum tentang apa yang dapat ditawarkan Moodle.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "5ab4280c30c24810ce98548cd4d2930f"}
@@ -24,11 +35,17 @@ msgid ""
 "developers.</p><p dir=\"ltr\" style=\"text-align: center;\"><a "
 "href=\"https://youtu.be/ax6yPMyx5gU\">https://youtu.be/ax6yPMyx5gU</a><br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Kursus tingkat pemula ini "
+"memberikan gambaran singkat dan tingkat tinggi tentang Moodle. Disarankan "
+"agar Anda mengikuti kursus ini sebelum kursus lainnya, jika Anda belum "
+"familiar dengan Moodle. Cocok untuk semua orang: pendidik, administrator, "
+"dan pengembang.</p><p dir=\"ltr\" style=\"text-align: center;\"><a href="
+"\"https://youtu.be/ax6yPMyx5gU\"> https://youtu.be/ax6yPMyx5gU</a><br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "09485c793b3da5db25cb45724e2c58e9"}
 msgid "Webinar recordings"
-msgstr ""
+msgstr "Rekaman webinar"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "316d3d4febd00a31bd1567ccfa8befae"}
@@ -36,6 +53,8 @@ msgid ""
 "The following two webinar recordings are not required to complete the "
 "course. Feel free to watch them if you wish."
 msgstr ""
+"Dua rekaman webinar berikut tidak diperlukan untuk menyelesaikan kursus. "
+"Jangan ragu untuk menontonnya jika Anda mau."
 
 # {"targetlanguage": "id", "contextid": "False", "md5key":
 # "97ee8e4a88a7ff3f2b780698b82b154d"}
@@ -100,6 +119,29 @@ msgid ""
 "<p>Upon successful completion of this course you will be automatically awarded with the relevant badge to showcase the skills and knowledge you have obtained.</p>\n"
 "<p></p>"
 msgstr ""
+"<p dir=\"ltr\">Untuk menyelesaikan kursus, Anda perlu menyelesaikan "
+"aktivitas berikut:</p>\n"
+"<p dir=\"ltr\"></p>\n"
+"<ul>\n"
+"    <li>Buku 'Tentang kursus ini' (apa yang sedang Anda baca sekarang).</"
+"li><li>'Pemeriksaan awal kursus: Apa yang sudah Anda ketahui?', melakukan "
+"setidaknya 1 kali percobaan - skor Anda tidak masalah. </li>\n"
+"    <li>'Tentang Moodle', 'Fitur utama Moodle', 'Kursus' dan pelajaran "
+"'Pengguna'.</li>\n"
+"    <li>Kuis 'Pengantar Moodle: Periksa pemahaman Anda', mencapai 80% atau "
+"lebih.</li>\n"
+"</ul>\n"
+"<p> </p>\n"
+"<h4>Menyelesaikan aktivitas</h4>\n"
+"<p></p><ul><li>Beberapa aktivitas secara otomatis ditandai sebagai selesai "
+"berdasarkan kriteria tertentu.</li><li>Beberapa aktivitas mengharuskan Anda "
+"menandainya secara manual sebagai selesai.</li></ul><p> Pastikan Anda "
+"menyelesaikan aktivitas sesuai dengan ketentuan penyelesaiannya.</"
+"p><h4>Lencana kursus</h4>\n"
+"<p>Setelah berhasil menyelesaikan kursus ini, Anda akan secara otomatis "
+"diberikan lencana yang relevan untuk menunjukkan keterampilan dan "
+"pengetahuan yang telah Anda peroleh.</p>\n"
+"<p> </p>"
 
 # {"targetlanguage": "id", "contextid": "False", "md5key":
 # "8d282a8bd2fe903679ba3011d408c26a"}
@@ -114,6 +156,17 @@ msgid ""
 "<span class=\"moodle-orange bold larger\">›</span>\n"
 "<a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=272\">Read more about how you should attribute this work.</a>"
 msgstr ""
+"<p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\""
+"><img src=\"https://moodle.academy/pluginfile.php/6958/mod_book/ chapter/626/"
+"ccby.png\" alt=\"Lisensi Creative Commons\" width=\"120\" height=\"42\" "
+"style=\"float:left\" class=\"img-fluid atto_image_button_middle\"></a>\n"
+"    Kursus dari Moodle Academy (Moodle Pty Ltd) ini dilisensikan dengan&nbsp;"
+"<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>. "
+"Sumber daya asli tersedia di&nbsp;<a href=\"https://moodle.academy/\""
+">https://moodle.academy</a>.<br></p>\n"
+"<span class=\"moodle-orange tebal lebih besar\">›</span>\n"
+"<a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=272\">Baca "
+"selengkapnya tentang cara mengatribusikan karya ini.</a>"
 
 # {"targetlanguage": "id", "contextid": "False", "md5key":
 # "815c7fb91561296c9ad3e407821bffb3"}
@@ -139,6 +192,25 @@ msgid ""
 "<p>Test your understanding in the final quiz.</p>\n"
 "<p></p>"
 msgstr ""
+"<h4>Selamat Datang</h4>\n"
+"<p>Cari tahu cara kerja kursus, periksa pemahaman Anda sebelumnya, dan "
+"bergabunglah dalam diskusi umum opsional.</p>\n"
+"<h4>Tentang Moodle</h4>\n"
+"<p>Diperkenalkan dengan konsep, filosofi dan latar belakang Moodle.</p>\n"
+"<h4>Fitur utama Moodle</h4>\n"
+"<p>Pelajari tentang beberapa fitur utama yang menjadikan Moodle&nbsp;solusi "
+"pembelajaran online yang paling dapat disesuaikan dan tepercaya di "
+"dunia.&nbsp;&nbsp;</p>\n"
+"<p> </p>\n"
+"<h4>Kursus</h4>\n"
+"<p>Jelajahi struktur dasar Moodle, yang disusun berdasarkan kursus.</p>\n"
+"<p> </p>\n"
+"<h4>Pengguna</h4>\n"
+"<p>Cari tahu tentang pengguna Moodle, peran, izin, dan fitur pengguna Moodle "
+"lainnya.</p>\n"
+"<h4>Pemeriksaan kursus</h4>\n"
+"<p>Uji pemahaman Anda di kuis terakhir.</p>\n"
+"<p> </p>"
 
 # {"targetlanguage": "id", "contextid": "False", "md5key":
 # "0e5231c0d444d5b1538faad5e4729066"}
@@ -152,6 +224,15 @@ msgid ""
 "<p>In this course you will learn about Moodle LMS (Learning Management System), its general structure, and some of its defining features.</p><h4>Format</h4><p dir=\"ltr\">This is a self-paced course without active moderation. You are encouraged to discuss ideas in the discussion forums and respond to other learners' queries.</p><h4 style=\"text-align: left;\">Estimated time</h4>\n"
 "<p dir=\"ltr\" style=\"text-align: left;\">The estimated time to complete this course is 1 hour.</p>"
 msgstr ""
+"<h4 style=\"text-align: left;\">Bidik</h4>\n"
+"<p>Dalam kursus ini Anda akan belajar tentang Moodle LMS (Sistem Manajemen "
+"Pembelajaran), struktur umumnya, dan beberapa fitur "
+"penentunya.</p><h4>Format</h4><p dir=\"ltr\">Ini adalah kursus mandiri tanpa "
+"moderasi aktif. Anda didorong untuk mendiskusikan ide di forum diskusi dan "
+"menanggapi pertanyaan peserta lainnya.</p><h4 style=\"text-align: left;\""
+">Perkiraan waktu</h4>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\">Perkiraan waktu untuk "
+"menyelesaikan kursus ini adalah 1 jam.</p>"
 
 # {"targetlanguage": "id", "contextid": "False", "md5key":
 # "a209901e4d65897541bb3eacb6998def"}
@@ -170,6 +251,17 @@ msgid ""
 "</ul>\n"
 "<p></p>"
 msgstr ""
+"<p>Pada akhir kursus ini, peserta akan dapat:</p>\n"
+"<ul>\n"
+"    <li>Menjelaskan konsep, filosofi dan tujuan Moodle.</li>\n"
+"    <li>Identifikasi beberapa fitur utama Moodle - aksesibilitas, "
+"fleksibilitas, keamanan, penyesuaian.</li>\n"
+"    <li>Menjelaskan elemen utama kursus Moodle - bagian, aktivitas, sumber "
+"daya, blok, buku nilai.</li>\n"
+"    <li>Menjelaskan pengguna Moodle, peran, izin, dan fitur pengguna Moodle "
+"lainnya.</li>\n"
+"</ul>\n"
+"<p> </p>"
 
 # {"targetlanguage": "id", "contextid": "False", "md5key":
 # "64a39273573e4fc2b712d51106db7a4e"}
@@ -200,22 +292,22 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "8257", "md5key":
 # "80196aa052c3ec61dff4c7aefb796b5c"}
 msgid "What is your role?"
-msgstr ""
+msgstr "Apa peran Anda?"
 
 # {"targetlanguage": "id", "contextid": "6960", "md5key":
 # "eb2022611a439f5e64a5dc23c61ee7f4"}
 msgid "Course pre-check: What do you already know?"
-msgstr ""
+msgstr "Pemeriksaan awal kursus: Apa yang sudah Anda ketahui?"
 
 # {"targetlanguage": "id", "contextid": "6969", "md5key":
 # "a6d7c6b42fc61dbb879dcda67c651f93"}
 msgid "Glossary of Moodle terms"
-msgstr ""
+msgstr "Glosarium istilah-istilah Moodle"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "f4041c7dffd4b26c23af25690bab09de"}
 msgid "About Moodle"
-msgstr ""
+msgstr "Tentang Moodle"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "654d843c8fea29261c9a46efa34d5e0e"}
@@ -240,11 +332,13 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Which statement about Moodle is "
 "more accurate?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pernyataan manakah tentang Moodle "
+"yang lebih akurat?</p>"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "56c8e833b3423035d440fe971f9a7a1f"}
 msgid "The Moodle Community"
-msgstr ""
+msgstr "Komunitas Moodle"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "73537c82ce9241e47576452b7a691f45"}
@@ -257,7 +351,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "b2cb51f58c73fd913fd88db22d15f966"}
 msgid "The open source way"
-msgstr ""
+msgstr "Cara sumber terbuka"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "d7f7b4f1d34f1fab4ffbc17bc9bbe1e3"}
@@ -284,7 +378,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "547c2026df6b50fc767ddf4828f0823c"}
 msgid "Welcome to Moodle"
-msgstr ""
+msgstr "Selamat datang di Moodle"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "c8b4d4cd44e7c73fdbf4823184627733"}
@@ -388,7 +482,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "18017dba74bb8cbd400f6657f8313d50"}
 msgid "Moodle key features"
-msgstr ""
+msgstr "Fitur utama Moodle"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "654d843c8fea29261c9a46efa34d5e0e"}
@@ -405,7 +499,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "b003b8bdb02a559a786c7b2c0eacde0b"}
 msgid "Accessible"
-msgstr ""
+msgstr "Dapat diakses"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "c606c08ffcafb1898259d59742081fd7"}
@@ -417,7 +511,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "401933723c547fa9751e95d644941919"}
 msgid "Moodle LMS overview"
-msgstr ""
+msgstr "Ikhtisar LMS Moodle"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "44faf36c494aa0f39e1e3b2b7454d70a"}
@@ -429,7 +523,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "7a2ccf251ecb20b2b84ce0e3c3f72a29"}
 msgid "Secure"
-msgstr ""
+msgstr "Aman"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "c0b50afac51ede27dbb8b269921d1c46"}
@@ -441,7 +535,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "13b303a6c0d90897b5375ce901acc445"}
 msgid "Flexible"
-msgstr ""
+msgstr "Fleksibel"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "aa85ee5527ea51affd2e19e3ae77dd89"}
@@ -463,7 +557,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "491823147faa028e4beb0186eaa7e9d6"}
 msgid "Customise and extend"
-msgstr ""
+msgstr "Penyesuaian dan perluasan"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "cb73b1e4ba0a3886c6675c7356735147"}
@@ -489,7 +583,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "654d843c8fea29261c9a46efa34d5e0e"}
 msgid "Which statement about Moodle is more accurate?"
-msgstr ""
+msgstr "Pernyataan manakah tentang Moodle yang lebih akurat?"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "54f1a13af93160a3345f66005d663bee"}
@@ -497,6 +591,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Which statement about Moodle is "
 "more accurate?<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pernyataan manakah tentang Moodle "
+"yang lebih akurat?<br></p>"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "a2e5910de4ae88fd42f3da8346bd6147"}
@@ -509,6 +605,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Moodle allows for one single "
 "approach to teaching and learning.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle memungkinkan satu "
+"pendekatan tunggal dalam pengajaran dan pembelajaran.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "71ce7efdea3a0ca9b46b46576f400d03"}
@@ -587,7 +685,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "f2df72fc9be600f41d1182f22fe38edd"}
 msgid "Activities and Resources"
-msgstr ""
+msgstr "Kegiatan dan Sumber Daya"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "68ed66b040584a206595731edd00416c"}
@@ -601,7 +699,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "3c546a74509415958f938cfe765d9b76"}
 msgid "Moodle Courses"
-msgstr ""
+msgstr "Kursus Moodle"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "d7697956a2c315b7aec511d5d2701fd7"}
@@ -615,7 +713,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "b4aeee5b4684fe94d3aaabc66a859826"}
 msgid "A Moodle Quiz is an example of:"
-msgstr ""
+msgstr "Kuis Moodle adalah contoh dari:"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "60f21f0c1cee97daaf60dba4ede8fcab"}
@@ -629,7 +727,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "c0b20db24f966add725e938718d6f1b4"}
 msgid "Gradebook"
-msgstr ""
+msgstr "Buku Nilai"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "a4fed12665b54f4127d1e72dcdb120f8"}
@@ -641,7 +739,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "04c4f9f595c4f21d1de65eb07056c15a"}
 msgid "Blocks"
-msgstr ""
+msgstr "Blok"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "d38740ad45dc1e4f2b59052170f88cfa"}
@@ -654,7 +752,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "855c3eca6c7aaef477b4f03e4699944d"}
 msgid "Sections"
-msgstr ""
+msgstr "Bagian"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "e4f4cd10e0e54de4afb1d3d650c1e098"}
@@ -690,7 +788,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "2f14e935bc850886b809cbeea736b918"}
 msgid "Activity completion"
-msgstr ""
+msgstr "Penyelesaian aktivitas"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "a61fa30edc9ba38b7d9a141e8b52de51"}
@@ -702,7 +800,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "f6b327e1d079212896e8ed59004d4f8a"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">True<br></p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Benar<br></p>"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "7ac04c385de7d520deb672e138d1aea3"}
@@ -714,7 +812,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "b102e08fac4fc0ce2776c6bc035409cf"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">An activity.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Suatu aktivitas.</p>"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "0da5d9b910958b67f627c22845f5b64c"}
@@ -728,7 +826,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "beb17653a03ae4d4d092e38afc03e59c"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">A resource.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Sebuah sumber daya</p>"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "e83ad6b36a7bc8a1d60f982c86ee2448"}
@@ -790,7 +888,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "f9aae5fda8d810a29f12d1e61b4ab25f"}
 msgid "Users"
-msgstr ""
+msgstr "Pengguna"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "79ea0397c0cdbbf71012fe96ba08b577"}
@@ -811,7 +909,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "85ba609d7993e86ef65b2108c9a7835d"}
 msgid "Competencies and badges"
-msgstr ""
+msgstr "Kompetensi dan lencana"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "c089fbfaa0b4cdb0c6cb850e537a34aa"}
@@ -823,7 +921,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "e687f71e44d3d779b8fd1592f5569086"}
 msgid "Roles and enrolments"
-msgstr ""
+msgstr "Peran dan pendaftaran"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "cc0537d56c8a4e1c6b74d9b1ab9f4e09"}
@@ -836,7 +934,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "3a2006fbac670fea4e629ba1c49227c5"}
 msgid "Which statement about Moodle roles is correct?"
-msgstr ""
+msgstr "Pernyataan manakah tentang peran Moodle yang benar?"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "43a7cb0cf076cfb7a7949841096680fa"}
@@ -844,11 +942,13 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Which statement about Moodle "
 "roles is correct?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pernyataan manakah tentang peran "
+"di Moodle yang benar?</p>"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "a15a818910640723301736d189c3a9d3"}
 msgid "Messaging and notifications"
-msgstr ""
+msgstr "Pesan dan notifikasi"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "d768e897e985b95b742402bba1c9afb1"}
@@ -865,7 +965,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "d892e1b7c92a7ff8e1b26aeb9bba3b4d"}
 msgid "Grouping users"
-msgstr ""
+msgstr "Pengelompokan pengguna"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "1b4d1687a08083435bb13ac8355246d8"}
@@ -888,6 +988,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Not necessarily. Users can have "
 "different roles in different courses.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Belum tentu. Pengguna dapat "
+"memiliki peran berbeda di kursus berbeda.</p>"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "49a09d0606bd6af48e8418887832d3e4"}
@@ -933,7 +1035,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6966", "md5key":
 # "a3e3439748c4d67bc7ccce9f808bcc68"}
 msgid "Introduction to Moodle: Check your understanding"
-msgstr ""
+msgstr "Pengantar Moodle: Periksa pemahaman Anda"
 
 # {"targetlanguage": "id", "contextid": "6965", "md5key":
 # "19d4d0f261eff89ed4abb6903fd6976b"}
@@ -950,6 +1052,8 @@ msgid ""
 "Congratulations!&nbsp;\n"
 "  You have now completed..."
 msgstr ""
+"Selamat!\n"
+"  Anda sekarang telah menyelesaikan..."
 
 # {"targetlanguage": "id", "contextid": "10882", "md5key":
 # "53408590c162d8e4d0d17be6cd32fe55"}
@@ -965,7 +1069,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "22706", "md5key":
 # "c436e94f554af87ff26eeed264315921"}
 msgid "https://youtu.be/5xwNjt5SagI"
-msgstr ""
+msgstr "https://youtu.be/5xwNjt5SagI"
 
 # {"targetlanguage": "id", "contextid": "22706", "md5key":
 # "6d6af9626a3885b8182eb72dffa88e5d"}
@@ -986,7 +1090,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "29942", "md5key":
 # "52571c0ba0692bd0c7ab1891542af8a3"}
 msgid "Webinar recording 'Introduction to Moodle for Administrators'"
-msgstr ""
+msgstr "Rekaman webinar 'Pengenalan Moodle untuk Administrator'"
 
 # {"targetlanguage": "id", "contextid": "29942", "md5key":
 # "7e6fec9842af7573a2f5c35117955c5b"}
@@ -1007,12 +1111,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "29943", "md5key":
 # "7fb6829e3fd4afcf511231205575a2d0"}
 msgid "Slides from the webinar 'Introduction to Moodle for Administrators'"
-msgstr ""
+msgstr "Slide dari webinar 'Pengenalan Moodle untuk Administrator'"
 
 # {"targetlanguage": "id", "contextid": "29946", "md5key":
 # "8ffe4493fd9cd44fa6841487628d3ff0"}
 msgid "Webinar recording 'Introduction to Moodle for Educators'"
-msgstr ""
+msgstr "Rekaman webinar 'Pengenalan Moodle untuk Pendidik'"
 
 # {"targetlanguage": "id", "contextid": "29946", "md5key":
 # "31b5ba6f65caee7395a6f23e54a6315f"}
@@ -1033,7 +1137,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "29947", "md5key":
 # "b627d2e55cd66b5af3bcb47e8e61c0e0"}
 msgid "Slides from the webinar 'Introduction to Moodle for Educators'"
-msgstr ""
+msgstr "Slide dari webinar 'Pengenalan Moodle untuk Pendidik'"
 
 # {"targetlanguage": "id", "contextid": "6951", "md5key":
 # "0780c789c6a19b10aa76c5dfc9f9ca67"}
@@ -1042,6 +1146,8 @@ msgid ""
 "href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3</a> "
 "functionality."
 msgstr ""
+"Kursus ini diluncurkan pada Februari 2022 dan didasarkan pada fungsionalitas "
+"<a href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3</a>."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "43ae9b9c23ef69a0e8c3f9a11dd7beff"}
@@ -1069,7 +1175,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "5e05ec4746ba8b51d13847c8d970ff71"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">True</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Benar</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "4ab1dd425a7db10a8b2f2ca0cdee1ae7"}
@@ -1082,7 +1188,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f72486234b55701babe740008cc60fbd"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">False</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Salah</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f82036008669e21ae8250acd8216750b"}
@@ -1118,17 +1224,18 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "b90ecc93b24d5ec702936a6432fc207d"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Flexibility</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Fleksibilitas</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "e4ed275dbf3739082758fc566d9630d1"}
 msgid "Try again.&nbsp;WCAG does not relate to how flexible Moodle is."
 msgstr ""
+"Coba lagi.&nbsp;WCAG tidak berhubungan dengan seberapa fleksibel Moodle."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "d4f6ff327776e53ea0fa515b16449af2"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Security</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Keamanan</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "ff8239ed47989a5ddac4266312b0671b"}
@@ -1136,11 +1243,13 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Try again.&nbsp;WCAG does not "
 "relate to how secure Moodle is.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi.&nbsp;WCAG tidak "
+"berhubungan dengan seberapa aman Moodle.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "3759a759b5c0b1115ed47b0e44714242"}
 msgid "<p>Accessibility</p>"
-msgstr ""
+msgstr "<p>Aksesibilitas</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "28a17a5a85c57d974a65817c00fdda70"}
@@ -1155,7 +1264,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "afc2cc8711bd972bb3091f512c038cd9"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Customisability&nbsp;<br></p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Kustomisasi&nbsp;<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "169a2d86f22a7df43e10b9863a085543"}
@@ -1163,6 +1272,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Try again.&nbsp;WCAG does not "
 "relate to how customisable Moodle is.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi.&nbsp;WCAG tidak "
+"berhubungan dengan bagaimana Moodle dapat dikembangkan.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "7ff6ccfa6aa8253f50e4b4bb79803219"}
@@ -1170,6 +1281,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\"><strong>Moodle's basic "
 "structure</strong> is organised around:<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><strong>Struktur dasar Moodle</"
+"strong> disusun berdasarkan:<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "6ef3b3758f85ee53b19a28d2e9c46a37"}
@@ -1189,7 +1302,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "32a7eb6fa5bcea50a134c74b2e9c9257"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Courses</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Kursus</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "aa7ef000188887fd12dffb1edf720cf4"}
@@ -1197,6 +1310,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Thats right.&nbsp;Moodle's basic "
 "structure is organised around courses.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar.&nbsp;Struktur dasar Moodle "
+"diatur berdasarkan kursus.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f798958785ac15ed0bb3063f9c4d8407"}
@@ -1213,7 +1328,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "bcbc28e742b4d3c28a403b5c3a15691b"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Roles</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Peran</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "27a26b3f1a9e889ab2ed51f7645727da"}
@@ -1226,7 +1341,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "0aa98f0303b7bdd2bcf45f5264378f9c"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Notifications</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Notifikasi</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "e5eb6c53c90a043b8c5fcf2ef475d756"}
@@ -1265,7 +1380,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "43c38cc394afb34e5616094cf26c06d6"}
 msgid "run Moodle LMS as you wish, for any purpose."
-msgstr ""
+msgstr "gunakan Moodle LMS sesuai keinginan, untuk tujuan apa pun."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "48b44e6aadb37558ebcba4256f125dbe"}
@@ -1280,6 +1395,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">study how Moodle LMS works and "
 "change it as you wish.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">pelajari cara kerja LMS Moodle "
+"dan ubah sesuai keinginan Anda.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "640417bdd4c0bed463fbd66b4aeacf8e"}
@@ -1294,6 +1411,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">redistribute copies so you can "
 "help others.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">mendistribusikan ulang salinan "
+"sehingga Anda dapat membantu orang lain.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "3e6a206ea2d32debd3d6ac751f99dde4"}
@@ -1326,6 +1445,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">licence your modified version and"
 " sell to others.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">melisensikan versi modifikasi "
+"Anda dan menjualnya kepada orang lain.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "66380e6c3f3a5af7d0b72d4cdaee9c65"}
@@ -1340,6 +1461,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Which common <strong>Moodle "
 "course format</strong>&nbsp;has sections organised with date headings?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><strong>Format kursus Moodle "
+"</strong>&nbsp;mana yang bagiannya diatur dengan judul tanggal?</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "7c47b002b0f9713906abbf50bfac5eee"}
@@ -1359,7 +1482,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "4558a9de4df986d2834a9cae020a72a0"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Weekly</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Mingguan</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "99a1045153f08ac8e2940e29a226187b"}
@@ -1372,7 +1495,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "2b2e45e7686c75f28d77dcbb4da5efcb"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Topics</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Topik</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "56355a2bdf0622652627a1285ba8e6ff"}
@@ -1384,7 +1507,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "fcbf8f9eaefa28691d1801cd32a14135"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Single</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Tunggal</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "7c80fd04a006cbbe2375ea98f68d62cf"}
@@ -1397,7 +1520,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "e12fced4095095aa409a6b7869718a64"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Social</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Sosial</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "72bd01bea5021f3dcf56a3aef3f7bf0e"}
@@ -1435,17 +1558,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f7e7cbcdf7cd615ed20b2ec32bbff6f7"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Blocks</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Blok</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "910bebb5be054aa578c3eba231971782"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Benar.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "c5eae53ab694537a12f12c9dcaf410e9"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Sections</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Bagian</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "159cad07d006f0ec78b25bffc3625da8"}
@@ -1458,7 +1581,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "8e0def576177773f2d0f65e866a8895f"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Activities</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Aktivitas</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "e2db83c20afb6d4f61e47296fb1c6a17"}
@@ -1479,7 +1602,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "c6dae40b8f53af5e26cffb3f6a25c73a"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Gradebook</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Buku Nilai</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "709b2fdabb0590e65da94f219d80d0ce"}
@@ -1517,16 +1640,18 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-"
 "guid-e122d902-7fff-f563-3ad1-2d1a6aa8deb5\">Gradebook</span><br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-"
+"e122d902-7fff-f563-3ad1-2d1a6aa8deb5\">Buku Nilai</span><br></ hal>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "7e042de177e7ce04c5deafd31e2ead7a"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Correct.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Benar.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "3a0ecc28f13585a023e1667adfbbd28f"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Course<br></p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Kursus<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "2a28115afd4c08b7abac9be6bcd5d088"}
@@ -1539,7 +1664,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "82c0e8097e8c1dc9a5bb1f208578b81b"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Block<br></p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Blok<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "86fa44acb5e994c6be2acb36d7b0e5c5"}
@@ -1551,7 +1676,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "b52da29cc876bc3c90b44fe6fe85031f"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Category<br></p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Kategori<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f26689a947f4d044da517f90ed472697"}
@@ -1559,6 +1684,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Think again.&nbsp;Categories "
 "organise courses for all Moodle site participants.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pikirkan lagi.&nbsp;Kategori "
+"mengatur kursus untuk semua peserta situs Moodle.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "d69eef27d1889953d52bacc57e41d935"}
@@ -1566,6 +1693,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Select the ways you can "
 "<strong>customise and extend</strong> your Moodle site.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pilih cara Anda dapat "
+"<strong>menyesuaikan dan memperluas</strong> situs Moodle Anda.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "9cb1c23c0305359375fa31bb573333f7"}
@@ -1588,6 +1717,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Allow people to create their own "
 "user account using <strong>email-based self-registration</strong>.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Izinkan orang membuat akun "
+"penggunanya sendiri menggunakan <strong>pendaftaran mandiri berbasis "
+"email</strong>.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "500764f59be0117eaa73b65aa4eacbf2"}
@@ -1621,6 +1753,8 @@ msgid ""
 "Install a new <strong>plugin </strong>to enable a new type of activity or "
 "resource."
 msgstr ""
+"Instal <strong> plugin </strong> baru untuk mengaktifkan jenis aktivitas "
+"atau sumber daya baru."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "7a06cb1b72eaa89ccca148187a00f058"}
@@ -1648,12 +1782,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "da809af1cb9703606fd8fb26bf0a8b6c"}
 msgid "Which of the following are <strong>Moodle products</strong>?"
-msgstr ""
+msgstr "Manakah dari berikut ini yang merupakan <strong>produk Moodle</strong>?"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "3829f7fb10caadc2cf42a71a8bd78bf3"}
 msgid "Your answer is correct. These are all Moodle products."
-msgstr ""
+msgstr "Jawaban Anda benar. Ini semua adalah produk Moodle."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "62dbbc778022e7086667298e88cc4a11"}
@@ -1668,7 +1802,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "1405af96a49352fb1cdf131ce338c8e4"}
 msgid "<p dir=\"ltr\">Moodle Workplace™</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\">Moodle Workplace™</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "40812340efb194fe96dc5ae3bcf0af22"}
@@ -1680,7 +1814,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "2b36133ab59b9ce6bb824f1b95ee9d30"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">MoodleCloud</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">MoodleCloud</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "35280f1b0962a74ed9a2ebb4ffebbc5f"}
@@ -1692,7 +1826,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "175aaf91de313b5109cb814644a97449"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Moodle App</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Aplikasi Moodle</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "5cef9d1729ea811b82b99e7ec66ce88c"}
@@ -1704,7 +1838,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "64cccfbd956c05dc15b7b510be27b3ec"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Moodle LMS</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">LMS Moodle</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "28c860e118e8b4caecab002f27b53ef6"}
@@ -1716,7 +1850,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "ddd476cff2cd94cb49d40401d54076ed"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">MoodleLite</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">MoodleLite</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "de023eb0f0e5d8824b2dd47e1b0817ca"}
@@ -1724,6 +1858,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Incorrect. MoodleLite is not a "
 "Moodle product.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Salah. MoodleLite bukan merupakan "
+"produk Moodle.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "aca28dfa7f4fc2db1dd05c98b293550c"}
@@ -1754,7 +1890,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "5f980db7cfe222387248960e582dda0b"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Resource</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Sumber Daya</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "aa0106fda38a72223696cf778ba2bfb9"}
@@ -1768,7 +1904,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "96a9aab2b824fdc50b478adceb83aa4d"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Menu</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Menu</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "82794e4ecb40f2e46e9d665383b20a9a"}
@@ -1780,7 +1916,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "76c7fb4c41efc5267f2d8ae38922c079"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Profile</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Profil</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "c7039609ea7ccda5c7a5a045c7462d74"}
@@ -1792,7 +1928,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f6e7774c6b83807f6a17c6979a866348"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Forum</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Forum</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "9c08376605ac7aea1c532200ef757998"}
@@ -1807,6 +1943,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">How can you contribute to the "
 "Moodle project?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Bagaimana Anda dapat "
+"berkontribusi pada proyek Moodle?</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "34effd79934b3e506c81d17d3303194e"}
@@ -1842,7 +1980,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "2dde38376d81e7a2753e680b10904535"}
 msgid "<p>Report bugs and issues.</p>"
-msgstr ""
+msgstr "<p>Laporkan bug dan masalah.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f7a588931ade8d00bdc1e1b08841cd86"}
@@ -1858,6 +1996,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Answer questions in the Moodle "
 "community forums.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Jawab pertanyaan di forum "
+"komunitas Moodle.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "e34024dc535cbc1fa13b3d2c88aef67d"}
@@ -1873,6 +2013,7 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Update the Moodle "
 "documentation.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Perbarui dokumentasi Moodle.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "9eba7132e23adb6606ab884ff2b71c39"}
@@ -1885,6 +2026,8 @@ msgstr ""
 # "1608af016d57f35afb8a63cf2cdd3447"}
 msgid "<p>Develop new plugins or contribute changes to core Moodle code.</p>"
 msgstr ""
+"<p>Kembangkan plugin baru atau kontribusikan perubahan pada kode inti "
+"Moodle.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "262f769f03c73c6b5306d3b53caada62"}
@@ -1899,6 +2042,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Translate Moodle into other "
 "languages.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Terjemahkan Moodle ke bahasa "
+"lain.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "97dde2ebdc36504a2f3c6779660416aa"}
@@ -1948,6 +2093,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Install Moodle on your own "
 "servers.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Instal Moodle di server Anda "
+"sendiri.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "ed2fa4e22462806a140795fac6e9ecb0"}
@@ -1959,7 +2106,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "2e3470133d5de80998567068a16153a3"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Use MoodleCloud.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Gunakan MoodleCloud.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "fd07653b6dbaad4f66da5fa75bae0fdd"}
@@ -1967,11 +2114,14 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct. MoodleCloud offers a "
 "cloud-based solution for using Moodle.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. MoodleCloud menawarkan "
+"solusi berbasis cloud untuk menggunakan Moodle.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "8d40ce3baf80348af23ca1f0f00c547c"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Contact a Moodle Partner.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Hubungi Mitra Moodle.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "883dc1a56872d7dcfae8df6e7812c0b2"}
@@ -1984,6 +2134,7 @@ msgstr ""
 # "ac4d1af4aca9620aa5b0a58e3d1a874d"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Contact Moodle HQ.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Hubungi Kantor Pusat Moodle.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "141dc6baeecb8b3094aee9ebe87a3652"}
@@ -2032,7 +2183,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "1ee68902d40d25f0e12d74d20cd00625"}
 msgid "<p>Course management tasks.</p>"
-msgstr ""
+msgstr "<p>Tugas pengelolaan kursus.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "7c6e14594765cb28ec25cf25c3ef1430"}
@@ -2044,7 +2195,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f9241f0ba3512ed81d6ac92be54692b8"}
 msgid "<p>Content delivery.</p>"
-msgstr ""
+msgstr "<p>Pengiriman konten.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "90200442e71555bbade19b7967b59df7"}
@@ -2056,7 +2207,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "dbdd4421cc81586632c8b3d6cfea3e32"}
 msgid "<p>Online assessment.</p>"
-msgstr ""
+msgstr "<p>Penilaian daring.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "61079b32fe90245f6a421537e6edd5c9"}
@@ -2074,7 +2225,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "04c7042b8b9009838443a1fa6a6630de"}
 msgid "<p>Collaboration between learners.</p>"
-msgstr ""
+msgstr "<p>Kolaborasi antar peserta didik.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "2db0fd7cd8b09089cd9ee91dd264ffcb"}
@@ -2090,7 +2241,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "8e665548f9336e4d1f070fc7b739ebae"}
 msgid "<p>What are some of the benefits of using Moodle?</p>"
-msgstr ""
+msgstr "<p>Apa saja keuntungan menggunakan Moodle?</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "d3597218452d85bb5ce987feb766ab3f"}
@@ -2123,7 +2274,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "b6b119e8a300fc08ab7d3a43904b0cd0"}
 msgid "<p>Anyone can install and use it.</p>"
-msgstr ""
+msgstr "<p>Siapa pun dapat menginstal dan menggunakannya.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "da8619cb325a8d6d0b04f786bc818047"}
@@ -2131,11 +2282,13 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Yes, anyone can install and use "
 "Moodle.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya, siapa pun bisa menginstal dan "
+"menggunakan Moodle.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "9e0ea58c27202fccbc9532e958825884"}
 msgid "<p>Adoption of open and accessibility standards.</p>"
-msgstr ""
+msgstr "<p>Penerapan standar keterbukaan dan aksesibilitas.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "2763db5824e4fdab19d11fe936d842c3"}
@@ -2143,21 +2296,23 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Yes, Moodle adopts open and "
 "accessibility standards.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya, Moodle mengadopsi standar "
+"terbuka dan aksesibilitas.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "382146f5d28c3948907e7a3681b208ad"}
 msgid "<p>Highly modular and configurable.</p>"
-msgstr ""
+msgstr "<p>Sangat modular dan dapat dikonfigurasi.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "bbfe8c959f12b2f1b0f7add4d2161a20"}
 msgid "Yes, Moodle is highly modular and configurable."
-msgstr ""
+msgstr "Ya, Moodle sangat modular dan dapat dikonfigurasi."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "9987d1da0be8fdf8dd872e8af72c5807"}
 msgid "<p>Free and open source software.</p>"
-msgstr ""
+msgstr "<p>Perangkat lunak gratis dan sumber terbuka.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "56fdf985b945f406d6ffc21a5afe295b"}
@@ -2165,11 +2320,13 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Yes, Moodle is free and open "
 "source software.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya, Moodle adalah perangkat lunak "
+"gratis dan sumber terbuka.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "40c501d0e00f4205a18e922421fc7215"}
 msgid "<p>A large and active community of contributors.</p>"
-msgstr ""
+msgstr "<p>Komunitas kontributor yang besar dan aktif.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "cd180f608224ccf1c0489567f0e66f0c"}
@@ -2177,6 +2334,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Yes, Moodle has a&nbsp;large and "
 "active community of contributors.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya, Moodle memiliki&nbsp;"
+"komunitas kontributor yang besar dan aktif.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "0a86491683d6ec6c724ac6c242239f47"}
@@ -2184,6 +2343,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">What kinds of organisations use "
 "Moodle?<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Organisasi seperti apa yang "
+"menggunakan Moodle?<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "1a9a93fbda576df5923efadae3c76def"}
@@ -2212,7 +2373,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "a928b83d3df66aa39332cb2667df65b9"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Schools.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Sekolah.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "a187651f021ea6b760e7c82bd43c8d91"}
@@ -2225,7 +2386,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "b1f821fd5c9a3fcd047ac04c07102a40"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Universities.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Universitas.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "0706d4b62da5ebfc59c065df7eb93ae4"}
@@ -2238,7 +2399,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "75ba6afb0d1b546e91478dfab1cbab30"}
 msgid "<p>Non-government organisations (NGOs).</p>"
-msgstr ""
+msgstr "<p>Organisasi non-pemerintah (LSM).</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "05ff6a476eeed36a6ebf0c3234823b27"}
@@ -2251,7 +2412,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "8587bc84b5bb1a963f56120f132f6616"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Workplaces.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Tempat Kerja.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "c9054bf7b8528f6cf6bbfe1a72144903"}
@@ -2264,7 +2425,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "4292659c931f7a386a9a6c3150ea27aa"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Government organisations.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Organisasi pemerintah.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "4ecc5a016a758e096c14ded676a0b3a2"}
@@ -2273,6 +2434,8 @@ msgid ""
 "customisability caters to the unique requirements of government "
 "organisations.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar.&nbsp;Kemampuan penyesuaian "
+"Moodle memenuhi kebutuhan unik organisasi pemerintah.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "cd7cb6de6651a75638556d27d7ce4097"}
@@ -2280,6 +2443,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">What type of learning does Moodle"
 " support?<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Jenis pembelajaran apa yang "
+"didukung Moodle?<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "81e0fa0ea6020a4d6c9cff03f1822d95"}
@@ -2311,7 +2476,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "5b3020188e29fdcea7bbefc1629fa87b"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">active.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">aktif.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "1ddb483b83a9b4590155e70e2634da6f"}
@@ -2324,7 +2489,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "768fac551cfa91f3d9c1254479fe6276"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">passive.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">pasif.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "4006817990cd11b8fac385c7edbcfd27"}
@@ -2337,7 +2502,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f8a6c1e9cf17fc47640689b6afa0ae1a"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">collaborative.<br></p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">kolaboratif.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "5e0d28a86c633dd000dd979398de52a0"}
@@ -2350,7 +2515,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "0977b0b7083d4174a39c64e6163170ee"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">independent.<br></p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">independen.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "adc876018d12fbcd9a41c1898aca6291"}
@@ -2379,17 +2544,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "c31a7d283efe71109344839f86e62b74"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "2942d06dff56200738c748721704b5ba"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "5e499c05d12a6b5b926bdeddff589dbe"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "ecf2b6c7dd99a2b2064a3b340976af2b"}
