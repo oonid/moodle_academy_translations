@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-12 09:15+0000\n"
+"PO-Revision-Date: 2024-06-12 15:16+0000\n"
 "Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
 "Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
 "46-introduction-to-moodle/id/>\n"
@@ -420,6 +420,9 @@ msgid ""
 "in-house developers to develop new plugins and maintain all aspects of the "
 "platform.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle mengandalkan tim kecil "
+"pengembang internal untuk mengembangkan plugin baru dan memelihara semua "
+"aspek platform.</p>"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "ab40e7d6b11e4e270644787da65b8447"}
@@ -428,6 +431,9 @@ msgid ""
 "community plays a huge part in developing and maintaining the "
 "platform.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Kurang tepat.&nbsp;Komunitas "
+"Moodle memainkan peran besar dalam mengembangkan dan memelihara platform "
+"ini.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "61eb3253dd000cf07c6b5315131b46fb"}
@@ -435,6 +441,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">The source code of Moodle can be "
 "modified and shared because its design is publicly accessible.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Kode sumber Moodle dapat "
+"dimodifikasi dan dibagikan karena desainnya dapat diakses publik.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "3b70aab39b9e204486ce54b88ca92d52"}
@@ -442,6 +450,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">That's right. Because Moodle is "
 "open source, the entire software can be downloaded for free and altered.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Karena Moodle bersifat "
+"sumber terbuka, seluruh perangkat lunak dapat diunduh secara gratis dan "
+"diubah.</p>"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "d811ba720ca8fd781add5a6772cc761a"}
@@ -450,6 +461,9 @@ msgid ""
 "writing new features and supporting the evolution of Moodle LMS in an "
 "ongoing cycle of improvement.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\">Moodle memiliki komunitas besar di seluruh dunia yang "
+"berkontribusi dalam penulisan fitur-fitur baru dan mendukung evolusi LMS "
+"Moodle dalam siklus pengembangan yang berkelanjutan.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "ba04c123d2115e820ce9fd1c1eea0319"}
@@ -458,6 +472,8 @@ msgid ""
 "community plays a huge part in developing and maintaining the "
 "platform.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Komunitas Moodle memainkan "
+"peranan besar dalam mengembangkan dan memelihara platform ini.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "baedb26417b97b326e515b8a0a15905d"}
@@ -465,6 +481,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Only the original authors can "
 "legally copy, inspect, and alter the source code of Moodle.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Hanya penulis asli yang dapat "
+"menyalin, memeriksa, dan mengubah kode sumber Moodle secara sah.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "479fbfc7878a4355a7697ef09e1246b1"}
@@ -473,6 +491,9 @@ msgid ""
 " open source, the entire software can be downloaded for free by anyone and "
 "altered.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Kurang tepat.&nbsp;Karena Moodle "
+"bersifat sumber terbuka, seluruh perangkat lunak dapat diunduh secara gratis "
+"oleh siapa saja dan diubah.</p>"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "4e47b18150987ee5e420bb11ad0f5cf2"}
@@ -614,6 +635,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Not quite.&nbsp;The flexibility "
 "of Moodle lets you customise your approach to teaching.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Kurang tepat.&nbsp;Fleksibilitas "
+"Moodle memungkinkan Anda menyesuaikan pendekatan Anda dalam "
+"mengajar.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "0af9dd0eb235a976f85fbfbe0a529747"}
@@ -621,6 +645,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Moodle gives you the flexibility "
 "to teach the way you want, to any number of learners.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle memberi Anda fleksibilitas "
+"untuk mengajar sesuai keinginan Anda, kepada sejumlah peserta didik.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "efcf4b31d665a16b6387f8ed775c2e44"}
@@ -628,6 +654,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">That's right. The flexibility of "
 "Moodle lets you customise your approach to teaching.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Fleksibilitas Moodle "
+"memungkinkan Anda menyesuaikan pendekatan pengajaran Anda.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "0cf3d6597ccd09142bfa56b0f755d2c2"}
@@ -636,6 +664,9 @@ msgid ""
 " own \"look &amp; feel\" by customising the theme and applying your own "
 "branding.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Anda dapat memberikan \"tampilan "
+"&amp; nuansa\" tersendiri pada situs Moodle Anda dengan menyesuaikan tema "
+"dan menerapkan merek Anda sendiri.</p>"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "90761eca3370e54b4738db1cb878341b"}
@@ -643,6 +674,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">That's right. The huge number of "
 "available themes let you modify the appearance of a Moodle site.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Banyaknya jumlah tema yang "
+"tersedia memungkinkan Anda memodifikasi tampilan situs Moodle.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "1494803eb453bf1aa697848e053033ab"}
@@ -776,6 +809,8 @@ msgid ""
 "A Block might be added to a Moodle course to provide supplementary features "
 "or navigation."
 msgstr ""
+"Sebuah Blok mungkin ditambahkan ke kursus Moodle untuk menyediakan fitur "
+"atau navigasi tambahan."
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "b5e2a506826a7247195bfb339382bfe5"}
@@ -784,6 +819,9 @@ msgid ""
 "style=\"text-align: left;\">A Block might be added to&nbsp;a Moodle course "
 "to&nbsp;provide supplementary features or navigation.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar atau salah.</p><p dir=\"ltr"
+"\" style=\"text-align: left;\">Blok mungkin ditambahkan ke&nbsp;kursus "
+"Moodle untuk&nbsp;menyediakan fitur atau navigasi tambahan.</p>"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "2f14e935bc850886b809cbeea736b918"}
@@ -808,6 +846,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct. Blocks can be used in "
 "Moodle courses to&nbsp;provide supplementary features and navigation.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Blok dapat digunakan dalam "
+"kursus Moodle untuk&nbsp;menyediakan fitur tambahan dan navigasi.</p>"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "b102e08fac4fc0ce2776c6bc035409cf"}
@@ -879,6 +919,9 @@ msgid ""
 "used in Moodle courses to&nbsp;provide supplementary features and "
 "navigation.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi.&nbsp;Blok dapat "
+"digunakan dalam kursus Moodle untuk&nbsp;menyediakan fitur tambahan dan "
+"navigasi.</p>"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "f9aae5fda8d810a29f12d1e61b4ab25f"}
@@ -981,6 +1024,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Users will always have the same "
 "role in every course they are enrolled in.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pengguna akan selalu memiliki "
+"peran yang sama di setiap kursus yang mereka ikuti.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "897af8ee4d9bd89a0a68ebe979730818"}
@@ -998,6 +1043,9 @@ msgid ""
 "permissions that allow users to have different capabilities in different "
 "contexts.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Setiap peran memiliki kumpulan "
+"izinnya sendiri yang memungkinkan pengguna memiliki kemampuan berbeda dalam "
+"konteks berbeda.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "c5ea6e8d946fc231aa84fc306410a80a"}
@@ -1006,6 +1054,9 @@ msgid ""
 " and context define a specific user's ability to do something on any "
 "page.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Kombinasi peran dan "
+"konteks menentukan kemampuan pengguna tertentu untuk melakukan sesuatu di "
+"halaman mana pun.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "780f925dd0640c5bfc4f8543abe804ec"}
@@ -1030,7 +1081,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "629c7bcb1e5754bbabf90cc20a7356a8"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "6966", "md5key":
 # "a3e3439748c4d67bc7ccce9f808bcc68"}
@@ -1045,6 +1096,10 @@ msgid ""
 "menjawab pertanyaan singkat ini. Hanya perlu beberapa menit untuk "
 "menyelesaikannya.</p></div>‍‍​‌‌​‌‍‍</div>"
 msgstr ""
+"<div class=\"no-overflow\"><div class=\"no-overflow\"><p dir=\"ltr\" style"
+"=\"text-align: left;\">Kami sangat menghargai jika Anda bersedia menjawab "
+"pertanyaan singkat ini. Hanya perlu beberapa menit untuk "
+"menyelesaikannya.</p></div>‍‍​‌‌​‌‍‍</div>"
 
 # {"targetlanguage": "id", "contextid": "10882", "md5key":
 # "5bd789f5d4fc716f66ae0c6d88937ab6"}
@@ -1156,6 +1211,9 @@ msgid ""
 "complete control over your data to meet your <strong>local legislation "
 "requirements</strong>.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">LMS Moodle memungkinkan Anda "
+"memiliki kontrol penuh atas data Anda untuk memenuhi <strong>persyaratan "
+"undang-undang setempat</strong>.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "111fce2e7cb91b425f043902a290e6d8"}
@@ -1184,6 +1242,9 @@ msgid ""
 "platform, you have complete control over your data to meet local legislation"
 " requirements.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar.&nbsp;Sebagai platform "
+"sumber terbuka, Anda memiliki kendali penuh atas data Anda untuk memenuhi "
+"persyaratan undang-undang setempat.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f72486234b55701babe740008cc60fbd"}
@@ -1197,6 +1258,9 @@ msgid ""
 " platform, you do have complete control over your data to meet local "
 "legislation requirements.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Salah.&nbsp;Sebagai platform "
+"sumber terbuka, Anda memiliki kendali penuh atas data Anda untuk memenuhi "
+"persyaratan undang-undang setempat.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "d0741454ba585e54534b74086458b49e"}
@@ -1205,6 +1269,9 @@ msgid ""
 " compliant</strong>.</p><p dir=\"ltr\" style=\"text-align: left;\">Which of "
 "Moodle's key features is this relevant to?<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">LMS Moodle<strong> mematuhi WCAG "
+"2.1 AA</strong>.</p><p dir=\"ltr\" style=\"text-align : left;\">Fitur utama "
+"Moodle manakah yang relevan dengan hal ini?<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "1d3273ee53c56b95fed82c110b1895d3"}
@@ -1324,6 +1391,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Not quite. Sections can be used "
 "in courses to organise content and learning material.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\"> Kurang tepat. Area Bagian dapat "
+"digunakan dalam kursus untuk mengatur konten dan materi "
+"pembelajaran.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "bcbc28e742b4d3c28a403b5c3a15691b"}
@@ -1337,6 +1407,9 @@ msgid ""
 "collection of permissions given to a user in Moodle, and define a specific "
 "user's ability to do something on any page.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi. Peran adalah kumpulan "
+"izin yang diberikan kepada pengguna di Moodle, dan menentukan kemampuan "
+"pengguna tertentu untuk melakukan sesuatu di halaman mana pun.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "0aa98f0303b7bdd2bcf45f5264378f9c"}
@@ -1349,6 +1422,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Try again. Notifications alert "
 "users to events in Moodle which may require their attention.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi. Notifikasi menyiagakan "
+"pengguna akan kejadian di Moodle yang mungkin memerlukan perhatian "
+"mereka.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "76d15951862f267b4642902a86b8bb4f"}
@@ -1388,6 +1464,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;This is one of the "
 "four freedoms that traditionally define open source.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar.&nbsp;Ini adalah salah satu "
+"dari empat kebebasan yang secara tradisional mendefinisikan sumber "
+"terbuka.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "8563ef9d639f8059c636585434c64a3b"}
@@ -1438,6 +1517,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;This is one of the "
 "four freedoms that traditionally define open source.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar.&nbsp;Ini adalah salah satu "
+"dari empat kebebasan yang secara tradisional mendefinisikan sumber "
+"terbuka.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "fe7b05e79e11c478990f5c08c2b52156"}
@@ -1454,6 +1536,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Incorrect. This is not one of the"
 " four freedoms that traditionally define open source.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Salah. Ini bukan salah satu dari "
+"empat kebebasan yang secara tradisional mendefinisikan sumber terbuka.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "31dd94be725bb6c8b011e8250ab6821b"}
@@ -1491,6 +1575,9 @@ msgid ""
 "course is organised week by week, with each section having a date "
 "heading.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Dalam format ini, kursus "
+"diselenggarakan minggu demi minggu, dengan setiap bagian memiliki judul "
+"tanggal.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "2b2e45e7686c75f28d77dcbb4da5efcb"}
@@ -1503,6 +1590,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Try again.&nbsp;In this format, "
 "the course is organised into topic sections that can have custom titles.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi.&nbsp;Dalam format ini, "
+"kursus disusun menjadi bagian topik yang dapat memiliki judul khusus.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "fcbf8f9eaefa28691d1801cd32a14135"}
@@ -1516,6 +1605,9 @@ msgid ""
 "the course has only 1 section, and allows the teacher to add one activity "
 "only to the course.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi.&nbsp;Dalam format ini, "
+"kursus hanya memiliki 1 bagian, dan memungkinkan pengajar menambahkan satu "
+"aktivitas saja ke kursus.<br> </p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "e12fced4095095aa409a6b7869718a64"}
@@ -1529,6 +1621,9 @@ msgid ""
 "the course is oriented around one main forum which appears listed on the "
 "main page.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi.&nbsp;Dalam format ini, "
+"kursus diorientasikan pada satu forum utama yang muncul dalam daftar di "
+"halaman utama.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "deaae2b858177a974588e574930ad036"}
@@ -1577,6 +1672,9 @@ msgid ""
 "divided into sections to organise content and learning material for "
 "students.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi.&nbsp;Kursus dapat "
+"dibagi menjadi beberapa bagian untuk mengatur konten dan materi pembelajaran "
+"bagi siswa.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "8e0def576177773f2d0f65e866a8895f"}
@@ -1610,6 +1708,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Try again.&nbsp;Grades for each "
 "student in a course are recorded in the course gradebook.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi.&nbsp;Nilai setiap "
+"siswa dalam suatu mata pelajaran dicatat dalam buku nilai mata pelajaran.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "a750eb8031cb5fb68e9bc5f0b6c4f30d"}
@@ -1618,6 +1718,9 @@ msgid ""
 "<strong>teachers to grade assessed activities</strong> and <strong>students "
 "to view their own grades</strong>?<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Fitur Moodle manakah yang "
+"memungkinkan <strong>guru menilai aktivitas yang dinilai</strong> dan "
+"<strong>siswa melihat nilainya sendiri</strong>? <br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "15dc647ae3ff7b93bf0d4033b51e69a4"}
@@ -1660,6 +1763,9 @@ msgid ""
 "or area within Moodle where teachers can present their learning resources "
 "and activities to students.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pikirkan lagi. Kursus adalah "
+"halaman atau area dalam Moodle dimana pengajar dapat menyajikan sumber "
+"belajar dan aktivitasnya kepada siswa.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "82c0e8097e8c1dc9a5bb1f208578b81b"}
@@ -1672,6 +1778,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Think again.&nbsp;Blocks are "
 "elements which add extra information or learning content to a course.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pikirkan lagi.&nbsp;Blok adalah "
+"elemen yang menambahkan informasi tambahan atau konten pembelajaran ke suatu "
+"kursus.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "b52da29cc876bc3c90b44fe6fe85031f"}
@@ -1729,6 +1838,11 @@ msgid ""
 "based self-registration</a> is a feature of Moodle that you can enable, it "
 "is not an example of how you would customise and extend your site.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\"> Kurang tepat. Meskipun <a href="
+"\"https://docs.moodle.org/en/Email-based_self-registration\">pendaftaran "
+"mandiri berbasis email</a> adalah fitur Moodle yang dapat Anda aktifkan, ini "
+"bukanlah contoh bagaimana Anda akan menyesuaikan dan mengembangkan situs "
+"Anda.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "9c4e48934c89f0b1b4aa548d5eff0cf5"}
@@ -1737,6 +1851,9 @@ msgid ""
 " contact other users via real-time chat (if they are online) or message (if "
 "they are offline).</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Gunakan <strong>perpesanan </"
+"strong>untuk menghubungi pengguna lain melalui obrolan waktu nyata (jika "
+"mereka daring) atau pesan (jika mereka luring).</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "da1c3e616bca774503c55443cd24b4d1"}
@@ -1771,6 +1888,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Tailor the \"<strong>look &amp; "
 "feel</strong>\" (or skin) of your site by&nbsp;altering the theme.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Sesuaikan \"<strong>tampilan &amp;"
+" nuansa</strong>\" (atau tampilan) situs Anda dengan&nbsp;mengubah tema.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "846142d4736212a48108d65ad8f54680"}
@@ -1778,6 +1897,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct. Moodle allows you many "
 "options to customise the appearance of your site by altering the theme.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Moodle memberi Anda banyak "
+"pilihan untuk menyesuaikan tampilan situs Anda dengan mengubah tema.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "da809af1cb9703606fd8fb26bf0a8b6c"}
@@ -1810,6 +1931,12 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">That's right. Moodle Workplace™ is built on Moodle LMS with advanced features for workplace learning.</p>\n"
 "<p dir=\"ltr\" style=\"text-align: left;\"><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.com/workplace/\">More about Moodle Workplace</a></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Moodle Workplace™ dibangun "
+"di atas Moodle LMS dengan fitur-fitur canggih untuk pembelajaran di tempat "
+"kerja.</p>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"><span class=\"moodle-orange bold "
+"larger\">›&nbsp;</span><a href=\"https://moodle.com/workplace/\""
+">Selengkapnya tentang Moodle Workplace</a></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "2b36133ab59b9ce6bb824f1b95ee9d30"}
@@ -1834,6 +1961,12 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;Moodle App improves the experience of Moodle LMS and Moodle Workplace on touch screen devices.</p>\n"
 "<p dir=\"ltr\" style=\"text-align: left;\"><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.com/app/\">More about Moodle App</a></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar.&nbsp;Aplikasi Moodle "
+"meningkatkan pengalaman Moodle LMS dan Moodle Workplace pada perangkat layar "
+"sentuh.</p>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"><span class=\"moodle-orange bold "
+"larger\">›&nbsp;</span><a href=\"https://moodle.com/app/\">Selengkapnya "
+"tentang Aplikasi Moodle</a></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "64cccfbd956c05dc15b7b510be27b3ec"}
@@ -1846,6 +1979,12 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct. Moodle LMS is the world’s most customisable and trusted open source learning management system.</p>\n"
 "<p dir=\"ltr\" style=\"text-align: left;\"><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.com/lms/\">More about Moodle LMS</a></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Moodle LMS adalah sistem "
+"manajemen pembelajaran sumber terbuka yang paling dapat disesuaikan dan "
+"tepercaya di dunia.</p>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"><span class=\"moodle-orange bold "
+"larger\">›&nbsp;</span><a href=\"https://moodle.com/lms/\">Selengkapnya "
+"tentang Moodle LMS</a></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "ddd476cff2cd94cb49d40401d54076ed"}
@@ -1912,6 +2051,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Try again. A menu is part of the "
 "course or site navigation.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi. Menu adalah bagian "
+"dari kursus atau navigasi situs.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "76c7fb4c41efc5267f2d8ae38922c079"}
@@ -1924,6 +2065,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Try again. A profile is a page "
 "which displays information about a user.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi. Profil adalah halaman "
+"yang menampilkan informasi tentang pengguna.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f6e7774c6b83807f6a17c6979a866348"}
@@ -1936,6 +2079,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Try again. A forum is a type of "
 "activity where users can interact with one another.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Coba lagi. Forum adalah jenis "
+"aktivitas di mana pengguna dapat berinteraksi satu sama lain.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "9cf466254ecae72e829344d7db4d35a2"}
@@ -1989,6 +2134,9 @@ msgid ""
 "report bugs and issues using the <a "
 "href=\"https://tracker.moodle.org/\">Moodle Tracker</a>.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Semua pengguna Moodle "
+"dapat melaporkan bug dan masalah menggunakan <a href=\"https://tracker.moodle"
+".org/\">Moodle Tracker</a>.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "4415c5317bf30c1376b58aed831f9124"}
@@ -2006,6 +2154,9 @@ msgid ""
 "make use of the <a href=\"https://moodle.org/course/\">community forums</a> "
 "to ask and answer questions.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Semua pengguna Moodle "
+"dapat menggunakan <a href=\"https://moodle.org/course/\">forum komunitas</a> "
+"untuk bertanya dan menjawab pertanyaan.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "7b3220857bd926d09493cffb9b0901fc"}
@@ -2035,6 +2186,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct. All Moodle users can "
 "develop&nbsp;new plugins or contribute changes to core. Moodle code.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Semua pengguna Moodle "
+"dapat mengembangkan&nbsp;plugin baru atau menyumbangkan perubahan pada inti. "
+"Kode Moodle.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "132eb72f156f1779776e7ad3fd18850b"}
@@ -2052,6 +2206,8 @@ msgid ""
 "href=\"https://lang.moodle.org/\">contribute to the translation of Moodle "
 "language packs</a>.</p>"
 msgstr ""
+"<p>Benar. Semua pengguna Moodle dapat <a href=\"https://lang.moodle.org/\""
+">berkontribusi pada penerjemahan paket bahasa Moodle</a>.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "e1cbdd11fc6077bab119f589ad4f30e1"}
@@ -2060,6 +2216,9 @@ msgid ""
 "learning management system. <br>How can you get a Moodle site for your "
 "course?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle adalah sistem manajemen "
+"pembelajaran sumber terbuka dan gratis. <br>Bagaimana cara mendapatkan situs "
+"Moodle untuk kursus Anda?</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "ea75c92a31aa0eaee1df391724c5d3e9"}
@@ -2102,6 +2261,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct. You can install and run "
 "Moodle on your own servers.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Anda dapat menginstal dan "
+"mengoperasikan Moodle di server Anda sendiri.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "2e3470133d5de80998567068a16153a3"}
@@ -2129,6 +2290,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct. Moodle Partners can help"
 " institutions and organisations set up their online learning platforms.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Mitra Moodle dapat "
+"membantu institusi dan organisasi menyiapkan platform pembelajaran online "
+"mereka.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "ac4d1af4aca9620aa5b0a58e3d1a874d"}
@@ -2153,6 +2317,8 @@ msgid ""
 "<p dir=\"ltr\">Moodle is a Learning Management System.</p><p "
 "dir=\"ltr\">Which of the following can Moodle be used for?</p>"
 msgstr ""
+"<p dir=\"ltr\">Moodle adalah Sistem Manajemen Pembelajaran.</p><p dir=\"ltr\""
+">Moodle berikut ini dapat digunakan untuk apa?</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "440c7012c4b6ba1283aa5c7330ac72cb"}
@@ -2191,6 +2357,9 @@ msgid ""
 "<p>Correct. Moodle is a Learning Management System, so is ideal for managing"
 " your online course, using tools like the Gradebook, Groups and Reports.</p>"
 msgstr ""
+"<p>Benar. Moodle adalah Sistem Manajemen Pembelajaran, sehingga ideal untuk "
+"mengelola kursus online Anda, menggunakan alat seperti Buku Nilai, Grup, dan "
+"Laporan.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f9241f0ba3512ed81d6ac92be54692b8"}
@@ -2203,6 +2372,8 @@ msgid ""
 "<p>Correct. Moodle can be used for the delivery of learning content, using "
 "tools like the Book, File and Lesson.</p>"
 msgstr ""
+"<p>Benar. Moodle dapat digunakan untuk penyampaian konten pembelajaran, "
+"dengan menggunakan alat seperti Buku, Berkas dan Pelajaran.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "dbdd4421cc81586632c8b3d6cfea3e32"}
@@ -2237,6 +2408,13 @@ msgid ""
 "    <li>Wiki</li>\n"
 "</ul>"
 msgstr ""
+"<p>Benar. Moodle memiliki sejumlah alat yang dapat digunakan untuk "
+"kolaborasi antar peserta didik. Alat-alat ini meliputi:</p>\n"
+"<ul>\n"
+"    <li>Forum</li>\n"
+"    <li>Basis Data</li>\n"
+"    <li>Wiki</li>\n"
+"</ul>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "8e665548f9336e4d1f070fc7b739ebae"}
@@ -2354,6 +2532,10 @@ msgid ""
 "universities, Government organisations, Non-government organisations (NGOs) "
 "and workplaces.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Karena sifat Moodle yang sangat "
+"fleksibel dan dapat disesuaikan, Moodle digunakan di seluruh dunia oleh "
+"sekolah, universitas, organisasi Pemerintah, Lembaga Swadaya Masyarakat (LSM)"
+" dan tempat kerja.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "ff8e52fd602a506011830e1bd50c47ed"}
@@ -2382,6 +2564,9 @@ msgid ""
 "young learners in traditional K-12 schools, distance education and home "
 "study.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar.&nbsp;Moodle melayani "
+"peserta didik muda di sekolah K-12 tradisional, pendidikan jarak jauh, dan "
+"belajar di rumah.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "b1f821fd5c9a3fcd047ac04c07102a40"}
@@ -2395,6 +2580,10 @@ msgid ""
 "educators to create safe, accessible, flexible and highly engaging online "
 "spaces for learners in universities, colleges, academies or institutes.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar.&nbsp;Moodle memungkinkan "
+"pendidik menciptakan ruang daring yang aman, mudah diakses, fleksibel, dan "
+"sangat menarik bagi pelajar di universitas, perguruan tinggi, akademi, atau "
+"institut.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "75ba6afb0d1b546e91478dfab1cbab30"}
@@ -2408,6 +2597,9 @@ msgid ""
 "features - including its open source and cloud-based delivery - make it "
 "particularly useful for NGOs.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Banyak fitur Moodle – "
+"termasuk sumber terbuka dan pengiriman berbasis cloud – menjadikannya sangat "
+"berguna bagi LSM.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "8587bc84b5bb1a963f56120f132f6616"}
@@ -2421,6 +2613,9 @@ msgid ""
 "customisable platform streamlining onboarding, workplace learning, "
 "automation of common processes and compliance management.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar.&nbsp;Moodle menawarkan "
+"platform yang dapat disesuaikan yang menyederhanakan orientasi, pembelajaran "
+"di tempat kerja, otomatisasi proses umum, dan manajemen kepatuhan.</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "4292659c931f7a386a9a6c3150ea27aa"}
@@ -2485,6 +2680,10 @@ msgid ""
 "learning by providing activities and opportunities&nbsp;for learners to "
 "interact and participate in a course.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Moodle mendukung "
+"pembelajaran aktif dengan menyediakan aktivitas dan kesempatan&nbsp;bagi "
+"pembelajar untuk berinteraksi dan berpartisipasi dalam suatu "
+"kursus.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "768fac551cfa91f3d9c1254479fe6276"}
@@ -2498,6 +2697,9 @@ msgid ""
 "learning by offering activities and opportunities for teacher-led "
 "instruction.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Moodle mendukung "
+"pembelajaran pasif dengan menawarkan aktivitas dan peluang untuk pengajaran "
+"yang dipimpin oleh guru.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f8a6c1e9cf17fc47640689b6afa0ae1a"}
@@ -2511,6 +2713,9 @@ msgid ""
 " with their collaborative learning and group communication in a blended or "
 "online learning environment.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Moodle mendukung siswa "
+"dengan pembelajaran kolaboratif dan komunikasi kelompok dalam lingkungan "
+"pembelajaran gabungan atau daring.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "0977b0b7083d4174a39c64e6163170ee"}
@@ -2524,6 +2729,9 @@ msgid ""
 "independent learning by providing opportunities for learners to&nbsp;seek "
 "out information and learn at their own pace.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Moodle mendukung "
+"pembelajaran mandiri dengan memberikan kesempatan bagi peserta didik untuk "
+"mencari informasi dan belajar sesuai kecepatan mereka masing-masing.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "d3188e9ebde0935d4bb1b44f1cb5cf97"}
@@ -2532,6 +2740,9 @@ msgid ""
 "software.</p><p dir=\"ltr\" style=\"text-align: left;\">'Open source' can be"
 " described as:<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle adalah perangkat lunak "
+"sumber terbuka.</p><p dir=\"ltr\" style=\"text-align: left;\">'Sumber "
+"terbuka' dapat digambarkan sebagai:<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "7bea3f0afe9d16e22e39a3d6d4824c71"}
@@ -2540,6 +2751,9 @@ msgid ""
 "described as something people can modify and share because its design is "
 "publicly accessible.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya, 'Sumber terbuka' dapat "
+"digambarkan sebagai sesuatu yang dapat dimodifikasi dan dibagikan oleh orang-"
+"orang karena desainnya dapat diakses oleh publik.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "c31a7d283efe71109344839f86e62b74"}
@@ -2562,6 +2776,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Something people can modify and "
 "share because its design is publicly accessible.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Sesuatu yang dapat dimodifikasi "
+"dan dibagikan oleh orang-orang karena desainnya dapat diakses oleh "
+"publik.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "aa1986f168ff663d8db67751674d53ba"}
@@ -2570,6 +2787,9 @@ msgid ""
 "of Moodle, the software can be modified and shared because it is open "
 "source.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya, benar. Dalam kasus Moodle, "
+"perangkat lunak dapat dimodifikasi dan dibagikan karena bersifat sumber "
+"terbuka.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "15ffe2f7474c44085145171604689fc5"}
@@ -2578,6 +2798,9 @@ msgid ""
 "before the publisher reserves licensing rights to use, modify or share "
 "it.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Desain kolaboratif perangkat "
+"lunak sebelum penerbit mempunyai hak lisensi untuk menggunakan, "
+"memodifikasi, atau membagikannya.&nbsp;</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "ca567220d3d3f8ec6565a6b123b79223"}
@@ -2586,3 +2809,6 @@ msgid ""
 "(and often does) involve collaborative design, there are not restrictions on"
 " using, modifying or sharing the software.&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\"> Kurang tepat. Meskipun sumber "
+"terbuka mungkin (dan sering kali) melibatkan desain kolaboratif, tidak ada "
+"batasan dalam penggunaan, modifikasi, atau berbagi perangkat lunak.&nbsp;</p>"
