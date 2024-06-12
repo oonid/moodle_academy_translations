@@ -1,0 +1,2423 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "a42b4a300a295670ed3c41cf65d161d6"}
+msgid ""
+"<p dir=\"ltr\">This course provides an introduction to the Moodle Learning "
+"Management System. Whether you are an Administrator, Educator or Developer, "
+"we recommend starting with this course for an overview of what Moodle can "
+"offer.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "5ab4280c30c24810ce98548cd4d2930f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This beginner level&nbsp;course "
+"provides a short, high level overview of Moodle. It is recommended that you "
+"take this course before any others, if you are not already familiar with "
+"Moodle. It is suitable for everyone: educators, administrators and "
+"developers.</p><p dir=\"ltr\" style=\"text-align: center;\"><a "
+"href=\"https://youtu.be/ax6yPMyx5gU\">https://youtu.be/ax6yPMyx5gU</a><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "09485c793b3da5db25cb45724e2c58e9"}
+msgid "Webinar recordings"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "316d3d4febd00a31bd1567ccfa8befae"}
+msgid ""
+"The following two webinar recordings are not required to complete the "
+"course. Feel free to watch them if you wish."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "False", "md5key":
+# "97ee8e4a88a7ff3f2b780698b82b154d"}
+msgid ""
+"<div class=\"no-overflow\"><div class=\"no-overflow\">Sebelum memulai, "
+"tinjau Gambaran umum kursus, Capaian pembelajaran, Struktur kursus, serta "
+"Informasi kelulusan dan kriteria penilaian.</div>‍‍​‌‌‌​‍‍</div>"
+msgstr ""
+"<div class=\"no-overflow\"><div class=\"no-overflow\">Sebelum memulai, "
+"tinjau Gambaran umum kursus, Capaian pembelajaran, Struktur kursus, serta "
+"Informasi kelulusan dan kriteria penilaian.</div>‍‍​‌‌‌​‍‍</div>"
+
+# {"targetlanguage": "id", "contextid": "False", "md5key":
+# "026b9211dddd47ed34f0f354f2c55961"}
+msgid "Moodle versions"
+msgstr "Versi Moodle"
+
+# {"targetlanguage": "id", "contextid": "6958", "md5key":
+# "b3d48191e08e8073f937d99b22145e73"}
+msgid ""
+"<p>The activities and screenshots in this course are based on the standard "
+"Boost theme and the latest version of Moodle LMS, currently "
+"4.3.&nbsp;See&nbsp;<a "
+"href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3 documentation "
+"overview</a>&nbsp;and&nbsp;<a "
+"href=\"https://docs.moodle.org/403/New_features\">New Features 4.3 "
+"documentation.</a><br>&nbsp;If your Moodle site looks different, ask your "
+"Moodle support staff about the theme and version being "
+"used.<br><br>&nbsp;You can access documentation about earlier, supported "
+"versions of Moodle LMS below. This documentation includes the videos related"
+" to each version.<br></p><ul><li><a "
+"href=\"https://docs.moodle.org/402/en/Main_pagehttps://docs.moodle.org/402/en/New_features\""
+" "
+"title=\"https://docs.moodle.org/402/en/Main_pagehttps://docs.moodle.org/402/en/New_features\">Moodle"
+" 4.2 documentation overview</a>&nbsp;and&nbsp;<a "
+"href=\"https://docs.moodle.org/402/en/New_features\">New Features 4.2 "
+"documentation.</a></li><li><a "
+"href=\"https://docs.moodle.org/401/en/Main_page\">Moodle 4.1 documentation "
+"overview</a>&nbsp;and&nbsp;<a "
+"href=\"https://docs.moodle.org/401/en/New_features\">New Features 4.1 "
+"documentation.</a></li></ul><br><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "False", "md5key":
+# "bd4c84733ab23f5582b585747dfeb7d6"}
+msgid "Completion and assessment"
+msgstr "Kelulusan dan penilaian"
+
+# {"targetlanguage": "id", "contextid": "6958", "md5key":
+# "def17296abcbd388e452259c4797438d"}
+msgid ""
+"<p dir=\"ltr\">To complete the course you need to complete the following activities:</p>\n"
+"<p dir=\"ltr\"></p>\n"
+"<ul>\n"
+"    <li>'About this course' book (what you are reading now).</li><li>'Course pre-check: What do you already know?', making at least 1 attempt - your score doesn't matter.</li>\n"
+"    <li>'About Moodle', 'Moodle key features', 'Courses' and 'Users' lessons.</li>\n"
+"    <li>'Introduction to Moodle: Check your understanding' quiz, achieving 80% or more.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<h4>Completing the activities</h4>\n"
+"<p></p><ul><li>Some activities are automatically marked as completed based on specific criteria.</li><li>Some activities require you to manually mark them as done.</li></ul><p>Make sure you complete the activities according to their completion conditions.</p><h4>Course badge</h4>\n"
+"<p>Upon successful completion of this course you will be automatically awarded with the relevant badge to showcase the skills and knowledge you have obtained.</p>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "False", "md5key":
+# "8d282a8bd2fe903679ba3011d408c26a"}
+msgid "Licence"
+msgstr "Lisensi"
+
+# {"targetlanguage": "id", "contextid": "6958", "md5key":
+# "6942429511d7a39b8386a7cba605be93"}
+msgid ""
+"<p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img src=\"https://moodle.academy/pluginfile.php/6958/mod_book/chapter/626/ccby.png\" alt=\"Creative Commons Licence\" width=\"120\" height=\"42\" style=\"float:left\" class=\"img-fluid atto_image_button_middle\"></a>\n"
+"    This course by Moodle Academy (Moodle Pty Ltd) is licensed under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>. Original resources available at&nbsp;<a href=\"https://moodle.academy/\">https://moodle.academy</a>.<br></p>\n"
+"<span class=\"moodle-orange bold larger\">›</span>\n"
+"<a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=272\">Read more about how you should attribute this work.</a>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "False", "md5key":
+# "815c7fb91561296c9ad3e407821bffb3"}
+msgid "Course structure"
+msgstr "Struktur kursus"
+
+# {"targetlanguage": "id", "contextid": "6958", "md5key":
+# "d35c4ffe3d2af240e6f6406d58493c45"}
+msgid ""
+"<h4>Welcome</h4>\n"
+"<p>Find out how the course works, check your prior understanding and join in an optional general discussion.</p>\n"
+"<h4>About Moodle</h4>\n"
+"<p>Be introduced to the concept, philosophy and background of Moodle.</p>\n"
+"<h4>Moodle key features</h4>\n"
+"<p>Learn about some of the key features that make Moodle&nbsp;the world’s most customisable and trusted online learning solution.&nbsp;&nbsp;</p>\n"
+"<p></p>\n"
+"<h4>Courses</h4>\n"
+"<p>Explore Moodle's basic structure, which is organised around courses.</p>\n"
+"<p></p>\n"
+"<h4>Users</h4>\n"
+"<p>Find out about Moodle users, roles, permissions, and other Moodle user features.</p>\n"
+"<h4>Course check</h4>\n"
+"<p>Test your understanding in the final quiz.</p>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "False", "md5key":
+# "0e5231c0d444d5b1538faad5e4729066"}
+msgid "Course overview"
+msgstr "Ikhtisar kursus"
+
+# {"targetlanguage": "id", "contextid": "6958", "md5key":
+# "8415c140562df4f097d265656979d66d"}
+msgid ""
+"<h4 style=\"text-align: left;\">Aim</h4>\n"
+"<p>In this course you will learn about Moodle LMS (Learning Management System), its general structure, and some of its defining features.</p><h4>Format</h4><p dir=\"ltr\">This is a self-paced course without active moderation. You are encouraged to discuss ideas in the discussion forums and respond to other learners' queries.</p><h4 style=\"text-align: left;\">Estimated time</h4>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\">The estimated time to complete this course is 1 hour.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "False", "md5key":
+# "a209901e4d65897541bb3eacb6998def"}
+msgid "Learning outcomes"
+msgstr "Capaian pembelajaran"
+
+# {"targetlanguage": "id", "contextid": "6958", "md5key":
+# "f7fc08df1fa74aa35343b30e9c2ff930"}
+msgid ""
+"<p>By the end of this course, participants will be able to:</p>\n"
+"<ul>\n"
+"    <li>Describe the concept, philosophy and purpose of Moodle.</li>\n"
+"    <li>Identify some of the key features of Moodle - accessibility, flexibility, security, customisability.</li>\n"
+"    <li>Describe the primary Moodle course elements - sections, activities, resources, blocks, gradebook.</li>\n"
+"    <li>Describe Moodle users, roles, permissions, and other Moodle user features.</li>\n"
+"</ul>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "False", "md5key":
+# "64a39273573e4fc2b712d51106db7a4e"}
+msgid "Change log"
+msgstr "Catatan perubahan"
+
+# {"targetlanguage": "id", "contextid": "6958", "md5key":
+# "31baec0ddf852eea0f2526dea886fbc0"}
+msgid ""
+"\n"
+"<p>All notable changes to this course will be documented in this page.</p><hr><p>Date: January 2024<br>Changed by: Richard Lefroy<br>Changes:</p><p></p><ul><li><span style=\"font-size: 1rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;\">Updated <a href=\"https://moodle.academy/mod/book/view.php?id=709&amp;chapterid=571\">Completion</a> information in 'About this course' book.</span></li><li><span style=\"font-size: 1rem; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Liberation Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;\">Changed text block to Moodle version 4.3&nbsp;</span><br></li></ul><p></p>\n"
+"<hr>\n"
+"<p>Date: November 2023<br>\n"
+"    Changed by: Mary Cooch<br>\n"
+"    Changes:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>Updated the video in the Moodle key features lesson to the latest 4.3 version.</li>\n"
+"</ul><hr>\n"
+"<p>Date: December 2022<br>Changed by: Richard Lefroy<br>Changes:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>Added versions chapter to 'About this course' book</li>\n"
+"    <li>Changed text block to Moodle version 4.1&nbsp;</li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "8257", "md5key":
+# "80196aa052c3ec61dff4c7aefb796b5c"}
+msgid "What is your role?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6960", "md5key":
+# "eb2022611a439f5e64a5dc23c61ee7f4"}
+msgid "Course pre-check: What do you already know?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6969", "md5key":
+# "a6d7c6b42fc61dbb879dcda67c651f93"}
+msgid "Glossary of Moodle terms"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "f4041c7dffd4b26c23af25690bab09de"}
+msgid "About Moodle"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "654d843c8fea29261c9a46efa34d5e0e"}
+msgid "Which statement about Moodle is more accurate?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "bbc3775c9a1994c7baf6ed2e04f83eae"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which statement about Moodle is "
+"more accurate?<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "654d843c8fea29261c9a46efa34d5e0e"}
+msgid "Which statement about Moodle is more accurate?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "0cff3ca8417d1355cf9b76ec0da86e2a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which statement about Moodle is "
+"more accurate?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "56c8e833b3423035d440fe971f9a7a1f"}
+msgid "The Moodle Community"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "73537c82ce9241e47576452b7a691f45"}
+msgid ""
+"<p dir=\"ltr\">As an open source platform, Moodle LMS has a large community that has grown around the project. Since humble beginnings in 1999, thousands of developers, system administrators, educators and learners have participated by fixing bugs, writing new features, updating documentation, sharing tips, helping new users, sharing resources and debating new ideas.</p>\n"
+"<p dir=\"ltr\">The Moodle community contributes to and supports the evolution of Moodle LMS in an ongoing cycle of improvement.</p>\n"
+"<p dir=\"ltr\"><span class=\"moodle-orange bold larger\">›&nbsp;</span>Want to be involved? <a href=\"https://moodle.com/community/\">Join the Moodle community</a>.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "b2cb51f58c73fd913fd88db22d15f966"}
+msgid "The open source way"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "d7f7b4f1d34f1fab4ffbc17bc9bbe1e3"}
+msgid ""
+"<p dir=\"ltr\">The term “open source” refers to something people can modify and share because its design is publicly accessible.</p>\n"
+"<p dir=\"ltr\"><span style=\"font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 1rem;\">In the case of Moodle LMS (and associated projects such as Moodle Apps and MoodleNet), the “source code” is licensed under an \"open source\" license. Therefore, it allows anyone to:</span></p>\n"
+"<p dir=\"ltr\"></p>\n"
+"<ul>\n"
+"    <li><span style=\"font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 1rem;\">download the software for free;</span></li>\n"
+"    <li><span style=\"font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 1rem;\">change how it works by writing new code;</span></li>\n"
+"    <li><span style=\"font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 1rem;\">add features to it; and</span></li>\n"
+"    <li><span style=\"font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 1rem;\">resolve faults.</span></li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<p dir=\"ltr\">At Moodle we follow the four freedoms that traditionally define open source:<br></p>\n"
+"<p dir=\"ltr\">The freedom to:</p>\n"
+"<ul>\n"
+"    <li><span style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">run Moodle LMS as you wish, for any purpose;</span></li>\n"
+"    <li>study how Moodle LMS works and change it as you wish;</li>\n"
+"    <li>redistribute copies so you can help others; and</li>\n"
+"    <li>distribute copies of modified Moodle code and extensions to benefit the entire community.</li></ul><p><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.com/open-source/\">More about open source</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "547c2026df6b50fc767ddf4828f0823c"}
+msgid "Welcome to Moodle"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "c8b4d4cd44e7c73fdbf4823184627733"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><span style=\"font-size: 1rem; "
+"font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, "
+"&quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif,"
+" &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI "
+"Symbol&quot;;\">Moodle LMS, the open source learning management system used "
+"by hundreds of millions of learners worldwide, is the heart of the world’s "
+"most customisable and trusted online learning solution.</span></p><p "
+"dir=\"ltr\"><span style=\"font-family: &quot;Open Sans&quot;, -apple-system,"
+" BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica "
+"Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI"
+" Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 1rem;\">Developed in "
+"conjunction with our community, Moodle LMS is complemented by Moodle "
+"Workplace™, Moodle Apps, MoodleCloud, Moodle Academy and a network of Moodle"
+" Certified Partners and Service Providers delivering expertise in hosting, "
+"customisations, support and training.</span></p><p dir=\"ltr\">Hundreds of "
+"thousands of organisations, in every education sector, at all types of "
+"workplaces, across every country on the globe, and in nearly every language,"
+" use Moodle as a solution to manage their online learning.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "07743c455ff1b51c5b8997f67a4cdfb0"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "a807de0d871659d339cc3099a20249a7"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "3e1b3ec1a0daad32d64d4327fbdd51fe"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle relies on a small team of "
+"in-house developers to develop new plugins and maintain all aspects of the "
+"platform.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "ab40e7d6b11e4e270644787da65b8447"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not quite.&nbsp;The Moodle "
+"community plays a huge part in developing and maintaining the "
+"platform.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "61eb3253dd000cf07c6b5315131b46fb"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The source code of Moodle can be "
+"modified and shared because its design is publicly accessible.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "3b70aab39b9e204486ce54b88ca92d52"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's right. Because Moodle is "
+"open source, the entire software can be downloaded for free and altered.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "d811ba720ca8fd781add5a6772cc761a"}
+msgid ""
+"<p dir=\"ltr\">Moodle has a huge worldwide community that contributes to "
+"writing new features and supporting the evolution of Moodle LMS in an "
+"ongoing cycle of improvement.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "ba04c123d2115e820ce9fd1c1eea0319"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's right. The Moodle "
+"community plays a huge part in developing and maintaining the "
+"platform.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "baedb26417b97b326e515b8a0a15905d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Only the original authors can "
+"legally copy, inspect, and alter the source code of Moodle.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "479fbfc7878a4355a7697ef09e1246b1"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not quite.&nbsp;Because Moodle is"
+" open source, the entire software can be downloaded for free by anyone and "
+"altered.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7070", "md5key":
+# "4e47b18150987ee5e420bb11ad0f5cf2"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "18017dba74bb8cbd400f6657f8313d50"}
+msgid "Moodle key features"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "654d843c8fea29261c9a46efa34d5e0e"}
+msgid "Which statement about Moodle is more accurate?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "86eae72e76aa58709c0f158b7bcbbcf5"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which statement about Moodle is "
+"more accurate?<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "b003b8bdb02a559a786c7b2c0eacde0b"}
+msgid "Accessible"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "c606c08ffcafb1898259d59742081fd7"}
+msgid ""
+"<p dir=\"ltr\">Moodle LMS is WCAG 2.1 AA compliant which means that Moodle users can be reassured that Moodle meets accessibility in four key areas. Whether you are an educator, learner, developer or system administrator, the Moodle LMS authoring and evaluation tools are endorsed by WCAG as perceivable, operable, understandable and compatible.<br></p>\n"
+"<p dir=\"ltr\"><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://docs.moodle.org/en/Accessibility\">More about accessibility</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "401933723c547fa9751e95d644941919"}
+msgid "Moodle LMS overview"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "44faf36c494aa0f39e1e3b2b7454d70a"}
+msgid ""
+"<p>Moodle LMS is an open source, secure, feature-rich software platform that runs on any computer server and all common devices. Designed in collaboration with Moodle’s global community, it allows educators in any sector to create flexible, safe, accessible and highly engaging online spaces for their learners.</p>\n"
+"<p><a href=\"https://youtu.be/DubiRbeDpnM\">https://youtu.be/DubiRbeDpnM</a><br></p>\n"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "7a2ccf251ecb20b2b84ce0e3c3f72a29"}
+msgid "Secure"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "c0b50afac51ede27dbb8b269921d1c46"}
+msgid ""
+"<p dir=\"ltr\"><span style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Moodle’s development practices include security by design. This means that we embed a security mindset right from the start in all of our development to deliver a secure platform. As an open source platform, Moodle LMS enables you to have complete control over your data to meet your local legislation requirements, including GDPR compliance.</span><br></p>\n"
+"<p dir=\"ltr\"><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.com/security-privacy/\">More about security</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "13b303a6c0d90897b5375ce901acc445"}
+msgid "Flexible"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "aa85ee5527ea51affd2e19e3ae77dd89"}
+msgid ""
+"<p>Moodle provides a pedagogical toolbox designed from a social constructionist point of view that empowers you to build your own education platform to teach the way you want, to any number of learners.</p><p><span style=\"font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 1rem;\">Moodle can support your online education style, whether you want to:</span></p>\n"
+"    <p></p>\n"
+"    <ul>\n"
+"        <li>support deep collaborative learning;</li>\n"
+"        <li>foster peer review;</li>\n"
+"        <li>encourage self reflection;</li>\n"
+"        <li>review learners’ progress;</li>\n"
+"        <li>provide tasks that allow for active participation, exploration and experimentation; or</li>\n"
+"        <li>keep learners up to date with course requirements or changes.</li>\n"
+"    </ul>\n"
+"    <p></p>\n"
+"    <p>Moodle supports learning from any device with the Moodle App, which improves the experience of Moodle LMS on touch screen devices and allows learners to access content, submit activities, receive notifications and complete assignments. It allows the use of Moodle in environments where learners don’t have computers or only poor internet connection.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "491823147faa028e4beb0186eaa7e9d6"}
+msgid "Customise and extend"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "cb73b1e4ba0a3886c6675c7356735147"}
+msgid ""
+"<p dir=\"ltr\"><span style=\"font-size: 1rem; font-family: &quot;Open "
+"Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto,"
+" &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color "
+"Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI "
+"Symbol&quot;;\">Moodle allows you to tailor your site to your needs by "
+"customising the appearance and branding (theme) and choose from a huge "
+"number of settings and built-in tools to design the perfect LMS for your "
+"needs – whether your courses are instructor-led, self-paced, blended or "
+"entirely online.</span><br></p><p dir=\"ltr\">You can extend the "
+"functionality of your Moodle site with a huge ecosystem of <hypothesis-"
+"highlight class=\"hypothesis-highlight\"><hypothesis-highlight "
+"class=\"hypothesis-highlight\"><hypothesis-highlight class=\"hypothesis-"
+"highlight\">plugins </hypothesis-highlight></hypothesis-"
+"highlight></hypothesis-highlight>and certified integrations with third party"
+" software. From video conferencing tools, to attendance trackers, to payment"
+" gateways… you name it!<br></p><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "654d843c8fea29261c9a46efa34d5e0e"}
+msgid "Which statement about Moodle is more accurate?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "54f1a13af93160a3345f66005d663bee"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which statement about Moodle is "
+"more accurate?<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "a2e5910de4ae88fd42f3da8346bd6147"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "e41485923f360712e8c4ff0bfef85e28"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle allows for one single "
+"approach to teaching and learning.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "71ce7efdea3a0ca9b46b46576f400d03"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not quite.&nbsp;The flexibility "
+"of Moodle lets you customise your approach to teaching.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "0af9dd0eb235a976f85fbfbe0a529747"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle gives you the flexibility "
+"to teach the way you want, to any number of learners.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "efcf4b31d665a16b6387f8ed775c2e44"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's right. The flexibility of "
+"Moodle lets you customise your approach to teaching.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "0cf3d6597ccd09142bfa56b0f755d2c2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You can give your Moodle site its"
+" own \"look &amp; feel\" by customising the theme and applying your own "
+"branding.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "90761eca3370e54b4738db1cb878341b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's right. The huge number of "
+"available themes let you modify the appearance of a Moodle site.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "1494803eb453bf1aa697848e053033ab"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You can alter the appearance of "
+"your Moodle site by choosing from a handful of \"out of the box\" themes, "
+"however there are no further options to customise the \"look &amp; feel\" of"
+" your site.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "5e66252b6ba69b69b987bc713a83033f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not quite. Moodle does have a "
+"number of \"out of the box\" options to determine the appearance of a site; "
+"however the huge number of available themes allow you to further modify the "
+"appearance.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "c0b887f386065990b1f4846093698cf8"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "922c7d823817fbb4b32e87dd097f11e7"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "4ddc743e39fc0464e08b7c525fddd7bd"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7148", "md5key":
+# "e6d1f7f3c4564cabf71b0a0db2808c35"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "f2df72fc9be600f41d1182f22fe38edd"}
+msgid "Activities and Resources"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "68ed66b040584a206595731edd00416c"}
+msgid ""
+"<p>Activities and Resources can be added to sections within a course.</p>\n"
+"<p><span style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">In simple terms, an Activity, such as an Assignment or Forum, refers to something students interact with or do, while a Resource such as a File or Page, refers to a more static element students will read or consume.</span></p>\n"
+"<p>Moodle offers many types of activities and resources, which support collaborative learning, peer review, self reflection, active participation,&nbsp;exploration, experimentation, assessment and more.</p>\n"
+"<p><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://docs.moodle.org/en/Activities\">More about activities</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "3c546a74509415958f938cfe765d9b76"}
+msgid "Moodle Courses"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "d7697956a2c315b7aec511d5d2701fd7"}
+msgid ""
+"<p>Moodle's basic structure is organised around courses.</p>\n"
+"<p>Courses are basically pages or areas within Moodle, where teachers can present their learning resources and provide interactive activities for students. They can have different layouts, but they usually include a number of central sections where materials are displayed; and side blocks offering extra features or information.</p>\n"
+"<p>The course teacher has control over the layout of the course homepage and can change it at any time to support their teaching practices.&nbsp;</p>\n"
+"<p><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://docs.moodle.org/en/Courses\">More about courses</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "b4aeee5b4684fe94d3aaabc66a859826"}
+msgid "A Moodle Quiz is an example of:"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "60f21f0c1cee97daaf60dba4ede8fcab"}
+msgid ""
+"A Moodle 'Quiz' allows a teacher to design questions and set tests for "
+"students to undertake. Once completed, student attempts&nbsp;may be "
+"automatically marked, and feedback and/or correct answers may be "
+"shown.&nbsp;<br><br>A Moodle Quiz is an example of:<br>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "c0b20db24f966add725e938718d6f1b4"}
+msgid "Gradebook"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "a4fed12665b54f4127d1e72dcdb120f8"}
+msgid ""
+"<p>Grades for each student in a course are recorded in the course gradebook, or 'Grader report'. The gradebook can consist of grades:</p><p></p><ul><li>from assessable activities undertaken in the course (such as assignments and quizzes); and those</li><li>manually input by a teacher from assessments that students complete outside a course (like performances and presentations).</li></ul><p></p>\n"
+"<p><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://docs.moodle.org/en/Grader_report\">More about gradebook</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "04c4f9f595c4f21d1de65eb07056c15a"}
+msgid "Blocks"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "d38740ad45dc1e4f2b59052170f88cfa"}
+msgid ""
+"<p>Blocks are elements that add extra information or learning content to a course. They may be added to the side of any page in Moodle.</p>\n"
+"<p>Moodle provides a number of standard blocks, such as:</p><p></p><ul><li>activity results;</li><li>forum search; and&nbsp;</li><li>course completion status.&nbsp;</li></ul><span style=\"font-size: 1rem;\">There are also many other contributed blocks that can be installed to further extend the functionality of a site.&nbsp;</span><br><p></p>\n"
+"<p><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://docs.moodle.org/en/Blocks\">More about blocks</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "855c3eca6c7aaef477b4f03e4699944d"}
+msgid "Sections"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "e4f4cd10e0e54de4afb1d3d650c1e098"}
+msgid ""
+"<p>Courses can be divided into sections to organise content and learning "
+"materials for students. Each section can have a custom title and description"
+" and be arranged in a different format to support different teaching "
+"practices.</p><p>Common course formats include</p><p></p><ul><li>Weekly, "
+"where the course is organised week by week, with each section having a date "
+"heading.<br></li><li>Topics, where the course is organised into topic "
+"sections that can have custom titles.</li><li>Social, where the course is "
+"oriented around one main forum which appears listed on the main "
+"page.<br></li><li>Single, where the course has only 1 section, and allows "
+"the teacher to add only one activity to the "
+"course.&nbsp;<br></li></ul><p></p><p><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "cd37b05fdb6a95568bd9ed55106ffac7"}
+msgid ""
+"A Block might be added to a Moodle course to provide supplementary features "
+"or navigation."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "b5e2a506826a7247195bfb339382bfe5"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">True or false.</p><p dir=\"ltr\" "
+"style=\"text-align: left;\">A Block might be added to&nbsp;a Moodle course "
+"to&nbsp;provide supplementary features or navigation.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "2f14e935bc850886b809cbeea736b918"}
+msgid "Activity completion"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "a61fa30edc9ba38b7d9a141e8b52de51"}
+msgid ""
+"<p><span style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Activity completion allows a teacher to set completion criteria in the settings of a specific activity or resource. The criterion might be:</span></p><p></p><ul><li><span style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">viewing;</span></li><li><span style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">receiving a certain score; or&nbsp;</span></li><li><span style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">a student marking it as complete.</span></li></ul><p></p>\n"
+"<p>Activity completion allows students to see which activities and resources are required in a course and gain a snapshot of their current progress.&nbsp;&nbsp;</p><p>When used in combination with the restrict access feature, the teacher can guide a student through the course, ensuring designated activities are completed in a specific order.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "f6b327e1d079212896e8ed59004d4f8a"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">True<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "7ac04c385de7d520deb672e138d1aea3"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. Blocks can be used in "
+"Moodle courses to&nbsp;provide supplementary features and navigation.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "b102e08fac4fc0ce2776c6bc035409cf"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">An activity.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "0da5d9b910958b67f627c22845f5b64c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's right.&nbsp;A Quiz is a "
+"very powerful activity that students actively participate and interact with."
+" It can meet many teaching needs, from simple, multiple-choice knowledge "
+"tests to complex, self-assessment tasks with detailed feedback.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "beb17653a03ae4d4d092e38afc03e59c"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">A resource.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "e83ad6b36a7bc8a1d60f982c86ee2448"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not quite.&nbsp;A Quiz is a very "
+"powerful activity that students actively participate and interact with. It "
+"can meet many teaching needs, from simple, multiple-choice knowledge tests "
+"to complex, self-assessment tasks with detailed feedback.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "e7e8f9309ebdf716dd9581de6c5a0562"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "8c7fc42666e5ed5ad067631a001f99eb"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "43bfccb1572200ae5b90a3672df85d93"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "68d50c65409a25895b816a8ae3da9315"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "d8a4e1f97f6c23ed670bc5712861e805"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "4a622e9a15ae5921396b4cf5eea8271e"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "f0854614db72d6f9a124d5f8b4323585"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">False</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7156", "md5key":
+# "a935e207b8a352c69f25a451421ad1fa"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again.&nbsp;Blocks can be "
+"used in Moodle courses to&nbsp;provide supplementary features and "
+"navigation.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "f9aae5fda8d810a29f12d1e61b4ab25f"}
+msgid "Users"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "f9aae5fda8d810a29f12d1e61b4ab25f"}
+msgid "Users"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "79ea0397c0cdbbf71012fe96ba08b577"}
+msgid ""
+"<p>All users within a Moodle site will have the ability to access different "
+"areas of the site and perform different actions based on their "
+"role.&nbsp;<br></p><p>Before roles can be assigned, everyone using a Moodle "
+"site must have a user account.&nbsp;</p><p>A Moodle site may allow people to"
+" create their own account using&nbsp;<span style=\"font-size: 1rem;\">Email-"
+"based self-registration (like Moodle Academy does). If enabled, systems like"
+" Google and Microsoft can log people in quickly and easily using their "
+"existing account.</span></p><p><span style=\"font-size: 1rem;\">Smaller "
+"organisations may create new accounts manually (either individually or by "
+"bulk creating accounts via CSV file).</span></p><p></p><p>In large "
+"organisations, it is common for an institution-wide login to be used.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "85ba609d7993e86ef65b2108c9a7835d"}
+msgid "Competencies and badges"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "c089fbfaa0b4cdb0c6cb850e537a34aa"}
+msgid ""
+"<p dir=\"ltr\">Competencies describe the level of understanding or proficiency of a learner in certain subject-related skills. Competency-based education (CBE), also known as Competency-based learning or Skills-based learning, refers to systems of assessment and grading where students demonstrate these competencies. With Moodle, it is possible to create and apply frameworks for evaluating students against competencies in Moodle.</p>\n"
+"<p>Badges are a good way of celebrating achievement and showing progress. Badges may be awarded based on a variety of chosen criteria and may be displayed on a users profile or pushed to their Badgr backpack. Public badge collections in their backpack can be displayed in their Moodle profile.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "e687f71e44d3d779b8fd1592f5569086"}
+msgid "Roles and enrolments"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "cc0537d56c8a4e1c6b74d9b1ab9f4e09"}
+msgid ""
+"<p>Once users have an account, they can then be enrolled in a course with a specific role. The role given to them in a course is specific for that course only - they may be enrolled in other courses with another role.&nbsp;</p><p>Moodle supports a variety of different user roles, with each role having its own set of permissions that allow users to have different capabilities in different contexts.&nbsp;<span>The most common examples are the roles of student and teacher in the context of a course.</span><br></p>\n"
+"<p><span>As with so many other aspects of Moodle, user roles can be tailored to meet the needs of a site.&nbsp;</span></p>\n"
+"<p><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://docs.moodle.org/en/Roles_and_permissions\">More about roles and permissions</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "3a2006fbac670fea4e629ba1c49227c5"}
+msgid "Which statement about Moodle roles is correct?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "43a7cb0cf076cfb7a7949841096680fa"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which statement about Moodle "
+"roles is correct?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "a15a818910640723301736d189c3a9d3"}
+msgid "Messaging and notifications"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "d768e897e985b95b742402bba1c9afb1"}
+msgid ""
+"<p dir=\"ltr\">Users in Moodle have multiple avenues for communicating with each other and being alerted to important events.&nbsp;</p>\n"
+"<p dir=\"ltr\">As well as the different types of forums or other communication activities that may be available within their courses, teachers, students and other users are able to quickly talk to each other and stay in touch through the messaging and notification functionality.&nbsp;</p>\n"
+"<p dir=\"ltr\">Users can use Messaging to contact others via real-time chat. If offline, a message recipient can be notified of messages when they log in, and can opt to receive messages via email.</p>\n"
+"<p dir=\"ltr\"><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://docs.moodle.org/en/Messaging\">More about messaging</a></p>\n"
+"<p dir=\"ltr\">Notifications alert users to events in Moodle that may require their attention. This may include new forum posts, assignments needing grading or badges awarded. Users can choose how to receive notifications, whether it be by email, a notification indicator in the site, or pushed to their mobile device.</p>\n"
+"<p dir=\"ltr\"><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://docs.moodle.org/en/Notifications\">More about notifications</a></p>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "d892e1b7c92a7ff8e1b26aeb9bba3b4d"}
+msgid "Grouping users"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "1b4d1687a08083435bb13ac8355246d8"}
+msgid ""
+"<p><span style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">There are a number of instances where it can be useful to separate users within a course. Moodle can facilitate this through the use of <hypothesis-highlight class=\"hypothesis-highlight\">groups </hypothesis-highlight>and <hypothesis-highlight class=\"hypothesis-highlight\">groupings</hypothesis-highlight>.&nbsp;Groups and groupings can be used for communication purposes, to handle student activity and interaction and to restrict access to activities and resources.</span></p><p>Examples of using groups include:</p><p></p><ul><li>Filtering the gradebook, so teachers only see grades from one class at a time.</li><li>Allocating a resource to just one class or set of users.</li><li>Enabling students to submit an assignment as a group.&nbsp;</li><li>Enabling students to only reply to their own group within a discussion forum.</li></ul><p></p><p><span style=\"\"></span></p>\n"
+"<p><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://docs.moodle.org/en/Groups\">More about groups</a></p>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "ab56e6e5f6bcc24a1766a1d60b9061e0"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Users will always have the same "
+"role in every course they are enrolled in.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "897af8ee4d9bd89a0a68ebe979730818"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not necessarily. Users can have "
+"different roles in different courses.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "49a09d0606bd6af48e8418887832d3e4"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Each role has its own set of "
+"permissions that allow users to have different capabilities in different "
+"contexts.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "c5ea6e8d946fc231aa84fc306410a80a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. The combination of roles"
+" and context define a specific user's ability to do something on any "
+"page.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "780f925dd0640c5bfc4f8543abe804ec"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "60d7bf5e32f131443f2c340be183c2f8"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "741f8e358a43f3b9996462553d8f15cf"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "109e0fc40a434bbb1962d1ccb088d8b1"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "7167", "md5key":
+# "629c7bcb1e5754bbabf90cc20a7356a8"}
+msgid "Next"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6966", "md5key":
+# "a3e3439748c4d67bc7ccce9f808bcc68"}
+msgid "Introduction to Moodle: Check your understanding"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6965", "md5key":
+# "19d4d0f261eff89ed4abb6903fd6976b"}
+msgid ""
+"<div class=\"no-overflow\"><div class=\"no-overflow\"><p dir=\"ltr\" "
+"style=\"text-align: left;\">Kami sangat menghargai jika Anda bersedia "
+"menjawab pertanyaan singkat ini. Hanya perlu beberapa menit untuk "
+"menyelesaikannya.</p></div>‍‍​‌‌​‌‍‍</div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "10882", "md5key":
+# "5bd789f5d4fc716f66ae0c6d88937ab6"}
+msgid ""
+"Congratulations!&nbsp;\n"
+"  You have now completed..."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "10882", "md5key":
+# "53408590c162d8e4d0d17be6cd32fe55"}
+msgid ""
+"<div class=\"no-overflow\"><div style=\"text-align: left;\"><img src=\"https://moodle.academy/pluginfile.php/10882/mod_label/intro/MA-IntroductionToMoodle.png\" alt=\"Moodle Academy Introduction to Moodle course badge (1 star)\" width=\"120\" height=\"109\" class=\"img-fluid atto_image_button_left\"></div>\n"
+"<div><strong>Congratulations!&nbsp;</strong>\n"
+"  <p>You have now completed this <a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=161&amp;displayformat=dictionary\" title=\"Glossary of Moodle terms: course\" class=\"glossary autolink concept glossaryid10\">course</a> and earned your <strong>Introduction to Moodle</strong>&nbsp;badge.</p>\n"
+"    <p dir=\"ltr\">You can view your issued badge on your <a href=\"https://moodle.academy/user/profile.php\">Moodle Academy profile</a>.</p>\n"
+"    <p>Please remember to&nbsp;<a href=\"https://moodle.academy/user/edit.php?\">edit your profile</a>&nbsp;to add a<strong>&nbsp;user picture</strong>&nbsp;and a short&nbsp;<strong>description</strong>&nbsp;of yourself.</p>\n"
+"</div>‍‍​‌‌​​‍‍</div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "22706", "md5key":
+# "c436e94f554af87ff26eeed264315921"}
+msgid "https://youtu.be/5xwNjt5SagI"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "22706", "md5key":
+# "6d6af9626a3885b8182eb72dffa88e5d"}
+msgid ""
+"<div class=\"no-overflow\"><p dir=\"ltr\" style=\"text-align: left;\"><input id=\"filter_videoeasy_amdopts_fv_17178460051627980883\" type=\"hidden\" value=\"{&quot;AUTOMIME&quot;:&quot;video\\/mp4&quot;,&quot;FILENAME&quot;:&quot;5xwNjt5SagI&quot;,&quot;FILENAMESTUB&quot;:&quot;5xwNjt5SagI&quot;,&quot;FILETITLE&quot;:&quot;&quot;,&quot;AUTOPNGFILENAME&quot;:&quot;hqdefault.png&quot;,&quot;AUTOJPGFILENAME&quot;:&quot;hqdefault.jpg&quot;,&quot;VIDEOURL&quot;:&quot;https:\\/\\/www.youtube.com\\/watch?v=5xwNjt5SagI&quot;,&quot;RAWVIDEOURL&quot;:&quot;https:\\/\\/www.youtube.com\\/watch?v=5xwNjt5SagI&quot;,&quot;RAWPARAMS&quot;:&quot;&quot;,&quot;URLSTUB&quot;:&quot;&quot;,&quot;AUTOPOSTERURLJPG&quot;:&quot;http:\\/\\/img.youtube.com\\/vi\\/5xwNjt5SagI\\/hqdefault.jpg&quot;,&quot;AUTOPOSTERURLPNG&quot;:&quot;http:\\/\\/img.youtube.com\\/vi\\/5xwNjt5SagI\\/hqdefault.png&quot;,&quot;DEFAULTPOSTERURL&quot;:&quot;https:\\/\\/moodle.academy\\/filter\\/videoeasy\\/defaultposter.jpg&quot;,&quot;TITLE&quot;:&quot;&quot;,&quot;AUTOID&quot;:&quot;fv_17178460051627980883&quot;,&quot;CSSLINK&quot;:false,&quot;CSSUPLOAD&quot;:false,&quot;TEMPLATEID&quot;:2,&quot;WIDTH&quot;:&quot;100%&quot;,&quot;HEIGHT&quot;:&quot;100%&quot;,&quot;FILEEXT&quot;:&quot;youtube&quot;,&quot;COURSEID&quot;:&quot;1&quot;,&quot;COURSECONTEXTID&quot;:2,&quot;videowidth&quot;:&quot;600&quot;,&quot;videoheight&quot;:&quot;400&quot;,&quot;CSSCUSTOM&quot;:false}\"></input><a href=\"#\" data-featherlight=\"#fv_17178460051627980883\" id=\"fv_17178460051627980883link\">\n"
+"<div class=\"filter_videoeasy_ytl\">\n"
+"<img src=\"http://img.youtube.com/vi/5xwNjt5SagI/hqdefault.jpg\" width=\"100%\" height=\"100%\"/>\n"
+"</div>\n"
+"</a>\n"
+"\n"
+"<div style=\"display: none;\">\n"
+"<div class=\"video-container\"  id=\"fv_17178460051627980883\">\n"
+"<iframe id=\"fv_17178460051627980883video\"  width=\"600\" height=\"400\"  src=\"//www.youtube.com/embed/5xwNjt5SagI?rel=0&amp;modestbranding=1&amp;showinfo=0\" frameborder=\"0\" allowfullscreen   allow=\"autoplay\"></iframe>\n"
+"</div>\n"
+"</div><br></p>‍‍​‌​‌‌‍‍</div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "29942", "md5key":
+# "52571c0ba0692bd0c7ab1891542af8a3"}
+msgid "Webinar recording 'Introduction to Moodle for Administrators'"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "29942", "md5key":
+# "7e6fec9842af7573a2f5c35117955c5b"}
+msgid ""
+"<p dir=\"ltr\"><a href=\"https://youtu.be/NXGV98RsBLY\">https://youtu.be/NXGV98RsBLY</a></p>\n"
+"<p dir=\"ltr\">If you missed the webinar, you can watch the recording on YouTube above, or download it via the link below.&nbsp;<br></p>\n"
+"<div class=\"editor-indent\" style=\"margin-left: 30px;\">\n"
+"    <p dir=\"ltr\"><a href=\"https://moodle.academy/pluginfile.php/29942/mod_page/content/12/IntroductiontoMoodleforAdministrators.mp4\">Download webinar recording</a>* (75MB)<br><br></p>\n"
+"\n"
+"    <p dir=\"ltr\">Download webinar transcript* (<a href=\"https://moodle.academy/pluginfile.php/29942/mod_page/content/12/IntrotoMoodleforAdmins.srt\">.srt</a>) | (<a href=\"https://moodle.academy/pluginfile.php/29942/mod_page/content/12/IntrotoMoodleforAdmins.txt\">.txt</a>)<br><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=279\">how can I view subtitles on the video files?</a></p>\n"
+"\n"
+"</div>\n"
+"<div id=\"urlintro\">\n"
+"    <div><br>* To download, right click on the links and choose&nbsp;<strong>Save link as...</strong>&nbsp;/&nbsp;<strong>Download linked file</strong><br></div>\n"
+"</div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "29943", "md5key":
+# "7fb6829e3fd4afcf511231205575a2d0"}
+msgid "Slides from the webinar 'Introduction to Moodle for Administrators'"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "29946", "md5key":
+# "8ffe4493fd9cd44fa6841487628d3ff0"}
+msgid "Webinar recording 'Introduction to Moodle for Educators'"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "29946", "md5key":
+# "31b5ba6f65caee7395a6f23e54a6315f"}
+msgid ""
+"<p dir=\"ltr\"><a href=\"https://youtu.be/97vBWNam-ro\">https://youtu.be/97vBWNam-ro</a></p>\n"
+"<p dir=\"ltr\">If you missed the webinar, you can watch the recording on YouTube above, or download it via the link below.&nbsp;<br></p>\n"
+"<div class=\"editor-indent\" style=\"margin-left: 30px;\">\n"
+"    <p dir=\"ltr\"><a href=\"https://moodle.academy/pluginfile.php/29946/mod_page/content/11/IntrotoMoodleforEducators.mp4\">Download webinar recording</a>* (77MB)<br><br></p>\n"
+"\n"
+"    <p dir=\"ltr\">Download webinar transcript* (<a href=\"https://moodle.academy/pluginfile.php/29946/mod_page/content/11/IntrotoMoodleforEducators.srt\">.srt</a>) | (<a href=\"https://moodle.academy/pluginfile.php/29946/mod_page/content/11/IntrotoMoodleforEducators.txt\">.txt</a>)<br><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=279\">how can I view subtitles on the video files?</a></p>\n"
+"\n"
+"</div>\n"
+"<div id=\"urlintro\">\n"
+"    <div><br>* To download, right click on the links and choose&nbsp;<strong>Save link as...</strong>&nbsp;/&nbsp;<strong>Download linked file</strong><br></div>\n"
+"</div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "29947", "md5key":
+# "b627d2e55cd66b5af3bcb47e8e61c0e0"}
+msgid "Slides from the webinar 'Introduction to Moodle for Educators'"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6951", "md5key":
+# "0780c789c6a19b10aa76c5dfc9f9ca67"}
+msgid ""
+"This course launched in February 2022 and is based on <a "
+"href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3</a> "
+"functionality."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "43ae9b9c23ef69a0e8c3f9a11dd7beff"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle LMS enables you to have "
+"complete control over your data to meet your <strong>local legislation "
+"requirements</strong>.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "111fce2e7cb91b425f043902a290e6d8"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "05c4e1d79cc394b199a132b57c889520"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "a7be5c883e9d2f8be3d0f39345495066"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "5e05ec4746ba8b51d13847c8d970ff71"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">True</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "4ab1dd425a7db10a8b2f2ca0cdee1ae7"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;As an open source "
+"platform, you have complete control over your data to meet local legislation"
+" requirements.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "f72486234b55701babe740008cc60fbd"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">False</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "f82036008669e21ae8250acd8216750b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Incorrect.&nbsp;As an open source"
+" platform, you do have complete control over your data to meet local "
+"legislation requirements.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "d0741454ba585e54534b74086458b49e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle LMS is<strong> WCAG 2.1 AA"
+" compliant</strong>.</p><p dir=\"ltr\" style=\"text-align: left;\">Which of "
+"Moodle's key features is this relevant to?<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "1d3273ee53c56b95fed82c110b1895d3"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "a14b0a0233e83a24cc586f36f600226b"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "af8ddcc489d26cf89141308a6b8be0ea"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "b90ecc93b24d5ec702936a6432fc207d"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Flexibility</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "e4ed275dbf3739082758fc566d9630d1"}
+msgid "Try again.&nbsp;WCAG does not relate to how flexible Moodle is."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "d4f6ff327776e53ea0fa515b16449af2"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Security</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "ff8239ed47989a5ddac4266312b0671b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again.&nbsp;WCAG does not "
+"relate to how secure Moodle is.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "3759a759b5c0b1115ed47b0e44714242"}
+msgid "<p>Accessibility</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "28a17a5a85c57d974a65817c00fdda70"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;The Web Content "
+"Accessibility Guidelines (WCAG) is an internationally recognised standard "
+"with a goal of providing a single shared standard for web content "
+"accessibility that meets the needs of individuals, organisations, and "
+"governments internationally.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "afc2cc8711bd972bb3091f512c038cd9"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Customisability&nbsp;<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "169a2d86f22a7df43e10b9863a085543"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again.&nbsp;WCAG does not "
+"relate to how customisable Moodle is.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "7ff6ccfa6aa8253f50e4b4bb79803219"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><strong>Moodle's basic "
+"structure</strong> is organised around:<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "6ef3b3758f85ee53b19a28d2e9c46a37"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "10f21da0b3193ee58eedb1075fa9048e"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "e992ec195c542b010d8167f907b3c728"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "32a7eb6fa5bcea50a134c74b2e9c9257"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Courses</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "aa7ef000188887fd12dffb1edf720cf4"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Thats right.&nbsp;Moodle's basic "
+"structure is organised around courses.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "f798958785ac15ed0bb3063f9c4d8407"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Sections</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "9ef4ec2d3c3483357f46619c6985775f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not quite. Sections can be used "
+"in courses to organise content and learning material.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "bcbc28e742b4d3c28a403b5c3a15691b"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Roles</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "27a26b3f1a9e889ab2ed51f7645727da"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again. Roles are the "
+"collection of permissions given to a user in Moodle, and define a specific "
+"user's ability to do something on any page.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "0aa98f0303b7bdd2bcf45f5264378f9c"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Notifications</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "e5eb6c53c90a043b8c5fcf2ef475d756"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again. Notifications alert "
+"users to events in Moodle which may require their attention.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "76d15951862f267b4642902a86b8bb4f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><span style=\"font-size: 1rem; "
+"font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, "
+"&quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif,"
+" &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI "
+"Symbol&quot;;\">Select the freedoms that are allowed, because <strong>Moodle"
+" is open-source</strong>.</span><br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\">The freedom to...<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "8f87cdeac1fa471bccfe591f5a9cd565"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "4dc818b97afa39393c7807e90940d6bc"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "423734a9313fe580c20b6cec5e160cc4"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "43c38cc394afb34e5616094cf26c06d6"}
+msgid "run Moodle LMS as you wish, for any purpose."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "48b44e6aadb37558ebcba4256f125dbe"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;This is one of the "
+"four freedoms that traditionally define open source.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "8563ef9d639f8059c636585434c64a3b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">study how Moodle LMS works and "
+"change it as you wish.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "640417bdd4c0bed463fbd66b4aeacf8e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;This is one of the "
+"four freedoms that traditionally define open source.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "4ab938efa52629f948c78e0944e5cba8"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">redistribute copies so you can "
+"help others.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "3e6a206ea2d32debd3d6ac751f99dde4"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;This is one of the "
+"four freedoms that traditionally define open source.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "8f156cc316f0110de77b1800c8229639"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><span style=\"font-size: 1rem; "
+"font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, "
+"&quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif,"
+" &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI "
+"Symbol&quot;;\">distribute copies of modified Moodle code and extensions to "
+"benefit the entire community.</span><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "ff1f9ad02bb7b9ec01172cb0f9693511"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;This is one of the "
+"four freedoms that traditionally define open source.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "fe7b05e79e11c478990f5c08c2b52156"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">licence your modified version and"
+" sell to others.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "66380e6c3f3a5af7d0b72d4cdaee9c65"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Incorrect. This is not one of the"
+" four freedoms that traditionally define open source.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "31dd94be725bb6c8b011e8250ab6821b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which common <strong>Moodle "
+"course format</strong>&nbsp;has sections organised with date headings?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "7c47b002b0f9713906abbf50bfac5eee"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "b36a3166923b147438c2b2a089109693"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "e16e80684b352020ea338ce80df6ab29"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "4558a9de4df986d2834a9cae020a72a0"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Weekly</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "99a1045153f08ac8e2940e29a226187b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. In this format, the "
+"course is organised week by week, with each section having a date "
+"heading.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "2b2e45e7686c75f28d77dcbb4da5efcb"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Topics</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "56355a2bdf0622652627a1285ba8e6ff"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again.&nbsp;In this format, "
+"the course is organised into topic sections that can have custom titles.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "fcbf8f9eaefa28691d1801cd32a14135"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Single</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "7c80fd04a006cbbe2375ea98f68d62cf"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again.&nbsp;In this format, "
+"the course has only 1 section, and allows the teacher to add one activity "
+"only to the course.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "e12fced4095095aa409a6b7869718a64"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Social</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "72bd01bea5021f3dcf56a3aef3f7bf0e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again.&nbsp;In this format, "
+"the course is oriented around one main forum which appears listed on the "
+"main page.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "deaae2b858177a974588e574930ad036"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which <strong>element of a Moodle"
+" course </strong>could be described as:</p><p dir=\"ltr\" style=\"text-"
+"align: left;\">\"... elements which add extra information or learning "
+"content to a course. They may be added to the side of any page in "
+"Moodle.\"</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "aed1f4d30174b5db006e0dd7ed00bb2d"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "3b7f8dfb17f747401f5a1cf9b0bd28b1"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "40c5d89b55ee60bb989c08192dcdfe74"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "f7e7cbcdf7cd615ed20b2ec32bbff6f7"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Blocks</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "910bebb5be054aa578c3eba231971782"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "c5eae53ab694537a12f12c9dcaf410e9"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Sections</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "159cad07d006f0ec78b25bffc3625da8"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again.&nbsp;Courses can be "
+"divided into sections to organise content and learning material for "
+"students.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "8e0def576177773f2d0f65e866a8895f"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Activities</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "e2db83c20afb6d4f61e47296fb1c6a17"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again. Activities are<span "
+"style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, "
+"BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica "
+"Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI"
+" Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">&nbsp;something students "
+"interact with or do,&nbsp;such as an Assignment or Forum, which</span><span "
+"style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, "
+"BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica "
+"Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI"
+" Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">&nbsp;can be added to sections "
+"within a course.</span></p><br><p></p><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "c6dae40b8f53af5e26cffb3f6a25c73a"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Gradebook</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "709b2fdabb0590e65da94f219d80d0ce"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again.&nbsp;Grades for each "
+"student in a course are recorded in the course gradebook.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "a750eb8031cb5fb68e9bc5f0b6c4f30d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which feature of Moodle allows "
+"<strong>teachers to grade assessed activities</strong> and <strong>students "
+"to view their own grades</strong>?<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "15dc647ae3ff7b93bf0d4033b51e69a4"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "cefd00e90620a660717d5399f7f11f9e"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "1a9c74686bb471507d9ab52378c821a8"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "48972bcdddb858604ff6b9fb20d2f63f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-"
+"guid-e122d902-7fff-f563-3ad1-2d1a6aa8deb5\">Gradebook</span><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "7e042de177e7ce04c5deafd31e2ead7a"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Correct.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "3a0ecc28f13585a023e1667adfbbd28f"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Course<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "2a28115afd4c08b7abac9be6bcd5d088"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Think again. A course is a page "
+"or area within Moodle where teachers can present their learning resources "
+"and activities to students.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "82c0e8097e8c1dc9a5bb1f208578b81b"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Block<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "86fa44acb5e994c6be2acb36d7b0e5c5"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Think again.&nbsp;Blocks are "
+"elements which add extra information or learning content to a course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "b52da29cc876bc3c90b44fe6fe85031f"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Category<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "f26689a947f4d044da517f90ed472697"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Think again.&nbsp;Categories "
+"organise courses for all Moodle site participants.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "d69eef27d1889953d52bacc57e41d935"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Select the ways you can "
+"<strong>customise and extend</strong> your Moodle site.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "9cb1c23c0305359375fa31bb573333f7"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "8041e2d8399f918dfe45e0c436c105b2"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "989357a718363d476332e5e7669491de"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "709e46cdb8d567ca476226f7308df3a9"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Allow people to create their own "
+"user account using <strong>email-based self-registration</strong>.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "500764f59be0117eaa73b65aa4eacbf2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not quite. While <a "
+"href=\"https://docs.moodle.org/en/Email-based_self-registration\">email-"
+"based self-registration</a> is a feature of Moodle that you can enable, it "
+"is not an example of how you would customise and extend your site.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "9c4e48934c89f0b1b4aa548d5eff0cf5"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Use <strong>messaging </strong>to"
+" contact other users via real-time chat (if they are online) or message (if "
+"they are offline).</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "da1c3e616bca774503c55443cd24b4d1"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not quite. <a "
+"href=\"https://docs.moodle.org/en/Messaging\">Messaging </a>is a feature of "
+"Moodle that is enabled by default, so it is not an example of how you could "
+"customise and extend your site.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "fc891504c3be5428c07f61820b9907b5"}
+msgid ""
+"Install a new <strong>plugin </strong>to enable a new type of activity or "
+"resource."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "7a06cb1b72eaa89ccca148187a00f058"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;You can extend the "
+"functionality of your Moodle site with a huge ecosystem of plugins, "
+"available from the <a href=\"https://moodle.org/plugins/\">Moodle plugins "
+"directory</a>, including many new types of activities and resources.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "156c54362abc9e6c97001876492e764d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tailor the \"<strong>look &amp; "
+"feel</strong>\" (or skin) of your site by&nbsp;altering the theme.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "846142d4736212a48108d65ad8f54680"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. Moodle allows you many "
+"options to customise the appearance of your site by altering the theme.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "da809af1cb9703606fd8fb26bf0a8b6c"}
+msgid "Which of the following are <strong>Moodle products</strong>?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "3829f7fb10caadc2cf42a71a8bd78bf3"}
+msgid "Your answer is correct. These are all Moodle products."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "62dbbc778022e7086667298e88cc4a11"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "cf755066bb58d40275d88e143e9a8064"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "1405af96a49352fb1cdf131ce338c8e4"}
+msgid "<p dir=\"ltr\">Moodle Workplace™</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "40812340efb194fe96dc5ae3bcf0af22"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's right. Moodle Workplace™ is built on Moodle LMS with advanced features for workplace learning.</p>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.com/workplace/\">More about Moodle Workplace</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "2b36133ab59b9ce6bb824f1b95ee9d30"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">MoodleCloud</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "35280f1b0962a74ed9a2ebb4ffebbc5f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. MoodleCloud is&nbsp;a cloud based version of Moodle, so you don't need to deal with updates, backups or maintenance.</p>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.com/moodlecloud/\">More about MoodleCloud</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "175aaf91de313b5109cb814644a97449"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Moodle App</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "5cef9d1729ea811b82b99e7ec66ce88c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;Moodle App improves the experience of Moodle LMS and Moodle Workplace on touch screen devices.</p>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.com/app/\">More about Moodle App</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "64cccfbd956c05dc15b7b510be27b3ec"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Moodle LMS</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "28c860e118e8b4caecab002f27b53ef6"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. Moodle LMS is the world’s most customisable and trusted open source learning management system.</p>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.com/lms/\">More about Moodle LMS</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "ddd476cff2cd94cb49d40401d54076ed"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">MoodleLite</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "de023eb0f0e5d8824b2dd47e1b0817ca"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Incorrect. MoodleLite is not a "
+"Moodle product.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "aca28dfa7f4fc2db1dd05c98b293550c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">A Moodle Activity, is a tool that"
+" allows students to interact with other students, the teacher, or "
+"interactive content.</p><p dir=\"ltr\" style=\"text-align: left;\">What is "
+"the term used to describe a <strong>static course element</strong> in "
+"Moodle, which&nbsp;students will read or consume to acquire knowledge in a "
+"passive way, and is often contrasted to an Activity?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "ccab204d540bff20668e8bff02e0d1c8"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "dbde9b5403aab04d25cf8834b68c12ad"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "e81cbe5614aa1e2cedc1c02aeac4a6f2"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "5f980db7cfe222387248960e582dda0b"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Resource</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "aa0106fda38a72223696cf778ba2bfb9"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;In Moodle "
+"terminology, an Activity, such as Forums or Quizzes, generally means "
+"something students can contribute to directly, whereas a Resource such as a "
+"File or Page, is a more static element presented by the teacher to them.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "96a9aab2b824fdc50b478adceb83aa4d"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Menu</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "82794e4ecb40f2e46e9d665383b20a9a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again. A menu is part of the "
+"course or site navigation.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "76c7fb4c41efc5267f2d8ae38922c079"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Profile</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "c7039609ea7ccda5c7a5a045c7462d74"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again. A profile is a page "
+"which displays information about a user.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "f6e7774c6b83807f6a17c6979a866348"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Forum</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "9c08376605ac7aea1c532200ef757998"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Try again. A forum is a type of "
+"activity where users can interact with one another.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "9cf466254ecae72e829344d7db4d35a2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">How can you contribute to the "
+"Moodle project?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "34effd79934b3e506c81d17d3303194e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">All users of Moodle can:</p><p "
+"dir=\"ltr\" style=\"text-align: left;\"></p><ul><li>report bugs and issues "
+"using the&nbsp;<a href=\"https://tracker.moodle.org/\">Moodle "
+"Tracker</a>.</li><li>make use of the&nbsp;<a "
+"href=\"https://moodle.org/course/\">community forums</a>&nbsp;to ask and "
+"answer questions.<br></li><li>update the&nbsp;<a "
+"href=\"http://moodle%20docs/\">Moodle docs</a>.<br></li><li>develop&nbsp;new"
+" plugins or contribute changes to core Moodle code.<br></li><li><a "
+"href=\"https://lang.moodle.org/\">contribute to the translation of Moodle "
+"language packs</a>.&nbsp;<br></li></ul><p></p><p dir=\"ltr\" style=\"text-"
+"align: left;\"><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "a13fbe4ea6ee107faeac42ea9aee571c"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "1c48428296dc956ddc3ac03d5f19aca2"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "4d3e3e39b83ca33c85d61b58eeb4f206"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "2dde38376d81e7a2753e680b10904535"}
+msgid "<p>Report bugs and issues.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "f7a588931ade8d00bdc1e1b08841cd86"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. All users of Moodle can "
+"report bugs and issues using the <a "
+"href=\"https://tracker.moodle.org/\">Moodle Tracker</a>.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "4415c5317bf30c1376b58aed831f9124"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Answer questions in the Moodle "
+"community forums.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "e34024dc535cbc1fa13b3d2c88aef67d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. All users of Moodle can "
+"make use of the <a href=\"https://moodle.org/course/\">community forums</a> "
+"to ask and answer questions.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "7b3220857bd926d09493cffb9b0901fc"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Update the Moodle "
+"documentation.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "9eba7132e23adb6606ab884ff2b71c39"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. All Moodle users can "
+"update the <a href=\"http://Moodle docs\">Moodle docs</a>.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "1608af016d57f35afb8a63cf2cdd3447"}
+msgid "<p>Develop new plugins or contribute changes to core Moodle code.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "262f769f03c73c6b5306d3b53caada62"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. All Moodle users can "
+"develop&nbsp;new plugins or contribute changes to core. Moodle code.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "132eb72f156f1779776e7ad3fd18850b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Translate Moodle into other "
+"languages.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "97dde2ebdc36504a2f3c6779660416aa"}
+msgid ""
+"<p>Correct. All Moodle users can <a "
+"href=\"https://lang.moodle.org/\">contribute to the translation of Moodle "
+"language packs</a>.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "e1cbdd11fc6077bab119f589ad4f30e1"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle is a free and open source "
+"learning management system. <br>How can you get a Moodle site for your "
+"course?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "ea75c92a31aa0eaee1df391724c5d3e9"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You can get a Moodle site for "
+"your course by:<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\"></p><ul><li>Installing and running Moodle on your own "
+"servers.<br></li><li>Using MoodleCloud - a cloud-based solution for using "
+"Moodle.&nbsp;<br></li><li>Using the services of a Moodle Partner, who can "
+"help set up and manage online learning platforms.<br></li></ul><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "567a72305e6fa93002ba96d79de280d3"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "18ff9513ada85364498b57a3343678e1"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "5e8cab6fd830b457347a6f6fdb2e1b0b"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "87746b87f598e78775a126fee502ae8a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Install Moodle on your own "
+"servers.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "ed2fa4e22462806a140795fac6e9ecb0"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. You can install and run "
+"Moodle on your own servers.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "2e3470133d5de80998567068a16153a3"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Use MoodleCloud.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "fd07653b6dbaad4f66da5fa75bae0fdd"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. MoodleCloud offers a "
+"cloud-based solution for using Moodle.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "8d40ce3baf80348af23ca1f0f00c547c"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Contact a Moodle Partner.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "883dc1a56872d7dcfae8df6e7812c0b2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. Moodle Partners can help"
+" institutions and organisations set up their online learning platforms.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "ac4d1af4aca9620aa5b0a58e3d1a874d"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Contact Moodle HQ.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "141dc6baeecb8b3094aee9ebe87a3652"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Incorrect. While Moodle HQ can "
+"provide guidance and point you in the direction of help, you can get "
+"tailored and direct support via other avenues. A Moodle Certified Service "
+"Provider can deliver expertise in hosting, customisation, support and "
+"training, or&nbsp;you can utilise MoodleCloud and&nbsp;host a site on "
+"Moodle's own web servers.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "d7a30d3be6ecf2bc057c07401c49ef5c"}
+msgid ""
+"<p dir=\"ltr\">Moodle is a Learning Management System.</p><p "
+"dir=\"ltr\">Which of the following can Moodle be used for?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "440c7012c4b6ba1283aa5c7330ac72cb"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle can be used for:</p>\n"
+"<ul>\n"
+"    <li>Course management tasks, using tools like the Gradebook, Groups and Reports.</li>\n"
+"    <li>Content delivery using tools like the Book, File and Lesson.</li>\n"
+"    <li>Online assessment,&nbsp;using tools like the Quiz, Assignment and Workshop (for peer assessment).</li><li>Collaboration between learners, using tools like the Forum, Database and Wiki.</li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "ba1aad87c1de3dfd90a4cc5e9c78420b"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "fa43b031caa1947ea2186b7b85b4bf29"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "c76ec0f6b634695911725150ac36591a"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "1ee68902d40d25f0e12d74d20cd00625"}
+msgid "<p>Course management tasks.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "7c6e14594765cb28ec25cf25c3ef1430"}
+msgid ""
+"<p>Correct. Moodle is a Learning Management System, so is ideal for managing"
+" your online course, using tools like the Gradebook, Groups and Reports.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "f9241f0ba3512ed81d6ac92be54692b8"}
+msgid "<p>Content delivery.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "90200442e71555bbade19b7967b59df7"}
+msgid ""
+"<p>Correct. Moodle can be used for the delivery of learning content, using "
+"tools like the Book, File and Lesson.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "dbdd4421cc81586632c8b3d6cfea3e32"}
+msgid "<p>Online assessment.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "61079b32fe90245f6a421537e6edd5c9"}
+msgid ""
+"<p>Correct. Moodle has a number of tools that can be used to assess students and provide feedback. These tools include:</p>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"></p>\n"
+"<ul>\n"
+"    <li>Quiz</li>\n"
+"    <li>Assignment</li>\n"
+"    <li>Workshop (for peer assessment)</li>\n"
+"</ul>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "04c7042b8b9009838443a1fa6a6630de"}
+msgid "<p>Collaboration between learners.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "2db0fd7cd8b09089cd9ee91dd264ffcb"}
+msgid ""
+"<p>Correct. Moodle has a number of tools that can be used for collaboration between learners. These tools include:</p>\n"
+"<ul>\n"
+"    <li>Forum</li>\n"
+"    <li>Database</li>\n"
+"    <li>Wiki</li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "8e665548f9336e4d1f070fc7b739ebae"}
+msgid "<p>What are some of the benefits of using Moodle?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "d3597218452d85bb5ce987feb766ab3f"}
+msgid ""
+"<p>Some of the benefits of using Moodle are:</p>\n"
+"<ul>\n"
+"    <li>Anyone can install and use it.</li>\n"
+"    <li>Adoption of open and accessibility standards.</li>\n"
+"    <li>Highly modular and configurable.</li>\n"
+"    <li>Free and open source software.</li>\n"
+"    <li>A large and active community of contributors.</li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "da02317c0d1c5f20440dc3ea20901185"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "303d72c38253f2a951d440fce7a1ee6f"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "4e8aeb090ed983b7a7a75a6cde7b302e"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "b6b119e8a300fc08ab7d3a43904b0cd0"}
+msgid "<p>Anyone can install and use it.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "da8619cb325a8d6d0b04f786bc818047"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes, anyone can install and use "
+"Moodle.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "9e0ea58c27202fccbc9532e958825884"}
+msgid "<p>Adoption of open and accessibility standards.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "2763db5824e4fdab19d11fe936d842c3"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes, Moodle adopts open and "
+"accessibility standards.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "382146f5d28c3948907e7a3681b208ad"}
+msgid "<p>Highly modular and configurable.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "bbfe8c959f12b2f1b0f7add4d2161a20"}
+msgid "Yes, Moodle is highly modular and configurable."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "9987d1da0be8fdf8dd872e8af72c5807"}
+msgid "<p>Free and open source software.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "56fdf985b945f406d6ffc21a5afe295b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes, Moodle is free and open "
+"source software.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "40c501d0e00f4205a18e922421fc7215"}
+msgid "<p>A large and active community of contributors.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "cd180f608224ccf1c0489567f0e66f0c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes, Moodle has a&nbsp;large and "
+"active community of contributors.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "0a86491683d6ec6c724ac6c242239f47"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">What kinds of organisations use "
+"Moodle?<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "1a9a93fbda576df5923efadae3c76def"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Due to the highly flexible and "
+"customisable nature of Moodle, it is used all over the world by schools, "
+"universities, Government organisations, Non-government organisations (NGOs) "
+"and workplaces.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "ff8e52fd602a506011830e1bd50c47ed"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "26f150e8c9f897fd9c5574f96a07fd76"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "3d1e0ef48273c7c58ad2041f91226efe"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "a928b83d3df66aa39332cb2667df65b9"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Schools.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "a187651f021ea6b760e7c82bd43c8d91"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;Moodle caters for "
+"young learners in traditional K-12 schools, distance education and home "
+"study.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "b1f821fd5c9a3fcd047ac04c07102a40"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Universities.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "0706d4b62da5ebfc59c065df7eb93ae4"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;Moodle allows "
+"educators to create safe, accessible, flexible and highly engaging online "
+"spaces for learners in universities, colleges, academies or institutes.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "75ba6afb0d1b546e91478dfab1cbab30"}
+msgid "<p>Non-government organisations (NGOs).</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "05ff6a476eeed36a6ebf0c3234823b27"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. Many of Moodle's "
+"features - including its open source and cloud-based delivery - make it "
+"particularly useful for NGOs.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "8587bc84b5bb1a963f56120f132f6616"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Workplaces.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "c9054bf7b8528f6cf6bbfe1a72144903"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;Moodle offers a "
+"customisable platform streamlining onboarding, workplace learning, "
+"automation of common processes and compliance management.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "4292659c931f7a386a9a6c3150ea27aa"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Government organisations.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "4ecc5a016a758e096c14ded676a0b3a2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;Moodle's "
+"customisability caters to the unique requirements of government "
+"organisations.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "cd7cb6de6651a75638556d27d7ce4097"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">What type of learning does Moodle"
+" support?<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "81e0fa0ea6020a4d6c9cff03f1822d95"}
+msgid ""
+"<p dir=\"ltr\">Moodle provides a pedagogical toolbox designed from a social "
+"constructionist point of view that supports&nbsp;<span style=\"font-size: "
+"1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont,"
+" &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-"
+"serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, "
+"&quot;Segoe UI Symbol&quot;;\">active, passive, collaborative and "
+"independent learning.</span></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "3f14dfb2ea9a9f12c010352fbed34a89"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "6915e81dccf2bdd8e2bd4578326e9fb1"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "3a5d1ec8696e9dee15334d9fefaca1cc"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "5b3020188e29fdcea7bbefc1629fa87b"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">active.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "1ddb483b83a9b4590155e70e2634da6f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. Moodle supports active "
+"learning by providing activities and opportunities&nbsp;for learners to "
+"interact and participate in a course.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "768fac551cfa91f3d9c1254479fe6276"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">passive.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "4006817990cd11b8fac385c7edbcfd27"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. Moodle supports passive "
+"learning by offering activities and opportunities for teacher-led "
+"instruction.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "f8a6c1e9cf17fc47640689b6afa0ae1a"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">collaborative.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "5e0d28a86c633dd000dd979398de52a0"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. Moodle supports students"
+" with their collaborative learning and group communication in a blended or "
+"online learning environment.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "0977b0b7083d4174a39c64e6163170ee"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">independent.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "adc876018d12fbcd9a41c1898aca6291"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. Moodle supports "
+"independent learning by providing opportunities for learners to&nbsp;seek "
+"out information and learn at their own pace.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "d3188e9ebde0935d4bb1b44f1cb5cf97"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle is open source "
+"software.</p><p dir=\"ltr\" style=\"text-align: left;\">'Open source' can be"
+" described as:<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "7bea3f0afe9d16e22e39a3d6d4824c71"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes, 'Open source' can be "
+"described as something people can modify and share because its design is "
+"publicly accessible.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "c31a7d283efe71109344839f86e62b74"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "2942d06dff56200738c748721704b5ba"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "5e499c05d12a6b5b926bdeddff589dbe"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "ecf2b6c7dd99a2b2064a3b340976af2b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Something people can modify and "
+"share because its design is publicly accessible.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "aa1986f168ff663d8db67751674d53ba"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes, that's correct. In the case "
+"of Moodle, the software can be modified and shared because it is open "
+"source.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "15ffe2f7474c44085145171604689fc5"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Collaborative design of software "
+"before the publisher reserves licensing rights to use, modify or share "
+"it.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6949", "md5key":
+# "ca567220d3d3f8ec6565a6b123b79223"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not quite. While open source may "
+"(and often does) involve collaborative design, there are not restrictions on"
+" using, modifying or sharing the software.&nbsp;</p>"
+msgstr ""
