@@ -1,0 +1,1877 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "5a5d29db529043be1dcaee73455bb0ac"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Learn how to add courses and gain"
+" an insight into course editing with this free, self-paced course, part of "
+"the Administrator Learning Pathway.</p><p dir=\"ltr\" style=\"text-align: "
+"left;\">This course relates to the following competence(s):<br></p><p "
+"dir=\"ltr\" style=\"text-align: left;\"></p><ul><li>3.2 Course / Category "
+"management.</li></ul><p></p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pelajari cara menambahkan kursus "
+"dan mendapatkan wawasan tentang pengeditan kursus dengan kursus mandiri dan "
+"gratis ini, yang merupakan bagian dari Jalur Pembelajaran Administrator.</p>"
+" <p dir=\"ltr\" style=\"text-align: left;\">Kursus ini berkaitan dengan "
+"kompetensi berikut:<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\"></p><ul><li>3.2 Manajemen Kursus / Kategori.</li></ul><p></p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "085a36c66a4a7c3f8b33a093ce3175ab"}
+msgid ""
+"<p>This self-paced beginner level&nbsp;course is part of the Administrator "
+"Learning Pathway and teaches you the very basics of Moodle course "
+"creation.</p>"
+msgstr ""
+"<p>Kursus mandiri tingkat pemula&nbsp; ini adalah bagian dari Jalur "
+"Pembelajaran Administrator dan mengajarkan Anda dasar-dasar pembuatan kursus"
+" Moodle.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "63fb247e7e216648bf808008c7218d16"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">When you have completed all the "
+"required activities, the Course check will appear for you to check your "
+"understanding.<br></p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Setelah Anda menyelesaikan semua "
+"aktivitas yang diperlukan, pemeriksaan Kursus akan muncul untuk memeriksa "
+"pemahaman Anda.<br></p>"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "97ee8e4a88a7ff3f2b780698b82b154d"}
+msgid ""
+"<div class=\"no-overflow\"><div class=\"no-overflow\">Sebelum memulai, "
+"tinjau Gambaran umum kursus, Capaian pembelajaran, Struktur kursus, serta "
+"Informasi kelulusan dan kriteria penilaian.</div>‍‍​‌‌‌​‍‍</div>"
+msgstr ""
+"<div class=\"no-overflow\"><div class=\"no-overflow\">Sebelum memulai, "
+"tinjau Gambaran umum kursus, Capaian pembelajaran, Struktur kursus, serta "
+"Informasi kelulusan dan kriteria penilaian.</div>‍‍​‌‌‌​‍‍</div>"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "bd4c84733ab23f5582b585747dfeb7d6"}
+msgid "Completion and assessment"
+msgstr "Kelulusan dan penilaian"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "214a53b3b63a46f1b42d575003304797"}
+msgid ""
+"<p dir=\"ltr\">To complete the course you need to complete the following activities:</p>\n"
+"<p dir=\"ltr\"></p>\n"
+"<ul>\n"
+"    <li>View&nbsp; 'About this course', reading all sections.<br></li>\n"
+"    <li>View the 'Tutorial: Course Creation Basics, reading all sections.</li>\n"
+"    <li>View the 'Tasks: Course Creation Basics, trying out the suggestions.</li>\n"
+"    <li>Complete the 'Checklist: Course Creation Basics' , confirming your understanding.</li>\n"
+"    <li>Achieve 80% or more in&nbsp; the 'Course Creation Basics: Check your understanding' quiz.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<h4>Completing the activities</h4>\n"
+"<ul>\n"
+"    <li>Some activities are automatically marked as completed based on specific criteria.</li>\n"
+"    <li>Some activities require you to manually mark them as done.</li>\n"
+"</ul>\n"
+"<p>Make sure you complete the activities according to their completion conditions.</p>\n"
+"<p></p>\n"
+"<h4>Course badge</h4>\n"
+"<p>Upon successful completion of this course you will be automatically awarded with a badge to showcase the skills and knowledge you have obtained.</p>\n"
+"<p></p>"
+msgstr ""
+"<p dir=\"ltr\">Untuk menyelesaikan kursus, Anda perlu menyelesaikan aktivitas berikut:</p>\n"
+"<p dir=\"ltr\"></p>\n"
+"<ul>\n"
+"    <li>Lihat&nbsp; 'Tentang kursus ini', baca semua bagian.<br></li>\n"
+"    <li>Lihat 'Tutorial: Dasar-Dasar Pembuatan Kursus, baca semua bagian.</li>\n"
+"    <li>Lihat 'Tugas: Dasar-Dasar Pembuatan Kursus, dan cobalah sarannya.</li>\n"
+"    <li>Lengkapi 'Daftar Periksa: Dasar-dasar Pembuatan Kursus' , untuk mengonfirmasi pemahaman Anda.</li>\n"
+"    <li>Mencapai 80% atau lebih dalam&nbsp; kuis 'Dasar-dasar Pembuatan Kursus: Periksa pemahaman Anda'.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<h4>Menyelesaikan aktivitas</h4>\n"
+"<ul>\n"
+"    <li>Beberapa aktivitas secara otomatis ditandai sebagai selesai berdasarkan kriteria tertentu.</li>\n"
+"    <li>Beberapa aktivitas mengharuskan Anda menandainya secara manual sebagai selesai.</li>\n"
+"</ul>\n"
+"<p>Pastikan Anda menyelesaikan aktivitas sesuai dengan kondisi penyelesaiannya.</p>\n"
+"<p></p>\n"
+"<h4>Lencana kursus</h4>\n"
+"<p>Setelah berhasil menyelesaikan kursus ini, Anda akan secara otomatis diberikan lencana untuk menunjukkan keterampilan dan pengetahuan yang telah Anda peroleh.</p>\n"
+"<p></p>"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "8d282a8bd2fe903679ba3011d408c26a"}
+msgid "Licence"
+msgstr "Lisensi"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "832e827ab429c203499cd0cac8ae8dcb"}
+msgid ""
+"<p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img src=\"https://moodle.academy/pluginfile.php/5935/mod_book/chapter/861/ccby.png\" alt=\"Creative Commons Licence\" width=\"120\" height=\"42\" style=\"float:left\" class=\"img-fluid atto_image_button_middle\"></a>\n"
+"    This course by Moodle Academy (Moodle Pty Ltd) is licensed under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>. Original resources available at&nbsp;<a href=\"https://moodle.academy/\">https://moodle.academy</a>.<br></p>\n"
+"<p>\n"
+"    <span class=\"moodle-orange bold larger\">›</span>\n"
+"\n"
+"    <a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=272\">Read more about how you should attribute this work.</a><br>\n"
+"</p>"
+msgstr ""
+"<p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img src=\"https://moodle.academy/pluginfile.php/5935/mod_book/ chapter/861/ccby.png\" alt=\"Lisensi Creative Commons\" width=\"120\" height=\"42\" style=\"float:left\" class=\"img-fluid atto_image_button_middle\"></a>\n"
+"    Kursus dari Moodle Academy (Moodle Pty Ltd) ini dilisensikan dengan&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>. Sumber daya asli tersedia di&nbsp;<a href=\"https://moodle.academy/\">https://moodle.academy</a>.<br></p>\n"
+"<p>\n"
+"    <span class=\"moodle-orange bold larger\">›</span>\n"
+"\n"
+"    <a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=272\">Baca selengkapnya tentang cara mengatribusikan karya ini.</a><br>\n"
+"</p>"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "a209901e4d65897541bb3eacb6998def"}
+msgid "Learning outcomes"
+msgstr "Capaian pembelajaran"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "84f4820e898743986b6871acdf66fea4"}
+msgid ""
+"<h4 style=\"text-align: left;\"><span style=\"color: rgb(73, 80, 87); font-size: 1rem;\">By the end of this course, you will be able to:</span><br></h4>\n"
+"<p dir=\"ltr\"></p>\n"
+"<ul>\n"
+"    <li>Confidently set up categories and courses individually and in bulk;</li>\n"
+"    <li>Be aware of how teachers edit courses and create content.</li>\n"
+"</ul>\n"
+"<p></p>"
+msgstr ""
+"<h4 style=\"text-align: left;\"><span style=\"color: rgb(73, 80, 87); font-size: 1rem;\">Pada akhir kursus ini, Anda akan mampu: </span><br></h4>\n"
+"<p dir=\"ltr\"></p>\n"
+"<ul>\n"
+"    <li>Siapkan kategori dan kursus dengan percaya diri secara individual dan massal;</li>\n"
+"    <li>Perhatikan cara pengajar mengedit kursus dan membuat konten.</li>\n"
+"</ul>\n"
+"<p></p>"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "7ea5cbe222bf3ce7da84b61986a9fffb"}
+msgid "Next steps and Certificate"
+msgstr "Langkah selanjutnya dan Sertifikat"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "21478217d1ff132dccb6d25de9ad6475"}
+msgid ""
+"<p>If you complete this course successfully, why not take the other courses in the Administrator Learning Pathway Beginner level and optionally purchase a certificate? </p>\n"
+"<ul>\n"
+"    <li>Moodle Administration Settings<ul>\n"
+"            <li>Explore the main administration settings, site admin presets and basic file management.</li>\n"
+"        </ul>\n"
+"\n"
+"    </li>\n"
+"    <li>Manage&nbsp; your Users<br>\n"
+"        <ul>\n"
+"            <li>Add teachers and learners to your Moodle site and courses.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"    <li><span style=\"font-size: 1rem;\">Extend your Moodle site.</span>\n"
+"        <ul>\n"
+"            <li>Explore advanced features, competencies, badges, plugins and other settings you will learn with further Admin training.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"</ul>"
+msgstr ""
+"<p>Jika Anda berhasil menyelesaikan kursus ini, mengapa tidak mengambil kursus lain di tingkat Pemula Jalur Pembelajaran Administrator dan secara opsional membeli sertifikat? </p>\n"
+"<ul>\n"
+"    <li>Pengaturan Administrasi Moodle<ul>\n"
+"            <li>Jelajahi pengaturan administrasi utama, pengaturan awal admin situs, dan dasar manajemen berkas.</li>\n"
+"        </ul>\n"
+"\n"
+"    </li>\n"
+"    <li>Kelola&nbsp; Pengguna Anda<br>\n"
+"        <ul>\n"
+"            <li>Tambahkan guru dan pelajar ke situs dan kursus Moodle Anda.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"    <li><span style=\"font-size: 1rem;\">Perluas situs Moodle Anda.</span>\n"
+"        <ul>\n"
+"            <li>Jelajahi fitur lanjutan, kompetensi, lencana, plugin, dan pengaturan lainnya yang akan Anda pelajari dengan pelatihan Admin lebih lanjut.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"</ul>"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "0e5231c0d444d5b1538faad5e4729066"}
+msgid "Course overview"
+msgstr "Ikhtisar kursus"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "06f82b9e8aabdcf9352b6b46403e92ff"}
+msgid ""
+"<h4 style=\"text-align: left;\">Aim</h4>\n"
+"<p>In this course you will</p>\n"
+"<ul>\n"
+"    <li>Learn about the structure of courses and categories in a Moodle site;</li>\n"
+"    <li>Discover the various ways to add courses to your site;</li>\n"
+"    <li>Gain an insight into how teachers add course content.</li>\n"
+"   \n"
+"</ul>\n"
+"\n"
+"\n"
+"\n"
+"<h4>Format</h4>\n"
+"<p dir=\"ltr\">This is a self-paced course without active moderation.</p>\n"
+"<h4 style=\"text-align: left;\">Estimated time</h4>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\">The estimated time to complete this course is 3 hours.</p>"
+msgstr ""
+"<h4 style=\"text-align: left;\">Bidik</h4>\n"
+"<p>Dalam kursus ini Anda akan</p>\n"
+"<ul>\n"
+"    <li>Pelajari tentang struktur kursus dan kategori di situs Moodle;</li>\n"
+"    <li>Temukan berbagai cara untuk menambahkan kursus ke situs Anda;</li>\n"
+"    <li>Dapatkan wawasan tentang cara pengajar menambahkan konten kursus.</li>\n"
+"   \n"
+"</ul>\n"
+"\n"
+"\n"
+"\n"
+"<h4>Format</h4>\n"
+"<p dir=\"ltr\">Ini adalah kursus mandiri tanpa moderasi aktif.</p>\n"
+"<h4 style=\"text-align: left;\">Perkiraan waktu</h4>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\">Perkiraan waktu untuk menyelesaikan kursus ini adalah 3 jam.</p>"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "815c7fb91561296c9ad3e407821bffb3"}
+msgid "Course structure"
+msgstr "Struktur kursus"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "0b1b385304dbbf57874e11c8a5500fe9"}
+msgid ""
+"<ul>\n"
+"    <li>This is a free, self-paced course provided by Moodle Academy.</li>\n"
+"    <li>You must be an administrator of a Moodle site, although you do not need server access.</li><li>Although this course is not facilitated, you are welcome to ask any questions in the General discussion forum.</li>\n"
+"    <li>We would love to hear what you think of the course, if anything is unclear, or you have any ideas for improvements. Please provide feedback so we can improve the course for everyone.</li>\n"
+"</ul>"
+msgstr ""
+"<ul>\n"
+"    <li>Ini adalah kursus mandiri gratis yang disediakan oleh Moodle Academy.</li>\n"
+"    <li>Anda harus menjadi administrator situs Moodle, meskipun Anda tidak memerlukan akses server.</li><li>Meskipun kursus ini tidak difasilitasi, Anda dipersilakan untuk mengajukan pertanyaan apa pun di forum diskusi Umum.</li>\n"
+"    <li>Kami ingin mendengar pendapat Anda tentang kursus ini, jika ada yang kurang jelas, atau Anda punya ide untuk perbaikan. Mohon berikan masukan agar kami dapat menyempurnakan kursus ini untuk semua orang.</li>\n"
+"</ul>"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "84c4e266939f0718ce9af02de1191c53"}
+msgid "Is this course right for you?"
+msgstr "Apakah kursus ini tepat untuk Anda?"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "ad2edcaae5bc5587cae38b871eaaeefd"}
+msgid ""
+"<p>This course is one of four in a program designed to help you understand the basics of Moodle administration. You will learn about managing a Moodle site from the Administration interface within Moodle.</p>\n"
+"<p>We shall assume that you have a MoodleCloud site or other Moodle site with an admin account. (You can also explore <a href=\"https://moodlebox.net/\">MoodleBox</a> on a Raspberry Pi)&nbsp; Alternatively, you can log in to the <a href=\"https://sandbox.moodledemo.net/\">Moodle sandbox demo</a> site as an admin (remembering that this site is reset every hour on the hour).</p>\n"
+"<p><b>This course IS...</b></p>\n"
+"<ul>\n"
+"    <li>for new Moodle users who want to quickly learn how to manage a Moodle site but don't have server or coding skills.</li>\n"
+"    <li>for educators who have a MoodleCloud site which they plan to manage themselves and use for teaching classes.</li>\n"
+"    <li>for anyone with an interest in learning a little about how a Moodle site works.</li>\n"
+"</ul>\n"
+"<p><b>This course IS NOT...</b></p>\n"
+"<ul>\n"
+"    <li>for Moodle users wanting help with installation, server management or operating systems - please post instead in our <a href=\"https://moodle.org/mod/forum/view.php?id=28\">Installing and upgrading help forum</a> on moodle.org.</li>\n"
+"</ul>"
+msgstr ""
+"<p>Kursus ini adalah satu dari empat program yang dirancang untuk membantu Anda memahami dasar-dasar administrasi Moodle. Anda akan belajar tentang mengelola situs Moodle dari antarmuka Administrasi dalam Moodle.</p>\n"
+"<p>Kami berasumsi bahwa Anda memiliki situs MoodleCloud atau situs Moodle lainnya dengan akun admin. (Anda juga dapat menjelajahi <a href=\"https://moodlebox.net/\">MoodleBox</a> di Raspberry Pi)&nbsp; Alternatifnya, Anda dapat masuk ke situs <a href=\"https://sandbox.moodledemo.net/\">Moodle sandbox demo</a> sebagai admin (ingat bahwa situs ini disetel ulang setiap jam pada jamnya).</p>\n"
+"<p><b>Kursus ini ADALAH...</b></p>\n"
+"<ul>\n"
+"    <li>untuk pengguna baru Moodle yang ingin cepat mempelajari cara mengelola situs Moodle tetapi tidak memiliki keterampilan server atau coding.</li>\n"
+"    <li>untuk pendidik yang memiliki situs MoodleCloud yang mereka rencanakan untuk dikelola sendiri dan digunakan untuk mengajar di kelas.</li>\n"
+"    <li>bagi siapa pun yang tertarik mempelajari sedikit tentang cara kerja situs Moodle.</li>\n"
+"</ul>\n"
+"<p><b>Kursus ini BUKAN...</b></p>\n"
+"<ul>\n"
+"    <li>bagi pengguna Moodle yang menginginkan bantuan dalam hal instalasi, manajemen server atau sistem operasi - silakan buat post di <a href=\"https://moodle.org/mod/forum/view.php?id=28\">Forum bantuan instalasi dan peningkatan versi</a> di moodle.org.</li>\n"
+"</ul>"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "026b9211dddd47ed34f0f354f2c55961"}
+msgid "Moodle versions"
+msgstr "Versi Moodle"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "d2622ffbd7211ce7014c30eedc9d3de5"}
+msgid ""
+"The activities and screenshots in this course are based on the standard Boost theme and the latest version of Moodle LMS, currently 4.4.&nbsp;See <a href=\"https://docs.moodle.org/404/en/Main_page\">Moodle 4.4 documentation overview</a> and&nbsp;<a href=\"https://docs.moodle.org/404/New_features\">New Features 4.4 documentation.</a><br>&nbsp;If your Moodle site looks different, ask your Moodle support staff about the theme and version being used.\n"
+"<br><br>&nbsp;You can access documentation about earlier, supported versions of Moodle LMS below. This documentation includes the videos related to each version.<br>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3 documentation</a> and <a href=\"https://docs.moodle.org/403/en/New_features\">New Features 4.3 documentation</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/402/en/Main_page\">Moodle 4.2 documentation overview</a>&nbsp;and&nbsp;<a href=\"https://docs.moodle.org/402/en/New_features\">New Features 4.2 documentation.</a></li>\n"
+"\n"
+"    <li><a href=\"https://docs.moodle.org/401/en/Main_page\">Moodle 4.1 documentation overview</a> and&nbsp;<a href=\"https://docs.moodle.org/401/en/New_features\">New Features 4.1 documentation.</a></li>\n"
+"</ul><p dir=\"ltr\" style=\"text-align: left;\"><br></p>"
+msgstr ""
+"Aktivitas dan tangkapan layar dalam kursus ini didasarkan pada tema standar Boost dan versi terbaru Moodle LMS, saat ini versi 4.4.&nbsp;Lihat <a href=\"https://docs.moodle.org/404/en/Main_page\"> Ikhtisar dokumentasi Moodle 4.4</a> dan&nbsp;<a href=\"https://docs.moodle.org/404/New_features\">Dokumentasi Fitur Baru 4.4.</a><br>&nbsp;Jika situs Moodle Anda terlihat berbeda , tanyakan kepada staf pendukung Moodle Anda tentang tema dan versi yang digunakan.\n"
+"<br><br>&nbsp;Anda dapat mengakses dokumentasi tentang LMS Moodle versi sebelumnya yang didukung di bawah. Dokumentasi ini mencakup video yang terkait dengan setiap versi.<br>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/403/en/Main_page\">Dokumentasi Moodle 4.3</a> dan <a href=\"https://docs.moodle.org/403/ en/New_features\">Dokumentasi Fitur Baru 4.3</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/402/en/Main_page\">Ikhtisar dokumentasi Moodle 4.2</a>&nbsp;dan&nbsp;<a href=\"https://docs.moodle. org/402/en/New_features\">Dokumentasi Fitur Baru 4.2.</a></li>\n"
+"\n"
+"    <li><a href=\"https://docs.moodle.org/401/en/Main_page\">Ikhtisar dokumentasi Moodle 4.1</a> dan&nbsp;<a href=\"https://docs.moodle.org/ 401/en/New_features\">Dokumentasi Fitur Baru 4.1.</a></li>\n"
+"</ul><p dir=\"ltr\" style=\"text-align: left;\"><br></p>"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "64a39273573e4fc2b712d51106db7a4e"}
+msgid "Change log"
+msgstr "Catatan perubahan"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "1c8bdb6e8b8a58ec6438707b2b943d53"}
+msgid ""
+"\n"
+"<p>All notable changes to this course will be documented in this page.</p>\n"
+"<hr>\n"
+"<p>Date:&nbsp; June 4 2024<br>Changed by: Mary Cooch<br>Changes:</p><p></p><ul><li>Updated the versions page in this Book to reference 4.4.</li><li>Updated the YouTube video How can I manage courses on my Moodle site?</li><li>Replaced said video in the videos for download folder with the 4.4 version.</li><li>Updated the YouTube video How can I create a course on my Moodle site?</li><li>Replaced said video in the videos for download folder with the 4.4 version and replaced the transcript in the transcript folder.</li><li>Updated the YouTube video How can I upload a course to my Moodle site?</li><li>Replaced said video in the videos for download folder with the 4.4 version.</li><li>Updated the YouTube video How can I add content to my Moodle course?&nbsp;</li><li>Replaced said video in the videos for download folder with the 4.4 version and replaced the transcript in the transcripts folder.</li><li>Updated the screenshot of the Activity chooser in the tutorial.</li><li>Updated the side text block to reference 4.4</li></ul><p></p>\n"
+"<p></p>\n"
+"<hr>\n"
+"<p>Date:&nbsp; Dec 5 2023<br>Changed by: Mary Cooch<br>Changes:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>In Videos for download, replaced all the videos <strong>except</strong> How can I create courses in bulk? with 4.3 versions.</li>\n"
+"    <li>In Transcripts for download, replaced the How can I manage courses? and How can I create a course? transcripts with 4.3 versions.</li>\n"
+"    <li>In the Tutorial: Course Creation Basics, replaced all the YouTube video links with 4.3 versions <strong>except</strong> How can I bulk upload courses?</li>\n"
+"    <li>In the <a href=\"https://moodle.academy/mod/book/view.php?id=629&amp;chapterid=906#mod_book-chapter\">Activity chooser chapter</a>&nbsp;replaced the screenshot in order to show the activity chooser without the External tool link.</li>\n"
+"    <li>Replaced that same screenshot in a quiz question in the Course Creation Basics: Check your understanding.</li>\n"
+"    <li>Updated the Moodle versions page in this book to reflect 4.3.</li>\n"
+"    <li>Updated the course block to say this course is based on 4.3.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<hr>\n"
+"<p>Date:&nbsp; June 6 2023<br>Changed by: Mary Cooch<br>Changes:</p>\n"
+"<ul>\n"
+"    <li>Updated versions page to reference 4.2.</li>\n"
+"    <li>Updated side block to say this course now uses 4.2.</li>\n"
+"    <li>In Tutorial: Course Creation Basics, updated the link to the following videos:<ul>\n"
+"            <li>How can I create a course on my Moodle site?</li>\n"
+"            <li>How can I add content to my Moodle course?</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"    <li><span style=\"font-size: 1rem;\">In Videos for download, replaced the two videos above with their 4.2 versions.</span><br></li>\n"
+"    <li>In Transcripts for download, updated the transcript of How can I add content to my Moodle course&nbsp; to reflect the ability to add content anywhere on the course page. (Note this is a very minor edit, and the video How can I create a course does not have any text changes, hence no new transcript/)</li>\n"
+"</ul>\n"
+"<hr>\n"
+"<p>Date:&nbsp; December 2022<br>Changed by: Mary Cooch<br>Changes:</p>\n"
+"<ul>\n"
+"    <li>Added versions page and changed text block to say 4.1</li>\n"
+"    <li>Redid the Add course content video to show the new Text and Media rea instead of Label in Resources. The transcript is the same and it is such a minor visual change that there is no need for you to update the video unless you really want to. The updated video is in the Downloads folder and the Youtube video is linked to on the page in the Tutorial.<br><br></li>\n"
+"</ul>\n"
+"<hr>"
+msgstr ""
+"\n"
+"<p>Semua perubahan penting pada kursus ini akan didokumentasikan di halaman ini.</p>\n"
+"<jam>\n"
+"<p>Tanggal:&nbsp; 4 Juni 2024<br>Diubah oleh: Mary Cooch<br>Perubahan:</p><p></p><ul><li>Memperbarui halaman versi dalam Buku ini ke referensi 4.4.</li><li >Memperbarui video YouTube Bagaimana cara mengelola kursus di situs Moodle saya?</li><li>Mengganti video tersebut di folder video untuk diunduh dengan versi 4.4.</li><li>Memperbarui video YouTube Bagaimana caranya membuat kursus di situs Moodle saya?</li><li>Mengganti video tersebut di folder video untuk diunduh dengan versi 4.4 dan mengganti transkrip di folder transkrip.</li><li>Memperbarui video YouTube Bagaimana caranya Saya mengunggah kursus ke situs Moodle saya?</li><li>Mengganti video tersebut di folder video untuk diunduh dengan versi 4.4.</li><li>Memperbarui video YouTube Bagaimana cara menambahkan konten ke kursus Moodle saya ?&nbsp;</li><li>Mengganti video tersebut di folder video untuk diunduh dengan versi 4.4 dan mengganti transkrip di folder transkrip.</li><li>Memperbarui tangkapan layar pemilih Aktivitas dalam tutorial. </li><li>Memperbarui blok teks samping ke referensi 4.4</li></ul><p></p>\n"
+"<p></p>\n"
+"<jam>\n"
+"<p>Tanggal:&nbsp; 5 Des 2023<br>Diubah oleh: Mary Cooch<br>Perubahan:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>Dalam Video untuk diunduh, ganti semua video <strong>kecuali</strong> Bagaimana cara membuat kursus secara massal? dengan versi 4.3.</li>\n"
+"    <li>Dalam Transkrip untuk diunduh, menggantikan Bagaimana cara mengelola kursus? dan Bagaimana cara membuat kursus? transkrip dengan versi 4.3.</li>\n"
+"    <li>Dalam Tutorial: Dasar-Dasar Pembuatan Kursus, ganti semua tautan video YouTube dengan versi 4.3 <strong>kecuali</strong> Bagaimana cara mengunggah kursus secara massal?</li>\n"
+"    <li>Dalam <a href=\"https://moodle.academy/mod/book/view.php?id=629&amp;chapterid=906#mod_book-chapter\">bab pemilih aktivitas</a>&nbsp;mengganti tangkapan layar untuk menampilkan pemilih aktivitas tanpa tautan alat Eksternal.</li>\n"
+"    <li>Mengganti tangkapan layar yang sama pada pertanyaan kuis di Dasar-dasar Pembuatan Kursus: Periksa pemahaman Anda.</li>\n"
+"    <li>Memperbarui halaman versi Moodle dalam buku ini agar mencerminkan versi 4.3.</li>\n"
+"    <li>Memperbarui blok kursus untuk menyatakan bahwa kursus ini didasarkan pada 4.3.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<jam>\n"
+"<p>Tanggal:&nbsp; 6 Juni 2023<br>Diubah oleh: Mary Cooch<br>Perubahan:</p>\n"
+"<ul>\n"
+"    <li>Halaman versi diperbarui untuk referensi 4.2.</li>\n"
+"    <li>Blok samping diperbarui untuk menyatakan bahwa kursus ini sekarang menggunakan 4.2.</li>\n"
+"    <li>Dalam Tutorial: Dasar-Dasar Pembuatan Kursus, perbarui tautan ke video berikut:<ul>\n"
+"            <li>Bagaimana cara membuat kursus di situs Moodle saya?</li>\n"
+"            <li>Bagaimana cara menambahkan konten ke kursus Moodle saya?</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"    <li><span style=\"font-size: 1rem;\">Pada Video untuk didownload, ganti kedua video di atas dengan versi 4.2.</span><br></li>\n"
+"    <li>Dalam Transkrip untuk diunduh, perbarui transkrip Bagaimana saya dapat menambahkan konten ke kursus Moodle saya&nbsp; untuk mencerminkan kemampuan untuk menambahkan konten di mana saja pada halaman kursus. (Perhatikan bahwa ini adalah pengeditan yang sangat kecil, dan video Bagaimana cara membuat kursus tidak mengalami perubahan teks apa pun, sehingga tidak ada transkrip baru/)</li>\n"
+"</ul>\n"
+"<jam>\n"
+"<p>Tanggal:&nbsp; Desember 2022<br>Diubah oleh: Mary Cooch<br>Perubahan:</p>\n"
+"<ul>\n"
+"    <li>Menambahkan halaman versi dan mengubah blok teks menjadi 4.1</li>\n"
+"    <li>Membuat ulang video Tambahkan konten kursus untuk menampilkan Teks dan Media baru, bukan Label di Sumber Daya. Transkripnya sama dan hanya ada sedikit perubahan visual sehingga Anda tidak perlu memperbarui video kecuali Anda benar-benar menginginkannya. Video yang diperbarui ada di folder Unduhan dan video Youtube ditautkan ke halaman di Tutorial.<br><br></li>\n"
+"</ul>\n"
+"<jam>"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "e821ad7f1e1e18d62b1d2319e78e1858"}
+msgid "Tutorial: Course Creation Basics"
+msgstr "Tutorial: Dasar-dasar Pembuatan Kursus"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "8b4b861ceabf283e53b08780eae84065"}
+msgid "Quick check"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "4f61868dcd2c3b42ead5c3f78540d4e2"}
+msgid ""
+"Test your understanding with this Quick check. The scores are not recorded, "
+"so you can try as often as you "
+"like.<br>{Q{embed/embed3|bd3c6697b7cdfd554ef34e9be40c7b5f379527c90f0ecd44e5d9e4f644f9921b}Q}<br><br>"
+msgstr ""
+"Uji pemahaman Anda dengan pemeriksaan cepat ini. Skornya tidak dicatat, jadi"
+" Anda dapat mencobanya sesering yang Anda "
+"mau.<br>{Q{embed/embed3|bd3c6697b7cdfd554ef34e9be40c7b5f379527c90f0ecd44e5d9e4f644f9921b}Q<br><br>"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "8b4b861ceabf283e53b08780eae84065"}
+msgid "Quick check"
+msgstr "Pemeriksaan cepat"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "2356437dbcd7451d9cde07c4f4730dfa"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Test your understanding with this"
+" Quick check. The scores are not recorded, so you can try as often as you "
+"like.</p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed1|c40d9e3ad98bce58f71b73c688f2570c23e3acdeafbea959848889895f223a22}Q}<br></p><p"
+" dir=\"ltr\" style=\"text-align: left;\"><br></p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Uji pemahaman Anda dengan "
+"Pemeriksaan cepat ini. Skornya tidak dicatat, jadi Anda dapat mencobanya "
+"sesering yang Anda mau.</p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed1|c40d9e3ad98bce58f71b73c688f2570c23e3acdeafbea959848889895f223a22}Q}<"
+" br></p><p dir=\"ltr\" style=\"text-align: left;\"><br></p>"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "9ca233803806fdc5af63008082e95370"}
+msgid "Download course content"
+msgstr "Unduh konten kursus"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "0c5a6a685af975fa74aacbcd04ddae25"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Available from Site "
+"administration &gt; Courses &gt;Download course content, this feature can be"
+" enabled so that learners can download some elements of the course if the "
+"teacher allows. The admin needs to:</p><p dir=\"ltr\" style=\"text-align: "
+"left;\"></p><ul><li>enable the setting from Site administration &gt; Courses"
+" &gt; Download course content;</li><li>enable the setting also from Site "
+"administration &gt; Courses &gt; Course default settings</li><li>explain to "
+"the teaching staff that they should enable the setting from Course "
+"navigation &gt; Settings in each course where this is "
+"wanted.</li></ul><p>Once all these settings are enabled, 'Download course "
+"content' will be visible from the More link.</p><p><img "
+"src=\"https://moodle.academy/pluginfile.php/5939/mod_book/chapter/863/DownloadCourseContent4.png\""
+" alt=\"Screenshot showing location of Download course content - from Course "
+"navigation, More\" width=\"700\" height=\"203\" class=\"img-fluid "
+"atto_image_button_text-bottom\"><br></p><p><strong>Note:</strong> Currently "
+"only File, Folder, Page and Label can be downloaded.</p><p></p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tersedia dari Administrasi situs "
+"&gt; Kursus &gt;Unduh konten kursus, fitur ini dapat diaktifkan sehingga "
+"pembelajar dapat mengunduh beberapa elemen kursus jika guru mengizinkan. "
+"Admin perlu:</p><p dir=\"ltr\" style=\"text-align: "
+"left;\"></p><ul><li>mengaktifkan pengaturan dari Administrasi situs &gt; "
+"Kursus &gt; Unduh konten kursus;</li><li>aktifkan juga pengaturan dari "
+"Administrasi situs &gt; Kursus &gt; Pengaturan default "
+"kursus</li><li>menjelaskan kepada staf pengajar bahwa mereka harus "
+"mengaktifkan pengaturan dari Navigasi kursus &gt; Setelan di setiap kursus "
+"yang menginginkan hal ini.</li></ul><p>Setelah semua setelan ini diaktifkan,"
+" 'Unduh konten kursus' akan terlihat dari tautan Lainnya.</p><p><img src "
+"=\"https://moodle.academy/pluginfile.php/5939/mod_book/chapter/863/DownloadCourseContent4.png\""
+" alt=\"Tangkapan layar menunjukkan lokasi Unduh konten kursus - dari "
+"navigasi Kursus, Lainnya\" width=\"700\" height= \"203\" class=\"img-fluid "
+"atto_image_button_text-bottom\"><br></p><p><strong>Catatan:</strong> Saat "
+"ini hanya Berkas, Folder, Halaman dan Label yang dapat diunduh.</p> <p></p>"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "92788a8e84e3e51d987dea3cdbbee6df"}
+msgid "Focus for this tutorial"
+msgstr "Fokus untuk tutorial ini"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "b201ae66bb4b13342542ee1b767a62fe"}
+msgid ""
+"<p>In this tutorial we explore:</p>\n"
+"<ul>\n"
+"    <li>how courses and categories are organised on your Moodle site</li>\n"
+"    <li>how to add a single course</li>\n"
+"    <li>how to add courses in bulk</li>\n"
+"    <li>how a Moodle course works for teachers and students</li>\n"
+"</ul>\n"
+"<br>"
+msgstr ""
+"<p>Dalam tutorial ini kita menjelajahi:</p>\n"
+"<ul>\n"
+"    <li>bagaimana kursus dan kategori diatur di situs Moodle Anda</li>\n"
+"    <li>cara menambahkan satu kursus</li>\n"
+"    <li>cara menambahkan kursus secara massal</li>\n"
+"    <li>cara kerja kursus Moodle bagi guru dan siswa</li>\n"
+"</ul>\n"
+"<br>"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "81254ed01e1849e9bbb041571b2cbad8"}
+msgid "Activity chooser"
+msgstr "Pemilih aktivitas"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "e6c7ccacfbfd54e4d6f7a2d850cbe3f2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\"></p><ul><li>The Activity chooser "
+"appears when someone with course editing rights clicks Add an activity or "
+"resource. It presents all the activities and resources available for "
+"selection.</li><li>As admin you can decide which tabs are shown on the "
+"Activity chooser. You do this from Site administration &gt; Courses &gt; "
+"Activity chooser settings.</li><li>You can also decide to show or not to "
+"show the link to <a href=\"https://moodle.net\">MoodleNet</a> in the footer "
+"of the Activity chooser.</li><li>From Site administration &gt; Courses &gt; "
+"Recommended activities you can check activities and resources which will "
+"appear in the Recommended tab, to give teachers quick access to these "
+"popular items.</li></ul><p><img "
+"src=\"https://moodle.academy/pluginfile.php/5939/mod_book/chapter/906/44activitychooser.png\""
+" alt=\"\" width=\"895\" height=\"895\" role=\"presentation\" class=\"img-"
+"fluid atto_image_button_text-bottom\"><br></p><p></p><p dir=\"ltr\" "
+"style=\"text-align: left;\"><br></p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\"></p><ul><li>Pemilih aktivitas "
+"muncul ketika seseorang yang memiliki hak mengedit kursus mengklik Tambahkan"
+" aktivitas atau sumber daya. Tab ini menyajikan semua aktivitas dan sumber "
+"daya yang tersedia untuk dipilih.</li><li>Sebagai admin, Anda dapat "
+"memutuskan tab mana yang ditampilkan pada pemilih Aktivitas. Anda melakukan "
+"ini dari Administrasi situs &gt; Kursus &gt; Setelan pemilih "
+"aktivitas.</li><li>Anda juga dapat memutuskan untuk menampilkan atau tidak "
+"menampilkan tautan ke <a href=\"https://moodle.net\">MoodleNet</a> di footer"
+" pemilih Aktivitas .</li><li>Dari Administrasi situs &gt; Kursus &gt; "
+"Aktivitas yang direkomendasikan Anda dapat memeriksa aktivitas dan sumber "
+"daya yang akan muncul di tab Direkomendasikan, untuk memberi pengajar akses "
+"cepat ke item populer ini.</li></ul><p><img src=\"https://moodle.academy/ "
+"pluginfile.php/5939/mod_book/chapter/906/44activitychooser.png\" alt=\"\" "
+"width=\"895\" height=\"895\" role=\"presentation\" class=\"img-fluid "
+"atto_image_button_text-bottom\"><br>< /p><p></p><p dir=\"ltr\" style=\"text-"
+"align: left;\"><br></p>"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "5bb546a7b3bc31f35c2bf361dfbc6e11"}
+msgid "Bulk create courses"
+msgstr "Buat kursus secara massal"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "7a9fe14a27d4310016e5c66bde98f6cf"}
+msgid ""
+"<ul>\n"
+"    <li>As an admin you can create course settings in a file offline and upload them from Site administration&nbsp; &gt;&nbsp; Courses &gt; Upload courses.</li>\n"
+"    <li>You create them with a spreadsheet program or simple text (.csv) file.</li>\n"
+"    <li>Required fields are: shortname, fullname and category. (The category must exist and you use its number, not name).</li>\n"
+"</ul><strong style=\"font-size: 1rem;\">Note: you are not uploading courses with content; merely uploading the relevant course information.</strong><br>\n"
+"<ul>\n"
+"</ul>\n"
+"<p>The video below explains how to bulk create courses. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=\"https://moodle.academy/course/view.php?id=39#section-4\">Videos and transcripts for download.</a><br></p><a href=\"https://www.youtube.com/watch?v=8pIEW6ji4q8\">https://www.youtube.com/watch?v=8pIEW6ji4q8</a><br>"
+msgstr ""
+"<ul>\n"
+"    <li>Sebagai admin, Anda dapat membuat pengaturan kursus dalam berkas secara luring atau offline dan mengunggahnya dari Administrasi situs&nbsp; &gt;&nbsp; Kursus &gt; Unggah kursus.</li>\n"
+"    <li>Anda membuatnya dengan program spreadsheet atau file teks sederhana (.csv).</li>\n"
+"    <li>Bidang yang wajib diisi adalah: nama pendek, nama lengkap, dan kategori. (Kategori harus ada dan Anda menggunakan nomornya, bukan namanya).</li>\n"
+"</ul><strong style=\"font-size: 1rem;\">Catatan: Anda tidak mengunggah kursus yang berisi konten; hanya mengunggah informasi kursus yang relevan.</strong><br>\n"
+"<ul>\n"
+"</ul>\n"
+"<p>Video di bawah ini menjelaskan cara membuat kursus secara massal. Transkrip dan video mp4 dapat diunduh dari bagian:&nbsp;<a href=\"https://moodle.academy/course/view.php?id=39#section-4\">Video dan transkrip untuk diunduh.</ a><br></p><a href=\"https://www.youtube.com/watch?v=8pIEW6ji4q8\">https://www.youtube.com/watch?v=8pIEW6ji4q8</a> <br>"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "5b6cf869265c13af8566f192b4ab3d2a"}
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "f83f0dece8247f643783d3b83dad5fad"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle has detailed <a href=\"https://docs.moodle.org/en/Main_page\">documentation in English</a>, as well as <a href=\"https://docs.moodle.org/en/MoodleDocs:Overview\">documentation in other languages</a> with varying degrees of completion.</p>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\">Optionally, if you want to read more information about the topics covered in this tutorial, follow the links below to the English documentation:</p>\n"
+"<h5>Manage your courses</h5>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Organise_your_courses\">Organise your courses</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Courses\">Courses</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Course_categories\">Course categories</a>.</li>\n"
+"</ul>\n"
+"<h5>Create a course</h5>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Create_a_course\">Create a course</a>.</li>\n"
+"</ul>\n"
+"<h5>Upload an existing course</h5>\n"
+"<ul>\n"
+"\n"
+"    <li><a href=\"https://docs.moodle.org/en/Course_restore\">Course restore</a>.</li>\n"
+"</ul>\n"
+"<h5>Bulk create courses</h5>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Upload_courses\">Uploading courses</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Adding_a_new_course\">Adding a new course</a>.</li>\n"
+"</ul>\n"
+"<h5>Add course content</h5>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Add_course_content\">Add course content</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Teacher_quick_guide\">Teacher quick guide</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Activities\">Activities</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Resources\">Resources</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Blocks\">Blocks</a>.</li>\n"
+"</ul>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle memiliki dokumentasi rinci <a href=\"https://docs.moodle.org/en/Main_page\">dalam bahasa Inggris</a>, serta <a href=\"https://docs.moodle.org/en/MoodleDocs:Overview\">dokumentasi dalam bahasa lain</a> dengan tingkat penyelesaian yang bervariasi.</p>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\">Secara opsional, jika Anda ingin membaca informasi lebih lanjut tentang topik yang dibahas dalam tutorial ini, ikuti tautan di bawah ke dokumentasi bahasa Inggris:</p>\n"
+"<h5>Kelola kursus Anda</h5>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Organise_your_courses\">Atur kursus Anda</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Courses\">Kursus</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Course_categories\">Kategori kursus</a>.</li>\n"
+"</ul>\n"
+"<h5>Buat kursus</h5>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Create_a_course\">Buat kursus</a>.</li>\n"
+"</ul>\n"
+"<h5>Unggah kursus yang ada</h5>\n"
+"<ul>\n"
+"\n"
+"    <li><a href=\"https://docs.moodle.org/en/Course_restore\">Pemulihan kursus</a>.</li>\n"
+"</ul>\n"
+"<h5>Membuat kursus secara massal</h5>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Upload_courses\">Mengunggah kursus</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Adding_a_new_course\">Menambahkan kursus baru</a>.</li>\n"
+"</ul>\n"
+"<h5>Tambahkan konten kursus</h5>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Add_course_content\">Tambahkan konten kursus</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Teacher_quick_guide\">Panduan cepat guru</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Activities\">Aktivitas</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Resources\">Sumber Daya</a>.</li>\n"
+"    <li><a href=\"https://docs.moodle.org/en/Blocks\">Blok</a>.</li>\n"
+"</ul>"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "ee28114c773501c6beef34fdf247e803"}
+msgid "Manage your courses"
+msgstr "Kelola kursus Anda"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "0a816dc82251c1c19dd6805b9d971775"}
+msgid ""
+"<ul>\n"
+"    <li> A course in Moodle is a space where teachers add learning materials for their students.</li>\n"
+"    <li>Courses can be organised into course categories and subcategories, which you can hide if you wish. Courses can only be in one category.</li><li>The default category in a new Moodle site is called Category 1, but you can rename it.</li>\n"
+"    <li>You can specify course default settings from Site administration &gt; Courses &gt; Course default settings. Teachers can change these settings in their courses.</li>\n"
+"    <li>You can also enable Course requests. This displays a button so users can request an empty course be made for them.</li>\n"
+"</ul>\n"
+"<p>The video below explains how to manage courses. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=\"https://moodle.academy/course/view.php?id=39#section-4\">Videos and transcripts for download.</a><br></p><a href=\"https://youtu.be/NIubD5A4yMY?si=9KCCvjwMXuDBvDO6\">How can I manage courses?</a><br>"
+msgstr ""
+"<ul>\n"
+"    <li> Kursus di Moodle adalah ruang di mana guru menambahkan materi pembelajaran untuk siswanya.</li>\n"
+"    <li>Kursus dapat diatur ke dalam kategori dan subkategori kursus, yang dapat Anda sembunyikan jika diinginkan. Kursus hanya boleh berada dalam satu kategori.</li><li>Kategori bawaan di situs Moodle baru disebut Kategori 1, namun Anda dapat mengganti namanya.</li>\n"
+"    <li>Anda dapat menentukan pengaturan default kursus dari Administrasi situs &gt; Kursus &gt; Pengaturan bawaan kursus. Pengajar dapat mengubah setelan ini dalam kursusnya.</li>\n"
+"    <li>Anda juga dapat mengaktifkan permintaan Kursus. Ini menampilkan tombol sehingga pengguna dapat meminta dibuatkan kursus kosong untuk mereka.</li>\n"
+"</ul>\n"
+"<p>Video di bawah ini menjelaskan cara mengelola kursus. Transkrip dan video mp4 dapat diunduh dari bagian:&nbsp;<a href=\"https://moodle.academy/course/view.php?id=39#section-4\">Video dan transkrip untuk diunduh.</ a><br></p><a href=\"https://youtu.be/NIubD5A4yMY?si=9KCCvjwMXuDBvDO6\">Bagaimana cara mengelola kursus?</a><br>"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "73f2a2c1a8c1059ce8cd3949facb3eba"}
+msgid "Create a course"
+msgstr "Buat kursus"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "aa1adce98e47a3b46b67ffb061d2d7c2"}
+msgid ""
+"<ul>\n"
+"    <li>An administrator can add a new course from Site administration&nbsp; &gt;&nbsp; Courses&nbsp; &gt;&nbsp; Add a new course.\n"
+"    </li>\n"
+"    <li>The list of courses is also shown on the courses page yoursite.com/<i><b>course</b></i></li>\n"
+"    <li>Once you have added a course and added a teacher to it, they can edit the course settings.</li>\n"
+"</ul>\n"
+"<p>The video below explains how to create one course. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=\"https://moodle.academy/course/view.php?id=39#section-4\">Videos and transcripts for download.</a><br></p><p><a href=\"https://youtu.be/uWPIq0rGn6U?si=iwIwB3YT-R4suL8A\">How can I create a course on my Moodle site?</a></p>"
+msgstr ""
+"<ul>\n"
+"    <li>Administrator dapat menambahkan kursus baru dari Administrasi situs&nbsp; &gt;&nbsp; Kursus &gt;&nbsp; Tambahkan kursus baru.\n"
+"    </li>\n"
+"    <li>Daftar kursus juga ditampilkan di halaman kursus yoursite.com/<i><b>kursus</b></i></li>\n"
+"    <li>Setelah Anda menambahkan kursus dan menambahkan pengajar ke dalamnya, mereka dapat mengedit setelan kursus.</li>\n"
+"</ul>\n"
+"<p>Video di bawah ini menjelaskan cara membuat satu kursus. Transkrip dan video mp4 dapat diunduh dari bagian:&nbsp;<a href=\"https://moodle.academy/course/view.php?id=39#section-4\">Video dan transkrip untuk diunduh.</ a><br></p><p><a href=\"https://youtu.be/uWPIq0rGn6U?si=iwIwB3YT-R4suL8A\">Bagaimana cara membuat kursus di situs Moodle saya?</a>< /p>"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "e7b4a87a6305dbe6523b939db20e8237"}
+msgid "Upload an existing course"
+msgstr "Unggah kursus yang ada"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "51cb0692b9c41871627c002f5629172f"}
+msgid ""
+"<ul>\n"
+"    <li>When a course is saved, it is known as a backup. This backup can be downloaded and then uploaded to a different site, or to a different area in the same site.</li>\n"
+"    <li>This process is known as Restore.</li>\n"
+"    <li>An administrator can upload an existing course from a different site or from the same site from Site administration &gt; Courses &gt; Course restore.</li>\n"
+"</ul><p>The video below explains how to upload an existing course. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=\"https://moodle.academy/course/view.php?id=39#section-4\">Videos and transcripts for download.</a><br></p><a href=\"https://youtu.be/OW1A835SseM?si=hHtDTM2IjvsloOhk\">How can I upload a course to my Moodle site?</a><br>"
+msgstr ""
+"<ul>\n"
+"    <li>Bila suatu kursus disimpan, maka disebut sebagai cadangan. Cadangan ini dapat diunduh lalu diunggah ke situs lain, atau ke area berbeda di situs yang sama.</li>\n"
+"    <li>Proses ini dikenal sebagai Pemulihan.</li>\n"
+"    <li>Administrator dapat mengunggah kursus yang ada dari situs berbeda atau dari situs yang sama dari Administrasi situs &gt; Kursus &gt; Pemulihan kursus.</li>\n"
+"</ul><p>Video di bawah ini menjelaskan cara mengunggah kursus yang sudah ada. Transkrip dan video mp4 dapat diunduh dari bagian:&nbsp;<a href=\"https://moodle.academy/course/view.php?id=39#section-4\">Video dan transkrip untuk diunduh.</ a><br></p><a href=\"https://youtu.be/OW1A835SseM?si=hHtDTM2IjvsloOhk\">Bagaimana cara mengunggah kursus ke situs Moodle saya?</a><br>"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "6ebb1ad643f8d9c60d86f191cbad5523"}
+msgid "Add course content"
+msgstr "Tambahkan konten kursus"
+
+# {"targetlanguage": "id", "contextid": "5939", "md5key":
+# "7fd49cd79858a0558dc7cc687965bea6"}
+msgid ""
+"This tutorial is for administrators to help you manage courses on your Moodle site. It's not to help you teach with Moodle. For more information about teaching with Moodle, explore our <a href=\"https://moodle.academy/mod/page/view.php?id=57&amp;forceview=1\">Educator pathway.&nbsp;</a><br><br>&nbsp;Here is a brief overview of how teachers add course content.\n"
+"<br><br>\n"
+"<ul>\n"
+"    <li>The Course navigation gives editing teachers access to Settings (for example, changing the course name), Participants (where they can edit enrolment methods if allowed) and Grades.&nbsp;</li>\n"
+"    <li>The More link gives access to other functions such as the course Question bank (for the Quiz) and Content bank (for H5P activities.)</li>\n"
+"    <li>Learning resources are added by enabling Edit mode top right&nbsp; and then clicking Add an activity or resource at the bottom of one of the course sections. This opens up the <a href=\"/mod/book/view.php?id=629&amp;chapterid=906\">Activity chooser.</a></li>\n"
+"    <li>An 'activity' is something a learner interacts with, like an Assignment or Quiz.</li>\n"
+"    <li>A 'resource' is static content that is read, watched or listened to, like a video file or a PDF.</li>\n"
+"    <li>Along with activities and resources, teachers can add content from <a href=\"https://moodle.net\">MoodleNet</a>, Moodle's site for finding, sharing and curating open educational content. The link to MoodleNet needs to be enabled from Site administration &gt; Advanced features &gt;Enable MoodleNet integration.</li>\n"
+"    <li>Blocks provide extra learning content or information and&nbsp; may&nbsp; be added to the side of the main course content from the Block drawer on the right.</li>\n"
+"</ul>\n"
+"<p>The video below explains how to add course content. The transcript and mp4 video may be downloaded from the section:&nbsp;<a href=\"https://moodle.academy/course/view.php?id=39#section-4\">Videos and transcripts for download.</a><br></p>\n"
+"<a href=\"https://youtu.be/zFSox81Be-Y?si=WYq-Eeh1A-s-Pi-n\">How can I add course content?</a><br>"
+msgstr ""
+"Tutorial ini ditujukan bagi administrator untuk membantu Anda mengelola kursus di situs Moodle Anda. Ini bukan untuk membantu Anda mengajar dengan Moodle. Untuk informasi lebih lanjut tentang mengajar dengan Moodle, jelajahi <a href=\"https://moodle.academy/mod/page/view.php?id=57&amp;forceview=1\">jalur Pendidik.&nbsp;</a>< br><br>&nbsp;Berikut ini ikhtisar singkat tentang cara pengajar menambahkan konten kursus.\n"
+"<br><br>\n"
+"<ul>\n"
+"    <li>Navigasi Kursus memberi pengajar akses pengeditan ke Pengaturan (misalnya, mengubah nama kursus), Peserta (di mana mereka dapat mengedit metode pendaftaran jika diizinkan) dan Nilai.&nbsp;</li>\n"
+"    <li>Tautan Lainnya memberikan akses ke fungsi lain seperti bank Soal kursus (untuk Kuis) dan Bank Konten (untuk aktivitas H5P.)</li>\n"
+"    <li>Sumber daya pembelajaran ditambahkan dengan mengaktifkan mode Edit di kanan atas&nbsp; lalu mengklik Tambahkan aktivitas atau sumber daya di bagian bawah salah satu bagian kursus. Ini akan membuka <a href=\"/mod/book/view.php?id=629&amp;chapterid=906\">Pemilih aktivitas.</a></li>\n"
+"    <li>'Aktivitas' adalah sesuatu yang berinteraksi dengan pelajar, seperti Tugas atau Kuis.</li>\n"
+"    <li>'Sumber daya' adalah konten statis yang dibaca, ditonton, atau didengarkan, seperti berkas video atau PDF.</li>\n"
+"    <li>Bersama dengan aktivitas dan sumber daya, guru dapat menambahkan konten dari <a href=\"https://moodle.net\">MoodleNet</a>, situs Moodle untuk menemukan, berbagi, dan menyusun konten pendidikan terbuka. Tautan ke MoodleNet harus diaktifkan dari Administrasi situs &gt; Fitur lanjutan &gt;Aktifkan integrasi MoodleNet.</li>\n"
+"    <li>Blok memberikan konten atau informasi pembelajaran tambahan dan&nbsp; mungkin&nbsp; ditambahkan ke sisi konten hidangan utama dari laci Blok di sebelah kanan.</li>\n"
+"</ul>\n"
+"<p>Video di bawah ini menjelaskan cara menambahkan konten kursus. Transkrip dan video mp4 dapat diunduh dari bagian:&nbsp;<a href=\"https://moodle.academy/course/view.php?id=39#section-4\">Video dan transkrip untuk diunduh.</ a><br></p>\n"
+"<a href=\"https://youtu.be/zFSox81Be-Y?si=WYq-Eeh1A-s-Pi-n\">Bagaimana cara menambahkan konten kursus?</a><br>"
+
+# {"targetlanguage": "id", "contextid": "5924", "md5key":
+# "d12fca1db52fc60f75f2348c4cccb4c0"}
+msgid "Tasks: Course Creation Basics"
+msgstr "Tugas: Dasar-dasar Pembuatan Kursus"
+
+# {"targetlanguage": "id", "contextid": "5924", "md5key":
+# "5371a20e3871b365231d8845f3fd24df"}
+msgid ""
+"<p>Try these tasks to give you practice in site administration.</p>\n"
+"<ol>\n"
+"    <li>Rename Category 1 (the default category in your new site)&nbsp; to 'General courses';</li>\n"
+"    <li>Add a new category \"Science\";</li>\n"
+"    <li>Set the default number of sections in a course to 5 and set the default format to Weeks.</li>\n"
+"    <li>Manually create a new course \"Biology\";</li>\n"
+"    <li>Create a CSV file to upload two new courses, for example Physics and Chemistry. (<a href=\"https://moodle.academy/pluginfile.php/5924/mod_page/content/12/courseupload.csv\">Example .csv file here</a>)</li>\n"
+"    <li>Go into a course and change the course format to Topics</li>\n"
+"    <li>Enable Edit mode and see what happens when you drag and drop a word-processed document from your desktop.</li>\n"
+"</ol>"
+msgstr ""
+"<p>Cobalah tugas ini untuk memberi Anda latihan dalam administrasi situs.</p>\n"
+"<ol>\n"
+"    <li>Ganti nama Kategori 1 (kategori default di situs baru Anda)&nbsp; menjadi 'Kursus umum';</li>\n"
+"    <li>Tambahkan kategori baru \"Ilmu Pengetahuan\";</li>\n"
+"    <li>Tetapkan jumlah bagian bawaan dalam suatu kursus menjadi 5 dan atur format bawaan menjadi Minggu.</li>\n"
+"    <li>Buat kursus baru \"Biologi\" secara manual;</li>\n"
+"    <li>Buat berkas CSV untuk mengupload dua mata kuliah baru, misalnya Fisika dan Kimia. (<a href=\"https://moodle.academy/pluginfile.php/5924/mod_page/content/12/courseupload.csv\">Contoh berkas .csv di sini</a>)</li>\n"
+"    <li>Masuk kursus dan ubah format kursus menjadi Topik</li>\n"
+"    <li>Aktifkan mode Edit dan lihat apa yang terjadi saat Anda menarik dan melepas dokumen dari pemroses-kata di desktop Anda.</li>\n"
+"</ol>"
+
+# {"targetlanguage": "id", "contextid": "5925", "md5key":
+# "bf19934d767d2a8fb7849cb2615af1ea"}
+msgid "Checklist: Course Creation Basics"
+msgstr "Daftar Periksa: Dasar-dasar Pembuatan Kursus"
+
+# {"targetlanguage": "id", "contextid": "316155", "md5key":
+# "3bb9b8d52ef7445e208792c78506b295"}
+msgid "Related Courses"
+msgstr "Kursus Terkait"
+
+# {"targetlanguage": "id", "contextid": "316155", "md5key":
+# "121b9c5a7fb46fbae2cc7e9028a66e1e"}
+msgid ""
+"<div class=\"no-overflow\"><h4><i class=\"fa fa-graduation-cap\" aria-hidden=\"true\" style=\"font-size: 1rem;\"></i>&nbsp;Related courses</h4>\n"
+"<p>This course is part of the <strong>'Moodle Admin Basics'</strong> program. Visit the program course to enrol in other courses in this program:</p>\n"
+"<ul>\n"
+"    <li><a href=\"https://moodle.academy/course/view.php?id=60\">Moodle Admin Basics program and certificate</a>.</li>\n"
+"</ul>\n"
+"‍‍​‌‌​‌‍‍</div>"
+msgstr ""
+"<div class=\"no-overflow\"><h4><i class=\"fa fa-graduation-cap\" aria-hidden=\"true\" style=\"font-size: 1rem;\"></i>&nbsp;Kursus terkait</h4>\n"
+"<p>Kursus ini adalah bagian dari program <strong>'Dasar-Dasar Admin Moodle'</strong>. Kunjungi program kursus untuk mendaftar kursus lain dalam program ini:</p>\n"
+"<ul>\n"
+"    <li><a href=\"https://moodle.academy/course/view.php?id=60\">Program dan sertifikat Dasar-Dasar Admin Moodle</a>.</li>\n"
+"</ul>\n"
+"‍‍​‌‌​‌‍‍</div>"
+
+# {"targetlanguage": "id", "contextid": "5934", "md5key":
+# "25b050ec5d0a12a064094f132de35c9e"}
+msgid ""
+"<div class=\"no-overflow\"><div class=\"no-overflow\"><p dir=\"ltr\" "
+"style=\"text-align: left;\">Kami sangat menghargai jika Anda bersedia "
+"menjawab pertanyaan singkat ini. Hanya perlu beberapa menit untuk "
+"menyelesaikannya.</p></div>‍‍​‌‌​​‍‍</div>"
+msgstr ""
+"<div class=\"no-overflow\"><div class=\"no-overflow\"><p dir=\"ltr\" "
+"style=\"text-align: left;\">Kami sangat menghargai jika Anda bersedia "
+"menjawab pertanyaan singkat ini. Hanya perlu beberapa menit untuk "
+"menyelesaikannya.</p></div>‍‍​‌‌​​‍‍</div>"
+
+# {"targetlanguage": "id", "contextid": "17257", "md5key":
+# "ca80a219d0c0561c8af1604af381ff0a"}
+msgid "Images courtesy of Pixabay&nbsp;and&nbsp;UnSplash...."
+msgstr "Gambar milik Pixabay&nbsp;dan&nbsp;UnSplash...."
+
+# {"targetlanguage": "id", "contextid": "17257", "md5key":
+# "2a080c9c158ff3f9aa55ce3b3ae53ee7"}
+msgid ""
+"<div class=\"no-overflow\"><div class=\"no-overflow\">Gambar tersedia dari&nbsp;<a href=\"https://pixabay.com/\" target=\"_blank\">Pixabay</a>&nbsp;dan&nbsp;<a href=\"https://unsplash.com/\" target=\"_blank\">UnSplash</a>.\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"><br></p></div>‍‍​‌​‌‌‍‍</div>"
+msgstr ""
+"<div class=\"no-overflow\"><div class=\"no-overflow\">Gambar tersedia dari&nbsp;<a href=\"https://pixabay.com/\" target=\"_blank\">Pixabay</a>&nbsp;dan&nbsp;<a href=\"https://unsplash.com/\" target=\"_blank\">UnSplash</a>.\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"><br></p></div>‍‍​‌​‌‌‍‍</div>"
+
+# {"targetlanguage": "id", "contextid": "6909", "md5key":
+# "f1ebcb42037f6ad3958f3e26539afedc"}
+msgid ""
+"This course launched in April 2022 and is now based on <a "
+"href=\"https://docs.moodle.org/404/en/Main_page\">Moodle 4.4</a> "
+"functionality."
+msgstr ""
+"Kursus ini diluncurkan pada bulan April 2022 dan sekarang didasarkan pada "
+"fungsionalitas <a href=\"https://docs.moodle.org/404/en/Main_page\">Moodle "
+"4.4</a>."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "f615237738eee2073d1a002e22ddd97f"}
+msgid ""
+"<p>You have created a new course but the course is not showing for students "
+"in their My courses tab in the 'In progress' dropdown. What might be the "
+"reasons? You can select more than one.</p>"
+msgstr ""
+"<p>Anda telah membuat kursus baru namun kursus tersebut tidak ditampilkan "
+"kepada siswa di tab Kursus saya di tarik-turun 'Sedang berlangsung'. Apa "
+"alasannya? Anda dapat memilih lebih dari satu.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "654a4b925cd385ae10d1d0d60c16f630"}
+msgid "Your answer is correct."
+msgstr "Jawaban Anda benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "168db2cba8a52b5e38ad809a457707a0"}
+msgid "Your answer is partially correct."
+msgstr "Jawaban Anda sebagian benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "5105c3bec08b913c493157e439a407d9"}
+msgid "Your answer is incorrect."
+msgstr "Jawaban Anda salah."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "45ae9a8785d82ca86a52360d43e2e015"}
+msgid "<p>In the course settings, you set the course visibility to 'hide'</p>"
+msgstr ""
+"<p>Dalam pengaturan kursus, Anda mengatur visibilitas kursus ke "
+"'sembunyikan'</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "bdd554ff09f30bb921d6aac718057412"}
+msgid ""
+"<p>Correct. That is one reason. You hid it while you were preparing it.</p>"
+msgstr ""
+"<p>Benar. Itu salah satu alasannya. Anda menyembunyikannya saat Anda sedang "
+"mempersiapkannya.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "61513d5ad33887130b8e819c17c6a4cb"}
+msgid ""
+"<p>In the course settings you have set the start date to a time in the "
+"future</p>"
+msgstr ""
+"<p>Dalam pengaturan kursus Anda telah menetapkan tanggal mulai ke waktu di "
+"masa depan</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "c37fabfd292c6511541112b77a23a354"}
+msgid "<p>Yes. The course will probably be in their 'Future' dropdown.</p>"
+msgstr "<p>Ya. Kursus ini mungkin ada di tarik-turun 'Masa Depan'.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "6fc3e9b857e23a14f8ccce3fb5c3a392"}
+msgid "<p>You have not yet enrolled the students into the course</p>"
+msgstr "<p>Anda belum mendaftarkan siswa ke kursus</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "704436a77b1844fc2ec43361f9aa2b95"}
+msgid "<p>Correct. It only appears in My courses when they are enrolled.</p>"
+msgstr ""
+"<p>Benar. Itu hanya muncul di Kursus saya ketika mereka terdaftar.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "8584e4e414a628fa0dfa9ac2f4a1c9cf"}
+msgid ""
+"<p>The course does not have any content in it yet if they are enrolled.</p>"
+msgstr ""
+"<p>Kursus belum memiliki konten apa pun di dalamnya jika mereka "
+"terdaftar.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "7c028fed7fa79a8eef003b88469cd851"}
+msgid "<p>Incorrect. That should not make any difference.</p>"
+msgstr "<p>Salah. Seharusnya tidak ada bedanya.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "f41c0c998d0f59398f2f0145433288dd"}
+msgid ""
+"<p>This screenshot shows a student's My courses page with course images for "
+"each course.&nbsp; How did the course images get there?</p><p><img "
+"src=\"@@PLUGINFILE@@/mycoursesadminbasics.png\" alt=\"My courses page for a "
+"student, showing three courses each with a graphic representing the "
+"course.\" width=\"702\" height=\"340\" class=\"img-fluid "
+"atto_image_button_text-bottom\"><br></p>"
+msgstr ""
+"<p>Tangkapan layar ini menunjukkan laman Kursus saya milik siswa dengan "
+"gambar kursus untuk setiap kursus.&nbsp; Bagaimana gambar kursus sampai di "
+"sana?</p><p><img src=\"@@PLUGINFILE@@/mycoursesadminbasics.png\" "
+"alt=\"Halaman kursus saya untuk siswa, menampilkan tiga kursus masing-masing"
+" dengan grafik yang mewakili kursus tersebut .\" width=\"702\" "
+"height=\"340\" class=\"img-fluid atto_image_button_text-bottom\"><br></p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "bd646256287d249579e411cf19a124f8"}
+msgid "Your answer is correct."
+msgstr "Jawaban Anda benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "e3ff0849280b8846e9ee11f336d47a8f"}
+msgid "Your answer is partially correct."
+msgstr "Jawaban Anda sebagian benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "32cc62cab594618f5cef3339f85b9bb1"}
+msgid "Your answer is incorrect."
+msgstr "Jawaban Anda salah."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "e5541ba50ae7c329e7b658a9eafc0b57"}
+msgid "<p>They are part of the standard Boost theme</p>"
+msgstr "<p>Itu adalah bagian dari tema Boost standar</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "5b93c91d3902dd302acf5fdf18c94b65"}
+msgid "<p>No - these images do not depend on the Boost theme.</p>"
+msgstr "<p>Tidak - gambar ini tidak bergantung pada tema Boost.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "ec90aa936931d3da470f5d9d31ecded4"}
+msgid ""
+"<p>The administrator adds them from Site administration&nbsp; &gt; "
+"Courses&nbsp; &gt; Course default settings.</p>"
+msgstr ""
+"<p>Administrator menambahkannya dari Administrasi situs&nbsp; &gt; "
+"Kursus&nbsp; &gt; Pengaturan bawaan kursus.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "7ad5df400809910c03075a80daafae08"}
+msgid "<p>Go and check!</p>"
+msgstr "<p>Pergi dan periksa!</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "a682aec06ea13a3e0edc970ce66739e6"}
+msgid "They are added from the course settings within each course."
+msgstr "Mereka ditambahkan dari pengaturan kursus dalam setiap kursus."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "9a05f8300b1879ddde83302846d62935"}
+msgid ""
+"<p>Yes. Anyone who can edit the course settings such as admins or teachers "
+"can add them.</p>"
+msgstr ""
+"<p>Ya. Siapa pun yang dapat mengedit pengaturan kursus seperti admin atau "
+"guru dapat menambahkannya.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "f9e502a3bd01349f2e3c44dd5ec37c8f"}
+msgid "<p>They are part of a course template.</p>"
+msgstr "<p>Mereka adalah bagian dari templat kursus.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "628d07e8cd6851f02a800f7b81f99067"}
+msgid "<p>No. No template is needed to add the various images.</p>"
+msgstr ""
+"<p>Tidak. Tidak diperlukan templat untuk menambahkan berbagai gambar.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "bc7d65badd4c770d180b954176137ce0"}
+msgid ""
+"<p>A course may be set up in a variety of formats. Your teacher wants an "
+"English language course with four sections, not dependent on weeks in a "
+"term. The sections are Reading, Speaking, Listening and Writing. Which "
+"course format would be best?</p>"
+msgstr ""
+"<p>Kursus dapat diatur dalam berbagai format. Guru Anda menginginkan kursus "
+"bahasa Inggris dengan empat bagian, tidak bergantung pada minggu dalam satu "
+"semester. Bagian-bagiannya adalah Membaca, Berbicara, Mendengarkan dan "
+"Menulis. Format kursus manakah yang terbaik?</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "59252fde6b3b8c946346b76285adc372"}
+msgid "Your answer is correct."
+msgstr "Jawaban Anda benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "0c82f20834530b4ae11aa3c79dc8edbc"}
+msgid "Your answer is partially correct."
+msgstr "Jawaban Anda sebagian benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "227bc07ad18361398eb6a4b69aaaa8e7"}
+msgid "Your answer is incorrect."
+msgstr "Jawaban Anda salah."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "d0477410b7b17454f3aa4c702b2108ad"}
+msgid "<p>Custom sections format</p>"
+msgstr "<p>Format bagian khusus</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "8004605900099427954f8fdbcd3f4ffc"}
+msgid "<p>This would be the most appropriate, yes.</p>"
+msgstr "<p>Ini yang paling tepat ya.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "989bf06d6c62c8a08e50dafd7b08bd3c"}
+msgid "<p>Weekly format</p>"
+msgstr "<p>Format mingguan</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "c72b3dbe93161a6bd08d94797620b0c3"}
+msgid "<p>She doesn't need the course divided into weeks.</p>"
+msgstr ""
+"<p>Dia tidak memerlukan kursus yang dibagi menjadi beberapa minggu.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "8dee975618aaf9341df7cb4cca628ec7"}
+msgid "<p>Social format</p>"
+msgstr "<p>Format sosial</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "0ff573fc1f8d5b601d6edc737c1712a3"}
+msgid "<p>This is more for discussions only.</p>"
+msgstr "<p>Ini lebih untuk diskusi saja.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "6f4faf876f8c3d2bb9caa365ce65be80"}
+msgid "<p>Single activity format</p>"
+msgstr "<p>Format aktivitas tunggal</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "29c4545daa816fa613126e0a4863fdc6"}
+msgid "<p>This would only allow her to create one activity in her course.</p>"
+msgstr ""
+"<p>Ini hanya memungkinkan dia membuat satu aktivitas dalam kursusnya.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "17d867f0925a6b5228193fe0b88797fd"}
+msgid ""
+"<p>Which of the following statements about Moodle courses are correct? "
+"Select all that apply.</p>"
+msgstr ""
+"<p>Manakah pernyataan berikut tentang kursus Moodle yang benar? Pilih semua "
+"yang sesuai.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "d7a608ea7f76818840555c1f6ef3f6c5"}
+msgid "Your answer is correct."
+msgstr "Jawaban Anda benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "10ce46a364042f1779564c4259108f1e"}
+msgid "Your answer is partially correct."
+msgstr "Jawaban Anda sebagian benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "4756d9cfaae1f072b5e7080bd6bde4fd"}
+msgid "Your answer is incorrect."
+msgstr "Jawaban Anda salah."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "ae3520ee80bb36076d835773163668dd"}
+msgid ""
+"<p>Courses may be added one at a time or&nbsp; else course settings can be "
+"uploaded in bulk.</p>"
+msgstr ""
+"<p>Kursus dapat ditambahkan satu per satu atau&nbsp; pengaturan kursus "
+"lainnya dapat diunggah secara massal.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "497baee635975e1daaec5bcea409dac1"}
+msgid "<p>Which type is best for you?</p>"
+msgstr "<p>Jenis mana yang terbaik untuk Anda?</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "3bad8f10e824135579c93f9afd9a8581"}
+msgid "<p>A course can only belong to one category.</p>"
+msgstr "<p>Suatu kursus hanya dapat dimasukkan ke dalam satu kategori.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "d9c060691278562be1b62c973e68f560"}
+msgid ""
+"<p>By default, someone with the editing teacher role in a course can edit "
+"the course settings.</p>"
+msgstr ""
+"<p>Secara bawaan, seseorang dengan peran pengajar yang bisa mengedit dalam "
+"suatu kursus dapat mengedit pengaturan kursus.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "8004aaeeebf736119292df67f06fcb30"}
+msgid ""
+"<p>The 'Activity chooser' allows teachers in a course to add course "
+"content.</p>"
+msgstr ""
+"<p>'Pemilih aktivitas' memungkinkan pengajar dalam kursus menambahkan konten"
+" kursus.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "ae6f0fbbb22e2a788372122490ca12aa"}
+msgid ""
+"Why not explore our<a "
+"href=\"https://moodle.academy/mod/page/view.php?id=57&amp;forceview=1\"> "
+"Educator pathway</a> to learn more about teaching with Moodle?"
+msgstr ""
+"Mengapa tidak menjelajahi <a "
+"href=\"https://moodle.academy/mod/page/view.php?id=57&amp;forceview=1\">jalur"
+" Pendidik</a> kami untuk mempelajari lebih lanjut tentang mengajar dengan "
+"Moodle?"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "30c53a82a334f9de8007824e6402d39c"}
+msgid ""
+"<p>You want to upload these courses as a CSV file into your new empty Moodle site. Will this file work?</p>\n"
+"<p><img src=\"@@PLUGINFILE@@/courseupload.png\" alt=\"CSV file. Shortname, fullname, summary, category\n"
+"Phys,Physics, Theoretical Physics Unit X, 2\n"
+"\" width=\"433\" height=\"154\" role=\"presentation\" class=\"img-fluid atto_image_button_text-bottom\"></p>"
+msgstr ""
+"<p>Anda ingin mengunggah kursus-kursus ini sebagai file CSV ke situs Moodle baru Anda yang kosong. Apakah berkas ini akan berfungsi?</p>\n"
+"<p><img src=\"@@PLUGINFILE@@/courseupload.png\" alt=\"Berkas CSV. Nama pendek, nama lengkap, ringkasan, kategori\n"
+"Fis, Fisika, Fisika Teoritis Unit X, 2\n"
+"\" width=\"433\" height=\"154\" role=\"presentation\" class=\"img-fluid atto_image_button_text-bottom\"></p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "e899f1434de282c517334b7558ed5bbc"}
+msgid "Your answer is correct."
+msgstr "Jawaban Anda benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "57d9afecc9e9e2760cd0fcbcc32123f1"}
+msgid "Your answer is partially correct."
+msgstr "Jawaban Anda sebagian benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "f132cfbf47a4c89818367e058c008aef"}
+msgid "Your answer is incorrect."
+msgstr "Jawaban Anda salah."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "52445b80e31516e4ad581416a40882b6"}
+msgid "<p>Yes, without any problems</p>"
+msgstr "<p>Ya, tanpa masalah</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "d617c2e38f2298410bad828317527e08"}
+msgid "<p>There might be a problem...</p>"
+msgstr "<p>Mungkin ada masalah...</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "e3d73af4b0ab42ba40d851fb91e8cd0f"}
+msgid "<p>No, because 'summary' is not a required field</p>"
+msgstr "<p>Tidak, karena 'ringkasan' bukan kolom yang wajib diisi</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "6fc432a16233e2c89ba0032158b64014"}
+msgid ""
+"<p>That should not make any difference if the other fields are correct.</p>"
+msgstr "<p>Tidak akan ada bedanya jika kolom lainnya benar.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "f61862f6cd55cfc9b64e52a02336a8c2"}
+msgid "Yes IF those categories have been created on your site"
+msgstr "Ya JIKA kategori tersebut telah dibuat di situs Anda"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "b52b1364c9ea3df07cccb0e8676d582f"}
+msgid "<p>Correct! If the categories do not exist then it won't work.</p>"
+msgstr "<p>Benar! Jika kategori tidak ada maka tidak akan berfungsi.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "f38345021132af996e16215d3df02264"}
+msgid ""
+"<p>No because the file is in Notepad and not a spreadsheet program like "
+"Excel™</p>"
+msgstr ""
+"<p>Tidak karena berkas ada di Notepad dan bukan program spreadsheet seperti "
+"Excel™</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "4c07a9b0471d1f2ce05a7fc8d0c93d15"}
+msgid "<p>That will not matter.</p>"
+msgstr "<p>Itu tidak masalah.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "4fad6070b2e9c1e9b1beebfc9021c502"}
+msgid ""
+"Jan, one of your teaching staff, wants to know what exactly learners can "
+"download if they click the Download course content link in his course. Which"
+" of the following can be downloaded by learners from the website when they "
+"click the link? Select all that apply."
+msgstr ""
+"Jan, salah satu staf pengajar Anda, ingin mengetahui apa sebenarnya yang "
+"dapat diunduh oleh pelajar jika mereka mengeklik tautan Unduh konten kursus "
+"dalam kursusnya. Manakah dari berikut ini yang dapat diunduh oleh pelajar "
+"dari situs web ketika mereka mengeklik tautannya? Pilih semua yang berlaku."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "4f0b307d2d22435d02729324c7dcd29d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Review the section Download "
+"course content in the Tutorial: Set up Courses for more information.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tinjau bagian Unduh konten kursus"
+" di Tutorial: Mengatur Kursus untuk informasi lebih lanjut.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "93a3ac6a700aec53707da310f62d71c3"}
+msgid "Your answer is correct."
+msgstr "Jawaban Anda benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "1c4f5f7759a887b4c104430457d0682c"}
+msgid "Your answer is partially correct."
+msgstr "Jawaban Anda sebagian benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "cf6554773c2f09d5640eedf4dd0fca17"}
+msgid "Your answer is incorrect."
+msgstr "Jawaban Anda salah."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "fa0d56aa706c3fcd3f5e6de137cac804"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Wikis</p>"
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Wiki</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "2fb0c443bbf7d3b986ea4f6d294ae275"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Forum posts</p>"
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Post pada forum</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "1bc4808ad4eb29706248944d7aec2c2a"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Folders</p>"
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Folder</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "e169a00737710b053935124a79214f23"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Pages</p>"
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Halaman</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "f0860178882fa0d436ed00a235a95725"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Elio is the administrator of a "
+"new Moodle site. There are fifty teaching staff and they each want a course "
+"of their own. What is the most efficient way for him to organise this?</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Elio adalah administrator situs "
+"Moodle baru. Ada lima puluh staf pengajar dan mereka masing-masing "
+"menginginkan kursusnya sendiri. Apa cara paling efisien baginya untuk "
+"mengatur ini?</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "6d3882aca3f6f56b8db43656561fa2a2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Review the Tutorial: Course set "
+"up for more information.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tinjau Tutorial: Pengaturan "
+"kursus untuk informasi lebih lanjut.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "7c8681c22bb2b09dd8595dfc6933f7fb"}
+msgid "Your answer is correct."
+msgstr "Jawaban Anda benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "d13f26d519e0baa1f480ff2fae38a26e"}
+msgid "Your answer is partially correct."
+msgstr "Jawaban Anda sebagian benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "0ae1052fd10d73177d3913ff941cb8ec"}
+msgid "Your answer is incorrect."
+msgstr "Jawaban Anda salah."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "783d78048fcef7f88693b1751ac8ecc6"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Enable Course request and ask "
+"them to each request a course.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Aktifkan permintaan Kursus dan "
+"minta mereka untuk setiap permintaan kursus.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "ac366a0ea56fc6cb786434b75aa9a6dd"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This would work, but is not the "
+"most efficient way, since Elio would still have to manually approve all the "
+"courses - and wait for some staff who might be late with their requests.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ini akan berhasil, tetapi bukan "
+"cara yang paling efisien, karena Elio masih harus menyetujui semua kursus "
+"secara manual - dan menunggu beberapa staf yang mungkin terlambat "
+"menyampaikan permintaan mereka.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "6a5f8ab92f05482a60842552ba9bae4c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Add the details of the courses "
+"and teachers to a CSV and upload the file.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tambahkan detail kursus dan "
+"pengajar ke CSV dan unggah file.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "0953889c29585c8f370f0879c706f93b"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">This is the most efficient way.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ini adalah cara paling "
+"efisien.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "1b84c0609d30be729098ce36c3e6fb8a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Manually create fifty courses by "
+"clicking 'Add a new course'</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Buat lima puluh kursus secara "
+"manual dengan mengklik 'Tambahkan kursus baru'</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "696c14cf801f28baeddf106a3b508cff"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">This would take ages!</p>"
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Ini akan memakan waktu lama!</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "64ce403f501ebe87744650986a5e368f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Employ an intern to create the "
+"courses by clicking 'Add a new course'</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pekerjakan pekerja magang untuk "
+"membuat kursus dengan mengklik 'Tambahkan kursus baru'</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "50d020e562b4b0376caa42798113dbfe"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is not the most efficient "
+"way, even if we assume it is possible for Elio to employ an intern.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ini bukan cara yang paling "
+"efisien, meskipun kami berasumsi Elio mungkin mempekerjakan pekerja "
+"magang.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "d461661877b7f45fedea3e36404b2343"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Trainer Bob attended a Moodle "
+"Academy webinar on MoodleNet, the site for finding, sharing and curating "
+"open source educational content. He was told that he can access it in his "
+"course from the Activity chooser when he clicks Add and activity or "
+"resource, but he doesn't see the link to MoodleNet. What might be the "
+"problem?</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pelatih Bob menghadiri webinar "
+"Moodle Academy di MoodleNet, situs untuk menemukan, berbagi, dan mengkurasi "
+"konten pendidikan sumber terbuka. Dia diberitahu bahwa dia dapat "
+"mengaksesnya dalam kursusnya dari pemilih Aktivitas ketika dia mengklik "
+"Tambah dan aktivitas atau sumber daya, namun dia tidak melihat tautan ke "
+"MoodleNet. Apa masalahnya?</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "23294d294778f55fdf74ab2282340349"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Review the section 'Add content' "
+"in the Tutorial: Set up courses for more information.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tinjau bagian 'Tambahkan konten' "
+"di Tutorial: Menyiapkan kursus untuk informasi lebih lanjut.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "b0e8ca458f7309f5692147ae635c5717"}
+msgid "Your answer is correct."
+msgstr "Jawaban Anda benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "0564a598c74f4c29b2e70419087eb63e"}
+msgid "Your answer is partially correct."
+msgstr "Jawaban Anda sebagian benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "4cf19781bb841dac601807096e310f32"}
+msgid "Your answer is incorrect."
+msgstr "Jawaban Anda salah."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "88f7ab28dfc86cc7e56841e774437f46"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">MoodleNet integration is disabled"
+" in Site administration &gt;Advanced features.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Integrasi MoodleNet dinonaktifkan"
+" di Administrasi situs &gt;Fitur lanjutan.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "12ae42e2715997d01fe7f6243263da96"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes. From Moodle 4.0 onwards, it "
+"is enabled by default, so he should speak to the administrator about "
+"this.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya. Mulai Moodle 4.0 dan "
+"seterusnya, ini diaktifkan secara default, jadi dia harus membicarakan hal "
+"ini dengan administrator.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "7305b85e48bc4184514b1dee629110ca"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">He is looking in the wrong place."
+" MoodleNet is in the More link from Course navigation.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dia mencari di tempat yang salah."
+" MoodleNet ada di tautan Lainnya dari navigasi Kursus.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "e1edd5812804287591f1b6bcb4249470"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The administrator needs to "
+"manually add MoodleNet as an External tool (LTI)</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Administrator perlu menambahkan "
+"MoodleNet secara manual sebagai alat Eksternal (LTI)</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "5f4052092aff9eacd73f85c8b68d5649"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Not necessary.</p>"
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Tidak perlu.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "1f6b9bc5b85c26a27fe9255fff26b19f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">MoodleNet is a separate site from"
+" his organisation's Moodle site.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">MoodleNet adalah situs terpisah "
+"dari organisasinya situs Moodle.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "54bcff584e8b6c1b87ade766d2ec693d"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">That's true, but not relevant.</p>"
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Itu benar, tapi tidak relevan.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "f9a5212c6cad733eedbd5031445b57ce"}
+msgid ""
+"<p>A friend has given you a copy ('backup') of a Moodle course they designed"
+" on their Moodle site. You need to add it to your Moodle site. Where would "
+"you go to add this course?</p>"
+msgstr ""
+"<p>Seorang teman memberi Anda salinan ('cadangan') kursus Moodle yang mereka"
+" rancang di situs Moodle mereka. Anda perlu menambahkannya ke situs Moodle "
+"Anda. Di mana Anda ingin menambahkan kursus ini?</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "03158527fa4061add76e34836605777f"}
+msgid "Your answer is correct."
+msgstr "Jawaban Anda benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "61d16a3f896e9dc990ca772f9f187916"}
+msgid "Your answer is partially correct."
+msgstr "Jawaban Anda sebagian benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "bf4a37c07c6768a251b701c9c8f57399"}
+msgid "Your answer is incorrect."
+msgstr "Jawaban Anda salah."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "6005612214352472f0e341d1d39f7b88"}
+msgid "<p>Upload courses</p>"
+msgstr "<p>Unggah kursus</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "17de4a6086b7dfe6128e89c8d94d2634"}
+msgid "<p>No. This only takes CSV files.</p>"
+msgstr "<p>Tidak. Ini hanya membutuhkan file CSV.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "9dc75f0e5b9c92220881f415d4db5146"}
+msgid "<p>Add a new course</p>"
+msgstr "<p>Tambahkan kursus baru</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "58b70a871cd0e89a4226711f854f3191"}
+msgid ""
+"<p>It is not necessary to use the 'Add a new course' option simply to upload"
+" the course your friend made.</p>"
+msgstr ""
+"<p>Tidak perlu menggunakan opsi 'Tambahkan kursus baru' hanya untuk "
+"mengunggah kursus yang dibuat teman Anda.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "1746638aa850fc7b2035a7fa125f2f68"}
+msgid "<p>Restore course</p>"
+msgstr "<p>Pemulihan kursus </p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "6840429b2f22a02ff52311ec521ceb75"}
+msgid ""
+"<p>This is correct. The process of uploading an existing course backup is "
+"called 'Course restore'.</p>"
+msgstr ""
+"<p>Ini benar. Proses mengunggah cadangan kursus yang ada disebut 'Pemulihan "
+"kursus'.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "f0eed9ee6b7326f14d88d39a839d23cf"}
+msgid "Import course"
+msgstr "Impor kursus"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "d96459df931ddd0ad4bd202a10b0d6c1"}
+msgid ""
+"<p>No. The term 'import' is used in Moodle for bringing in materials from "
+"courses already on your site, not courses from other sites.</p>"
+msgstr ""
+"<p>Tidak. Istilah 'impor' digunakan di Moodle untuk membawa materi dari "
+"kursus yang sudah ada di situs Anda, bukan kursus dari situs lain.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "bdca26080b32c04ca9fbb90500f5e562"}
+msgid ""
+"<p>This image shows part of an important course element. What is it?</p>\n"
+"<p><img src=\"@@PLUGINFILE@@/44activitychooser.png\" alt=\"Activities and resource icons, with different tabs for All, Activities, Resources, Recommended.\" width=\"895\" height=\"895\" class=\"img-fluid atto_image_button_text-bottom\"><br></p>"
+msgstr ""
+"<p>Gambar ini menunjukkan bagian dari elemen kursus yang penting. Apa itu?</p>\n"
+"<p><img src=\"@@PLUGINFILE@@/44activitychooser.png\" alt=\"Ikon aktivitas dan sumber daya, dengan tab berbeda untuk Semua, Aktivitas, Sumber Daya, Direkomendasikan.\" width=\"895\" height=\"895\" class=\"img-fluid atto_image_button_text-bottom\"><br></p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "48184c65176480c898626727ae4049d9"}
+msgid "Your answer is correct."
+msgstr "Jawaban Anda benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "3b594b22d145b6bd00a1ed925b67e822"}
+msgid "Your answer is partially correct."
+msgstr "Jawaban Anda sebagian benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "34ce7575b430ccab8509cd34f3d9b810"}
+msgid "Your answer is incorrect."
+msgstr "Jawaban Anda salah."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "4f7454d28cc710320201d10b57b90788"}
+msgid ""
+"<p>It's the Add block element in the Block drawer to add side blocks to the "
+"Moodle course</p>"
+msgstr ""
+"<p>Ini adalah elemen Tambahkan blok di laci Blok untuk menambahkan blok "
+"samping ke kursus Moodle</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "e52c55ba29db72c032f63e8f77b5d9d4"}
+msgid "<p>No. Why not go to a course and try to find it?</p>"
+msgstr "<p>Tidak. Mengapa tidak pergi ke kursus dan mencoba menemukannya?</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "56665ea22875cbfaf5bed89c3d6997e9"}
+msgid ""
+"<p>It's the Activity chooser that lets a teacher select content for the "
+"students</p>"
+msgstr ""
+"<p>Pemilih Aktivitaslah yang memungkinkan pengajar memilih konten untuk "
+"siswa</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "f43576e35c3eab5c41f4d34294a25790"}
+msgid "<p>Yes. It is worth exploring this feature.</p>"
+msgstr "<p>Ya. Sebaiknya jelajahi fitur ini.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "46536e53174f542bd5a0fa8f744aad2e"}
+msgid ""
+"<p>It's the File manager that lets teachers choose a file repository</p>"
+msgstr ""
+"<p>Ini adalah Manajer berkas yang memungkinkan guru memilih penyimpanan "
+"berkas</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "e0cd5bc7a36fa9bbc10d034d2addf944"}
+msgid "<p>No. Why not go to a course and try to find it?</p>"
+msgstr "<p>Tidak. Mengapa tidak pergi ke kursus dan mencoba menemukannya?</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "7e6ac25c81579f50245187a67c55d326"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Your teaching staff only use "
+"resources and not activities, so they don't need the Activities tab in the "
+"Activity chooser. How can you remove this?</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Staf pengajar Anda hanya "
+"menggunakan sumber daya dan bukan aktivitas, sehingga mereka tidak "
+"memerlukan tab Aktivitas di pemilih Aktivitas. Bagaimana cara menghapus "
+"ini?</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "64e89fb55e30f013872b95fdf7accb37"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Review the section 'Activity "
+"chooser' in the Tutorial: Course Creation for more information, and explore "
+"<a href=\"https://docs.moodle.org/en/Activity_chooser\">the Activity chooser"
+" documentation.</a></p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tinjau bagian 'Pemilih aktivitas'"
+" dalam Tutorial: Pembuatan Kursus untuk informasi lebih lanjut, dan jelajahi"
+" <a href=\"https://docs.moodle.org/en/Activity_chooser\">dokumentasi pemilih"
+" aktivitas.</a></p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "fbc61586bf64e88803de28b015896373"}
+msgid "Your answer is correct."
+msgstr "Jawaban Anda benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "1f8c4f55a424888e24008ed2c4d03ebd"}
+msgid "Your answer is partially correct."
+msgstr "Jawaban Anda sebagian benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "30ee6e62ea9a2bcd9b57bbf0429c1cb0"}
+msgid "Your answer is incorrect."
+msgstr "Jawaban Anda salah."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "948c6858d85c443b7ab206ffe6e2e36b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Teaching staff can remove the tab"
+" themselves from the course settings.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Staf pengajar dapat menghapus "
+"sendiri tab tersebut dari pengaturan kursus.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "a904948472a9f0963fb15651fcb2d55a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Think again! And check the <a "
+"href=\"https://docs.moodle.org/en/Activity_chooser\">Activity chooser "
+"documentation</a>.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pikirkan lagi! Dan periksa <a "
+"href=\"https://docs.moodle.org/en/Activity_chooser\">Dokumentasi pemilih "
+"aktivitas</a>.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "dda4e7799f6f35357bff95486349f49d"}
+msgid ""
+"You can remove the tab from Site administration &gt; Courses &gt; Activity "
+"chooser settings."
+msgstr ""
+"Anda dapat menghapus tab dari Administrasi situs &gt; Kursus &gt; Pengaturan"
+" pemilih aktivitas."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "515549be64163598da0057749ac4ee95"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Yes, well remembered!&nbsp;</p>"
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Ya, ingat betul!&nbsp;</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "a35df83472084566ee491c29bda47bc1"}
+msgid ""
+"You can remove the tab from Site administration &gt; Appearance &gt; "
+"Navigation."
+msgstr ""
+"Anda dapat menghapus tab dari Administrasi situs &gt; Penampilan &gt; "
+"Navigasi."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "7e3654a9196b116ac0b36173e0daabba"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Think again! And check the <a "
+"href=\"https://docs.moodle.org/en/Activity_chooser\">Activity chooser "
+"documentation.</a></p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pikirkan lagi! Dan periksa <a "
+"href=\"https://docs.moodle.org/en/Activity_chooser\">Dokumentasi pemilih "
+"aktivitas.</a></p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "d2c97346c455037c29b621964ef18365"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It is not possible to remove the "
+"Activities tab but you can star the Resources tab to highlight it.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tidak mungkin menghapus tab "
+"Aktivitas tetapi Anda dapat memberi bintang pada tab Sumber Daya untuk "
+"menyorotnya.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "f0e53130b2a9c7a17ad248d72e2fe947"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is not possible - starring "
+"is for items, not tabs.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ini tidak mungkin - dibintangi "
+"adalah untuk item, bukan tab.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "deda8f00c452fa0ec9822533e82e6708"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Your colleague is confused by the"
+" term 'Restore'. When do you use it?</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Rekan Anda bingung dengan istilah"
+" 'Pulihkan'. Kapan Anda menggunakannya?</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "1d4d96f640add680874ecca1fd9a3820"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Review the sections 1 - 5 in the "
+"Tutorial: Course creation for more information.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tinjau bagian 1 - 5 dalam "
+"Tutorial: Pembuatan kursus untuk informasi lebih lanjut.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "d1f73e4b05bc877b7836136eb8282e66"}
+msgid "Your answer is correct."
+msgstr "Jawaban Anda benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "47546487f1545994f5bf058d8157bc13"}
+msgid "Your answer is partially correct."
+msgstr "Jawaban Anda sebagian benar."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "9fa937c0ac509c2203edc89342ef9393"}
+msgid "Your answer is incorrect."
+msgstr "Jawaban Anda salah."
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "95bab53266a6121152629caef54377f2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It helps you fix a problem with a"
+" corrupted course.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ini membantu Anda memperbaiki "
+"masalah pada kursus yang rusak.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "5cbf7643a983f104f1bade98934342ae"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Think again.</p>"
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Pikirkan lagi.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "e4e398e501f215e5f90c62c99e71c37c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It is Moodle's term for saving "
+"and downloading a course to your computer.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ini adalah istilah Moodle untuk "
+"menyimpan dan mengunduh kursus ke komputer Anda.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "bbf2fe17b2143b95d1e9cf13e105f294"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That is another term - make sure "
+"you know it!</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Itu istilah lain - pastikan Anda "
+"mengetahuinya!</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "5c35faaf21245b17622f741f285cc1b6"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It is for uploading an existing "
+"course to your Moodle site.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Untuk mengunggah kursus yang "
+"sudah ada ke situs Moodle Anda.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "66ef94c68106b7cdd7723144d60beb8e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes. Usually it is from a "
+"different Moodle site but you can also restore a course from within your "
+"site.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya. Biasanya kursus tersebut "
+"berasal dari situs Moodle yang berbeda namun Anda juga dapat memulihkan "
+"kursus dari dalam situs Anda.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "f0ed2c01853793f91c46eee26cd2812d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It is for uploading a CSV file "
+"with course information.</p>"
+msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ini untuk mengunggah file CSV "
+"dengan informasi kursus.</p>"
+
+# {"targetlanguage": "id", "contextid": "5913", "md5key":
+# "4e26a4c86eb8fa1d2e991fa228de0f1a"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Think again!</p>"
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Pikirkan lagi!</p>"
+
+# {"targetlanguage": "id", "contextid": "5935", "md5key":
+# "4201defa06d9562e6d420147ec16d11e"}
+msgid ""
+"<div class=\"no-overflow\">Before you begin, review the&nbsp;Course "
+"overview,&nbsp;Learning outcomes,&nbsp;Course "
+"structure&nbsp;and&nbsp;Completion and assessment&nbsp;information.</div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "316155", "md5key":
+# "27088ca8249ace54bb3fe5bf73b00ebe"}
+msgid ""
+"<div class=\"no-overflow\"><h4><i class=\"fa fa-graduation-cap\" aria-hidden=\"true\" style=\"font-size: 1rem;\"></i>&nbsp;Related courses</h4>\n"
+"<p>This course is part of the <strong>'Moodle Admin Basics'</strong> program. Visit the program course to enrol in other courses in this program:</p>\n"
+"<ul>\n"
+"    <li><a href=\"https://moodle.academy/course/view.php?id=60\">Moodle Admin Basics program and certificate</a>.</li>\n"
+"</ul>\n"
+"</div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5934", "md5key":
+# "5914c9b729001618579f1eed29c074fd"}
+msgid ""
+"<div class=\"no-overflow\"><p dir=\"ltr\" style=\"text-align: left;\">We "
+"would appreciate if you would answer these short questions. It should take "
+"only a few minutes to complete.</p></div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "17257", "md5key":
+# "1f415d76f1216aaa75c10a67ff100bce"}
+msgid ""
+"<div class=\"no-overflow\">Images courtesy of <a href=\"https://pixabay.com/\" target=\"_blank\">Pixabay</a>&nbsp;and&nbsp;<a href=\"https://unsplash.com/\" target=\"_blank\">UnSplash</a>.\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"><br></p></div>"
+msgstr ""
