@@ -1,0 +1,207 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# {"targetlanguage": "id", "contextid": "16018", "md5key":
+# "d4ef26df69424bda3945074905b38a91"}
+msgid ""
+"<p>This free program of short courses is designed to help you understand the basics of teaching with Moodle.</p>\n"
+"<p>Once you complete all the courses you will receive a badge for completing the program.&nbsp;You can also choose to purchase a certificate of completion.\n"
+"</p>\n"
+"<hr>\n"
+"<p>\n"
+"    This program relates to the following competences: 3.1 Teaching; 5.1 Accessibility and inclusion.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16018", "md5key":
+# "3a5f96a32e86aed99cc7d9281dae2d87"}
+msgid "Moodle Teaching Basics"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16018", "md5key":
+# "79b297fff9efc297b9e5aebbd1b9067d"}
+msgid ""
+"<p>This free program of short beginner level courses is designed to help you understand the basics of teaching with Moodle.</p>\n"
+"<p>Once you complete all the courses you will receive a badge for completing the program.<br></p>\n"
+"<p>You can also choose to purchase a certificate of completion.</p>\n"
+"<p>If you already understand the basics of teaching with Moodle, why not try our Intermediate level program&nbsp;<a href=\"https://moodle.academy/course/view.php?id=65\">Moodle Teaching Skills</a>?</p>\n"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16273", "md5key":
+# "5ecc2be66e0cd57e94decaf7b9d0bcf0"}
+msgid ""
+"<div class=\"no-overflow\">Before you begin, review the Program "
+"overview,&nbsp;Learning outcomes,&nbsp;Program "
+"structure&nbsp;and&nbsp;Completion and assessment&nbsp;information.</div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16273", "md5key":
+# "463d2fd60948d1c6649ea18666fc802f"}
+msgid "Digital competences"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16273", "md5key":
+# "4bd0dfa4cfbb3eb3297322679ea97952"}
+msgid ""
+"\"Being digitally competent means\n"
+"using digital technologies\n"
+"in a confident and safe way\" (DigComp 2.0). <br><br>Moodle Academy courses and programs in the Educator learning pathway use a Moodle specific version of the Digital Competence Framework for Educators&nbsp;(DigCompEdu). This is the same framework used by the advanced Moodle Educator Certification (MEC).<br><br>This program relates to the following competences:<br><p></p><ul><li><span>3.1 Teaching;</span></li><li><span>5.1 Accessibility and inclusion.</span></li></ul><p></p><br>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16273", "md5key":
+# "a756e2b9bb5f15f0c7badac268c955f7"}
+msgid ""
+"<p dir=\"ltr\">To complete the program you need to complete the following activities:</p>\n"
+"<p dir=\"ltr\"></p>\n"
+"<ul>\n"
+"    <li>View the 'About this program' book.</li><li>Complete all the courses in the program.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<h4>Completing the courses in this program</h4><ul><li>The courses in this program will be automatically marked as completed, once you meet all the criteria to pass each course.&nbsp; These activities have a c<span style=\"font-size: 1rem;\">heckbox with a dashed line border.</span></li></ul><p></p><ul>\n"
+"</ul>\n"
+"<h4>Program badge</h4>\n"
+"<p><ul><li>Upon successful completion of this program of courses you will be automatically awarded a program badge to showcase the skills and knowledge you have obtained.</li></ul></p>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16273", "md5key":
+# "c88c82d7c5f6081bfae9a6769ee13c76"}
+msgid ""
+"\n"
+"<p>All notable changes to this course will be documented in this page.</p>\n"
+"<hr>\n"
+"<p>Date: DD Month YYYY<br>Changed by:&nbsp;<br>Changes:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>...</li>\n"
+"    <li>...</li>\n"
+"    <li>...</li>\n"
+"</ul><br>\n"
+"<hr>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16273", "md5key":
+# "ab6d19f85d916b8de4e66621ed325735"}
+msgid ""
+"<h4 style=\"text-align: left;\"><span style=\"color: rgb(73, 80, 87); font-"
+"size: 1rem;\">By the end of this program, participants will be able "
+"to:</span><br></h4><p dir=\"ltr\"></p><ul><li>Define the layout of your own "
+"Moodle course as a teacher;</li><li>Display information in your course in an"
+" accessible and inclusive way;</li><li>Add a variety of Moodle activities to"
+" your course;</li><li>Set up activities with automatic or manual "
+"grading;</li><li>Confidently create a mobile-friendly Moodle "
+"course;</li><li>Identify common accessibility issues within a Moodle course "
+"and remedy them.</li></ul><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16273", "md5key":
+# "d47f65f655b8c742bf23735af268e91f"}
+msgid "Program overview"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16273", "md5key":
+# "325602e247d9bddffef3c3b8a046cd53"}
+msgid ""
+"<h4 style=\"text-align: left;\">Aim</h4>\n"
+"<p>In this program you will learn how to:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li><nolink>Start teaching with Moodle;</nolink></li>\n"
+"    <li>Create course content;</li>\n"
+"    <li>Develop Moodle Activities;</li>\n"
+"    <li>Manage your course;</li>\n"
+"    <li>Create an accessible course that does not disadvantage particular students.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<h4>Format</h4>\n"
+"<p dir=\"ltr\">This is a self-paced program of short courses without active moderation. You are encouraged to discuss ideas in the discussion forums and respond to other learners' queries.</p>\n"
+"<h4 style=\"text-align: left;\">Learning time</h4>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\">The estimated learning time to complete this program is 15 hours.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16273", "md5key":
+# "b126c3a8d07206cf3d425d987030c2c0"}
+msgid "Program structure"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16273", "md5key":
+# "056b7a144466bfb67ef3a74d3f655762"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: "
+"left;\"></p><h4></h4><h4>Welcome</h4><p>Find out how the program works and "
+"post a welcome message to the other participants completing the program at "
+"the same time.</p><h4>Courses</h4><p>Complete all the courses in this "
+"program to receive your program badge.</p><p><span style=\"font-size: "
+"1rem;\">You will automatically receive a badge once you have completed all "
+"the courses in this program.</span></p><h4>Certificate of "
+"completion</h4><p>Upon completion you can choose to purchase a certificate "
+"for a small fee.</p><h4>Feedback</h4>We'd love to hear what you thought of "
+"the program and if you have any suggestions for improvements. You can also "
+"give feedback within each course.<br><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16273", "md5key":
+# "fac5d826fcf360a251690ec1d4f26609"}
+msgid ""
+"<p dir=\"ltr\"></p><p dir=\"ltr\">Once you complete this program you will be"
+" able to purchase a certificate of completion for a small fee.</p><p "
+"dir=\"ltr\">If you complete this program successfully, why not take another "
+"course, or complete a further program?&nbsp;</p><p dir=\"ltr\">We offer a "
+"range of free courses and programs in three learning pathways, as well as "
+"general courses for everyone:<br></p><p dir=\"ltr\"></p><ul><li><a "
+"href=\"https://moodle.academy/course/index.php?categoryid=2\">Educator "
+"learning pathway</a>.</li><li><a "
+"href=\"https://moodle.academy/course/index.php?categoryid=3\">Administrator "
+"learning pathway</a>.</li><li><a "
+"href=\"https://moodle.academy/course/index.php?categoryid=4\">Developer "
+"learning pathway</a>.</li><li><a "
+"href=\"https://moodle.academy/course/index.php?categoryid=8\">General "
+"courses</a>.</li></ul><br><p></p><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16273", "md5key":
+# "9204bd1995a7e17cab50042940c5574a"}
+msgid ""
+"<p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img src=\"https://moodle.academy/pluginfile.php/16273/mod_book/chapter/995/ccby.png\" alt=\"Creative Commons Licence\" width=\"120\" height=\"42\" style=\"float:left\" class=\"img-fluid atto_image_button_middle\"></a>\n"
+"    This program is formed of courses licensed under Creative Commons (CC) licences. You should attribute the authors of each course and the specific CC licence individually. Original resources available at&nbsp;<a href=\"https://moodle.academy/\">https://moodle.academy</a>.<br></p>\n"
+"<p>\n"
+"  <span class=\"moodle-orange bold larger\">›</span>\n"
+"  \n"
+"  <a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=272\">Read more about how you should attribute the courses in this program.</a><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16317", "md5key":
+# "5885f942ff1979cc8ae00fa6cfc3eb83"}
+msgid "Moodle Course Content"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16337", "md5key":
+# "db60b6d12a13942e91c289437e3309e7"}
+msgid "Moodle Course Activities"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16338", "md5key":
+# "e261bde8fae1ee965aa80d36bc41bc63"}
+msgid "Moodle Course Management"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "16339", "md5key":
+# "6591cf6c834da7f870d54061476b4edf"}
+msgid "Accessible Teaching Basics"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "24516", "md5key":
+# "72fb0e1c21d8cdeeef630731e6939de4"}
+msgid "You can purchase a certificate of completion once ..."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "24516", "md5key":
+# "82420c8d71105b38287199d5f3d71788"}
+msgid ""
+"<div class=\"no-overflow\"><p dir=\"ltr\" style=\"text-align: left;\">You "
+"can purchase a certificate of completion once you complete all the courses "
+"in this program.<br></p></div>"
+msgstr ""
