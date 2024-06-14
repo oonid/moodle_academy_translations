@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-16 01:11+0000\n"
+"Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
+"Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
+"57-moodle-teaching-basics-program-and-certificate/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 # {"targetlanguage": "id", "contextid": "16018", "md5key":
 # "d4ef26df69424bda3945074905b38a91"}
@@ -15,11 +22,21 @@ msgid ""
 "<p>\n"
 "    This program relates to the following competences: 3.1 Teaching; 5.1 Accessibility and inclusion.</p>"
 msgstr ""
+"<p>Program kursus singkat gratis ini dirancang untuk membantu Anda memahami "
+"dasar-dasar pengajaran dengan Moodle.</p>\n"
+"<p>Setelah menyelesaikan semua kursus, Anda akan menerima lencana sebagai "
+"tanda telah menyelesaikan program.&nbsp;Anda juga dapat memilih untuk "
+"membeli sertifikat kelulusan.\n"
+"</p>\n"
+"<hr>\n"
+"<p>\n"
+"    Program ini berkaitan dengan kompetensi sebagai berikut: 3.1 Mengajar; "
+"5.1 Aksesibilitas dan inklusi.</p>"
 
 # {"targetlanguage": "id", "contextid": "16018", "md5key":
 # "3a5f96a32e86aed99cc7d9281dae2d87"}
 msgid "Moodle Teaching Basics"
-msgstr ""
+msgstr "Dasar-Dasar Pengajaran Moodle"
 
 # {"targetlanguage": "id", "contextid": "16018", "md5key":
 # "79b297fff9efc297b9e5aebbd1b9067d"}
@@ -29,6 +46,14 @@ msgid ""
 "<p>You can also choose to purchase a certificate of completion.</p>\n"
 "<p>If you already understand the basics of teaching with Moodle, why not try our Intermediate level program&nbsp;<a href=\"https://moodle.academy/course/view.php?id=65\">Moodle Teaching Skills</a>?</p>\n"
 msgstr ""
+"<p>Program gratis kursus singkat tingkat pemula ini dirancang untuk membantu "
+"Anda memahami dasar-dasar pengajaran dengan Moodle.</p>\n"
+"<p>Setelah menyelesaikan semua kursus, Anda akan menerima lencana sebagai "
+"tanda telah menyelesaikan program.<br></p>\n"
+"<p>Anda juga dapat memilih untuk membeli sertifikat kelulusan.</p>\n"
+"<p>Jika Anda sudah memahami dasar-dasar mengajar dengan Moodle, mengapa "
+"tidak mencoba program tingkat Menengah kami&nbsp;<a href=\"https://moodle."
+"academy/course/view.php?id=65\">Terampil Mengajar Moodle< /a>?</p>\n"
 
 # {"targetlanguage": "id", "contextid": "16273", "md5key":
 # "5ecc2be66e0cd57e94decaf7b9d0bcf0"}
@@ -37,11 +62,14 @@ msgid ""
 "overview,&nbsp;Learning outcomes,&nbsp;Program "
 "structure&nbsp;and&nbsp;Completion and assessment&nbsp;information.</div>"
 msgstr ""
+"<div class=\"no-overflow\">Sebelum memulai, tinjau ikhtisar Program,&nbsp;"
+"Capaian pembelajaran,&nbsp;Struktur program&nbsp;dan&nbsp;Informasi&nbsp;"
+"Kelulusan dan penilaian.</div>"
 
 # {"targetlanguage": "id", "contextid": "16273", "md5key":
 # "463d2fd60948d1c6649ea18666fc802f"}
 msgid "Digital competences"
-msgstr ""
+msgstr "Kompetensi digital"
 
 # {"targetlanguage": "id", "contextid": "16273", "md5key":
 # "4bd0dfa4cfbb3eb3297322679ea97952"}
@@ -82,6 +110,18 @@ msgid ""
 "</ul><br>\n"
 "<hr>"
 msgstr ""
+"\n"
+"<p>Semua perubahan penting pada kursus ini akan didokumentasikan di halaman "
+"ini.</p>\n"
+"<hr>\n"
+"<p>Tanggal: DD Month YYYY<br>Diubah oleh:&nbsp;<br>Perubahan:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>...</li>\n"
+"    <li>...</li>\n"
+"    <li>...</li>\n"
+"</ul><br>\n"
+"<hr>"
 
 # {"targetlanguage": "id", "contextid": "16273", "md5key":
 # "ab6d19f85d916b8de4e66621ed325735"}
@@ -100,7 +140,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "16273", "md5key":
 # "d47f65f655b8c742bf23735af268e91f"}
 msgid "Program overview"
-msgstr ""
+msgstr "Tinjauan Program"
 
 # {"targetlanguage": "id", "contextid": "16273", "md5key":
 # "325602e247d9bddffef3c3b8a046cd53"}
@@ -125,7 +165,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "16273", "md5key":
 # "b126c3a8d07206cf3d425d987030c2c0"}
 msgid "Program structure"
-msgstr ""
+msgstr "Struktur program"
 
 # {"targetlanguage": "id", "contextid": "16273", "md5key":
 # "056b7a144466bfb67ef3a74d3f655762"}
@@ -176,27 +216,27 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "16317", "md5key":
 # "5885f942ff1979cc8ae00fa6cfc3eb83"}
 msgid "Moodle Course Content"
-msgstr ""
+msgstr "Konten Kursus Moodle"
 
 # {"targetlanguage": "id", "contextid": "16337", "md5key":
 # "db60b6d12a13942e91c289437e3309e7"}
 msgid "Moodle Course Activities"
-msgstr ""
+msgstr "Aktivitas Kursus Moodle"
 
 # {"targetlanguage": "id", "contextid": "16338", "md5key":
 # "e261bde8fae1ee965aa80d36bc41bc63"}
 msgid "Moodle Course Management"
-msgstr ""
+msgstr "Manajemen Kursus Moodle"
 
 # {"targetlanguage": "id", "contextid": "16339", "md5key":
 # "6591cf6c834da7f870d54061476b4edf"}
 msgid "Accessible Teaching Basics"
-msgstr ""
+msgstr "Dasar-dasar Pengajaran yang Dapat Diakses"
 
 # {"targetlanguage": "id", "contextid": "24516", "md5key":
 # "72fb0e1c21d8cdeeef630731e6939de4"}
 msgid "You can purchase a certificate of completion once ..."
-msgstr ""
+msgstr "Anda dapat membeli sertifikat kelulusan ketika ..."
 
 # {"targetlanguage": "id", "contextid": "24516", "md5key":
 # "82420c8d71105b38287199d5f3d71788"}
@@ -205,3 +245,6 @@ msgid ""
 "can purchase a certificate of completion once you complete all the courses "
 "in this program.<br></p></div>"
 msgstr ""
+"<div class=\"no-overflow\"><p dir=\"ltr\" style=\"text-align: left;\">Anda "
+"dapat membeli sertifikat kelulusan setelah menyelesaikan semua kursus dalam "
+"program ini.<br></ p></div>"
