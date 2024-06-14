@@ -127,7 +127,7 @@ eb2022611a439f5e64a5dc23c61ee7f4,Course pre-check: What do you already know?,Pem
 a6d7c6b42fc61dbb879dcda67c651f93,Glossary of Moodle terms,Glosarium istilah-istilah Moodle,id,6969
 f4041c7dffd4b26c23af25690bab09de,About Moodle,Tentang Moodle,id,7070
 654d843c8fea29261c9a46efa34d5e0e,Which statement about Moodle is more accurate?,,id,7070
-bbc3775c9a1994c7baf6ed2e04f83eae,"<p dir=""ltr"" style=""text-align: left;"">Which statement about Moodle is more accurate?<br></p>",,id,7070
+bbc3775c9a1994c7baf6ed2e04f83eae,"<p dir=""ltr"" style=""text-align: left;"">Which statement about Moodle is more accurate?<br></p>","<p dir=""ltr"" style=""text-align: left;"">Pernyataan manakah tentang Moodle yang lebih akurat?<br></p>",id,7070
 654d843c8fea29261c9a46efa34d5e0e,Which statement about Moodle is more accurate?,,id,7070
 0cff3ca8417d1355cf9b76ec0da86e2a,"<p dir=""ltr"" style=""text-align: left;"">Which statement about Moodle is more accurate?</p>","<p dir=""ltr"" style=""text-align: left;"">Pernyataan manakah tentang Moodle yang lebih akurat?</p>",id,7070
 56c8e833b3423035d440fe971f9a7a1f,The Moodle Community,Komunitas Moodle,id,7070
@@ -172,8 +172,8 @@ d7f7b4f1d34f1fab4ffbc17bc9bbe1e3,"<p dir=""ltr"">The term “open source” refe
     <li>mendistribusikan salinan kode dan ekstensi Moodle yang telah dimodifikasi agar bermanfaat bagi seluruh komunitas.</li></ul><p><span class=""moodle-orange bold large"">›&nbsp;</span><a href =""https://moodle.com/open-source/"">Lebih lanjut tentang sumber terbuka</a></p>",id,7070
 547c2026df6b50fc767ddf4828f0823c,Welcome to Moodle,Selamat datang di Moodle,id,7070
 c8b4d4cd44e7c73fdbf4823184627733,"<p dir=""ltr"" style=""text-align: left;""><span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">Moodle LMS, the open source learning management system used by hundreds of millions of learners worldwide, is the heart of the world’s most customisable and trusted online learning solution.</span></p><p dir=""ltr""><span style=""font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 1rem;"">Developed in conjunction with our community, Moodle LMS is complemented by Moodle Workplace™, Moodle Apps, MoodleCloud, Moodle Academy and a network of Moodle Certified Partners and Service Providers delivering expertise in hosting, customisations, support and training.</span></p><p dir=""ltr"">Hundreds of thousands of organisations, in every education sector, at all types of workplaces, across every country on the globe, and in nearly every language, use Moodle as a solution to manage their online learning.<br></p>","<p dir=""ltr"" style=""text-align: left;""><span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot ;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">LMS Moodle, sistem manajemen pembelajaran sumber terbuka yang digunakan oleh ratusan juta peserta didik di seluruh dunia, merupakan inti dari solusi pembelajaran online yang paling dapat disesuaikan dan tepercaya di dunia.</span></p><p dir=""ltr""><span style=""font-family: &quot;Open Sans&quot ;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 1rem;"">Dikembangkan bersama dengan komunitas kami, LMS Moodle dilengkapi dengan Moodle Workplace™, Moodle Apps, MoodleCloud, Moodle Academy dan jaringan Mitra dan Penyedia Layanan Tersertifikasi Moodle yang memberikan keahlian dalam hosting, penyesuaian, dukungan dan pelatihan.</span></p><p dir=""ltr"">Ratusan ribu organisasi, di setiap sektor pendidikan, di semua jenis tempat kerja, di setiap negara di dunia, dan di hampir setiap bahasa, menggunakan Moodle sebagai solusi untuk mengelola pembelajaran online mereka.<br></p>",id,7070
-07743c455ff1b51c5b8997f67a4cdfb0,Next,,id,7070
-a807de0d871659d339cc3099a20249a7,Next,,id,7070
+07743c455ff1b51c5b8997f67a4cdfb0,Next,Berikutnya,id,7070
+a807de0d871659d339cc3099a20249a7,Next,Berikutnya,id,7070
 3e1b3ec1a0daad32d64d4327fbdd51fe,"<p dir=""ltr"" style=""text-align: left;"">Moodle relies on a small team of in-house developers to develop new plugins and maintain all aspects of the platform.</p>","<p dir=""ltr"" style=""text-align: left;"">Moodle mengandalkan tim kecil pengembang internal untuk mengembangkan plugin baru dan memelihara semua aspek platform.</p>",id,7070
 ab40e7d6b11e4e270644787da65b8447,"<p dir=""ltr"" style=""text-align: left;"">Not quite.&nbsp;The Moodle community plays a huge part in developing and maintaining the platform.&nbsp;</p>","<p dir=""ltr"" style=""text-align: left;"">Kurang tepat.&nbsp;Komunitas Moodle memainkan peran besar dalam mengembangkan dan memelihara platform ini.&nbsp;</p>",id,7070
 61eb3253dd000cf07c6b5315131b46fb,"<p dir=""ltr"" style=""text-align: left;"">The source code of Moodle can be modified and shared because its design is publicly accessible.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Kode sumber Moodle dapat dimodifikasi dan dibagikan karena desainnya dapat diakses publik.<br></p>",id,7070
@@ -182,10 +182,10 @@ d811ba720ca8fd781add5a6772cc761a,"<p dir=""ltr"">Moodle has a huge worldwide com
 ba04c123d2115e820ce9fd1c1eea0319,"<p dir=""ltr"" style=""text-align: left;"">That's right. The Moodle community plays a huge part in developing and maintaining the platform.&nbsp;</p>","<p dir=""ltr"" style=""text-align: left;"">Benar. Komunitas Moodle memainkan peranan besar dalam mengembangkan dan memelihara platform ini.&nbsp;</p>",id,7070
 baedb26417b97b326e515b8a0a15905d,"<p dir=""ltr"" style=""text-align: left;"">Only the original authors can legally copy, inspect, and alter the source code of Moodle.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Hanya penulis asli yang dapat menyalin, memeriksa, dan mengubah kode sumber Moodle secara sah.<br></p>",id,7070
 479fbfc7878a4355a7697ef09e1246b1,"<p dir=""ltr"" style=""text-align: left;"">Not quite.&nbsp;Because Moodle is open source, the entire software can be downloaded for free by anyone and altered.</p>","<p dir=""ltr"" style=""text-align: left;"">Kurang tepat.&nbsp;Karena Moodle bersifat sumber terbuka, seluruh perangkat lunak dapat diunduh secara gratis oleh siapa saja dan diubah.</p>",id,7070
-4e47b18150987ee5e420bb11ad0f5cf2,Next,,id,7070
+4e47b18150987ee5e420bb11ad0f5cf2,Next,Berikutnya,id,7070
 18017dba74bb8cbd400f6657f8313d50,Moodle key features,Fitur utama Moodle,id,7148
 654d843c8fea29261c9a46efa34d5e0e,Which statement about Moodle is more accurate?,,id,7148
-86eae72e76aa58709c0f158b7bcbbcf5,"<p dir=""ltr"" style=""text-align: left;"">Which statement about Moodle is more accurate?<br></p>",,id,7148
+86eae72e76aa58709c0f158b7bcbbcf5,"<p dir=""ltr"" style=""text-align: left;"">Which statement about Moodle is more accurate?<br></p>","<p dir=""ltr"" style=""text-align: left;"">Pernyataan manakah tentang Moodle yang lebih akurat?<br></p>",id,7148
 b003b8bdb02a559a786c7b2c0eacde0b,Accessible,Dapat diakses,id,7148
 c606c08ffcafb1898259d59742081fd7,"<p dir=""ltr"">Moodle LMS is WCAG 2.1 AA compliant which means that Moodle users can be reassured that Moodle meets accessibility in four key areas. Whether you are an educator, learner, developer or system administrator, the Moodle LMS authoring and evaluation tools are endorsed by WCAG as perceivable, operable, understandable and compatible.<br></p>
 <p dir=""ltr""><span class=""moodle-orange bold larger"">›&nbsp;</span><a href=""https://docs.moodle.org/en/Accessibility"">More about accessibility</a></p>","<p dir=""ltr"">LMS Moodle mematuhi WCAG 2.1 AA yang berarti bahwa pengguna Moodle dapat diyakinkan bahwa Moodle memenuhi aksesibilitas di empat bidang utama. Baik Anda seorang pengajar, peserta didik, pengembang atau administrator sistem, alat pembuat dan evaluasi Moodle LMS didukung oleh WCAG sebagai alat yang dapat dipahami, dioperasikan, dimengerti dan kompatibel.<br></p>
@@ -228,7 +228,7 @@ aa85ee5527ea51affd2e19e3ae77dd89,"<p>Moodle provides a pedagogical toolbox desig
 cb73b1e4ba0a3886c6675c7356735147,"<p dir=""ltr""><span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">Moodle allows you to tailor your site to your needs by customising the appearance and branding (theme) and choose from a huge number of settings and built-in tools to design the perfect LMS for your needs – whether your courses are instructor-led, self-paced, blended or entirely online.</span><br></p><p dir=""ltr"">You can extend the functionality of your Moodle site with a huge ecosystem of <hypothesis-highlight class=""hypothesis-highlight""><hypothesis-highlight class=""hypothesis-highlight""><hypothesis-highlight class=""hypothesis-highlight"">plugins </hypothesis-highlight></hypothesis-highlight></hypothesis-highlight>and certified integrations with third party software. From video conferencing tools, to attendance trackers, to payment gateways… you name it!<br></p><p></p>","<p dir=""ltr""><span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">Moodle memungkinkan Anda menyesuaikan situs sesuai kebutuhan Anda dengan menyesuaikan tampilan dan branding (tema) lalu memilih dari sejumlah besar pengaturan dan alat bawaan untuk merancang LMS yang sempurna sesuai kebutuhan Anda – baik kursus Anda dipimpin instruktur, mandiri, gabungan, atau seluruhnya online.</span><br></p><p dir=""ltr"">Anda dapat memperluas fungsionalitas situs Moodle Anda dengan ekosistem <hypothesis-highlight class=""hypothesis-highlight""><hypothesis-highlight class=""hypothesis-highlight""><hypothesis-highlight class= ""hypothesis-highlight"">plugin </hypothesis-highlight></hypothesis-highlight></hypothesis-highlight>dan integrasi tersertifikasi dengan perangkat lunak pihak ketiga. Mulai dari alat konferensi video, pelacak kehadiran, hingga gerbang pembayaran… semua ada!<br></p><p></p>",id,7148
 654d843c8fea29261c9a46efa34d5e0e,Which statement about Moodle is more accurate?,Pernyataan manakah tentang Moodle yang lebih akurat?,id,7148
 54f1a13af93160a3345f66005d663bee,"<p dir=""ltr"" style=""text-align: left;"">Which statement about Moodle is more accurate?<br></p>","<p dir=""ltr"" style=""text-align: left;"">Pernyataan manakah tentang Moodle yang lebih akurat?<br></p>",id,7148
-a2e5910de4ae88fd42f3da8346bd6147,Next,,id,7148
+a2e5910de4ae88fd42f3da8346bd6147,Next,Berikutnya,id,7148
 e41485923f360712e8c4ff0bfef85e28,"<p dir=""ltr"" style=""text-align: left;"">Moodle allows for one single approach to teaching and learning.&nbsp;</p>","<p dir=""ltr"" style=""text-align: left;"">Moodle memungkinkan satu pendekatan tunggal dalam pengajaran dan pembelajaran.&nbsp;</p>",id,7148
 71ce7efdea3a0ca9b46b46576f400d03,"<p dir=""ltr"" style=""text-align: left;"">Not quite.&nbsp;The flexibility of Moodle lets you customise your approach to teaching.&nbsp;</p>","<p dir=""ltr"" style=""text-align: left;"">Kurang tepat.&nbsp;Fleksibilitas Moodle memungkinkan Anda menyesuaikan pendekatan Anda dalam mengajar.&nbsp;</p>",id,7148
 0af9dd0eb235a976f85fbfbe0a529747,"<p dir=""ltr"" style=""text-align: left;"">Moodle gives you the flexibility to teach the way you want, to any number of learners.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Moodle memberi Anda fleksibilitas untuk mengajar sesuai keinginan Anda, kepada sejumlah peserta didik.<br></p>",id,7148
@@ -237,10 +237,10 @@ efcf4b31d665a16b6387f8ed775c2e44,"<p dir=""ltr"" style=""text-align: left;"">Tha
 90761eca3370e54b4738db1cb878341b,"<p dir=""ltr"" style=""text-align: left;"">That's right. The huge number of available themes let you modify the appearance of a Moodle site.&nbsp;</p>","<p dir=""ltr"" style=""text-align: left;"">Benar. Banyaknya jumlah tema yang tersedia memungkinkan Anda memodifikasi tampilan situs Moodle.&nbsp;</p>",id,7148
 1494803eb453bf1aa697848e053033ab,"<p dir=""ltr"" style=""text-align: left;"">You can alter the appearance of your Moodle site by choosing from a handful of ""out of the box"" themes, however there are no further options to customise the ""look &amp; feel"" of your site.</p>","<p dir=""ltr"" style=""text-align: left;"">Anda dapat mengubah tampilan situs Moodle Anda dengan memilih dari beberapa tema ""out of the box"", namun tidak ada opsi lebih lanjut untuk menyesuaikan ""tampilan &amp; nuansa"" situs Anda.</p>",id,7148
 5e66252b6ba69b69b987bc713a83033f,"<p dir=""ltr"" style=""text-align: left;"">Not quite. Moodle does have a number of ""out of the box"" options to determine the appearance of a site; however the huge number of available themes allow you to further modify the appearance.</p>","<p dir=""ltr"" style=""text-align: left;""> Kurang tepat. Moodle memang mempunyai sejumlah opsi ""out of the box"" untuk menentukan tampilan sebuah situs; namun banyaknya jumlah tema yang tersedia memungkinkan Anda untuk memodifikasi tampilan lebih jauh.</p>",id,7148
-c0b887f386065990b1f4846093698cf8,Next,,id,7148
-922c7d823817fbb4b32e87dd097f11e7,Next,,id,7148
-4ddc743e39fc0464e08b7c525fddd7bd,Next,,id,7148
-e6d1f7f3c4564cabf71b0a0db2808c35,Next,,id,7148
+c0b887f386065990b1f4846093698cf8,Next,Berikutnya,id,7148
+922c7d823817fbb4b32e87dd097f11e7,Next,Berikutnya,id,7148
+4ddc743e39fc0464e08b7c525fddd7bd,Next,Berikutnya,id,7148
+e6d1f7f3c4564cabf71b0a0db2808c35,Next,Berikutnya,id,7148
 f2df72fc9be600f41d1182f22fe38edd,Activities and Resources,Kegiatan dan Sumber Daya,id,7156
 68ed66b040584a206595731edd00416c,"<p>Activities and Resources can be added to sections within a course.</p>
 <p><span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">In simple terms, an Activity, such as an Assignment or Forum, refers to something students interact with or do, while a Resource such as a File or Page, refers to a more static element students will read or consume.</span></p>
@@ -283,13 +283,13 @@ b102e08fac4fc0ce2776c6bc035409cf,"<p dir=""ltr"" style=""text-align: left;"">An 
 0da5d9b910958b67f627c22845f5b64c,"<p dir=""ltr"" style=""text-align: left;"">That's right.&nbsp;A Quiz is a very powerful activity that students actively participate and interact with. It can meet many teaching needs, from simple, multiple-choice knowledge tests to complex, self-assessment tasks with detailed feedback.</p>","<p dir=""ltr"" style=""text-align: left;"">Benar.&nbsp;Kuis adalah aktivitas yang sangat bermanfaat dimana siswa berpartisipasi dan berinteraksi secara aktif. Ini dapat memenuhi banyak kebutuhan pengajaran, mulai dari tes pengetahuan pilihan ganda yang sederhana hingga tugas penilaian mandiri yang kompleks dengan umpan balik yang terperinci.</p>",id,7156
 beb17653a03ae4d4d092e38afc03e59c,"<p dir=""ltr"" style=""text-align: left;"">A resource.</p>","<p dir=""ltr"" style=""text-align: left;"">Sebuah sumber daya</p>",id,7156
 e83ad6b36a7bc8a1d60f982c86ee2448,"<p dir=""ltr"" style=""text-align: left;"">Not quite.&nbsp;A Quiz is a very powerful activity that students actively participate and interact with. It can meet many teaching needs, from simple, multiple-choice knowledge tests to complex, self-assessment tasks with detailed feedback.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Kurang tepat.&nbsp;Kuis adalah aktivitas yang sangat bermanfaat yang diikuti dan berinteraksi secara aktif oleh siswa. Ini dapat memenuhi banyak kebutuhan pengajaran, mulai dari tes pengetahuan pilihan ganda yang sederhana hingga tugas penilaian mandiri yang kompleks dengan masukan mendetail.<br></p>",id,7156
-e7e8f9309ebdf716dd9581de6c5a0562,Next,,id,7156
-8c7fc42666e5ed5ad067631a001f99eb,Next,,id,7156
-43bfccb1572200ae5b90a3672df85d93,Next,,id,7156
-68d50c65409a25895b816a8ae3da9315,Next,,id,7156
-d8a4e1f97f6c23ed670bc5712861e805,Next,,id,7156
-4a622e9a15ae5921396b4cf5eea8271e,Next,,id,7156
-f0854614db72d6f9a124d5f8b4323585,"<p dir=""ltr"" style=""text-align: left;"">False</p>",,id,7156
+e7e8f9309ebdf716dd9581de6c5a0562,Next,Berikutnya,id,7156
+8c7fc42666e5ed5ad067631a001f99eb,Next,Berikutnya,id,7156
+43bfccb1572200ae5b90a3672df85d93,Next,Berikutnya,id,7156
+68d50c65409a25895b816a8ae3da9315,Next,Berikutnya,id,7156
+d8a4e1f97f6c23ed670bc5712861e805,Next,Berikutnya,id,7156
+4a622e9a15ae5921396b4cf5eea8271e,Next,Berikutnya,id,7156
+f0854614db72d6f9a124d5f8b4323585,"<p dir=""ltr"" style=""text-align: left;"">False</p>","<p dir=""ltr"" style=""text-align: left;"">Salah</p>",id,7156
 a935e207b8a352c69f25a451421ad1fa,"<p dir=""ltr"" style=""text-align: left;"">Try again.&nbsp;Blocks can be used in Moodle courses to&nbsp;provide supplementary features and navigation.</p>","<p dir=""ltr"" style=""text-align: left;"">Coba lagi.&nbsp;Blok dapat digunakan dalam kursus Moodle untuk&nbsp;menyediakan fitur tambahan dan navigasi.</p>",id,7156
 f9aae5fda8d810a29f12d1e61b4ab25f,Users,,id,7167
 f9aae5fda8d810a29f12d1e61b4ab25f,Users,Pengguna,id,7167
@@ -330,10 +330,10 @@ ab56e6e5f6bcc24a1766a1d60b9061e0,"<p dir=""ltr"" style=""text-align: left;"">Use
 897af8ee4d9bd89a0a68ebe979730818,"<p dir=""ltr"" style=""text-align: left;"">Not necessarily. Users can have different roles in different courses.</p>","<p dir=""ltr"" style=""text-align: left;"">Belum tentu. Pengguna dapat memiliki peran berbeda di kursus berbeda.</p>",id,7167
 49a09d0606bd6af48e8418887832d3e4,"<p dir=""ltr"" style=""text-align: left;"">Each role has its own set of permissions that allow users to have different capabilities in different contexts.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Setiap peran memiliki kumpulan izinnya sendiri yang memungkinkan pengguna memiliki kemampuan berbeda dalam konteks berbeda.<br></p>",id,7167
 c5ea6e8d946fc231aa84fc306410a80a,"<p dir=""ltr"" style=""text-align: left;"">Correct. The combination of roles and context define a specific user's ability to do something on any page.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Benar. Kombinasi peran dan konteks menentukan kemampuan pengguna tertentu untuk melakukan sesuatu di halaman mana pun.<br></p>",id,7167
-780f925dd0640c5bfc4f8543abe804ec,Next,,id,7167
-60d7bf5e32f131443f2c340be183c2f8,Next,,id,7167
-741f8e358a43f3b9996462553d8f15cf,Next,,id,7167
-109e0fc40a434bbb1962d1ccb088d8b1,Next,,id,7167
+780f925dd0640c5bfc4f8543abe804ec,Next,Berikutnya,id,7167
+60d7bf5e32f131443f2c340be183c2f8,Next,Berikutnya,id,7167
+741f8e358a43f3b9996462553d8f15cf,Next,Berikutnya,id,7167
+109e0fc40a434bbb1962d1ccb088d8b1,Next,Berikutnya,id,7167
 629c7bcb1e5754bbabf90cc20a7356a8,Next,Berikutnya,id,7167
 a3e3439748c4d67bc7ccce9f808bcc68,Introduction to Moodle: Check your understanding,Pengantar Moodle: Periksa pemahaman Anda,id,6966
 19d4d0f261eff89ed4abb6903fd6976b,"<div class=""no-overflow""><div class=""no-overflow""><p dir=""ltr"" style=""text-align: left;"">Kami sangat menghargai jika Anda bersedia menjawab pertanyaan singkat ini. Hanya perlu beberapa menit untuk menyelesaikannya.</p></div>‍‍​‌‌​‌‍‍</div>","<div class=""no-overflow""><div class=""no-overflow""><p dir=""ltr"" style=""text-align: left;"">Kami sangat menghargai jika Anda bersedia menjawab pertanyaan singkat ini. Hanya perlu beberapa menit untuk menyelesaikannya.</p></div>‍‍​‌‌​‌‍‍</div>",id,6965
@@ -421,17 +421,17 @@ c436e94f554af87ff26eeed264315921,https://youtu.be/5xwNjt5SagI,https://youtu.be/5
 b627d2e55cd66b5af3bcb47e8e61c0e0,Slides from the webinar 'Introduction to Moodle for Educators',Slide dari webinar 'Pengenalan Moodle untuk Pendidik',id,29947
 0780c789c6a19b10aa76c5dfc9f9ca67,"This course launched in February 2022 and is based on <a href=""https://docs.moodle.org/403/en/Main_page"">Moodle 4.3</a> functionality.","Kursus ini diluncurkan pada Februari 2022 dan didasarkan pada fungsionalitas <a href=""https://docs.moodle.org/403/en/Main_page"">Moodle 4.3</a>.",id,6951
 43ae9b9c23ef69a0e8c3f9a11dd7beff,"<p dir=""ltr"" style=""text-align: left;"">Moodle LMS enables you to have complete control over your data to meet your <strong>local legislation requirements</strong>.<br></p>","<p dir=""ltr"" style=""text-align: left;"">LMS Moodle memungkinkan Anda memiliki kontrol penuh atas data Anda untuk memenuhi <strong>persyaratan undang-undang setempat</strong>.<br></p>",id,6949
-111fce2e7cb91b425f043902a290e6d8,Your answer is correct.,,id,6949
-05c4e1d79cc394b199a132b57c889520,Your answer is partially correct.,,id,6949
-a7be5c883e9d2f8be3d0f39345495066,Your answer is incorrect.,,id,6949
+111fce2e7cb91b425f043902a290e6d8,Your answer is correct.,Jawaban Anda benar.,id,6949
+05c4e1d79cc394b199a132b57c889520,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+a7be5c883e9d2f8be3d0f39345495066,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 5e05ec4746ba8b51d13847c8d970ff71,"<p dir=""ltr"" style=""text-align: left;"">True</p>","<p dir=""ltr"" style=""text-align: left;"">Benar</p>",id,6949
 4ab1dd425a7db10a8b2f2ca0cdee1ae7,"<p dir=""ltr"" style=""text-align: left;"">Correct.&nbsp;As an open source platform, you have complete control over your data to meet local legislation requirements.</p>","<p dir=""ltr"" style=""text-align: left;"">Benar.&nbsp;Sebagai platform sumber terbuka, Anda memiliki kendali penuh atas data Anda untuk memenuhi persyaratan undang-undang setempat.</p>",id,6949
 f72486234b55701babe740008cc60fbd,"<p dir=""ltr"" style=""text-align: left;"">False</p>","<p dir=""ltr"" style=""text-align: left;"">Salah</p>",id,6949
 f82036008669e21ae8250acd8216750b,"<p dir=""ltr"" style=""text-align: left;"">Incorrect.&nbsp;As an open source platform, you do have complete control over your data to meet local legislation requirements.</p>","<p dir=""ltr"" style=""text-align: left;"">Salah.&nbsp;Sebagai platform sumber terbuka, Anda memiliki kendali penuh atas data Anda untuk memenuhi persyaratan undang-undang setempat.</p>",id,6949
 d0741454ba585e54534b74086458b49e,"<p dir=""ltr"" style=""text-align: left;"">Moodle LMS is<strong> WCAG 2.1 AA compliant</strong>.</p><p dir=""ltr"" style=""text-align: left;"">Which of Moodle's key features is this relevant to?<br></p>","<p dir=""ltr"" style=""text-align: left;"">LMS Moodle<strong> mematuhi WCAG 2.1 AA</strong>.</p><p dir=""ltr"" style=""text-align : left;"">Fitur utama Moodle manakah yang relevan dengan hal ini?<br></p>",id,6949
-1d3273ee53c56b95fed82c110b1895d3,Your answer is correct.,,id,6949
-a14b0a0233e83a24cc586f36f600226b,Your answer is partially correct.,,id,6949
-af8ddcc489d26cf89141308a6b8be0ea,Your answer is incorrect.,,id,6949
+1d3273ee53c56b95fed82c110b1895d3,Your answer is correct.,Jawaban Anda benar.,id,6949
+a14b0a0233e83a24cc586f36f600226b,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+af8ddcc489d26cf89141308a6b8be0ea,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 b90ecc93b24d5ec702936a6432fc207d,"<p dir=""ltr"" style=""text-align: left;"">Flexibility</p>","<p dir=""ltr"" style=""text-align: left;"">Fleksibilitas</p>",id,6949
 e4ed275dbf3739082758fc566d9630d1,Try again.&nbsp;WCAG does not relate to how flexible Moodle is.,Coba lagi.&nbsp;WCAG tidak berhubungan dengan seberapa fleksibel Moodle.,id,6949
 d4f6ff327776e53ea0fa515b16449af2,"<p dir=""ltr"" style=""text-align: left;"">Security</p>","<p dir=""ltr"" style=""text-align: left;"">Keamanan</p>",id,6949
@@ -441,35 +441,35 @@ ff8239ed47989a5ddac4266312b0671b,"<p dir=""ltr"" style=""text-align: left;"">Try
 afc2cc8711bd972bb3091f512c038cd9,"<p dir=""ltr"" style=""text-align: left;"">Customisability&nbsp;<br></p>","<p dir=""ltr"" style=""text-align: left;"">Kustomisasi&nbsp;<br></p>",id,6949
 169a2d86f22a7df43e10b9863a085543,"<p dir=""ltr"" style=""text-align: left;"">Try again.&nbsp;WCAG does not relate to how customisable Moodle is.</p>","<p dir=""ltr"" style=""text-align: left;"">Coba lagi.&nbsp;WCAG tidak berhubungan dengan bagaimana Moodle dapat dikembangkan.</p>",id,6949
 7ff6ccfa6aa8253f50e4b4bb79803219,"<p dir=""ltr"" style=""text-align: left;""><strong>Moodle's basic structure</strong> is organised around:<br></p>","<p dir=""ltr"" style=""text-align: left;""><strong>Struktur dasar Moodle</strong> disusun berdasarkan:<br></p>",id,6949
-6ef3b3758f85ee53b19a28d2e9c46a37,Your answer is correct.,,id,6949
-10f21da0b3193ee58eedb1075fa9048e,Your answer is partially correct.,,id,6949
-e992ec195c542b010d8167f907b3c728,Your answer is incorrect.,,id,6949
+6ef3b3758f85ee53b19a28d2e9c46a37,Your answer is correct.,Jawaban Anda benar.,id,6949
+10f21da0b3193ee58eedb1075fa9048e,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+e992ec195c542b010d8167f907b3c728,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 32a7eb6fa5bcea50a134c74b2e9c9257,"<p dir=""ltr"" style=""text-align: left;"">Courses</p>","<p dir=""ltr"" style=""text-align: left;"">Kursus</p>",id,6949
 aa7ef000188887fd12dffb1edf720cf4,"<p dir=""ltr"" style=""text-align: left;"">Thats right.&nbsp;Moodle's basic structure is organised around courses.</p>","<p dir=""ltr"" style=""text-align: left;"">Benar.&nbsp;Struktur dasar Moodle diatur berdasarkan kursus.</p>",id,6949
-f798958785ac15ed0bb3063f9c4d8407,"<p dir=""ltr"" style=""text-align: left;"">Sections</p>",,id,6949
+f798958785ac15ed0bb3063f9c4d8407,"<p dir=""ltr"" style=""text-align: left;"">Sections</p>","<p dir=""ltr"" style=""text-align: left;"">Bagian</p>",id,6949
 9ef4ec2d3c3483357f46619c6985775f,"<p dir=""ltr"" style=""text-align: left;"">Not quite. Sections can be used in courses to organise content and learning material.&nbsp;</p>","<p dir=""ltr"" style=""text-align: left;""> Kurang tepat. Area Bagian dapat digunakan dalam kursus untuk mengatur konten dan materi pembelajaran.&nbsp;</p>",id,6949
 bcbc28e742b4d3c28a403b5c3a15691b,"<p dir=""ltr"" style=""text-align: left;"">Roles</p>","<p dir=""ltr"" style=""text-align: left;"">Peran</p>",id,6949
 27a26b3f1a9e889ab2ed51f7645727da,"<p dir=""ltr"" style=""text-align: left;"">Try again. Roles are the collection of permissions given to a user in Moodle, and define a specific user's ability to do something on any page.</p>","<p dir=""ltr"" style=""text-align: left;"">Coba lagi. Peran adalah kumpulan izin yang diberikan kepada pengguna di Moodle, dan menentukan kemampuan pengguna tertentu untuk melakukan sesuatu di halaman mana pun.</p>",id,6949
 0aa98f0303b7bdd2bcf45f5264378f9c,"<p dir=""ltr"" style=""text-align: left;"">Notifications</p>","<p dir=""ltr"" style=""text-align: left;"">Notifikasi</p>",id,6949
 e5eb6c53c90a043b8c5fcf2ef475d756,"<p dir=""ltr"" style=""text-align: left;"">Try again. Notifications alert users to events in Moodle which may require their attention.</p>","<p dir=""ltr"" style=""text-align: left;"">Coba lagi. Notifikasi menyiagakan pengguna akan kejadian di Moodle yang mungkin memerlukan perhatian mereka.</p>",id,6949
 76d15951862f267b4642902a86b8bb4f,"<p dir=""ltr"" style=""text-align: left;""><span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">Select the freedoms that are allowed, because <strong>Moodle is open-source</strong>.</span><br></p><p dir=""ltr"" style=""text-align: left;"">The freedom to...<br></p>","<p dir=""ltr"" style=""text-align: left;""><span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot ;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">Pilih kebebasan yang diperbolehkan, karena <strong> Moodle bersifat sumber terbuka</strong>.</span><br></p><p dir=""ltr"" style=""text-align: left;"">Kebebasan untuk...<br></ hal>",id,6949
-8f87cdeac1fa471bccfe591f5a9cd565,Your answer is correct.,,id,6949
-4dc818b97afa39393c7807e90940d6bc,Your answer is partially correct.,,id,6949
-423734a9313fe580c20b6cec5e160cc4,Your answer is incorrect.,,id,6949
+8f87cdeac1fa471bccfe591f5a9cd565,Your answer is correct.,Jawaban Anda benar.,id,6949
+4dc818b97afa39393c7807e90940d6bc,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+423734a9313fe580c20b6cec5e160cc4,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 43c38cc394afb34e5616094cf26c06d6,"run Moodle LMS as you wish, for any purpose.","gunakan Moodle LMS sesuai keinginan, untuk tujuan apa pun.",id,6949
 48b44e6aadb37558ebcba4256f125dbe,"<p dir=""ltr"" style=""text-align: left;"">Correct.&nbsp;This is one of the four freedoms that traditionally define open source.</p>","<p dir=""ltr"" style=""text-align: left;"">Benar.&nbsp;Ini adalah salah satu dari empat kebebasan yang secara tradisional mendefinisikan sumber terbuka.</p>",id,6949
 8563ef9d639f8059c636585434c64a3b,"<p dir=""ltr"" style=""text-align: left;"">study how Moodle LMS works and change it as you wish.<br></p>","<p dir=""ltr"" style=""text-align: left;"">pelajari cara kerja LMS Moodle dan ubah sesuai keinginan Anda.<br></p>",id,6949
-640417bdd4c0bed463fbd66b4aeacf8e,"<p dir=""ltr"" style=""text-align: left;"">Correct.&nbsp;This is one of the four freedoms that traditionally define open source.<br></p>",,id,6949
+640417bdd4c0bed463fbd66b4aeacf8e,"<p dir=""ltr"" style=""text-align: left;"">Correct.&nbsp;This is one of the four freedoms that traditionally define open source.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Benar.&nbsp;Ini adalah salah satu dari empat kebebasan yang secara tradisional mendefinisikan sumber terbuka.<br></p>",id,6949
 4ab938efa52629f948c78e0944e5cba8,"<p dir=""ltr"" style=""text-align: left;"">redistribute copies so you can help others.<br></p>","<p dir=""ltr"" style=""text-align: left;"">mendistribusikan ulang salinan sehingga Anda dapat membantu orang lain.<br></p>",id,6949
-3e6a206ea2d32debd3d6ac751f99dde4,"<p dir=""ltr"" style=""text-align: left;"">Correct.&nbsp;This is one of the four freedoms that traditionally define open source.<br></p>",,id,6949
+3e6a206ea2d32debd3d6ac751f99dde4,"<p dir=""ltr"" style=""text-align: left;"">Correct.&nbsp;This is one of the four freedoms that traditionally define open source.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Benar.&nbsp;Ini adalah salah satu dari empat kebebasan yang secara tradisional mendefinisikan sumber terbuka.<br></p>",id,6949
 8f156cc316f0110de77b1800c8229639,"<p dir=""ltr"" style=""text-align: left;""><span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">distribute copies of modified Moodle code and extensions to benefit the entire community.</span><br></p>","<p dir=""ltr"" style=""text-align: left;""><span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot ;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">mendistribusikan salinan kode dan ekstensi Moodle yang telah dimodifikasi untuk memberi manfaat bagi seluruh komunitas.</span><br></p>",id,6949
 ff1f9ad02bb7b9ec01172cb0f9693511,"<p dir=""ltr"" style=""text-align: left;"">Correct.&nbsp;This is one of the four freedoms that traditionally define open source.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Benar.&nbsp;Ini adalah salah satu dari empat kebebasan yang secara tradisional mendefinisikan sumber terbuka.<br></p>",id,6949
 fe7b05e79e11c478990f5c08c2b52156,"<p dir=""ltr"" style=""text-align: left;"">licence your modified version and sell to others.<br></p>","<p dir=""ltr"" style=""text-align: left;"">melisensikan versi modifikasi Anda dan menjualnya kepada orang lain.<br></p>",id,6949
 66380e6c3f3a5af7d0b72d4cdaee9c65,"<p dir=""ltr"" style=""text-align: left;"">Incorrect. This is not one of the four freedoms that traditionally define open source.</p>","<p dir=""ltr"" style=""text-align: left;"">Salah. Ini bukan salah satu dari empat kebebasan yang secara tradisional mendefinisikan sumber terbuka.</p>",id,6949
 31dd94be725bb6c8b011e8250ab6821b,"<p dir=""ltr"" style=""text-align: left;"">Which common <strong>Moodle course format</strong>&nbsp;has sections organised with date headings?</p>","<p dir=""ltr"" style=""text-align: left;""><strong>Format kursus Moodle </strong>&nbsp;mana yang bagiannya diatur dengan judul tanggal?</p>",id,6949
-7c47b002b0f9713906abbf50bfac5eee,Your answer is correct.,,id,6949
-b36a3166923b147438c2b2a089109693,Your answer is partially correct.,,id,6949
-e16e80684b352020ea338ce80df6ab29,Your answer is incorrect.,,id,6949
+7c47b002b0f9713906abbf50bfac5eee,Your answer is correct.,Jawaban Anda benar.,id,6949
+b36a3166923b147438c2b2a089109693,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+e16e80684b352020ea338ce80df6ab29,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 4558a9de4df986d2834a9cae020a72a0,"<p dir=""ltr"" style=""text-align: left;"">Weekly</p>","<p dir=""ltr"" style=""text-align: left;"">Mingguan</p>",id,6949
 99a1045153f08ac8e2940e29a226187b,"<p dir=""ltr"" style=""text-align: left;"">Correct. In this format, the course is organised week by week, with each section having a date heading.</p>","<p dir=""ltr"" style=""text-align: left;"">Benar. Dalam format ini, kursus diselenggarakan minggu demi minggu, dengan setiap bagian memiliki judul tanggal.</p>",id,6949
 2b2e45e7686c75f28d77dcbb4da5efcb,"<p dir=""ltr"" style=""text-align: left;"">Topics</p>","<p dir=""ltr"" style=""text-align: left;"">Topik</p>",id,6949
@@ -479,9 +479,9 @@ fcbf8f9eaefa28691d1801cd32a14135,"<p dir=""ltr"" style=""text-align: left;"">Sin
 e12fced4095095aa409a6b7869718a64,"<p dir=""ltr"" style=""text-align: left;"">Social</p>","<p dir=""ltr"" style=""text-align: left;"">Sosial</p>",id,6949
 72bd01bea5021f3dcf56a3aef3f7bf0e,"<p dir=""ltr"" style=""text-align: left;"">Try again.&nbsp;In this format, the course is oriented around one main forum which appears listed on the main page.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Coba lagi.&nbsp;Dalam format ini, kursus diorientasikan pada satu forum utama yang muncul dalam daftar di halaman utama.<br></p>",id,6949
 deaae2b858177a974588e574930ad036,"<p dir=""ltr"" style=""text-align: left;"">Which <strong>element of a Moodle course </strong>could be described as:</p><p dir=""ltr"" style=""text-align: left;"">""... elements which add extra information or learning content to a course. They may be added to the side of any page in Moodle.""</p>","<p dir=""ltr"" style=""text-align: left;""><strong>Elemen dari kursus Moodle </strong>yang dapat dijelaskan sebagai:</p><p dir=""ltr"" style=""text-align: left;"">""... elemen yang menambahkan informasi tambahan atau konten pembelajaran ke suatu kursus. Elemen tersebut dapat ditambahkan ke samping halaman mana saja di Moodle.""</p>",id,6949
-aed1f4d30174b5db006e0dd7ed00bb2d,Your answer is correct.,,id,6949
-3b7f8dfb17f747401f5a1cf9b0bd28b1,Your answer is partially correct.,,id,6949
-40c5d89b55ee60bb989c08192dcdfe74,Your answer is incorrect.,,id,6949
+aed1f4d30174b5db006e0dd7ed00bb2d,Your answer is correct.,Jawaban Anda benar.,id,6949
+3b7f8dfb17f747401f5a1cf9b0bd28b1,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+40c5d89b55ee60bb989c08192dcdfe74,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 f7e7cbcdf7cd615ed20b2ec32bbff6f7,"<p dir=""ltr"" style=""text-align: left;"">Blocks</p>","<p dir=""ltr"" style=""text-align: left;"">Blok</p>",id,6949
 910bebb5be054aa578c3eba231971782,"<p dir=""ltr"" style=""text-align: left;"">Correct.&nbsp;</p>","<p dir=""ltr"" style=""text-align: left;"">Benar.&nbsp;</p>",id,6949
 c5eae53ab694537a12f12c9dcaf410e9,"<p dir=""ltr"" style=""text-align: left;"">Sections</p>","<p dir=""ltr"" style=""text-align: left;"">Bagian</p>",id,6949
@@ -491,9 +491,9 @@ e2db83c20afb6d4f61e47296fb1c6a17,"<p dir=""ltr"" style=""text-align: left;"">Try
 c6dae40b8f53af5e26cffb3f6a25c73a,"<p dir=""ltr"" style=""text-align: left;"">Gradebook</p>","<p dir=""ltr"" style=""text-align: left;"">Buku Nilai</p>",id,6949
 709b2fdabb0590e65da94f219d80d0ce,"<p dir=""ltr"" style=""text-align: left;"">Try again.&nbsp;Grades for each student in a course are recorded in the course gradebook.</p>","<p dir=""ltr"" style=""text-align: left;"">Coba lagi.&nbsp;Nilai setiap siswa dalam suatu mata pelajaran dicatat dalam buku nilai mata pelajaran.</p>",id,6949
 a750eb8031cb5fb68e9bc5f0b6c4f30d,"<p dir=""ltr"" style=""text-align: left;"">Which feature of Moodle allows <strong>teachers to grade assessed activities</strong> and <strong>students to view their own grades</strong>?<br></p>","<p dir=""ltr"" style=""text-align: left;"">Fitur Moodle manakah yang memungkinkan <strong>guru menilai aktivitas yang dinilai</strong> dan <strong>siswa melihat nilainya sendiri</strong>? <br></p>",id,6949
-15dc647ae3ff7b93bf0d4033b51e69a4,Your answer is correct.,,id,6949
-cefd00e90620a660717d5399f7f11f9e,Your answer is partially correct.,,id,6949
-1a9c74686bb471507d9ab52378c821a8,Your answer is incorrect.,,id,6949
+15dc647ae3ff7b93bf0d4033b51e69a4,Your answer is correct.,Jawaban Anda benar.,id,6949
+cefd00e90620a660717d5399f7f11f9e,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+1a9c74686bb471507d9ab52378c821a8,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 48972bcdddb858604ff6b9fb20d2f63f,"<p dir=""ltr"" style=""text-align: left;""><span id=""docs-internal-guid-e122d902-7fff-f563-3ad1-2d1a6aa8deb5"">Gradebook</span><br></p>","<p dir=""ltr"" style=""text-align: left;""><span id=""docs-internal-guid-e122d902-7fff-f563-3ad1-2d1a6aa8deb5"">Buku Nilai</span><br></ hal>",id,6949
 7e042de177e7ce04c5deafd31e2ead7a,"<p dir=""ltr"" style=""text-align: left;"">Correct.</p>","<p dir=""ltr"" style=""text-align: left;"">Benar.</p>",id,6949
 3a0ecc28f13585a023e1667adfbbd28f,"<p dir=""ltr"" style=""text-align: left;"">Course<br></p>","<p dir=""ltr"" style=""text-align: left;"">Kursus<br></p>",id,6949
@@ -503,9 +503,9 @@ cefd00e90620a660717d5399f7f11f9e,Your answer is partially correct.,,id,6949
 b52da29cc876bc3c90b44fe6fe85031f,"<p dir=""ltr"" style=""text-align: left;"">Category<br></p>","<p dir=""ltr"" style=""text-align: left;"">Kategori<br></p>",id,6949
 f26689a947f4d044da517f90ed472697,"<p dir=""ltr"" style=""text-align: left;"">Think again.&nbsp;Categories organise courses for all Moodle site participants.</p>","<p dir=""ltr"" style=""text-align: left;"">Pikirkan lagi.&nbsp;Kategori mengatur kursus untuk semua peserta situs Moodle.</p>",id,6949
 d69eef27d1889953d52bacc57e41d935,"<p dir=""ltr"" style=""text-align: left;"">Select the ways you can <strong>customise and extend</strong> your Moodle site.</p>","<p dir=""ltr"" style=""text-align: left;"">Pilih cara Anda dapat <strong>menyesuaikan dan memperluas</strong> situs Moodle Anda.</p>",id,6949
-9cb1c23c0305359375fa31bb573333f7,Your answer is correct.,,id,6949
-8041e2d8399f918dfe45e0c436c105b2,Your answer is partially correct.,,id,6949
-989357a718363d476332e5e7669491de,Your answer is incorrect.,,id,6949
+9cb1c23c0305359375fa31bb573333f7,Your answer is correct.,Jawaban Anda benar.,id,6949
+8041e2d8399f918dfe45e0c436c105b2,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+989357a718363d476332e5e7669491de,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 709e46cdb8d567ca476226f7308df3a9,"<p dir=""ltr"" style=""text-align: left;"">Allow people to create their own user account using <strong>email-based self-registration</strong>.</p>","<p dir=""ltr"" style=""text-align: left;"">Izinkan orang membuat akun penggunanya sendiri menggunakan <strong>pendaftaran mandiri berbasis email</strong>.</p>",id,6949
 500764f59be0117eaa73b65aa4eacbf2,"<p dir=""ltr"" style=""text-align: left;"">Not quite. While <a href=""https://docs.moodle.org/en/Email-based_self-registration"">email-based self-registration</a> is a feature of Moodle that you can enable, it is not an example of how you would customise and extend your site.</p>","<p dir=""ltr"" style=""text-align: left;""> Kurang tepat. Meskipun <a href=""https://docs.moodle.org/en/Email-based_self-registration"">pendaftaran mandiri berbasis email</a> adalah fitur Moodle yang dapat Anda aktifkan, ini bukanlah contoh bagaimana Anda akan menyesuaikan dan mengembangkan situs Anda.</p>",id,6949
 9c4e48934c89f0b1b4aa548d5eff0cf5,"<p dir=""ltr"" style=""text-align: left;"">Use <strong>messaging </strong>to contact other users via real-time chat (if they are online) or message (if they are offline).</p>","<p dir=""ltr"" style=""text-align: left;"">Gunakan <strong>perpesanan </strong>untuk menghubungi pengguna lain melalui obrolan real-time (jika mereka daring) atau pesan (jika mereka luring).</p>",id,6949
@@ -516,8 +516,8 @@ fc891504c3be5428c07f61820b9907b5,Install a new <strong>plugin </strong>to enable
 846142d4736212a48108d65ad8f54680,"<p dir=""ltr"" style=""text-align: left;"">Correct. Moodle allows you many options to customise the appearance of your site by altering the theme.</p>","<p dir=""ltr"" style=""text-align: left;"">Benar. Moodle memberi Anda banyak pilihan untuk menyesuaikan tampilan situs Anda dengan mengubah tema.</p>",id,6949
 da809af1cb9703606fd8fb26bf0a8b6c,Which of the following are <strong>Moodle products</strong>?,Manakah dari berikut ini yang merupakan <strong>produk Moodle</strong>?,id,6949
 3829f7fb10caadc2cf42a71a8bd78bf3,Your answer is correct. These are all Moodle products.,Jawaban Anda benar. Ini semua adalah produk Moodle.,id,6949
-62dbbc778022e7086667298e88cc4a11,Your answer is partially correct.,,id,6949
-cf755066bb58d40275d88e143e9a8064,Your answer is incorrect.,,id,6949
+62dbbc778022e7086667298e88cc4a11,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+cf755066bb58d40275d88e143e9a8064,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 1405af96a49352fb1cdf131ce338c8e4,"<p dir=""ltr"">Moodle Workplace™</p>","<p dir=""ltr"">Moodle Workplace™</p>",id,6949
 40812340efb194fe96dc5ae3bcf0af22,"<p dir=""ltr"" style=""text-align: left;"">That's right. Moodle Workplace™ is built on Moodle LMS with advanced features for workplace learning.</p>
 <p dir=""ltr"" style=""text-align: left;""><span class=""moodle-orange bold larger"">›&nbsp;</span><a href=""https://moodle.com/workplace/"">More about Moodle Workplace</a></p>","<p dir=""ltr"" style=""text-align: left;"">Benar. Moodle Workplace™ dibangun di atas Moodle LMS dengan fitur-fitur canggih untuk pembelajaran di tempat kerja.</p>
@@ -537,9 +537,9 @@ cf755066bb58d40275d88e143e9a8064,Your answer is incorrect.,,id,6949
 ddd476cff2cd94cb49d40401d54076ed,"<p dir=""ltr"" style=""text-align: left;"">MoodleLite</p>","<p dir=""ltr"" style=""text-align: left;"">MoodleLite</p>",id,6949
 de023eb0f0e5d8824b2dd47e1b0817ca,"<p dir=""ltr"" style=""text-align: left;"">Incorrect. MoodleLite is not a Moodle product.</p>","<p dir=""ltr"" style=""text-align: left;"">Salah. MoodleLite bukan merupakan produk Moodle.</p>",id,6949
 aca28dfa7f4fc2db1dd05c98b293550c,"<p dir=""ltr"" style=""text-align: left;"">A Moodle Activity, is a tool that allows students to interact with other students, the teacher, or interactive content.</p><p dir=""ltr"" style=""text-align: left;"">What is the term used to describe a <strong>static course element</strong> in Moodle, which&nbsp;students will read or consume to acquire knowledge in a passive way, and is often contrasted to an Activity?</p>","<p dir=""ltr"" style=""text-align: left;"">Aktivitas Moodle, adalah alat yang memungkinkan siswa berinteraksi dengan siswa lain, guru, atau konten interaktif.</p><p dir=""ltr"" style=""text-align: left;"">Apa istilah yang digunakan untuk menggambarkan <strong>elemen kursus statis</strong> dalam Moodle, yang mana&nbsp;siswa akan baca atau konsumsi untuk memperoleh pengetahuan secara pasif, dan sering dikontraskan dengan Aktivitas?</p>",id,6949
-ccab204d540bff20668e8bff02e0d1c8,Your answer is correct.,,id,6949
-dbde9b5403aab04d25cf8834b68c12ad,Your answer is partially correct.,,id,6949
-e81cbe5614aa1e2cedc1c02aeac4a6f2,Your answer is incorrect.,,id,6949
+ccab204d540bff20668e8bff02e0d1c8,Your answer is correct.,Jawaban Anda benar.,id,6949
+dbde9b5403aab04d25cf8834b68c12ad,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+e81cbe5614aa1e2cedc1c02aeac4a6f2,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 5f980db7cfe222387248960e582dda0b,"<p dir=""ltr"" style=""text-align: left;"">Resource</p>","<p dir=""ltr"" style=""text-align: left;"">Sumber Daya</p>",id,6949
 aa0106fda38a72223696cf778ba2bfb9,"<p dir=""ltr"" style=""text-align: left;"">Correct.&nbsp;In Moodle terminology, an Activity, such as Forums or Quizzes, generally means something students can contribute to directly, whereas a Resource such as a File or Page, is a more static element presented by the teacher to them.</p>","<p dir=""ltr"" style=""text-align: left;"">Benar.&nbsp;Dalam terminologi Moodle, suatu Kegiatan, seperti Forum atau Kuis, umumnya berarti sesuatu yang dapat disumbangkan oleh siswa secara langsung, sedangkan Sumber Daya seperti Berkas atau Halaman, adalah elemen yang lebih statis yang disajikan oleh pengajar kepada mereka.</p>",id,6949
 96a9aab2b824fdc50b478adceb83aa4d,"<p dir=""ltr"" style=""text-align: left;"">Menu</p>","<p dir=""ltr"" style=""text-align: left;"">Menu</p>",id,6949
@@ -550,9 +550,9 @@ f6e7774c6b83807f6a17c6979a866348,"<p dir=""ltr"" style=""text-align: left;"">For
 9c08376605ac7aea1c532200ef757998,"<p dir=""ltr"" style=""text-align: left;"">Try again. A forum is a type of activity where users can interact with one another.</p>","<p dir=""ltr"" style=""text-align: left;"">Coba lagi. Forum adalah jenis aktivitas di mana pengguna dapat berinteraksi satu sama lain.</p>",id,6949
 9cf466254ecae72e829344d7db4d35a2,"<p dir=""ltr"" style=""text-align: left;"">How can you contribute to the Moodle project?</p>","<p dir=""ltr"" style=""text-align: left;"">Bagaimana Anda dapat berkontribusi pada proyek Moodle?</p>",id,6949
 34effd79934b3e506c81d17d3303194e,"<p dir=""ltr"" style=""text-align: left;"">All users of Moodle can:</p><p dir=""ltr"" style=""text-align: left;""></p><ul><li>report bugs and issues using the&nbsp;<a href=""https://tracker.moodle.org/"">Moodle Tracker</a>.</li><li>make use of the&nbsp;<a href=""https://moodle.org/course/"">community forums</a>&nbsp;to ask and answer questions.<br></li><li>update the&nbsp;<a href=""http://moodle%20docs/"">Moodle docs</a>.<br></li><li>develop&nbsp;new plugins or contribute changes to core Moodle code.<br></li><li><a href=""https://lang.moodle.org/"">contribute to the translation of Moodle language packs</a>.&nbsp;<br></li></ul><p></p><p dir=""ltr"" style=""text-align: left;""><br></p>","<p dir=""ltr"" style=""text-align: left;"">Semua pengguna Moodle dapat:</p><p dir=""ltr"" style=""text-align: left;""></p> <ul><li>melaporkan bug dan masalah menggunakan&nbsp;<a href=""https://tracker.moodle.org/"">Moodle Tracker</a>.</li><li>manfaatkan&nbsp;< a href=""https://moodle.org/course/"">forum komunitas</a>&nbsp;untuk bertanya dan menjawab pertanyaan.<br></li><li>perbarui&nbsp;<a href=""https://docs.moodle.org/"">Dokumen Moodle</a>.<br></li><li>mengembangkan plugin baru atau berkontribusi perubahan pada kode inti Moodle.<br></li><li><a href =""https://lang.moodle.org/"">berkontribusi pada penerjemahan paket bahasa Moodle</a>.&nbsp;<br></li></ul><p></p><p dir =""ltr"" style=""text-align: kiri;""><br></p>",id,6949
-a13fbe4ea6ee107faeac42ea9aee571c,Your answer is correct.,,id,6949
-1c48428296dc956ddc3ac03d5f19aca2,Your answer is partially correct.,,id,6949
-4d3e3e39b83ca33c85d61b58eeb4f206,Your answer is incorrect.,,id,6949
+a13fbe4ea6ee107faeac42ea9aee571c,Your answer is correct.,Jawaban Anda benar.,id,6949
+1c48428296dc956ddc3ac03d5f19aca2,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+4d3e3e39b83ca33c85d61b58eeb4f206,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 2dde38376d81e7a2753e680b10904535,<p>Report bugs and issues.</p>,<p>Laporkan bug dan masalah.</p>,id,6949
 f7a588931ade8d00bdc1e1b08841cd86,"<p dir=""ltr"" style=""text-align: left;"">Correct. All users of Moodle can report bugs and issues using the <a href=""https://tracker.moodle.org/"">Moodle Tracker</a>.</p>","<p dir=""ltr"" style=""text-align: left;"">Benar. Semua pengguna Moodle dapat melaporkan bug dan masalah menggunakan <a href=""https://tracker.moodle.org/"">Moodle Tracker</a>.</p>",id,6949
 4415c5317bf30c1376b58aed831f9124,"<p dir=""ltr"" style=""text-align: left;"">Answer questions in the Moodle community forums.</p>","<p dir=""ltr"" style=""text-align: left;"">Jawab pertanyaan di forum komunitas Moodle.</p>",id,6949
@@ -565,9 +565,9 @@ e34024dc535cbc1fa13b3d2c88aef67d,"<p dir=""ltr"" style=""text-align: left;"">Cor
 97dde2ebdc36504a2f3c6779660416aa,"<p>Correct. All Moodle users can <a href=""https://lang.moodle.org/"">contribute to the translation of Moodle language packs</a>.</p>","<p>Benar. Semua pengguna Moodle dapat <a href=""https://lang.moodle.org/"">berkontribusi pada penerjemahan paket bahasa Moodle</a>.</p>",id,6949
 e1cbdd11fc6077bab119f589ad4f30e1,"<p dir=""ltr"" style=""text-align: left;"">Moodle is a free and open source learning management system. <br>How can you get a Moodle site for your course?</p>","<p dir=""ltr"" style=""text-align: left;"">Moodle adalah sistem manajemen pembelajaran sumber terbuka dan gratis. <br>Bagaimana cara mendapatkan situs Moodle untuk kursus Anda?</p>",id,6949
 ea75c92a31aa0eaee1df391724c5d3e9,"<p dir=""ltr"" style=""text-align: left;"">You can get a Moodle site for your course by:<br></p><p dir=""ltr"" style=""text-align: left;""></p><ul><li>Installing and running Moodle on your own servers.<br></li><li>Using MoodleCloud - a cloud-based solution for using Moodle.&nbsp;<br></li><li>Using the services of a Moodle Partner, who can help set up and manage online learning platforms.<br></li></ul><p></p>","<p dir=""ltr"" style=""text-align: left;"">Anda bisa mendapatkan situs Moodle untuk kursus Anda dengan:<br></p><p dir=""ltr"" style=""text-align: kiri;""></p><ul><li>Menginstal dan menjalankan Moodle di server Anda sendiri.<br></li><li>Menggunakan MoodleCloud - solusi berbasis cloud untuk menggunakan Moodle.&nbsp;<br> </li><li>Menggunakan layanan Mitra Moodle, yang dapat membantu menyiapkan dan mengelola platform pembelajaran online.<br></li></ul><p></p>",id,6949
-567a72305e6fa93002ba96d79de280d3,Your answer is correct.,,id,6949
-18ff9513ada85364498b57a3343678e1,Your answer is partially correct.,,id,6949
-5e8cab6fd830b457347a6f6fdb2e1b0b,Your answer is incorrect.,,id,6949
+567a72305e6fa93002ba96d79de280d3,Your answer is correct.,Jawaban Anda benar.,id,6949
+18ff9513ada85364498b57a3343678e1,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+5e8cab6fd830b457347a6f6fdb2e1b0b,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 87746b87f598e78775a126fee502ae8a,"<p dir=""ltr"" style=""text-align: left;"">Install Moodle on your own servers.</p>","<p dir=""ltr"" style=""text-align: left;"">Instal Moodle di server Anda sendiri.</p>",id,6949
 ed2fa4e22462806a140795fac6e9ecb0,"<p dir=""ltr"" style=""text-align: left;"">Correct. You can install and run Moodle on your own servers.</p>","<p dir=""ltr"" style=""text-align: left;"">Benar. Anda dapat menginstal dan mengoperasikan Moodle di server Anda sendiri.</p>",id,6949
 2e3470133d5de80998567068a16153a3,"<p dir=""ltr"" style=""text-align: left;"">Use MoodleCloud.</p>","<p dir=""ltr"" style=""text-align: left;"">Gunakan MoodleCloud.</p>",id,6949
@@ -588,9 +588,9 @@ d7a30d3be6ecf2bc057c07401c49ef5c,"<p dir=""ltr"">Moodle is a Learning Management
     <li>Pengiriman konten menggunakan alat seperti Buku, File, dan Pelajaran.</li>
     <li>Penilaian online,&nbsp;menggunakan alat seperti Kuis, Tugas, dan Lokakarya (untuk penilaian rekan).</li><li>Kolaborasi antar peserta didik, menggunakan alat seperti Forum, Basis Data, dan Wiki.</li>
 </ul>",id,6949
-ba1aad87c1de3dfd90a4cc5e9c78420b,Your answer is correct.,,id,6949
-fa43b031caa1947ea2186b7b85b4bf29,Your answer is partially correct.,,id,6949
-c76ec0f6b634695911725150ac36591a,Your answer is incorrect.,,id,6949
+ba1aad87c1de3dfd90a4cc5e9c78420b,Your answer is correct.,Jawaban Anda benar.,id,6949
+fa43b031caa1947ea2186b7b85b4bf29,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+c76ec0f6b634695911725150ac36591a,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 1ee68902d40d25f0e12d74d20cd00625,<p>Course management tasks.</p>,<p>Tugas pengelolaan kursus.</p>,id,6949
 7c6e14594765cb28ec25cf25c3ef1430,"<p>Correct. Moodle is a Learning Management System, so is ideal for managing your online course, using tools like the Gradebook, Groups and Reports.</p>","<p>Benar. Moodle adalah Sistem Manajemen Pembelajaran, sehingga ideal untuk mengelola kursus online Anda, menggunakan alat seperti Buku Nilai, Grup, dan Laporan.</p>",id,6949
 f9241f0ba3512ed81d6ac92be54692b8,<p>Content delivery.</p>,<p>Pengiriman konten.</p>,id,6949
@@ -639,9 +639,9 @@ d3597218452d85bb5ce987feb766ab3f,"<p>Some of the benefits of using Moodle are:</
     <li>Perangkat lunak gratis dan sumber terbuka.</li>
     <li>Komunitas kontributor yang besar dan aktif.</li>
 </ul>",id,6949
-da02317c0d1c5f20440dc3ea20901185,Your answer is correct.,,id,6949
-303d72c38253f2a951d440fce7a1ee6f,Your answer is partially correct.,,id,6949
-4e8aeb090ed983b7a7a75a6cde7b302e,Your answer is incorrect.,,id,6949
+da02317c0d1c5f20440dc3ea20901185,Your answer is correct.,Jawaban Anda benar.,id,6949
+303d72c38253f2a951d440fce7a1ee6f,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+4e8aeb090ed983b7a7a75a6cde7b302e,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 b6b119e8a300fc08ab7d3a43904b0cd0,<p>Anyone can install and use it.</p>,<p>Siapa pun dapat menginstal dan menggunakannya.</p>,id,6949
 da8619cb325a8d6d0b04f786bc818047,"<p dir=""ltr"" style=""text-align: left;"">Yes, anyone can install and use Moodle.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Ya, siapa pun bisa menginstal dan menggunakan Moodle.<br></p>",id,6949
 9e0ea58c27202fccbc9532e958825884,<p>Adoption of open and accessibility standards.</p>,<p>Penerapan standar keterbukaan dan aksesibilitas.</p>,id,6949
@@ -654,9 +654,9 @@ bbfe8c959f12b2f1b0f7add4d2161a20,"Yes, Moodle is highly modular and configurable
 cd180f608224ccf1c0489567f0e66f0c,"<p dir=""ltr"" style=""text-align: left;"">Yes, Moodle has a&nbsp;large and active community of contributors.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Ya, Moodle memiliki&nbsp;komunitas kontributor yang besar dan aktif.<br></p>",id,6949
 0a86491683d6ec6c724ac6c242239f47,"<p dir=""ltr"" style=""text-align: left;"">What kinds of organisations use Moodle?<br></p>","<p dir=""ltr"" style=""text-align: left;"">Organisasi seperti apa yang menggunakan Moodle?<br></p>",id,6949
 1a9a93fbda576df5923efadae3c76def,"<p dir=""ltr"" style=""text-align: left;"">Due to the highly flexible and customisable nature of Moodle, it is used all over the world by schools, universities, Government organisations, Non-government organisations (NGOs) and workplaces.</p>","<p dir=""ltr"" style=""text-align: left;"">Karena sifat Moodle yang sangat fleksibel dan dapat disesuaikan, Moodle digunakan di seluruh dunia oleh sekolah, universitas, organisasi Pemerintah, Lembaga Swadaya Masyarakat (LSM) dan tempat kerja.</p>",id,6949
-ff8e52fd602a506011830e1bd50c47ed,Your answer is correct.,,id,6949
-26f150e8c9f897fd9c5574f96a07fd76,Your answer is partially correct.,,id,6949
-3d1e0ef48273c7c58ad2041f91226efe,Your answer is incorrect.,,id,6949
+ff8e52fd602a506011830e1bd50c47ed,Your answer is correct.,Jawaban Anda benar.,id,6949
+26f150e8c9f897fd9c5574f96a07fd76,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+3d1e0ef48273c7c58ad2041f91226efe,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 a928b83d3df66aa39332cb2667df65b9,"<p dir=""ltr"" style=""text-align: left;"">Schools.</p>","<p dir=""ltr"" style=""text-align: left;"">Sekolah.</p>",id,6949
 a187651f021ea6b760e7c82bd43c8d91,"<p dir=""ltr"" style=""text-align: left;"">Correct.&nbsp;Moodle caters for young learners in traditional K-12 schools, distance education and home study.</p>","<p dir=""ltr"" style=""text-align: left;"">Benar.&nbsp;Moodle melayani peserta didik muda di sekolah K-12 tradisional, pendidikan jarak jauh, dan belajar di rumah.</p>",id,6949
 b1f821fd5c9a3fcd047ac04c07102a40,"<p dir=""ltr"" style=""text-align: left;"">Universities.</p>","<p dir=""ltr"" style=""text-align: left;"">Universitas.</p>",id,6949
@@ -669,9 +669,9 @@ c9054bf7b8528f6cf6bbfe1a72144903,"<p dir=""ltr"" style=""text-align: left;"">Cor
 4ecc5a016a758e096c14ded676a0b3a2,"<p dir=""ltr"" style=""text-align: left;"">Correct.&nbsp;Moodle's customisability caters to the unique requirements of government organisations.&nbsp;</p>","<p dir=""ltr"" style=""text-align: left;"">Benar.&nbsp;Kemampuan penyesuaian Moodle memenuhi kebutuhan unik organisasi pemerintah.&nbsp;</p>",id,6949
 cd7cb6de6651a75638556d27d7ce4097,"<p dir=""ltr"" style=""text-align: left;"">What type of learning does Moodle support?<br></p>","<p dir=""ltr"" style=""text-align: left;"">Jenis pembelajaran apa yang didukung Moodle?<br></p>",id,6949
 81e0fa0ea6020a4d6c9cff03f1822d95,"<p dir=""ltr"">Moodle provides a pedagogical toolbox designed from a social constructionist point of view that supports&nbsp;<span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">active, passive, collaborative and independent learning.</span></p>","<p dir=""ltr"">Moodle menyediakan kotak alat pedagogi yang dirancang dari sudut pandang konstruksionis sosial yang mendukung&nbsp;<span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">pembelajaran aktif, pasif, kolaboratif dan mandiri.</span></p>",id,6949
-3f14dfb2ea9a9f12c010352fbed34a89,Your answer is correct.,,id,6949
-6915e81dccf2bdd8e2bd4578326e9fb1,Your answer is partially correct.,,id,6949
-3a5d1ec8696e9dee15334d9fefaca1cc,Your answer is incorrect.,,id,6949
+3f14dfb2ea9a9f12c010352fbed34a89,Your answer is correct.,Jawaban Anda benar.,id,6949
+6915e81dccf2bdd8e2bd4578326e9fb1,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,6949
+3a5d1ec8696e9dee15334d9fefaca1cc,Your answer is incorrect.,Jawaban Anda salah.,id,6949
 5b3020188e29fdcea7bbefc1629fa87b,"<p dir=""ltr"" style=""text-align: left;"">active.</p>","<p dir=""ltr"" style=""text-align: left;"">aktif.</p>",id,6949
 1ddb483b83a9b4590155e70e2634da6f,"<p dir=""ltr"" style=""text-align: left;"">Correct. Moodle supports active learning by providing activities and opportunities&nbsp;for learners to interact and participate in a course.&nbsp;</p>","<p dir=""ltr"" style=""text-align: left;"">Benar. Moodle mendukung pembelajaran aktif dengan menyediakan aktivitas dan kesempatan&nbsp;bagi pembelajar untuk berinteraksi dan berpartisipasi dalam suatu kursus.&nbsp;</p>",id,6949
 768fac551cfa91f3d9c1254479fe6276,"<p dir=""ltr"" style=""text-align: left;"">passive.</p>","<p dir=""ltr"" style=""text-align: left;"">pasif.</p>",id,6949

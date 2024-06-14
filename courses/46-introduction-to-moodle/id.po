@@ -368,6 +368,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Which statement about Moodle is "
 "more accurate?<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pernyataan manakah tentang Moodle "
+"yang lebih akurat?<br></p>"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "654d843c8fea29261c9a46efa34d5e0e"}
@@ -533,12 +535,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "07743c455ff1b51c5b8997f67a4cdfb0"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "a807de0d871659d339cc3099a20249a7"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "3e1b3ec1a0daad32d64d4327fbdd51fe"}
@@ -625,7 +627,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7070", "md5key":
 # "4e47b18150987ee5e420bb11ad0f5cf2"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "18017dba74bb8cbd400f6657f8313d50"}
@@ -643,6 +645,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Which statement about Moodle is "
 "more accurate?<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pernyataan manakah tentang Moodle "
+"yang lebih akurat?<br></p>"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "b003b8bdb02a559a786c7b2c0eacde0b"}
@@ -818,7 +822,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "a2e5910de4ae88fd42f3da8346bd6147"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "e41485923f360712e8c4ff0bfef85e28"}
@@ -906,22 +910,22 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "c0b887f386065990b1f4846093698cf8"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "922c7d823817fbb4b32e87dd097f11e7"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "4ddc743e39fc0464e08b7c525fddd7bd"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7148", "md5key":
 # "e6d1f7f3c4564cabf71b0a0db2808c35"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "f2df72fc9be600f41d1182f22fe38edd"}
@@ -1180,37 +1184,37 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "e7e8f9309ebdf716dd9581de6c5a0562"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "8c7fc42666e5ed5ad067631a001f99eb"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "43bfccb1572200ae5b90a3672df85d93"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "68d50c65409a25895b816a8ae3da9315"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "d8a4e1f97f6c23ed670bc5712861e805"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "4a622e9a15ae5921396b4cf5eea8271e"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "f0854614db72d6f9a124d5f8b4323585"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">False</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Salah</p>"
 
 # {"targetlanguage": "id", "contextid": "7156", "md5key":
 # "a935e207b8a352c69f25a451421ad1fa"}
@@ -1442,22 +1446,22 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "780f925dd0640c5bfc4f8543abe804ec"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "60d7bf5e32f131443f2c340be183c2f8"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "741f8e358a43f3b9996462553d8f15cf"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "109e0fc40a434bbb1962d1ccb088d8b1"}
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 # {"targetlanguage": "id", "contextid": "7167", "md5key":
 # "629c7bcb1e5754bbabf90cc20a7356a8"}
@@ -1702,17 +1706,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "111fce2e7cb91b425f043902a290e6d8"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "05c4e1d79cc394b199a132b57c889520"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "a7be5c883e9d2f8be3d0f39345495066"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "5e05ec4746ba8b51d13847c8d970ff71"}
@@ -1760,17 +1764,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "1d3273ee53c56b95fed82c110b1895d3"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "a14b0a0233e83a24cc586f36f600226b"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "af8ddcc489d26cf89141308a6b8be0ea"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "b90ecc93b24d5ec702936a6432fc207d"}
@@ -1843,17 +1847,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "6ef3b3758f85ee53b19a28d2e9c46a37"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "10f21da0b3193ee58eedb1075fa9048e"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "e992ec195c542b010d8167f907b3c728"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "32a7eb6fa5bcea50a134c74b2e9c9257"}
@@ -1872,7 +1876,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f798958785ac15ed0bb3063f9c4d8407"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Sections</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Bagian</p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "9ef4ec2d3c3483357f46619c6985775f"}
@@ -1937,17 +1941,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "8f87cdeac1fa471bccfe591f5a9cd565"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "4dc818b97afa39393c7807e90940d6bc"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "423734a9313fe580c20b6cec5e160cc4"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "43c38cc394afb34e5616094cf26c06d6"}
@@ -1979,6 +1983,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;This is one of the "
 "four freedoms that traditionally define open source.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar.&nbsp;Ini adalah salah satu dari "
+"empat kebebasan yang secara tradisional mendefinisikan sumber terbuka.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "4ab938efa52629f948c78e0944e5cba8"}
@@ -1995,6 +2001,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct.&nbsp;This is one of the "
 "four freedoms that traditionally define open source.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar.&nbsp;Ini adalah salah satu dari "
+"empat kebebasan yang secara tradisional mendefinisikan sumber terbuka.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "8f156cc316f0110de77b1800c8229639"}
@@ -2053,17 +2061,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "7c47b002b0f9713906abbf50bfac5eee"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "b36a3166923b147438c2b2a089109693"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "e16e80684b352020ea338ce80df6ab29"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "4558a9de4df986d2834a9cae020a72a0"}
@@ -2145,17 +2153,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "aed1f4d30174b5db006e0dd7ed00bb2d"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "3b7f8dfb17f747401f5a1cf9b0bd28b1"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "40c5d89b55ee60bb989c08192dcdfe74"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "f7e7cbcdf7cd615ed20b2ec32bbff6f7"}
@@ -2243,17 +2251,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "15dc647ae3ff7b93bf0d4033b51e69a4"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "cefd00e90620a660717d5399f7f11f9e"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "1a9c74686bb471507d9ab52378c821a8"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "48972bcdddb858604ff6b9fb20d2f63f"}
@@ -2326,17 +2334,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "9cb1c23c0305359375fa31bb573333f7"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "8041e2d8399f918dfe45e0c436c105b2"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "989357a718363d476332e5e7669491de"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "709e46cdb8d567ca476226f7308df3a9"}
@@ -2439,12 +2447,12 @@ msgstr "Jawaban Anda benar. Ini semua adalah produk Moodle."
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "62dbbc778022e7086667298e88cc4a11"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "cf755066bb58d40275d88e143e9a8064"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "1405af96a49352fb1cdf131ce338c8e4"}
@@ -2552,17 +2560,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "ccab204d540bff20668e8bff02e0d1c8"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "dbde9b5403aab04d25cf8834b68c12ad"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "e81cbe5614aa1e2cedc1c02aeac4a6f2"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "5f980db7cfe222387248960e582dda0b"}
@@ -2664,17 +2672,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "a13fbe4ea6ee107faeac42ea9aee571c"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "1c48428296dc956ddc3ac03d5f19aca2"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "4d3e3e39b83ca33c85d61b58eeb4f206"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "2dde38376d81e7a2753e680b10904535"}
@@ -2798,17 +2806,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "567a72305e6fa93002ba96d79de280d3"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "18ff9513ada85364498b57a3343678e1"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "5e8cab6fd830b457347a6f6fdb2e1b0b"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "87746b87f598e78775a126fee502ae8a"}
@@ -2916,17 +2924,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "ba1aad87c1de3dfd90a4cc5e9c78420b"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "fa43b031caa1947ea2186b7b85b4bf29"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "c76ec0f6b634695911725150ac36591a"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "1ee68902d40d25f0e12d74d20cd00625"}
@@ -3036,17 +3044,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "da02317c0d1c5f20440dc3ea20901185"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "303d72c38253f2a951d440fce7a1ee6f"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "4e8aeb090ed983b7a7a75a6cde7b302e"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "b6b119e8a300fc08ab7d3a43904b0cd0"}
@@ -3139,17 +3147,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "ff8e52fd602a506011830e1bd50c47ed"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "26f150e8c9f897fd9c5574f96a07fd76"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "3d1e0ef48273c7c58ad2041f91226efe"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "a928b83d3df66aa39332cb2667df65b9"}
@@ -3262,17 +3270,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "3f14dfb2ea9a9f12c010352fbed34a89"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "6915e81dccf2bdd8e2bd4578326e9fb1"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "3a5d1ec8696e9dee15334d9fefaca1cc"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "6949", "md5key":
 # "5b3020188e29fdcea7bbefc1629fa87b"}
