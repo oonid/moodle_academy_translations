@@ -1,0 +1,549 @@
+md5key,rawtext,substitutetext,targetlanguage,contextid
+ee370c35998bd53967db65fc73d0b9f3,"<p dir=""ltr"">This course is for anyone who wants to learn about the new features and improvements in Moodle 4.4.</p>
+<p dir=""ltr"">You should already be familiar with Moodle in order to benefit from the webinar and course materials.</p>
+<p dir=""ltr"">This course relates to the following competence:</p>
+<p dir=""ltr"">1.4 Digital CPD (for educators).</p>
+<p dir=""ltr"">2.4 Support structures (for administrators).</p>",,id,261026
+3df2bac14bfe5c0f401298511dfc2501,"This intermediate level course is for anyone who wants to learn about the new features and improvements in Moodle 4.4.",,id,261026
+fd97262349d0bc2a56f642596f5d06bc,"If you're an administrator in Moodle, learn about what's new here.<br>Activities in this section will become visible after the webinar.",,id,261026
+db06d3f70c19e304428fb0802bcab7ff,"If you are a teacher in a Moodle site, learn about what's new here.<br>Activities in this section will&nbsp; become visible after the webinar.<br>",,id,261026
+4c7afc763741a26edb00a929c01ee8cb,"<div class=""no-overflow""><p>Before you begin, review the Course overview, Learning outcomes, Course structure and Completion and assessment information.</p></div>",,id,262746
+fdcfae6161005e30337a9b22207a0890,"<h4>Welcome</h4>
+<p>Find out how the course works, check your prior understanding and join in an optional general discussion.</p>
+<h4>Webinar</h4>
+<p>Participate in the live webinars or watch the recordings at your convenience.</p>
+<h4>4.4 for Admins</h4>
+<p>Explore the improvements and new features for site administrators.</p>
+<h4>4.4 for Educators</h4>
+<p>Explore the improvements and new features for educators.</p>
+<h4>Course check</h4>Test your understanding in the final quiz(zes).<br><br>
+<h4>Videos and transcripts</h4>
+<p>Download the videos and transcripts from this course.</p>
+<p></p>",,id,262746
+b826b7eb8ec84b116116cd7ba5e19707,"<h4 style=""text-align: left;"">Aim</h4>
+<p>In this intermediate course you will learn:</p>
+<p></p>
+<ul>
+    <li>The new features for all users in Moodle 4.4.</li><li>Improvements to existing features for all users in Moodle 4.4.</li>
+</ul>
+<p></p>
+
+<h4>Prerequisites</h4>Before starting this course it is expected you will already know how to manage a Moodle site and/or how to teach with Moodle.<br><br>
+<h4>Format</h4>
+<p dir=""ltr"">This is a self-paced course without active moderation. You are encouraged to discuss ideas in the discussion forums and respond to other learners' queries.</p>
+<h4 style=""text-align: left;"">Learning time</h4>
+<p dir=""ltr"" style=""text-align: left;"">The estimated learning time to complete this course is 2 hours.</p>",,id,262746
+3a28229a7d7b662c67b7f7c66e1a6df8,"<p>All notable changes to this course will be documented in this page.</p>
+<hr>
+<p>Date: DD Month YYYY<br>Changed by:&nbsp;<br>Changes:</p>
+<p></p>
+<ul>
+    <li>...</li>
+    <li>...</li>
+    <li>...</li>
+</ul><br>
+<hr>",,id,262746
+b8d7a140965c588683e202f3f08e8ec1,"<p><a rel=""license"" href=""http://creativecommons.org/licenses/by/4.0/""><img src=""https://moodle.academy/pluginfile.php/262746/mod_book/chapter/4053/ccby.png"" alt=""Creative Commons Licence"" width=""120"" height=""42"" style=""float:left"" class=""img-fluid atto_image_button_middle""></a>
+    This course by Moodle Academy (Moodle Pty Ltd) is licensed under&nbsp;<a href=""https://creativecommons.org/licenses/by/4.0/"">CC BY 4.0</a>. Original resources available at&nbsp;<a href=""https://moodle.academy/"" title=""Moodle Academy"">Moodle Academy</a>.<br></p>
+<p>
+    <span class=""moodle-orange bold larger"">›</span>
+
+    <a href=""https://moodle.academy/mod/glossary/showentry.php?eid=272"">Read more about how you should attribute this work.</a><br>
+</p>",,id,262746
+3c2415d3f71c81e2e9c5c6b170cecfa7,"<h6>
+    By the end of this course, participants will be able to:</h6><br>
+<ul>
+    <li>Identify the new features in Moodle 4.4 either for site administrators, editing teachers or both;&nbsp;</li>
+    <li>Identify improvements in Moodle 4.4 and changes from earlier versions either for site administrators, editing teachers or both.</li>
+</ul>",,id,262746
+755ad3646f025fa43dce092f41d99b69,"<p>""Being digitally competent means
+    using digital technologies in a confident and safe way"" (DigComp 2.0).</p>
+<p>Moodle Academy courses in the Educator learning pathway use a Moodle specific version of the Digital Competence Framework for Educators (DigCompEdu). This is the same framework used by the advanced Moodle Educator Certification (MEC).&nbsp;</p>
+<p>Moodle Academy courses in the Administrator learning pathway use <a href=""https://moodle.academy/mod/glossary/view.php?id=1915"">DigCompLMSAdmin</a>, a framework designed by Moodle Academy to demonstrate the competence of a Moodle site administrator, similar to how DigCompEdu demonstrates the competence of educators.&nbsp;</p>
+<p>This course relates to the following competences:</p>
+<p>1.4 Digital CPD (DigCompEdu).</p><p>2.4 Support structures (DigCompLMSAdmin).</p><p>8.2 Reflective Practice and Digital CPS (DigCompLMSAdmin).</p>",,id,262746
+c895f76b246f37f2841affe2b5ec8e97,"<p dir=""ltr"">To complete the course you need to complete the&nbsp; following activities:</p>
+<p dir=""ltr""></p>
+<ul>
+    <li>View the 'About this course' book.</li>
+    <li>Do the Quiz 'Course pre-check: What do you already know?'</li>
+</ul>
+<p>and then <strong>EITHER...</strong></p>
+<p></p>
+<ul>
+    <li>View the 'Tutorial: What's new for administrators'</li>
+    <li>Complete 'Try out the admin improvements and new features'</li>
+    <li>Do the Choice 'Checklist: 4.4 administration'</li><li>Do the Quiz: 4.4 for Admins: Check your understanding.</li>
+</ul>
+<p><strong>...OR...</strong></p>
+<p></p>
+<ul>
+    <li>View the 'Tutorial: What's new for educators'</li>
+    <li>Complete 'Try out the educator improvements and new features'</li>
+    <li>Do the Choice 'Checklist: Teaching with 4.4'</li><li>Do the Quiz: 4.4 for Educators: Check your understanding.</li>
+</ul>
+<h4>Completing the activities</h4>
+<ul>
+    <li>Some activities are automatically marked as completed based on specific criteria.</li>
+    <li>Some activities require you to manually mark them as done.</li>
+</ul>
+<p>Make sure you complete the activities according to their completion conditions.</p>
+<p></p>
+<ul>
+</ul>
+<h4>Course badges</h4>
+<p>There are two badges you can obtain in this course: 4.4 for Admins and 4.4 for Educators.</p>
+<p>To complete the course you need to do the required activities plus <strong>EITHER</strong> the activities for administrators <strong>OR</strong> the activities for educators.&nbsp;</p>
+<p>Upon successful completion you will be automatically awarded the relevant badge to showcase the skills and knowledge you have obtained.</p>
+<p>You are then most welcome to complete the remaining activities and obtain the second badge🙂</p>
+<p></p>",,id,262746
+785630bb4e6ccbdb881e57ec046aedfa,"<p dir=""ltr"">Many thanks to the following individuals who contributed to this course, whether it be providing content and instructions, or providing feedback to help improve the design of this course.<br></p>
+<ul>
+    <li>###, Moodle Academy;</li>
+</ul><br>",,id,262746
+873e9d1b630f2e559a6907b558636e15,"This course covers the new features and improvements in Moodle LMS 4.4<br><br>&nbsp;See&nbsp;<a href=""https://docs.moodle.org/403/en/Main_page"">Moodle 4.4 documentation overview</a>&nbsp;and<a href=""https://docs.moodle.org/403/en/New_features"">&nbsp;New Features 4.4 documentation.</a><br><br><br>",,id,262746
+2518b28e15f46e7134c013d548afdab3,"<p>To benefit most from this course, you should have a test Moodle 4.4 site to which you have administrator or editing teacher access, depending on your responsibilities.</p>
+<p>If that is not possible, you can use our <a href=""https://sandbox.moodledemo.net"">Moodle sandbox demo</a> with the admin login (username = admin/password= sandbox) but be aware that this site is reset every hour so you won't be able to save your work.</p>
+<p>Alternatively you can use the <a href=""https://school.moodledemo.net""> Mount Orange School demo site</a>, a demo site with many existing activities you can explore and adapt. While this does not  offer an administrator login, you can experience many features with the manager login (username = manager/password = moodle), and the editing teacher login (username= teacher/password = moodle), again remembering that the site is reset every hour so you won't be able to save your work.</p>
+<p>Note:<strong> </strong>MoodleCloud sites are currently on 4.3 and not yet upgraded to 4.4.</p>",,id,262748
+9fb36eb0416734bdd338f55271454356,"<div class=""no-overflow"">This is the official page with all the new features and improvements. We'll explore many, but not all, of them in this course, so here is the complete list.</div>",,id,262749
+bb945cbf9c71d69f2e7757dd8982ba24,"Webinar recording 'What's New in Moodle 4.4'",,id,300763
+672d47e37941678d055bfd6121fd4039,"<p dir=""ltr""><a href=""https://youtu.be/m4Rfc79C3Sc"">New in 4.4</a></p>
+<p dir=""ltr"">If you missed the webinar, you can watch the recording on YouTube above, or download it via the link below.&nbsp;<br></p>
+<div class=""editor-indent"" style=""margin-left: 30px;"">
+    <p dir=""ltr""><i class=""fa fa-file-video-o"" aria-hidden=""true""></i>&nbsp;<a href=""https://moodle.academy/pluginfile.php/300763/mod_page/content/5/WhatsNewInMoodle44.mp4"" title=""Download webinar recording"">Download webinar recording</a>* (58MB)<br><br></p>
+
+
+    <p dir=""ltr""><i class=""fa fa-file-pdf-o"" aria-hidden=""true""></i>&nbsp;<a href=""https://moodle.academy/pluginfile.php/300763/mod_page/content/5/WhatsNewinMoodle44.pdf"" title=""Download slides from the webinar"">Download slides from the webinar</a> (.pdf)<br><br></p>
+
+    <p dir=""ltr""><i class=""fa fa-file-text-o"" aria-hidden=""true""></i>&nbsp;Download webinar transcript* (<a href=""https://moodle.academy/pluginfile.php/300763/mod_page/content/5/WhatsNewInMoodle44.srt"" title="".srt"">.srt</a>) | (<a href=""https://moodle.academy/pluginfile.php/300763/mod_page/content/5/WhatsNewInMoodle44.txt"" title="".txt"">.txt</a>)<br><span class=""moodle-orange bold larger"">›&nbsp;</span><a href=""https://moodle.academy/mod/glossary/showentry.php?eid=279"">how can I view subtitles on the video files?</a></p>
+
+
+</div>
+<div id=""urlintro"">
+    <div><br>* To download, right click on the links and choose&nbsp;<strong>Save link as...</strong>&nbsp;/&nbsp;<strong>Download linked file</strong><br></div>
+</div>
+
+",,id,300763
+1889ddd136bb0aa4e399edf6785d6a37,"Slides from the webinar",,id,262751
+a9ec307810f75bce1c5f81519f31ad54,"Tutorial: What's new for administrators",,id,262753
+0f9775e5cc861a5bd9e1948c45bc332b,"Browse list of users",,id,262753
+db018088fa2dbf09a2863960c5897b08,"<p>The Browse list of users page now benefits from a filter using Report builder functionality. Admins can filter, select and perform bulk actions directly from this page without the need to go to the Bulk user actions page.<br><br>Note that city and country columns are not shown on the page unless selected as identity fields in <strong>Site administration &gt; User policies &gt; Show user identity</strong>.</p>",,id,262753
+0a3e0a17124f333501067faf27ba8056,"Config changes",,id,262753
+15ccb9bbb7f94e1749297065b669730e,"<p>The Config changes report has a new option to filter by plugin.<br><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4262/configchangesplugin.png"" alt="""" width=""800"" height=""645""></p>",,id,262753
+ff5627f178b47dbd65d0cc229a956c4e,Badges,,id,262753
+cfde9e7179388c9348f07a6d807d27e1,"<h5>Site badges</h5>
+<p>Administrators can filter site badges by version and by expiry date.</p>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4263/sitebadgesfilter.png"" alt="""" width=""800"" height=""536""></p>
+<h5>Course badges</h5>
+<p>Teachers and students in courses now benefit from the filter options previously added to site badges for administrators.</p>",,id,262753
+fc54360bbc274ea97d127f535837ce38,"Theme usage",,id,262753
+a758bd1294655ead9ce4523de2245b91,"<p>A new Theme usage report allows administrators to see which themes are used in the following contexts:</p>
+<ul>
+<li>Courses</li>
+<li>Categories</li>
+<li>Cohorts</li>
+<li>Users.</li>
+</ul>
+<p>This is particularly useful for sites which use several contributed themes in different contexts.</p>",,id,262753
+4b22c212f490587f28c203e433e847ea,"Theme settings changes",,id,262753
+87af2c564c7c708bf123eaf4b54d9b94,"<p>There are some theme settings changes in 4.4 compared with previous versions.</p>
+<ul>
+<li>The section Themes from Site administration &gt; Appearance &gt; Themes does not appear when only standard themes (Boost and Classic) are used.</li>
+<li>Instead, to access the previous Theme settings, click <strong>Advanced theme settings</strong>.</li>
+<li>For the previous Theme selector, select <strong>Themes</strong>.</li>
+<li>To access the Boost/Classic theme pages, click the cog icon within their frame.</li>
+</ul>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4265/themepage44.png"" alt="""" width=""615"" height=""418""></p>",,id,262753
+9fe7670f278c5e2001f65c4aecd61622,BigBlueButton,,id,262753
+c719edc26bcd45b799177145a8594a69,"<p>Although the BigBlueButton free version remains unchanged, from 22 April 2024 onwards, administrators wishing to benefit from it will have to register with the BigBlueButton portal via <strong>Site administration &gt; Plugins &gt; BigBlueButton &gt; General settings</strong>.</p>
+<p>This is very quick to do and allows users to use or continue to use the basic free features of the <a href=""https://moodle.com/certified-integrations/bigbluebutton/"">BigBlueButton Moodle certified integration.</a><br><br>Note: This applies to <strong>all Moodle versions where the free tier BBB is available</strong>; not just Moodle 4.4.</p>",,id,262753
+c75f7811d70d17dbcd88e9d03752cbed,Authentication,,id,262753
+3d0c1acac93178004b7be29a106c4a9d,"<h5>Multi-factor authentication (MFA)</h5>
+<p>Introduced in Moodle 4.3, MFA is now enhanced with the addition of an SMS factor, allowing users to authenticate via a code sent to them on their smartphones.</p>
+<h5>Password visibility</h5>
+<p>A new setting <strong>Site administration &gt; Authentication &gt; Manage authentication &gt; Password visibility toggle </strong>allows the administrator to let users click to show (and then hide) their password on the login page.</p>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4268/passwordvis.png"" alt="""" width=""482"" height=""498""></p>",,id,262753
+fe509c38c1edb3e42923dfb261ac5403,H5P,,id,262753
+b29e540e1585f874e774c846500fd68f,"<p>Administrators familiar with CSS or working with those familiar with CSS can now add custom CSS to apply to H5P content across the site from <strong>Site administration &gt; General &gt; H5P settings</strong>.<strong><br></strong><br><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4269/h5pcustomcss.png"" alt="""" width=""745"" height=""546""></p>",,id,262753
+ab8c7f0ad80eca483dee5f141e059faa,"Disabled activities",,id,262753
+6aecd8d8e84b3fb5fff71509d00a37fd,"<p>Chat and Survey are due to be removed from standard Moodle LMS in a future version. In preparation for this, both activities are disabled by default in new installations of Moodle 4.4.</p>
+<p>If you're upgrading to 4.4, you may want to go to <strong>Site administration &gt; Plugins &gt; Activity modules &gt; Manage activities </strong>and check if either activity is being used, and if not, disable them.</p>",,id,262753
+b51a55bf56bc1287983c6632493b5026,"CLI improvements",,id,262753
+ee845ae70eb3c9c0243795cdeeef8787,"<p>For administrators familiar with the command line, two new scripts will be welcome:</p>
+<ul>
+<li>CLI script for importing courses.</li>
+<li>CLI script for restoring into an existing course.</li>
+</ul>",,id,262753
+82ec2cd6fda87713f588da75c3b1d0ed,Capabilities,,id,262753
+2e0741f329cd4b566507c6016eb88cde,"<p>As highlighted in earlier area of this tutorial, the following capabilities are new in Moodle 4.4:</p>
+<ul>
+<li>View all custom reports (<em>moodle/reportbuilder:viewall</em>) - not set for standard roles</li>
+<li>Access TinyMCE Premium features (<em>tiny/premium:accesspremium</em>) - allowed for the default Authenticated user role</li>
+<li>Use upload course tool (<em>tool/uploadcourse:use</em>) - allowed for the default Manager role</li>
+</ul>",,id,262753
+c5562ce2e22a86c247849904ecef3dc8,Reporting,,id,262753
+b9e3997668b520c5314ae93ddc62f16a,"<p>Thanks to the implementation of Report builder functionality from Moodle Workplace™, improvements in reporting in 4.4 include extra features for custom reports and also improved filtering in other areas, plus one completely new report. <br><br>The following video gives an overview of reporting improvements. Download the video and transcript from the section <a href=""https://moodle.academy/course/view.php?id=143#section-2"">Videos and transcripts for download</a>.<br><br><a href=""https://youtu.be/kuiSL53z4hQ"">Reporting in 4.4</a></p>",,id,262753
+a4efbe04cec5625242e1dba579fd204a,"Test your understanding with this quick check. The grades are not stored, so you can try as often as you like.<br><span data-translationhash=""e0ec9c626b9d97e505a5b8d53979aae3"">{Q{1988/19882|b8bd9b7b025781a1469f891b5836fb58ff1f43a5e89c4ab89236243bb5aadc7c}Q}<br></span>",,id,262753
+4d5b4db2bddb6b43268ee0394dcc8334,"New question type",,id,262753
+4c15cf0b50370bfcd395fa88c5df369f,"<p>The <strong>Ordering question type</strong>, a well-established community plugin originally developed by Gordon Bateson, is now in standard Moodle thanks to sponsoring by the MUA.</p>
+<p>The following video gives an overview of the Ordering question type. Download the video and transcript from the <a href=""https://moodle.academy/course/view.php?id=143#section-5"">Videos and transcripts for download</a> section.<br><br><a href=""https://youtu.be/r-P2IZp-ysg"">Ordering question type</a></p>",,id,262753
+324003a4dfcaf85c9e0824eef031764b,TinyMCE,,id,262753
+2154c8b632e74d2fd857cc3c833fbe3c,"<p><strong>TinyMCE </strong>is now the default editor in all Moodle sites, in preparation for the removal of Atto in Moodle 4.5.<br><br>Along with improvements to the image uploading UI, administrators should be aware of a new capability 'Access TinyMCE Premium features' <em>(tiny/premium:accesspremium) </em>allowing you to control which users can use premium features and in which context. For TinyMCE premium features charging is done on ""per request"" basis (number of editor loads). The capability is allowed for the default Authenticated user role.</p>",,id,262753
+2b15ae62f4a39ccfbc527094760a4e37,"Upload courses",,id,262753
+a127069992847cd0aa205616a19e60e2,"<p>Until now, only an administrator was able to upload a csv file with course information via <strong>Site administration &gt; Courses &gt; Upload courses</strong>.<strong><br></strong><br>A new capability, Use upload course tool (<em>tool/uploadcourse:use</em>) can be given for example to Managers to allow them to upload a csv file. The capability is allowed by default for the role of Manager and if given to other users, it requires also the capabilities <em>moodle/course:create, moodle/course:update</em> and <em>moodle/course:delete</em> (potentially).</p>",,id,262753
+017a4fd83f7c76959cb63d8af7d8a330,"User tours",,id,262753
+f89832d0234799f53a03b96d3bfb25b6,"In earlier versions of Moodle, once a user tour had been completed, the user had to reset it from the link at the bottom of the screen in order to view it again, or the administrator had to reset the tour for everybody concerned.<br><br>A new setting in 4.4 allows the creator of the tour to make the tour always show -&nbsp; a useful feature for areas where users need to be regularly reminded of a particular setting or action to take.<br><br><img src=""https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4266/usertouralwaysshow.png"" alt="""" width=""658"" height=""188"" role=""presentation"" class=""img-fluid atto_image_button_text-bottom""><br>",,id,262753
+b8648bc109b0c0c621108e5f02417c89,"Test your understanding with this quick check. The grades are not stored, so you can try as often as you like.<br><br>{Q{1988/19881|89d46b254f469ae51a11fb387a04e35fccda46102ea6c147cfb53cdc6dce37dc}Q}<br>",,id,262753
+f307ecb6d91dd572962016556985a4ef,"<p>In this tutorial we will cover the most significant and interesting new features and improvements in Moodle 4.4. For a full list of all that is new, see the <a href=""https://moodledev.io/general/releases/4.4"">Moodle 4.4 release documentation</a>.<br><br>In this tutorial we explore:</p>
+<ul>
+<li>new features and improvements affecting administrators of 4.4 sites.</li>
+<li>other changes administrators of 4.4 sites should be aware of.</li>
+</ul>",,id,262753
+6bb6d58b728200b4db7d63055275a07d,Forums,,id,262753
+cf7e747503adb0c61bc891642a0e3d2a,"<p>A new section in <strong>Site administration &gt; Plugins &gt; Activity modules &gt; Forums &gt; Default announcement forum settings </strong>allows administrators to define the default</p>
+<ul>
+<li>Maximum number of attachments per post;</li>
+<li>Subscription mode.</li>
+</ul>
+<p>This will, for example, benefit sites where the usual 'Forced subscription' is not appropriate for courses.</p>
+<p>In courses teachers have easier access to the 'Post all groups' checkbox. </p>
+<p>The following video gives an overview of both of these community-contributed forum improvements in Moodle 4.4 for admins and teachers. Download the video and transcript from the section <a href=""https://moodle.academy/course/view.php?id=143#section-2"">Videos and transcripts for download</a>.<br><br><a href=""https://youtu.be/3kLaQUM16Hc"">4.4 Forum</a></p>",,id,262753
+de22152e845f0e40758a8ee570c964f6,"Changes for teachers",,id,262753
+27ae968088090533f745af72dcb8aeab,"<h5><span style=""color: rgb(73, 80, 87); font-size: 1rem; font-weight: 400;"">While this tutorial has focused on changes in 4.4 for administrators, changes within courses are also important for administrators to be aware of. Thus, we suggest you explore the Tutorial: What's new for educators to better support your teaching staff. Of particular importance are:</span><br></h5>
+<ul>
+<li>The new Ordering question type</li>
+<li>The improved course page layout</li>
+<li>New more accessible activity icons and new MIME type icons</li>
+<li>Improved 'one section per page' layout</li>
+<li>New section page</li>
+<li>Topics format renamed to Custom sections</li>
+<li>Easier location of course backup/restore/import/reset.</li>
+</ul>",,id,262753
+a274f4d4670213a9045ce258c6c56b80,Notifications,,id,262753
+dd5aaf2462606720164e5c119b0002c6,"<ul>
+<li>In Moodle 4.4,<strong> web notifications</strong> are <strong>enabled by default</strong>.</li>
+<li>Administrators receive <strong>Task failed </strong>notifications.</li>
+<li>Students are notified that they will shortly be unenrolled from a course if they have not accessed it for a certain period of time.</li>
+<li>When students are manually enrolled, they receive a welcome message. By default this message comes from the course contact (first teacher of the course) but administrators can set it to the Keyholder role or no-reply address from <strong>Site administration &gt; Plugins &gt;  Enrolments &gt; Manual enrolments &gt; Send course welcome message</strong>.</li>
+</ul>",,id,262753
+9c72b82a4b8ba3bee7f0cec586220850,"Custom reports",,id,262753
+90db5041996574843398c3857b11909b,"<p>Improvements to custom reports include:</p>
+<ul>
+<li>A new Roles report source;</li>
+<li>The ability to filter by file size and file type;</li>
+<li>Custom report tagging;</li>
+<li>A new capability 'View all custom reports' (<em>reportbuilder:viewall</em>)</li>
+</ul>
+<p>The Role report source allows you to create a report showing users with the role of teacher in different course categories.</p>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4260/categoryteachers.png"" alt="""" width=""761"" height=""366""></p>
+<p>The new capability allows a user to view all custom reports regardless of the audience. This will be particularly useful for those using tenants in Moodle Workplace™.</p>",,id,262753
+49b4a308cfe85135bea8e58df7e6a6da,"Try out the admin improvements and new features",,id,262754
+ab1556bc23b397b8681de67aa5ec055e,"<p>Please see the page Where to try out Moodle 4.4 if you don't have access to a test Moodle 4.4 site.</p>
+<ol>
+<li>Log in to the <a href=""https://school.moodledemo.net"">Mount Orange School demo site</a> with the username manager/ password moodle. </li>
+<li>Explore the two new custom reports relating to Roles and file types and size.</li>
+<li>Explore the Browse list of users page with its improved filtering and bulk actions. </li>
+<li>Upload one or two site badges and explore the new filters by version and expiry date.</li>
+<li>Explore the default answer format options for the new Ordering question type.</li>
+<li>If you have your own test site...<br>
+<ul>
+<li>Explore the new Theme usage report.</li>
+<li>Explore the new announcement forum defaults.</li>
+<li>Make sure you are registered with BBB if you are using the free tier.</li>
+</ul>
+</li>
+</ol>
+<h5>Optionally (but highly recommended)</h5>
+<p>Explore the new settings for course teachers by going through the tasks: Try out the educator improvements and new features.</p>",,id,262754
+423ff781e029951e8a9b8b00f2838f3b,"Checklist: 4.4 administration",,id,262755
+0561fb45652736ff53f4efa8ee4fe055,"Tutorial: What's new for educators",,id,262756
+3c1ec9bf8db7ebef679ae6c2c78cff71,"Test your understanding with this quick check. The grades are not stored, so you can try as often as you like.<br><br>{Q{1988/19884|14a5e06be12774b40f366089acea8f59b52bec022891d20de7d8218a0a1ff9a1}Q}<br>",,id,262756
+5172d212fcce0a352bcd9a245901f5e9,"Matrix groups",,id,262756
+88445b5ba569872e0b66f2f5c7ca1bf3,"<p>If your 4.4 site is linked with a Matrix server and in your course from <strong>Course navigation &gt; More &gt; Communication</strong>, Matrix is enabled, then if you have set up groups in the course, Matrix will create dedicated group rooms for you and the students in that group.</p>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4282/acadmatrixgroups.png"" alt="""" width=""795"" height=""415""></p>",,id,262756
+5270cd3b7ad7a8109cba7080f3c9c21c,"Test your understanding with this quick check. The grades are not stored, so you can try as often as you like.<br><br>{Q{1988/18883|d16037f295a1e0d3a5569852dc64cbf5130b16d2eae231fae924eedab18fcdbe}Q}<br>",,id,262756
+81b3c877e93338d2c15c19a8e7284e64,"Ordering question type",,id,262756
+9a844a890b4146149ff05d3532528114,"<p>The long-established and popular <strong>Ordering question type</strong>, originally developed by community Moodler Gordon Bateson, is now part of standard Moodle 4.4 and available for teachers to create sequencing questions for students. These questions may involve individual words, phrases, or (with the HTML format selected) media such as images. The questions can be displayed vertically or horizontally - although the horizontal display will vary depending on image size and your site theme.</p>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4279/orderingdial.png"" alt="""" width=""635"" height=""491""></p>",,id,262756
+12389408aa49ca6a1125a89de91cb768,"Activity icons",,id,262756
+62afbe477a3b7304efb83a504ba7bd4b,"<p>Activity icons in Moodle 4.4 are slightly smaller (24x24), are outlined with a transparent background and use an accessible colour palette.</p>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4275/academyactivityicons.png"" alt="""" width=""764"" height=""531""></p>
+<p>Activity categories are coloured as follows: </p>
+<ul>
+<li>Pink - Assessment </li>
+<li>Purple - Communication</li>
+<li>Orange - Collaboration</li>
+<li>Brown - Interactive content</li>
+<li>Teal - Resources.</li>
+</ul>",,id,262756
+e6adbda71ec5154792c56e41456e264f,"Video: Ordering question",,id,262756
+c009c2f99972386476c88882db3c89d0,"<p>The following video gives an overview of the Ordering question in Moodle 4.4. Download the video and transcript from the section <a href=""https://moodle.academy/course/view.php?id=143#section-2"">Videos and transcripts for download</a>.</p>
+<p>(Note that due to UI improvements being integrated just before release, the interface when the student is taking the quiz has changed slightly since the screencast was filmed.)</p>
+<p><a href=""https://youtu.be/r-P2IZp-ysg"">44 Ordering question type</a></p>",,id,262756
+af85e416fca8eed73ac26cc4500124e6,"New section page",,id,262756
+0f91d7f83fc921e258e74071a3158ac2,"<p>When a student (or teacher in non-edit mode) clicks a section heading, they are taken to a page for just that section, allowing for better focus. </p>
+<p>Return to the section by clicking the previous link in the navigation trail and return to the course page by clicking the course name.<br><br><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4274/singlesectionacademy.png"" alt="""" width=""750"" height=""461""></p>",,id,262756
+1e3ecc437f07026299b029e0dfd68729,"MIME type icons",,id,262756
+a04956f6c67016fc6a610c902d96a8e0,"<p>New icons better displaying file extensions (MIME type) are available in Moodle 4.4, making it easier to see what file was uploaded, for example a PPT™ file or a PDF file.</p>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4276/academymimetype.png"" alt="""" width=""503"" height=""411""></p>",,id,262756
+e6a7f8a2f42cc35979973da8dfb10720,Forum,,id,262756
+52133863173f1b74a193b029c1f8eb55,"<h5>Announcements forum defaults</h5>
+<p>As for standard forums, an administrator can set Announcements forum defaults for the maximum number of attachments and the subscription mode (so teachers don't need to modify them).</p>
+<h5>Faster ‘Post a copy to all groups’</h5>
+<p>The 'Post a copy to all groups' checkbox is shown in the quick discussion creation form so it can be ticked just before sending a message out to all groups, rather than previously when the teacher had to click the 'Advanced' link.<br><br>The following video gives an overview of these community-contributed forum improvements in Moodle 4.4 for admins and teachers. Download the video and transcript from the section <a href=""https://moodle.academy/course/view.php?id=143#section-2"">Videos and transcripts for download</a>.<br><br><a href=""https://youtu.be/3kLaQUM16Hc"">44 Forum</a></p>",,id,262756
+324003a4dfcaf85c9e0824eef031764b,TinyMCE,,id,262756
+34826c785fc72f43532654882a07f868,"<p>TinyMCE is now the default editor in Moodle. If you are a teacher currently using the earlier Atto editor, you can change to TinyMCE from your <strong>user profile &gt; Preferences &gt; Editor preferences</strong>.</p>
+<p>When uploading images using TinyMCE the interface is enhanced, making it easier to drag/drop, search for and upload or link to images:<br><br><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4280/tinymceacad.png"" alt="""" width=""700"" height=""330""></p>
+<p>It is also easier to manage the image once uploaded:</p>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4280/acadebetterimage.png"" alt="""" width=""700"" height=""544""></p>",,id,262756
+e6986dac12736e6c2290952d757ffe8d,"Video: Quiz improvements",,id,262756
+1ebab3cca92bb4eb753c67833e3af4b7,"<p>The following video gives an overview of Quiz improvements in Moodle 4.4. Download the video and transcript from the section <a href=""https://moodle.academy/course/view.php?id=143#section-2"">Videos and transcripts for download</a>.</p>
+<p><a href=""https://youtu.be/AmM5WvEUNy0?feature=shared"">44 Quiz</a></p>",,id,262756
+dbfd201617d33e930b0c95dec33bd37c,"<p>In this tutorial we will cover the most significant and interesting new features and improvements for those with the editing teacher role in a Moodle 4.4 course. For a full list of all that is new, see the <a href=""https://moodledev.io/general/releases/4.4"">Moodle 4.4 release documentation</a>.<br><br>In this tutorial we explore:</p>
+<ul>
+<li>new features and improvements affecting teachers in Moodle 4.4 sites.</li>
+<li>other changes teachers in Moodle 4.4 sites should be aware of.</li>
+</ul>",,id,262756
+db3e13b4d5ac0e09a9d1dcfc06d3f247,"Course page",,id,262756
+fc2d4f4ed51920a14e95824c0648be96,"<p>Course pages in Moodle 4.4 have a neater look with activities separated by lines and sections framed in cards. (This is the opposite of Moodle 4.3.) This allows for better focus.<br><br>Moodle 4.3 showing activity cards and a line separating a section:<br><img class=""img-fluid atto_image_button_text-bottom"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4273/43%20activity%20cards.png"" alt=""4.3 activity cards"" width=""724"" height=""276""><br><br>Moodle 4.4 showing lines between activities and a section within a card:<br><img class=""img-fluid atto_image_button_text-bottom"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4273/44sectioncards.png"" alt=""4.4 section cards"" width=""784"" height=""306""></p>",,id,262756
+e908e8acfd2fd94a8ba15152a5104c5b,"Video: New icons",,id,262756
+f2f8af5f1361a59bcb1ee0ebccd666a3,"<p>The following video gives an overview of the new icons in Moodle 4.4. Download the video and transcript from the section <a href=""https://moodle.academy/course/view.php?id=143#section-2"">Videos and transcripts for download</a>.</p>
+<p><a href=""https://youtu.be/ypAxbEztz50?feature=shared"">Activity icons</a></p>",,id,262756
+27fd26494a6da3c65cdd91f683b7231e,"Video: Course page",,id,262756
+c9ababe15da22bfd6d54f8fe179c7c43,"<p>The following video gives an overview of course page improvements in Moodle 4.4. Download the video and transcript from the section <a href=""https://moodle.academy/course/view.php?id=143#section-2"">Videos and transcripts for download</a>.</p>
+<p><a href=""https://youtu.be/gxyJ__ij38U?feature=shared"">44 Course page</a></p>",,id,262756
+6dffdc66cc311cd20bca7aa0b492239e,"Course management",,id,262756
+07ff3f83af2698fb2965989d845d6420,"<ul>
+<li>With edit mode enabled, teachers see dotted lines separating items, enabling them to easily click and add a new activity or resource.</li>
+<li>Accessing a new section page with edit mode enabled is done either by clicking its name in the course index or by clicking the View link from the Edit menu.</li>
+</ul>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4277/viewacademy.png"" alt="""" width=""185"" height=""283""></p>
+<ul>
+<li>From <strong>Course navigation &gt; Settings, </strong>the Course format setting now includes descriptions in the chooser.</li>
+<li>Topics is now renamed <strong>Course sections </strong>(and new sections are no longer numbered).</li>
+</ul>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4277/courseformatacademy.png"" alt="""" width=""328"" height=""495""></p>
+<ul>
+<li>The setting 'Show one section per page' displays the number of activities in a section (rather than the type) and when a student clicks to go to a section, they arrive at the new single section page without the top/general section displaying. This reduces redundancy and once more allows for better focus.</li>
+</ul>",,id,262756
+1500b6bbde21de6a8ca2f738ff0a7e79,"Quiz and Question bank",,id,262756
+77473bf6a7da5e8367faf9d0689e300b,"<h5>Quiz multiple grades</h5>
+<p>This community-contributed improvement to quiz grading allows teachers to assign grade items to specific questions within a quiz. Once a student has done the quiz, they see not only their overall result but also the results for  each specified group of questions / section.</p>
+<p>The teacher accesses the feature by clicking <strong>Questions</strong> and then from the dropdown selecting <strong>Grade items setup </strong>(for just one section or all questions together) or <strong>Set up a grade for each section</strong> (for quizzes with multiple sections).</p>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4278/quizgradeitemsetup.png"" alt="""" width=""493"" height=""312""></p>
+<p>When Set up a grade for each section is used, the grade items are automatically created and assigned to questions in the appropriate sections. If there are no sections in the quiz, grade items are available for the teacher to select from a dropdown next to each question.</p>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4278/gradedropdown.png"" alt="""" width=""798"" height=""191""></p>
+<p>When a student has completed the quiz, they see their grades for each grade item as well as their overall grade.</p>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4278/studentmultiplegrades.png"" alt="""" width=""543"" height=""327""></p>
+<h5>Last saved info</h5>
+<p>As a student works through a quiz, they can see when their responses were last saved in the Quiz navigation block, reassuring them that auto-save is working.</p>
+<p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4278/quizlastacade.png"" alt="""" width=""288"" height=""236""></p>",,id,262756
+a274f4d4670213a9045ce258c6c56b80,Notifications,,id,262756
+0676441020d64852c8a9ce3249ebc9ef,"<p>If you are a teacher in a newly installed Moodle 4.4 site, web notifications will be enabled by default for you. To manage the notification preferences, click the cog icon from your notifications icon (bell) at the top of your screen.</p>
+<h5>Unenrolment due to inactivity</h5>
+<p>If you are using self enrolment in your course, a new notification alerts students that they are about to be unenrolled because they haven't accessed the course for a period of time.</p>
+<h5>Welcome message for manually enrolled students</h5>
+<p>If you manually enrol students into your course, they will receive a course welcome message (which can be edited by the administrator or manager). An admin setting specifies if the message should be sent from the course contact (i.e. the first course teacher), a keyholder or the No-reply address.</p>",,id,262756
+1fb9b9b66406679c0f942ca971864df1,"Try out the educator improvements and new features",,id,262757
+fb2864ba2a16aefc6464842186731625,"<p>Please see the page Where to try out Moodle 4.4 if you don't have access to a test Moodle 4.4 site. (The following suggestions may also be tried on your own test 4.4 site if you prefer.)</p>
+<ul>
+<li>Log in to the <a href=""https://school.moodledemo.net"">Mount Orange School demo site</a> with the username teacher/password moodle and explore the course <a href=""https://school.moodledemo.net/course/view.php?id=73"">Cross-cultural Communication.</a>.</li>
+<li>Click on a section and see how you are taken to a new section page.</li>
+<li>Access the course settings and note the new display of course formats and the renaming of Topics format.</li>
+<li>Enable Edit mode and use the View link to access a section.</li>
+<li>Access the question bank and create one or two Ordering questions. (Examples are already available.)</li>
+<li>View the <a href=""https://school.moodledemo.net/mod/quiz/view.php?id=1203"">Summative Quiz</a> and explore how the section grades work.</li>
+</ul>",,id,262757
+e230ef73dc08d33724886edb4f626bac,"Checklist: Teaching with 4.4",,id,262758
+a4f8080c8f27d2c127150cc3db4cce03,"<div class=""no-overflow""><h4><i class=""fa fa-graduation-cap"" aria-hidden=""true"" style=""font-size: 1rem;""></i>&nbsp;Related courses</h4>
+<p>You might also like to consider these related courses on Moodle Academy:</p>
+<ul>
+  <li><a href=""https://moodle.academy/course/view.php?id=108"">What's New in Moodle 4.3</a>.</li>  
+  <li><a href=""https://moodle.academy/course/view.php?id=93"">What's New in Moodle 4.2</a>.</li>
+    <li><a href=""https://moodle.academy/course/view.php?id=76"">What's New in Moodle 4.1</a>.</li>
+    <li><a href=""https://moodle.academy/course/view.php?id=25"">Moodle 4.0 for Educators</a>.</li>
+    <li><a href=""https://moodle.academy/course/view.php?id=28"">Moodle 4.0 for Admins</a>.</li>
+</ul>
+
+</div>",,id,317847
+141901ab29548303219c08fa3548dc0c,"With each release, new features and improvements are contributed by our global community of Moodlers. Which of the following Moodle 4.4 course improvements and new features were contributed by community developers?<br>",,id,261026
+dc60946137baff4949b7f521f7a8be9b,"Your answer is correct.",,id,261026
+78dab67f9d9c09c402c725fc93daaa7c,"Your answer is partially correct.",,id,261026
+d83f01519914cf1109b04c5a707fa42c,"Your answer is incorrect.",,id,261026
+3436111b00a984f5c4c3b3dd3d15fb9a,"Forum improvements",,id,261026
+96874e769052041e8d7cb82faed6fb3f,"That's one, yes!",,id,261026
+19b4b8902a7a0a09c0af22da6c70c7de,"Ordering question type",,id,261026
+f19b7456cdaf5b134ee2e73c71bb9f8a,"That's one, yes!",,id,261026
+c4f43a3cad577b25ac9e1a4ecf41110a,"Quiz grade items",,id,261026
+fad02b3b487341f155e0a341e5eb08ad,"That's one, yes!",,id,261026
+a94a32a6ffa84b5b0c99f618959cdf10,"That's one, yes!",,id,261026
+775a5f8e0b8c9d196e75b77594e6bf90,"Which of the following statements are correct? Select all that apply.",,id,261026
+a57e7fbb8fd0235b6aefc791867fcb42,"Your answer is correct.",,id,261026
+4db7c582eab9f0d16bf89c3534534791,"Your answer is partially correct.",,id,261026
+5b98118322ff29627d6201f29629e3f3,"Your answer is incorrect.",,id,261026
+6695a41e36c121e69c26d154c47040eb,"Web notifications are enabled by default in new installations of Moodle 4.4.",,id,261026
+55a1b3fad5cc927138e5c223439dd3d4,"Yes that is true.<br>",,id,261026
+007d86174481b1314ec1988a0fcbf6cb,"The new capability&nbsp;<em>tool/uploadcourse:use </em>is not set for any of the standard roles<em>.</em>",,id,261026
+cf992e82a58702110adaae53fb50d7cd,"Are you sure?",,id,261026
+f1d181ba67c5469b82bdba1688e4c707,"From Moodle 4.4 onwards you must register to use the free tier of BigBlueButton.<br>",,id,261026
+eb6188b0eacd23a2a31102a7f471fb61,"<strong><em>Only </em></strong>4.4?<br>",,id,261026
+bbaa357e904fa8974fde3b95eeb7cb68,"In new installations of Moodle 4.4 the Survey module and the Chat module are disabled.",,id,261026
+07167e6684fc728f96656c1dc131ccf0,"Yes. Do you remember why?",,id,261026
+c21308583551b7b2b4bdde28c785249a,"Which of the following are completely new features in Moodle 4.4? Select all that apply.",,id,261026
+3701cb58791a662ef5e6f180124f2023,"Your answer is correct.",,id,261026
+42a5666ceddfe192524372d6805a8356,"Your answer is partially correct.",,id,261026
+34df91e02a35aa6c89c339cf59e18ea6,"Your answer is incorrect.",,id,261026
+2783e0c77f46b6a1398a8556a82558e6,"Admin setting the default announcement forum subscription.<br>",,id,261026
+212800a180ecd9b4523f364d89bc11f2,"That is one, yes!",,id,261026
+b279af2767d63b67ac52091cc00fef09,"Admins forcing user tours to be shown each time a user accesses the area.",,id,261026
+7e3e35003719eb914359286f015b9734,"That is one, yes!",,id,261026
+f2386b46b9f0c59e36703dcf940cfaa5,"Admins being able to filter the config changes report.",,id,261026
+d63779c5eb6df0de906bf4b3651e5f70,"Well no - they could filter it previously. So what's new?<br>",,id,261026
+3e30e9673d88a1d57cdf5ff8c77e81cd,"A new 'Files' custom report source.",,id,261026
+b30d04d7640acc8b3c04541f493484e7,"That was available previously. Check again.",,id,261026
+d449f47b604085af19b4bbccf97892a4,"Which of the following statements about courses in Moodle 4.4 are true? Select all that apply.",,id,261026
+5f40c881733b1fdbd7a7a05005c367a7,"Your answer is correct.",,id,261026
+efc2fe198bd9f5c0de6ad702ad5da01d,"Your answer is partially correct.",,id,261026
+5e569bd2df7f6a9521188873ec2dbc25,"Your answer is incorrect.",,id,261026
+f6d54ad2c30d221f17842e289a5684d0,"Teachers can now tick a box to post a message to all groups.",,id,261026
+588db1b75393fa6eb41d60a9569abdf8,"But they could do that before, so what's new?",,id,261026
+656b70a660eb824e018e1cf924a2b077,"A new section page now allows students to focus on just one section at a time.",,id,261026
+c7052dd633ccc1249af10f30abce2307,"That's true, yes",,id,261026
+b5299d8bfe1f4937d19e9aacfd11bb9c,"Topics are no longer numbered.",,id,261026
+20a1f182b78bd9893e14a77fadf0e701,"Indeed - and what is Topics format now called?",,id,261026
+57493d94f52b5a95187fb0da2ca13cb9,"Teachers can now create questions where students have to put items in a specified sequence.",,id,261026
+f1a5379702aad45e8c5ba8d1f8d00f64,"What new feature does this relate to?<br>",,id,261026
+68e4c3885dd5ed1f06c7415e4e04df20,"Which of the following features are new for adminstrators managing site badges? Select all that apply.",,id,261026
+ca419b0e0964614efe9f5876025b9fe2,"Your answer is correct.",,id,261026
+4c0737b2cdd282e7ca600ea6b36d541a,"Your answer is partially correct.",,id,261026
+10c5e74099cc23efcaa5180b191895d6,"Your answer is incorrect.",,id,261026
+2a42f08c8de71e3b8d2c6ff318c36cc2,"Filter by expiry date",,id,261026
+5c75905a558dfb91e833a892d433a829,"Filter by version",,id,261026
+2caaaac5082b9a1c63e724fd4d86a44e,"What is new in the Browse list of users page?",,id,261026
+2156923256ea7c5ccb4c2d40bd78a90a,"Your answer is correct.",,id,261026
+531a2d598d97f4e0ee29752ddfb8e3c6,"Your answer is partially correct.",,id,261026
+aa5779b231c5fc498ca3c245b91344a6,"Your answer is incorrect.",,id,261026
+42ff97b7becc8399d3d8b601c63f8ead,"You can now filter users and perform bulk actions.",,id,261026
+b6f5111a270750294a472833d74d2c92,"You now have improved filtering and can perform bulk actions.",,id,261026
+364c2c1876ae4c8ca92bfb77ec6248bb,"You have improved filtering.",,id,261026
+53723176f4c0ba80b4c55fc5c84afb32,"You can perform bulk actions.",,id,261026
+752d28f289315e00b836a29602350667,"Which of the following are new capabilities in Moodle 4.4? Select all that apply.",,id,261026
+1615ff01f6c3c92a40af9e3e513b651d,"Your answer is correct.",,id,261026
+71b9e216a1b47ecd1e7e4a24ee6625c5,"Your answer is partially correct.",,id,261026
+bf0d992d0dcb78c1cecc0f9338c75835,"Your answer is incorrect.",,id,261026
+9249b0357adbb12a85adc208820963cd,tool/uploadcourse:use,,id,261026
+730211716af5247200e9a1ca91b8ab65,moodle/course:update,,id,261026
+ff42c2001798b5bb11fa71081450ce57,moodle/reportbuilder:viewall,,id,261026
+1f490b33f1fa96fc3477664c346fe501,moodle/reportbuilder:view,,id,261026
+5cf49b9e1fc9df4c4894a7f8beec6603,"Although as admin you need to be aware of the main changes for site administrators, it is important also to have an overview of what is new for your teaching staff. Which of the following are new features and improvements for course teachers and students? Select all that apply.",,id,261026
+e6eb3abacfeac45e18e4b3712f596c45,"Your answer is correct.",,id,261026
+29c8c1013e47116151b7c5b1739a01d0,"Your answer is partially correct.",,id,261026
+9f801934e6755ce23384368a483c1540,"Your answer is incorrect.",,id,261026
+fc4e4890be1c0efcaea02ad188be7f32,"New activity icons",,id,261026
+a432ced62dcbac9f0742e53a601a2c7c,"A new section page",,id,261026
+23210285715d4ae454b02da407e3a76c,"Easier access to backup/restore/import/reset",,id,261026
+09602badb2e11ee181fff7150ae02c61,"As admin, where do you go in 4.4 to allow users to view their login password in plain text?",,id,261026
+6826e6871f4ae7771314c3d5abe8923d,"Your answer is correct.",,id,261026
+7e946340092125649c847d17a5e3ae62,"Your answer is partially correct.",,id,261026
+2292b7f7e40b846c6fe0b42ae157756d,"Your answer is incorrect.",,id,261026
+7701b9d0c06f4c1a0349469477adca8f,"Site administration &gt; Security &gt; Site security settings",,id,261026
+f7c1c9ac68fc9932fbb1bf20d4a8417e,"Site administration &gt; Users &gt; User policies",,id,261026
+b6deb474a273a812996eaa09226bf302,"Which of the following is a new custom report source in Moodle 4.4?<br>",,id,261026
+918b8e3ab2429e3c862c192e649d7116,"Your answer is correct.",,id,261026
+8d395e68b2f1eb57aa32b0418b17fa7d,"Your answer is partially correct.",,id,261026
+8154d2c24805a0f99a2562dfbdc2aa01,"Your answer is incorrect.",,id,261026
+4bd2b40b0dd5610cb1d0620ff6c6c817,Roles,,id,261026
+eef72a5734593c4e545c1ac89233ec40,"File types",,id,261026
+74b3f2b9ca3672ed89dd99f08a9fa778,"Category teachers",,id,261026
+8f474aa8feed5e6bfe5a6426c47ff7c9,"File size",,id,261026
+704f001b5cab750c7dfa5fd71e1721f5,"In Moodle 4.4 where do you go to select a theme?",,id,261026
+fc9772807150d6c28e3eb0dbd5c2f2f4,"Your answer is correct.",,id,261026
+bf00bd7c1b02bac37923409d10b65218,"Your answer is partially correct.",,id,261026
+514e8a007b7bf12f5bcff2ae6312e1e2,"Your answer is incorrect.",,id,261026
+a289222fcb121da09f8dd59f376d2661,"Site administration &gt; Appearance &gt; Themes &gt; Theme selector",,id,261026
+312191c8f3633f0fbcba2e70169ecbcd,"Site administration &gt; Appearance &gt; Themes",,id,261026
+10df9b5c1af2bb92e4c96a7c19d9f27d,"Site administration &gt; Themes",,id,261026
+332aa751a410684e4206838e6bb27475,"Site administration &gt; Appearance &gt; Advanced theme settings",,id,261026
+2ed739b49ced0590adfcb493feb41c94,"Which of the following contexts can you select in the new Theme usage report? Select all that apply.",,id,261026
+6959186ede8618c64f59028cbde3b3dd,"Your answer is correct.",,id,261026
+c05ddbf83a970b0227457447eb005a53,"Your answer is partially correct.",,id,261026
+560e8205a845ac17d3d2bb9cf84a1ef6,"Your answer is incorrect.",,id,261026
+d16253ccc2cb68b7699907297c97fa6e,Course,,id,261026
+a6467084411e3e5123f5e3a5a2648a07,Category,,id,261026
+bc79bd444db2ae5792255cb09ad94b0b,Cohort,,id,261026
+08a76b3fc99bc449dd4631151002c70b,"<p>For TinyMCE premium features charging is done on ""per request"" basis (number of editor loads). How can you ensure only specified users can access the premium features?</p>",,id,261026
+e644c7dff2b26434b23d04e97dc3c597,"<p>Your answer is correct.</p>",,id,261026
+e87920d81aa6ee040f2222f7cbf1de95,"<p>Your answer is partially correct.</p>",,id,261026
+d41623e6a8b334d7013961381c064908,"<p>Your answer is incorrect.</p>",,id,261026
+856299b7ca9af551924e0752ac75e9a0,"If you are upgrading your site to Moodle 4.4, which of the following is it worth paying particular attention to (in addition to all other checks)?",,id,261026
+bf49ff3fd3fe958588ba08e7c49bd706,"Your answer is correct.",,id,261026
+6c48565251340b712a805f43652b717f,"Your answer is partially correct.",,id,261026
+5cec75f0b167bb338c0ebf214b1b1fdb,"Your answer is incorrect.",,id,261026
+f411d7ace2f11eb2d0aa2626585cf33b,"Does your site use the Chat module?",,id,261026
+ea75c0c9aaa50b4a4bea1543e3437212,"Does your site use the Survey module?",,id,261026
+6f5d700b41634b73c5a6a2852ee94ce9,"Do your teachers use groups in Forums?",,id,261026
+1d3edaa99bbaadcb8fe7d0c564c447f8,"Which of the following are standard 4.4 course formats? Select all that apply.",,id,261026
+44355fcb3b6e35c2cc3b66c3ec17efe6,"Your answer is correct.",,id,261026
+f3ad8762104e1e31a594fab4f399218d,"Your answer is partially correct.",,id,261026
+513799600a3fa7b41b28d2b0d04d5557,"Your answer is incorrect.",,id,261026
+197fd08c9406500ca969532c5ef0fbd6,Topics,,id,261026
+dc820e9fbea91cef009de40d85cb8e46,Weekly,,id,261026
+7b93a6f682437d2701e77875876975c9,"Single activity",,id,261026
+93852f2e0f4d1866659dceb7176e1f8a,"Custom sections",,id,261026
+223e65749c3b14fba8224f14c810fb8d,"<p>You are a Moodle-using language teacher. Which of the following could you create with the new Ordering question type? Select all that apply.</p>",,id,261026
+62b5c69e334b7165daa95700d0c8f895,"<p>Your answer is correct.</p>",,id,261026
+680285fa7c942c9b151e3f1e8a92009e,"<p>Your answer is partially correct.</p>",,id,261026
+2eff91a2ba8e04e420f2000d2ef3c88a,"<p>Your answer is incorrect.</p>",,id,261026
+38f47e840e128e9599e5b7d2a31cdca9,"Which of these icon colour categories is correct? Select all that apply.<br>",,id,261026
+8fe64f857c81901ead2ddd912205993d,"Your answer is correct.",,id,261026
+cf91ad213376602852e80f8d5b69ad79,"Your answer is partially correct.",,id,261026
+ba4308fa316fe49bf0e78edf6b21db76,"Your answer is incorrect.",,id,261026
+c8c1f34d7e8cff91678a1f082ea79336,"Orange - collaboration",,id,261026
+e5727c04d0f52102cc3bbbd3e1a76140,"Pink - assessment",,id,261026
+82d3ee4f7722f1a9b27cb3fa7b6f970b,"Purple - communication",,id,261026
+a8af4be556568b9d4798565edc6c972a,"Brown - interactive content",,id,261026
+f49554332e4c60c26687e68fcba39dd8,"Which of these notifications are new in Moodle 4.4? Select all that apply.",,id,261026
+0613b04ae58096b44bd187c44e9595e7,"Your answer is correct.",,id,261026
+c3afb442faaed3e8ce9b7f1a27a10e35,"Your answer is partially correct.",,id,261026
+182315e5fd2f922decf35764c75146c5,"Your answer is incorrect.",,id,261026
+7bcfb3863c1a98527cb01be5a1ec8ea4,"Unenrolment due to inactivity",,id,261026
+0e4281c8a81771248ba150618a71713e,"Course welcome when manually enrolled.",,id,261026
+5cde5617c31ebaa115e3b6af4ecd5af3,"Course welcome when self-enrolled",,id,261026
+07a0456e0d8bfc1484dca3b56ea430b6,"Content change notification",,id,261026
+242642a8e632e2702c7a0212bbe05d54,"What is the main benefit of the improvements to the Show one section per page course setting in Moodle 4.4?&nbsp;<br>",,id,261026
+866f26e83b673d04910f670c8ed1f69a,"Your answer is correct.",,id,261026
+44095e6f4920ca5ec326c3055b69e736,"Your answer is partially correct.",,id,261026
+c21a4b98ad3828619e8b516f1de2a63a,"Your answer is incorrect.",,id,261026
+0148654be0f48729b64c98456e81d2c6,"Students can click to see just one section.",,id,261026
+5fcc129bc47fa971e0a6530f70ae26ba,"The top 'General' section is no longer visible when viewing only one section.",,id,261026
+3bb46367f0272999d19f03fec53d4314,"Students can see their progress for each section from the main course page.",,id,261026
+359158d0293641a38e3b88a5158807e3,"Students can see which sections have more activities than others from the main course page.",,id,261026
+7e4e1ef527b81c80c5b639ded0c709a1,"Which of the following statements about the new Ordering question type are correct? Select all that apply.",,id,261026
+4f46344ecef165ef7af9c72defa61d69,"Your answer is correct.",,id,261026
+5fb229ff3e460067f77b928e28806c03,"Your answer is partially correct.",,id,261026
+56b70fb5de8d2460d01cd88cac0481a0,"Your answer is incorrect.",,id,261026
+fb96d3857fafcd995e99053d9b30e043,"You can display items vertically or horizontally.",,id,261026
+7700379b672da5205718e6d6b79598a3,"You can use images.",,id,261026
+7d62061db2894a2349fb2c99acb3e277,"You can use phrases of no more than three words",,id,261026
+f208a5fcb9073ad1f486b3092ea7a29f,"You can use individual words in foreign languages.",,id,261026
+a512904aafa4fc3e79e3edad8903fe72,"<p>You are using separate groups in your Moodle 4.4 course. How do you post in the forum to ensure each group gets the post and is able to reply?</p>",,id,261026
+b3b147d0f2ca340cc990af610c945a73,"<p>Your answer is correct.</p>",,id,261026
+2fe100df110004128b2d5bf474eda184,"<p>Your answer is partially correct.</p>",,id,261026
+2ebe5119bea201f8f998372c78ca12e4,"<p>Your answer is incorrect.</p>",,id,261026
+cefb31e61ce554cc7ea7c82255bdf611,"Which of the following statements about the new quiz grade item feature are correct? Select all that apply.",,id,261026
+eb445c716fe86b0a804fe15bc905af4c,"Your answer is correct.",,id,261026
+1ed9616b00ecd63f1f481837b33e4c68,"Your answer is partially correct.",,id,261026
+c469db6b8c17568c97cff845cb1070ca,"Your answer is incorrect.",,id,261026
+3e66230e7c7df59f32ae2913e7f18692,"Grade items can only be assigned if sections are used in the quiz.",,id,261026
+b6ab25d44fe7fc9bb26d184ea0a9570a,"Grade items can be created either from an existing quiz or directly in the question bank.",,id,261026
+03728d9fbdb466161369b801501ad4d4,"<p>Sam wants to add grade items to individual questions in the Question bank but cannot find where to do this.<br>Can you advise?</p>",,id,261026
+51f3ac449cc53dc961941cbc5896ab4a,"<p>Your answer is correct.</p>",,id,261026
+d70a13ac45c55854f0d42fbfcdcd7ba0,"<p>Your answer is partially correct.</p>",,id,261026
+cd4814f8b81d8fc6b88e152c83bda44e,"<p>Your answer is incorrect.</p>",,id,261026
+a0ed73075c23aab29fb14993ab0dd5d5,"You're trying out the course page improvements on Moodle 4.4 and want to see the new section page. However, when you click a section heading to go straight to the new page, it only allows you to edit the title.<br>What should you do? Select all that apply.<br>",,id,261026
+6c3853704171b917947c4235ff785572,"Your answer is correct.",,id,261026
+f4dc7dcbddded797b046ee2236dd5e6c,"Your answer is partially correct.",,id,261026
+a0f1bb7d43db8e4871ac691c7330ed2c,"Your answer is incorrect.",,id,261026
+589fc03f2eeb8d3f307f2ab369cd58bd,"Click the actions menu (three dots) and then View.",,id,261026
+da8f6b3bf061d4e05f53e60daaf29c23,"Cick the section title in the course index.<br>",,id,261026
