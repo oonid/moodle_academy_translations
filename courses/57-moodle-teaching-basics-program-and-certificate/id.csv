@@ -4,18 +4,29 @@ d4ef26df69424bda3945074905b38a91,"<p>This free program of short courses is desig
 </p>
 <hr>
 <p>
-    This program relates to the following competences: 3.1 Teaching; 5.1 Accessibility and inclusion.</p>",,id,16018
-3a5f96a32e86aed99cc7d9281dae2d87,"Moodle Teaching Basics",,id,16018
+    This program relates to the following competences: 3.1 Teaching; 5.1 Accessibility and inclusion.</p>","<p>Program kursus singkat gratis ini dirancang untuk membantu Anda memahami dasar-dasar pengajaran dengan Moodle.</p>
+<p>Setelah menyelesaikan semua kursus, Anda akan menerima lencana sebagai tanda telah menyelesaikan program.&nbsp;Anda juga dapat memilih untuk membeli sertifikat kelulusan.
+</p>
+<hr>
+<p>
+    Program ini berkaitan dengan kompetensi sebagai berikut: 3.1 Mengajar; 5.1 Aksesibilitas dan inklusi.</p>",id,16018
+3a5f96a32e86aed99cc7d9281dae2d87,Moodle Teaching Basics,Dasar-Dasar Pengajaran Moodle,id,16018
 79b297fff9efc297b9e5aebbd1b9067d,"<p>This free program of short beginner level courses is designed to help you understand the basics of teaching with Moodle.</p>
 <p>Once you complete all the courses you will receive a badge for completing the program.<br></p>
 <p>You can also choose to purchase a certificate of completion.</p>
 <p>If you already understand the basics of teaching with Moodle, why not try our Intermediate level program&nbsp;<a href=""https://moodle.academy/course/view.php?id=65"">Moodle Teaching Skills</a>?</p>
-",,id,16018
-5ecc2be66e0cd57e94decaf7b9d0bcf0,"<div class=""no-overflow"">Before you begin, review the Program overview,&nbsp;Learning outcomes,&nbsp;Program structure&nbsp;and&nbsp;Completion and assessment&nbsp;information.</div>",,id,16273
-463d2fd60948d1c6649ea18666fc802f,"Digital competences",,id,16273
+","<p>Program gratis kursus singkat tingkat pemula ini dirancang untuk membantu Anda memahami dasar-dasar pengajaran dengan Moodle.</p>
+<p>Setelah menyelesaikan semua kursus, Anda akan menerima lencana sebagai tanda telah menyelesaikan program.<br></p>
+<p>Anda juga dapat memilih untuk membeli sertifikat kelulusan.</p>
+<p>Jika Anda sudah memahami dasar-dasar mengajar dengan Moodle, mengapa tidak mencoba program tingkat Menengah kami&nbsp;<a href=""https://moodle.academy/course/view.php?id=65"">Terampil Mengajar Moodle< /a>?</p>
+",id,16018
+5ecc2be66e0cd57e94decaf7b9d0bcf0,"<div class=""no-overflow"">Before you begin, review the Program overview,&nbsp;Learning outcomes,&nbsp;Program structure&nbsp;and&nbsp;Completion and assessment&nbsp;information.</div>","<div class=""no-overflow"">Sebelum memulai, tinjau ikhtisar Program,&nbsp;Capaian pembelajaran,&nbsp;Struktur program&nbsp;dan&nbsp;Informasi&nbsp;Kelulusan dan penilaian.</div>",id,16273
+463d2fd60948d1c6649ea18666fc802f,Digital competences,Kompetensi digital,id,16273
 4bd0dfa4cfbb3eb3297322679ea97952,"""Being digitally competent means
 using digital technologies
-in a confident and safe way"" (DigComp 2.0). <br><br>Moodle Academy courses and programs in the Educator learning pathway use a Moodle specific version of the Digital Competence Framework for Educators&nbsp;(DigCompEdu). This is the same framework used by the advanced Moodle Educator Certification (MEC).<br><br>This program relates to the following competences:<br><p></p><ul><li><span>3.1 Teaching;</span></li><li><span>5.1 Accessibility and inclusion.</span></li></ul><p></p><br>",,id,16273
+in a confident and safe way"" (DigComp 2.0). <br><br>Moodle Academy courses and programs in the Educator learning pathway use a Moodle specific version of the Digital Competence Framework for Educators&nbsp;(DigCompEdu). This is the same framework used by the advanced Moodle Educator Certification (MEC).<br><br>This program relates to the following competences:<br><p></p><ul><li><span>3.1 Teaching;</span></li><li><span>5.1 Accessibility and inclusion.</span></li></ul><p></p><br>","“Menjadi kompeten secara digital artinya
+menggunakan teknologi digital
+dengan cara yang percaya diri dan aman"" (DigComp 2.0). <br><br>Kursus dan program Moodle Academy dalam jalur pembelajaran Pendidik menggunakan versi khusus Moodle dari Kerangka Kompetensi Digital untuk Pendidik (DigCompEdu). Ini adalah kerangka kerja yang sama digunakan oleh Moodle Educator Certification (MEC) tingkat lanjut.<br><br>Program ini berkaitan dengan kompetensi berikut:<br><p></p><ul><li><span>3.1 Mengajar;</span ></li><li><span>5.1 Aksesibilitas dan inklusi.</span></li></ul><p></p><br>",id,16273
 a756e2b9bb5f15f0c7badac268c955f7,"<p dir=""ltr"">To complete the program you need to complete the following activities:</p>
 <p dir=""ltr""></p>
 <ul>
@@ -26,7 +37,17 @@ a756e2b9bb5f15f0c7badac268c955f7,"<p dir=""ltr"">To complete the program you nee
 </ul>
 <h4>Program badge</h4>
 <p><ul><li>Upon successful completion of this program of courses you will be automatically awarded a program badge to showcase the skills and knowledge you have obtained.</li></ul></p>
-<p></p>",,id,16273
+<p></p>","<p dir=""ltr"">Untuk menyelesaikan program, Anda perlu menyelesaikan aktivitas berikut:</p>
+<p dir=""ltr""> </p>
+<ul>
+    <li>Lihat buku 'Tentang program ini'.</li><li>Selesaikan semua kursus dalam program.</li>
+</ul>
+<p> </p>
+<h4>Menyelesaikan kursus dalam program ini</h4><ul><li>Kursus dalam program ini akan otomatis ditandai sebagai selesai, setelah Anda memenuhi semua kriteria untuk lulus setiap kursus.&nbsp; Kegiatan ini memiliki c<span style=""font-size: 1rem;"">heckbox dengan batas garis putus-putus.</span></li></ul><p></p><ul>
+</ul>
+<h4>Lencana program</h4>
+<p><ul><li>Setelah berhasil menyelesaikan program kursus ini, Anda akan secara otomatis diberikan lencana program untuk menunjukkan keterampilan dan pengetahuan yang telah Anda peroleh.</li></ul></p>
+<p> </p>",id,16273
 c88c82d7c5f6081bfae9a6769ee13c76,"
 <p>All notable changes to this course will be documented in this page.</p>
 <hr>
@@ -37,9 +58,19 @@ c88c82d7c5f6081bfae9a6769ee13c76,"
     <li>...</li>
     <li>...</li>
 </ul><br>
-<hr>",,id,16273
-ab6d19f85d916b8de4e66621ed325735,"<h4 style=""text-align: left;""><span style=""color: rgb(73, 80, 87); font-size: 1rem;"">By the end of this program, participants will be able to:</span><br></h4><p dir=""ltr""></p><ul><li>Define the layout of your own Moodle course as a teacher;</li><li>Display information in your course in an accessible and inclusive way;</li><li>Add a variety of Moodle activities to your course;</li><li>Set up activities with automatic or manual grading;</li><li>Confidently create a mobile-friendly Moodle course;</li><li>Identify common accessibility issues within a Moodle course and remedy them.</li></ul><p></p>",,id,16273
-d47f65f655b8c742bf23735af268e91f,"Program overview",,id,16273
+<hr>","
+<p>Semua perubahan penting pada kursus ini akan didokumentasikan di halaman ini.</p>
+<hr>
+<p>Tanggal: DD Month YYYY<br>Diubah oleh:&nbsp;<br>Perubahan:</p>
+<p></p>
+<ul>
+    <li>...</li>
+    <li>...</li>
+    <li>...</li>
+</ul><br>
+<hr>",id,16273
+ab6d19f85d916b8de4e66621ed325735,"<h4 style=""text-align: left;""><span style=""color: rgb(73, 80, 87); font-size: 1rem;"">By the end of this program, participants will be able to:</span><br></h4><p dir=""ltr""></p><ul><li>Define the layout of your own Moodle course as a teacher;</li><li>Display information in your course in an accessible and inclusive way;</li><li>Add a variety of Moodle activities to your course;</li><li>Set up activities with automatic or manual grading;</li><li>Confidently create a mobile-friendly Moodle course;</li><li>Identify common accessibility issues within a Moodle course and remedy them.</li></ul><p></p>","<h4 style=""text-align: left;""><span style=""color: rgb(73, 80, 87); font-size: 1rem;"">Pada akhir program ini, peserta akan dapat: </span><br></h4><p dir=""ltr""></p><ul><li>Tentukan tata letak kursus Moodle Anda sendiri sebagai pengajar;</li><li>Menampilkan informasi dalam kursus Anda dengan cara yang mudah diakses dan inklusif;</li><li>Tambahkan beragam aktivitas Moodle ke kursus Anda;</li><li>Siapkan aktivitas dengan penilaian otomatis atau manual;</li><li> Membuat kursus Moodle yang ramah seluler dengan percaya diri;</li><li>Identifikasi masalah aksesibilitas umum dalam kursus Moodle dan atasi masalah tersebut.</li></ul><p></p>",id,16273
+d47f65f655b8c742bf23735af268e91f,Program overview,Tinjauan Program,id,16273
 325602e247d9bddffef3c3b8a046cd53,"<h4 style=""text-align: left;"">Aim</h4>
 <p>In this program you will learn how to:</p>
 <p></p>
@@ -54,19 +85,38 @@ d47f65f655b8c742bf23735af268e91f,"Program overview",,id,16273
 <h4>Format</h4>
 <p dir=""ltr"">This is a self-paced program of short courses without active moderation. You are encouraged to discuss ideas in the discussion forums and respond to other learners' queries.</p>
 <h4 style=""text-align: left;"">Learning time</h4>
-<p dir=""ltr"" style=""text-align: left;"">The estimated learning time to complete this program is 15 hours.</p>",,id,16273
-b126c3a8d07206cf3d425d987030c2c0,"Program structure",,id,16273
-056b7a144466bfb67ef3a74d3f655762,"<p dir=""ltr"" style=""text-align: left;""></p><h4></h4><h4>Welcome</h4><p>Find out how the program works and post a welcome message to the other participants completing the program at the same time.</p><h4>Courses</h4><p>Complete all the courses in this program to receive your program badge.</p><p><span style=""font-size: 1rem;"">You will automatically receive a badge once you have completed all the courses in this program.</span></p><h4>Certificate of completion</h4><p>Upon completion you can choose to purchase a certificate for a small fee.</p><h4>Feedback</h4>We'd love to hear what you thought of the program and if you have any suggestions for improvements. You can also give feedback within each course.<br><p></p>",,id,16273
-fac5d826fcf360a251690ec1d4f26609,"<p dir=""ltr""></p><p dir=""ltr"">Once you complete this program you will be able to purchase a certificate of completion for a small fee.</p><p dir=""ltr"">If you complete this program successfully, why not take another course, or complete a further program?&nbsp;</p><p dir=""ltr"">We offer a range of free courses and programs in three learning pathways, as well as general courses for everyone:<br></p><p dir=""ltr""></p><ul><li><a href=""https://moodle.academy/course/index.php?categoryid=2"">Educator learning pathway</a>.</li><li><a href=""https://moodle.academy/course/index.php?categoryid=3"">Administrator learning pathway</a>.</li><li><a href=""https://moodle.academy/course/index.php?categoryid=4"">Developer learning pathway</a>.</li><li><a href=""https://moodle.academy/course/index.php?categoryid=8"">General courses</a>.</li></ul><br><p></p><p></p>",,id,16273
+<p dir=""ltr"" style=""text-align: left;"">The estimated learning time to complete this program is 15 hours.</p>","<h4 style=""text-align: left;"">Tujuan</h4>
+<p>Dalam program ini Anda akan mempelajari cara:</p>
+<p> </p>
+<ul>
+    <li><nolink>Mulai mengajar dengan Moodle;</nolink></li>
+    <li>Membuat konten kursus;</li>
+    <li>Mengembangkan Aktivitas Moodle;</li>
+    <li>Mengelola kursus Anda;</li>
+    <li>Membuat kursus yang mudah diakses dan tidak merugikan siswa tertentu.</li>
+</ul>
+<p> </p>
+<h4>Format</h4>
+<p dir=""ltr"">Ini adalah program kursus singkat mandiri tanpa moderasi aktif. Anda didorong untuk mendiskusikan ide di forum diskusi dan menanggapi pertanyaan pembelajar lain.</p>
+<h4 style=""text-align: left;"">Waktu belajar</h4>
+<p dir=""ltr"" style=""text-align: left;"">Perkiraan waktu pembelajaran untuk menyelesaikan program ini adalah 15 jam.</p>",id,16273
+b126c3a8d07206cf3d425d987030c2c0,Program structure,Struktur program,id,16273
+056b7a144466bfb67ef3a74d3f655762,"<p dir=""ltr"" style=""text-align: left;""></p><h4></h4><h4>Welcome</h4><p>Find out how the program works and post a welcome message to the other participants completing the program at the same time.</p><h4>Courses</h4><p>Complete all the courses in this program to receive your program badge.</p><p><span style=""font-size: 1rem;"">You will automatically receive a badge once you have completed all the courses in this program.</span></p><h4>Certificate of completion</h4><p>Upon completion you can choose to purchase a certificate for a small fee.</p><h4>Feedback</h4>We'd love to hear what you thought of the program and if you have any suggestions for improvements. You can also give feedback within each course.<br><p></p>","<p dir=""ltr"" style=""text-align: left;""></p><h4></h4><h4>Selamat datang</h4><p>Cari tahu cara kerja program dan kirimkan ucapan selamat datang pesan kepada peserta lain yang menyelesaikan program pada waktu yang sama.</p><h4>Kursus</h4><p>Selesaikan semua kursus dalam program ini untuk mendapatkan lencana program Anda.</p><p><span style=""font-size: 1rem;"">Anda akan otomatis mendapatkan lencana setelah menyelesaikan semua kursus dalam program ini.</span></p><h4>Sertifikat kelulusan</h4><p>Setelah selesai, Anda dapat memilih untuk membeli sertifikat dengan biaya terjangkau.</p><h4>Masukan</h4>Kami ingin mendengar pendapat Anda tentang program ini dan apakah Anda memiliki saran untuk perbaikan. Anda juga bisa memberikan masukan dalam setiap kursus.<br><p></p>",id,16273
+fac5d826fcf360a251690ec1d4f26609,"<p dir=""ltr""></p><p dir=""ltr"">Once you complete this program you will be able to purchase a certificate of completion for a small fee.</p><p dir=""ltr"">If you complete this program successfully, why not take another course, or complete a further program?&nbsp;</p><p dir=""ltr"">We offer a range of free courses and programs in three learning pathways, as well as general courses for everyone:<br></p><p dir=""ltr""></p><ul><li><a href=""https://moodle.academy/course/index.php?categoryid=2"">Educator learning pathway</a>.</li><li><a href=""https://moodle.academy/course/index.php?categoryid=3"">Administrator learning pathway</a>.</li><li><a href=""https://moodle.academy/course/index.php?categoryid=4"">Developer learning pathway</a>.</li><li><a href=""https://moodle.academy/course/index.php?categoryid=8"">General courses</a>.</li></ul><br><p></p><p></p>","<p dir=""ltr""></p><p dir=""ltr"">Setelah menyelesaikan program ini, Anda akan dapat membeli sertifikat kelulusan dengan biaya terjangkau.</p><p dir=""ltr "">Jika Anda berhasil menyelesaikan program ini, mengapa tidak mengambil kursus lain, atau menyelesaikan program selanjutnya?&nbsp;</p><p dir=""ltr"">Kami menawarkan serangkaian kursus dan program gratis dalam tiga jalur pembelajaran, serta kursus umum untuk semua orang:<br></p><p dir=""ltr""></p><ul><li><a href=""https://moodle.academy/course/index.php ?categoryid=2"">Jalur pembelajaran pendidik</a>.</li><li><a href=""https://moodle.academy/course/index.php?categoryid=3"">Jalur pembelajaran administrator</ a>.</li><li><a href=""https://moodle.academy/course/index.php?categoryid=4"">Jalur pembelajaran pengembang</a>.</li><li>< a href=""https://moodle.academy/course/index.php?categoryid=8"">Kursus umum</a>.</li></ul><br><p></p><p ></p>",id,16273
 9204bd1995a7e17cab50042940c5574a,"<p><a rel=""license"" href=""http://creativecommons.org/licenses/by/4.0/""><img src=""https://moodle.academy/pluginfile.php/16273/mod_book/chapter/995/ccby.png"" alt=""Creative Commons Licence"" width=""120"" height=""42"" style=""float:left"" class=""img-fluid atto_image_button_middle""></a>
     This program is formed of courses licensed under Creative Commons (CC) licences. You should attribute the authors of each course and the specific CC licence individually. Original resources available at&nbsp;<a href=""https://moodle.academy/"">https://moodle.academy</a>.<br></p>
 <p>
   <span class=""moodle-orange bold larger"">›</span>
   
-  <a href=""https://moodle.academy/mod/glossary/showentry.php?eid=272"">Read more about how you should attribute the courses in this program.</a><br></p>",,id,16273
-5885f942ff1979cc8ae00fa6cfc3eb83,"Moodle Course Content",,id,16317
-db60b6d12a13942e91c289437e3309e7,"Moodle Course Activities",,id,16337
-e261bde8fae1ee965aa80d36bc41bc63,"Moodle Course Management",,id,16338
-6591cf6c834da7f870d54061476b4edf,"Accessible Teaching Basics",,id,16339
-72fb0e1c21d8cdeeef630731e6939de4,"You can purchase a certificate of completion once ...",,id,24516
-82420c8d71105b38287199d5f3d71788,"<div class=""no-overflow""><p dir=""ltr"" style=""text-align: left;"">You can purchase a certificate of completion once you complete all the courses in this program.<br></p></div>",,id,24516
+  <a href=""https://moodle.academy/mod/glossary/showentry.php?eid=272"">Read more about how you should attribute the courses in this program.</a><br></p>","<p><a rel=""license"" href=""http://creativecommons.org/licenses/by/4.0/""><img src=""https://moodle.academy/pluginfile.php/16273/mod_book/ chapter/995/ccby.png"" alt=""Lisensi Creative Commons"" width=""120"" height=""42"" style=""float:left"" class=""img-fluid atto_image_button_middle""></a>
+    Program ini dibentuk dari kursus-kursus yang dilisensikan di bawah lisensi Creative Commons (CC). Anda harus menyebutkan penulis setiap kursus dan lisensi CC tertentu satu per satu. Sumber daya asli tersedia di&nbsp;<a href=""https://moodle.academy/"">https://moodle.academy</a>.<br></p>
+<p>
+  <span class=""moodle-orange bold larger"">›</span>
+  
+  <a href=""https://moodle.academy/mod/glossary/showentry.php?eid=272"">Baca selengkapnya tentang cara mengatribusikan kursus dalam program ini.</a><br></p>",id,16273
+5885f942ff1979cc8ae00fa6cfc3eb83,Moodle Course Content,Konten Kursus Moodle,id,16317
+db60b6d12a13942e91c289437e3309e7,Moodle Course Activities,Aktivitas Kursus Moodle,id,16337
+e261bde8fae1ee965aa80d36bc41bc63,Moodle Course Management,Manajemen Kursus Moodle,id,16338
+6591cf6c834da7f870d54061476b4edf,Accessible Teaching Basics,Dasar-dasar Pengajaran yang Dapat Diakses,id,16339
+72fb0e1c21d8cdeeef630731e6939de4,You can purchase a certificate of completion once ...,Anda dapat membeli sertifikat kelulusan ketika ...,id,24516
+82420c8d71105b38287199d5f3d71788,"<div class=""no-overflow""><p dir=""ltr"" style=""text-align: left;"">You can purchase a certificate of completion once you complete all the courses in this program.<br></p></div>","<div class=""no-overflow""><p dir=""ltr"" style=""text-align: left;"">Anda dapat membeli sertifikat kelulusan setelah menyelesaikan semua kursus dalam program ini.<br></ p></div>",id,24516
