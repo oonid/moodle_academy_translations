@@ -1,0 +1,1245 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "55c2c899f1d732ebe37cc7141d26cbf9"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">MEC stands for the Moodle "
+"Educator Certificate, the international certificate on teaching with Moodle,"
+" offered exclusively by Moodle Certified Partners and Service Providers, and"
+" Moodle HQ.&nbsp;</p><p dir=\"ltr\" style=\"text-align: left;\">Want to know"
+" more about MEC? Enrol in this course and participate in or watch the "
+"recordings of webinars where MEC Facilitators and certificate holders share "
+"their experiences with MEC. Also check if you are ready for the MEC by "
+"taking<span style=\"font-size: 1rem;\">&nbsp;the Pre-placement "
+"quiz!</span><br></p><p dir=\"ltr\" style=\"text-align: left;\"><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "3972087312c250a6488ceda875d6e05c"}
+msgid "What is the MEC?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "3f80dee47484c4aa4135235ff581daf7"}
+msgid ""
+"<p>The Moodle Educator Certification, or MEC, is Moodle's own certification program for experienced educators who have taught with Moodle for at least one year. </p>\n"
+"<p> The MEC is NOT a training program and is not for those new to Moodle. If you haven't used Moodle before, we recommend you explore our <a href=\"https://moodle.academy/mod/page/view.php?id=57\">Educator Learning Pathway</a> and investigate training offered by our <a href=\"https://moodle.com/solutions/certified-service-providers/\">Moodle Certified Partners and Service Providers</a><a href=\"https://moodle.com/services/\">. </a></p>\n"
+"<p>The MEC program consists of six courses based on the 22 competences of the European Framework for the Digital Competence of Educators (DigCompEdu).<a href=\"http://based on the European Framework for the Digital Competence of Educators (DigCompEdu).\"></a></p>\n"
+"<p><a href=\"https://moodle.com/mec/\">Find out more about the MEC on Moodle.com.</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "4a1096421655d923861e3431a89449e3"}
+msgid ""
+"<p>Now you understand what the MEC is and what the requirements are, why not try this short quiz (15 questions) to check if you have the skills and experience to get certified. You need at least 50% to be considered for the MEC, and you can take the quiz twice.</p>\n"
+"<p><strong>Note</strong> that to take this quiz you must first<a href=\"https://moodle.academy/login/index.php\"> register on this site</a> and&nbsp;<a href=\"https://moodle.academy/enrol/index.php?id=15\">enrol in this course</a>.</p>\n"
+"<p>If you don't obtain 50% first time, you will have to wait 6 months to retake the quiz. This is to allow you time to do more training and gain more experience.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "fcfc0e96a09f70013a11e1db5f965c62"}
+msgid "MEC: Where to go from here?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "05e79adcfc74108e97b0e32a57e28680"}
+msgid ""
+"<p>Based on your score in the quiz, we'll give you more information to help "
+"you get certified.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "98c9ea1774e7900222066c71894b9c7f"}
+msgid "Webinar: What is the MEC?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "20ef0f381649f651fa505a88f89acde8"}
+msgid "ANNULÉ - E-Learning Touch' (FR)"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "930713168136c81fc1ebfcc59380611c"}
+msgid "1st session - Catalyst (EN)"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "c934d299a1aa8083b79d0efef8991955"}
+msgid "2nd session - Moodle US (EN)"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "c8b7e288f9c213465486c7960a626627"}
+msgid "3rd session - Enovation (EN)"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "69ca02a904d180af9a5fef41c6bc48a6"}
+msgid "4th session - 3&Punt (ES)"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "b5de3344734bf4ec9521619030c9a754"}
+msgid "5th session - BuenData (ES)"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "176766", "md5key":
+# "23ab257d1d0d24b5b9bee1164ff51d99"}
+msgid "Share a photo - Join the celebration!"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "540", "md5key":
+# "19b44f3c15d2261c0728fe8756bf471d"}
+msgid "Pre-placement test"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "295896", "md5key":
+# "8a0bbaba44953580b6ed3ec9078dcc70"}
+msgid "Webinar recording 'What is the MEC?'"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "295896", "md5key":
+# "b340fd5d1736dd8a2a76ceabf4962d93"}
+msgid ""
+"\n"
+"<p dir=\"ltr\">https://youtu.be/w-7j6Vbq1_Y</p>\n"
+"<p dir=\"ltr\">If you missed the webinar, you can watch the recording on YouTube above, or download it via the link below.&nbsp;<br></p>\n"
+"<div class=\"editor-indent\" style=\"margin-left: 30px;\">\n"
+"    <p dir=\"ltr\"><i class=\"fa fa-file-video-o\" aria-hidden=\"true\"></i>&nbsp;<a href=\"https://moodle.academy/pluginfile.php/295896/mod_page/content/3/WhatIsTheMEC.mp4\" title=\"Download webinar recording\">Download webinar recording</a>* (58MB)<br><br></p>\n"
+"  \n"
+"      <p dir=\"ltr\"><i class=\"fa fa-file-text-o\" aria-hidden=\"true\"></i>&nbsp;Download webinar transcript* (<a href=\"https://moodle.academy/pluginfile.php/295896/mod_page/content/3/WhatIsTheMEC.srt\" title=\".srt\">.srt</a>) | (<a href=\"https://moodle.academy/pluginfile.php/295896/mod_page/content/3/WhatIsTheMEC.txt\" title=\".txt\">.txt</a>)<br><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=279\">how can I view subtitles on the video files?</a></p>\n"
+"\n"
+"    <!--- KEEP COMMENTED OUT UNTIL TRANSCRIPT IS READY \n"
+"    <p dir=\"ltr\"><i class=\"fa fa-file-pdf-o\" aria-hidden=\"true\"></i>&nbsp;<a href=\"#\" title=\"Download slides from the webinar\">Download slides from the webinar</a> (.pdf)<br><br></p>\n"
+"END OF COMMENT --->\n"
+"\n"
+"</div>\n"
+"<div id=\"urlintro\">\n"
+"    <div><br>* To download, right click on the links and choose&nbsp;<strong>Save link as...</strong>&nbsp;/&nbsp;<strong>Download linked file</strong><br></div>\n"
+"</div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "189129", "md5key":
+# "e03f2400c97f17e100f2635b397e6816"}
+msgid ""
+"ANNULÉ: Webinaire « Réflexions sur MEC » - E-Learning Touch' "
+"(Français/French)"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "189129", "md5key":
+# "64705e0c0780321bc0840ab77b966167"}
+msgid ""
+"<div class=\"no-overflow\">En raison de circonstances inattendues, nous "
+"sommes contraints d'annuler le webinaire prévu. Nous prévoyons de le "
+"reprogrammer au début de l'année 2024 et vous informerons de la nouvelle "
+"date dès qu'elle sera fixée.</div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "3582", "md5key":
+# "d45bfd18d816224f7ae70f03b79aba87"}
+msgid "Webinar recording 'Reflections on MEC' - Catalyst"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "3583", "md5key":
+# "13d86c088441254387743b18e97b05ec"}
+msgid "Slides from the webinar 'Reflections on MEC' - Catalyst"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "11932", "md5key":
+# "27b8f61bf6b6a44f285a4784d755afbc"}
+msgid "Webinar recording 'Reflections on MEC' - Moodle US"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "11932", "md5key":
+# "caeaf516872bb9987a3ed9e3f9d5dcf7"}
+msgid ""
+"<p dir=\"ltr\">https://youtu.be/vaQreJfzsoI</p>\n"
+"<p dir=\"ltr\">If you missed the webinar, you can watch the recording on YouTube above, or download it via the link below.&nbsp;<br>\n"
+"</p><p></p>\n"
+"<div class=\"editor-indent\" style=\"margin-left: 30px;\">\n"
+"    <p dir=\"ltr\"><a href=\"https://moodle.academy/pluginfile.php/11932/mod_page/content/4/ReflectionsOnMEC-MoodleUS.mp4\">Download webinar recording</a>* (95MB)<br><br></p>\n"
+"    <p dir=\"ltr\">Download webinar transcript* (<a href=\"https://moodle.academy/pluginfile.php/11932/mod_page/content/4/ReflectionsOnMEC-MoodleUS.srt\">.srt</a>) | (<a href=\"https://moodle.academy/pluginfile.php/11932/mod_page/content/4/ReflectionsOnMEC-MoodleUS.txt\">.txt</a>)<br><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=279\">how can I view subtitles on the video files?</a></p>\n"
+"</div>\n"
+"<div id=\"urlintro\">\n"
+"    <div><br>* To download, right click on the links and choose&nbsp;<strong>Save link as...</strong>&nbsp;/&nbsp;<strong>Download linked file</strong><br></div>\n"
+"</div><br><br>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "11403", "md5key":
+# "06a92ed988a716d3fb37774e511d1362"}
+msgid "Slides from the webinar 'Reflections on MEC' - Moodle US"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "15250", "md5key":
+# "6c81d5f2b50bc8da6e1c0bc4803b770d"}
+msgid "Webinar recording 'Reflections on MEC' - Enovation"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "15250", "md5key":
+# "7fee7a9ac7326fdbe2814b67128eebbe"}
+msgid ""
+"<p dir=\"ltr\"><span style=\"\">https://youtu.be/g3xTIdW7LCY<br></span></p>\n"
+"<p dir=\"ltr\">If you missed the webinar, you can watch the recording on YouTube above, or download it via the link below.</p>\n"
+"<p></p>\n"
+"<div class=\"editor-indent\" style=\"margin-left: 30px;\">\n"
+"    <p dir=\"ltr\"><a href=\"https://moodle.academy/pluginfile.php/15250/mod_page/content/9/ReflectionsOnMEC-Enovation.mp4\">Download webinar recording</a>* (91MB)<br><br></p>\n"
+"  <!--- MAKE VISIBLE WHEN TRANSCRIPT IS READY \n"
+"    <p dir=\"ltr\">Download webinar transcript* (.srt) | (.txt)<br><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=279\">how can I view subtitles on the video files?</a></p>\n"
+"--->\n"
+"</div>\n"
+"<div id=\"urlintro\">\n"
+"    <div><br>* To download, right click on the links and choose&nbsp;<strong>Save link as...</strong>&nbsp;/&nbsp;<strong>Download linked file</strong><br></div>\n"
+"</div><br><br>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "11408", "md5key":
+# "20078873b0f5b460656fcc167f7ae9b9"}
+msgid "Slides from the webinar 'Reflections on MEC' - Enovation"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "15249", "md5key":
+# "7126ea095676da7c8e31a7dca83b654c"}
+msgid "Webinar recording 'Reflexiones sobre el MEC' - 3&Punt"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "15249", "md5key":
+# "7168cffc3ed27376bb7f1af158d5d45b"}
+msgid ""
+"<p dir=\"ltr\"><span style=\"\">https://youtu.be/I2DmXXlwirY<br></span></p>\n"
+"<p dir=\"ltr\">If you missed the webinar, you can watch the recording on YouTube above, or download it via the link below.</p>\n"
+"<p></p>\n"
+"<div class=\"editor-indent\" style=\"margin-left: 30px;\">\n"
+"    <p dir=\"ltr\"><a href=\"https://moodle.academy/pluginfile.php/15249/mod_page/content/8/ReflectionsOnMEC-3iPunt.mp4\">Download webinar recording</a>* (80MB)<br><br></p>\n"
+"    <!--- MAKE VISIBLE WHEN TRANSCRIPT IS READY \n"
+"    <p dir=\"ltr\">Download webinar transcript* (.srt) | (.txt)<br><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=279\">how can I view subtitles on the video files?</a></p>\n"
+"--->\n"
+"</div>\n"
+"<div id=\"urlintro\">\n"
+"    <div><br>* To download, right click on the links and choose&nbsp;<strong>Save link as...</strong>&nbsp;/&nbsp;<strong>Download linked file</strong><br></div>\n"
+"</div><br><br>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "11435", "md5key":
+# "908ed924f0f31f09feecc24decabd2e0"}
+msgid "Slides from the webinar 'Reflexiones sobre el MEC' - 3&Punt"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "15247", "md5key":
+# "ce613618a8edd873ef4eb9e64d789ee9"}
+msgid "Webinar recording 'Reflexiones sobre el MEC' - BuenData"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "15247", "md5key":
+# "73caa9e5c1b2db2e8cffa0594b9704f0"}
+msgid ""
+"<p dir=\"ltr\">https://youtu.be/2V6oRmRixBg</p>\n"
+"<p dir=\"ltr\">If you missed the webinar, you can watch the recording on YouTube above, or download it via the link below.&nbsp;<br></p>\n"
+"<div class=\"editor-indent\" style=\"margin-left: 30px;\">\n"
+"    <p dir=\"ltr\"><a href=\"https://moodle.academy/pluginfile.php/15247/mod_page/content/6/ReflexionessobreelMEC_BuenData.mp4\" title=\"Download webinar recording\">Download webinar recording</a>* (99MB)<br><br></p>\n"
+"  <!--\n"
+"    <p dir=\"ltr\">Download webinar transcript* (<a href=\"#\">.srt</a>) | (<a href=\"#\">.txt</a>)<br><span class=\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=279\">how can I view subtitles on the video files?</a></p>\n"
+"-->\n"
+"</div>\n"
+"<div id=\"urlintro\">\n"
+"    <div><br>* To download, right click on the links and choose&nbsp;<strong>Save link as...</strong>&nbsp;/&nbsp;<strong>Download linked file</strong><br></div>\n"
+"</div><br><br>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "11450", "md5key":
+# "3b1584c6c553ff7bb2985dcd9f3f942f"}
+msgid "Slides from the webinar 'Reflexiones sobre el MEC' - BuenData"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "3f5b9454aac5a177c53330e8a5b22b7d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">How do you usually grade learners"
+" in Moodle?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "7018b7a59d180d671108d3130d5ea0bf"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "5ab30b5b672573fa68aea795912ab187"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "ab5538131b1d021eed63f8fe25dfbac5"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "494ceee0243921ca14aa1dd70daa8c0d"}
+msgid ""
+"I don't usually use Moodle for grading learners directly, but for example, "
+"my learners might access materials on Moodle and then email me their work to"
+" grade."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "bf0f2a2dc070bbeb67049eaf1e85b0e3"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You really need experience with "
+"Moodle's own grading before you can consider doing the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "f4ece953dea86bc8eae5d6f23cfe323a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I grade learners with quizzes "
+"and/or assignments with simple points grading.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "0fca7e433f46f6dbc6395e68048b6f7a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is a good start, although a "
+"strong MEC candidate needs more experience than you currently have with "
+"grading.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "6c47da697e36cdfacda8eec9cf72641e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I use a variety of grading "
+"methods for example assignments with rubrics, quizzes with advanced settings"
+" or adding grades directly into the gradebook.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "26838d04a818b52123b6863632ce8d23"}
+msgid ""
+"Your experience grading in Moodle suggests you are a good candidate for the "
+"MEC."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "0fae38b471d8ec5bf8638f09a1bfc92d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">How many of these assessment "
+"techniques have you tried in Moodle?</p><p dir=\"ltr\" style=\"text-align: "
+"left;\"></p><ul><li>Summative (or graded) assessment.</li><li>Formative or "
+"Informal assessment (ungraded)</li><li>Peer assessment.</li><li>Self "
+"assessment.</li></ul><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "7a99f476f5385dc2e2e1e14ff5705f36"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "6a9c88a7c94e15bf6145cd173ec11ab1"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "e78291be431bad4920d2f1e3649a8916"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "3547197061bb02dbf89184cd9a3089ed"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">None of these, but I plan to try "
+"them soon.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "e33bc30cc15df992d0d9f48bd997428a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">An MEC candidate really needs to "
+"have assessed learners within Moodle.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "69745c3d094561027d23c30e3b6557cf"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">One or two.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "9092c3f44b610f70cf34900e278a9e79"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">A strong MEC candidate should "
+"have tried several different assessment techniques in Moodle. "
+"Depending&nbsp; on your experience and training you might possibly be ready "
+"to take the MEC, although we advise you to explore assessment further before"
+" applying.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "ece6f300bf0cd6d7c145ac36bb60ac04"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I have tried three or four of "
+"these at least once.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "f0150070a13e897da0cb71f5708bc410"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">A strong MEC candidate should "
+"have tried several different assessment techniques in Moodle and your answer"
+" suggests you are ready to take the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "87347b20a13860bee26a6abf551d96c1"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">What kind of digital resources do"
+" you usually create?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "37bc35bcdf472761988b500402f44ef6"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "2c49b717de545c0c868be504f721bce1"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "252fbcfa8ceb0e4f14b9baf68d179ef4"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "af4065712008f0a6dfe86e85128273d6"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I don't create my own digital "
+"resources because I use those in our organisation or professionally produced"
+" materials.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "3fbc06124e8b44b077087eec6eac8281"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That is understandable; however, "
+"an MEC candidate should have experience creating their own materials.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "a9ce39728601dddbf33c3e0ff2429249"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I create text documents and "
+"presentations (such as Word™ and Powerpoint™).</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "a3e69379184ea47b66584fe1505dfd15"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is a start; however, an MEC "
+"candidate should have experience creating a wider variety of materials.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "6bffe2506825386f4fe2c98648237192"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I create and/or modify a variety "
+"of digital resources such as audio or video files, H5P content or other "
+"commercial e-learning authoring tools.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "82b6747a548af5d4f8de07e60a7fa9f9"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is good. An MEC candidate "
+"should have experience creating a wide variety of materials.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "b7c68131371c7d18422860da53cb651d"}
+msgid ""
+"How well do you understand the importance of Data privacy (eg GDPR) and "
+"online safety?<br>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "f976de2e282841a12cd0317b7c3b4ac4"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "41f7ce8e169de416748d6f4fad773533"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "c1815f1bcacf5faf00e549ae67446514"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "14fdba36c347e1c8f07066a5a5d78a89"}
+msgid "It is not my concern as our organisation is responsible for that."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "a6055ea264724be4c1e78a9fee148378"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">While your organisation might be "
+"responsible for it, all online educators should have at least some "
+"understanding.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "3a24f662bdf9b73dc0a4b0a4432edd09"}
+msgid "I have some understanding but am happy to learn more."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "b7a0ee64f7283be617c561df055785a6"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is a good start. Depending "
+"on your other experience you might be ready to take the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "e3034e4923e824be4ab09e9289a460c6"}
+msgid ""
+"I have a good understanding of these and am able to explain them to others."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "207e32b7baeda9e26f978bf216146541"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Great! An understanding of these "
+"is very beneficial to MEC candidates.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "969b9f47d46cda6f1a90ff7d87ecd17b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">How often do you think about the "
+"following when you create activities?</p><p dir=\"ltr\" style=\"text-align: "
+"left;\"></p><ul><li>Learners with limited sight or hearing?</li><li>Learners"
+" with dyslexia?</li><li>Learners on the autistic spectrum?</li><li>Learners "
+"who are in areas with poor internet connections?</li></ul><p></p><p "
+"dir=\"ltr\" style=\"text-align: left;\"><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "1546cea22f88e700887ead24083eec5c"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "93fcdf441a1fc51d6ec18f35835df2d0"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "2923cd2099b623ccd800d2ffedb933d7"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "742c6cd594711ca14f3c6bb4d55c1a17"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">My learners are not in any of "
+"these situations, so it is not a problem for me at the moment.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "a761ab7e49f3b1ad6ab022087c022fb4"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">How do you know? Some "
+"disabilities or learning challenges are not always obvious.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "6ac8cc1bc8d9016734d34523d18f2d61"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I try to make my activities "
+"suitable for all learners, but I am not yet fully confident.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "1cb8b79b23f3bf2b944c6abe95920541"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is a good start. You might "
+"benefit from exploring the subject more before applying for the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "2eb697143eb238c2e962ba7e275ecd49"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I always consider my learners' "
+"needs and am confident in the areas of accessiblity and usability.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "7b7a225011a2fb18a7b5dbc2083d593a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">A strong MEC candidate will be "
+"very aware of learners' needs, so your answer is very promising.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "97d448847320dd98bb9dee721900dfc2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which of the following do your "
+"learners do in your Moodle courses?</p><p dir=\"ltr\" style=\"text-align: "
+"left;\"></p><ul><li>They work together in a collaborative document (Wiki or "
+"other collaborative tool).</li><li>They contribute to Glossaries or Database"
+" activities.</li><li>They engage in gamified activities you have set up for "
+"them.</li><li>They participate in peer assessment in a Workshop activity (or"
+" informally with ratings in a Forum).</li></ul><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "57156f1e32e1d4118767aea58fab9f7b"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "656e9d02d00da58b1e644583e06f7a71"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "fc79e53a6bf77cb6e7c97b29bbb0f246"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "d7f67c4c994af82ef8c794aa331f78a8"}
+msgid ""
+"I haven't yet set up these activities (or it is not appropriate to set up "
+"these activities) for my learners."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "22eab1023f6241617d450c56fde4a990"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is unfortunate, as it is "
+"helpful to have experience with different approaches to learning.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "b412051b0316502f508fe25b6b38981f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">My learners have tried one or two"
+" of these activities.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "e9220954ca475acecefcf65c9678b507"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is a start. You might like "
+"to explore different approaches some more if you want to apply for the "
+"MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "970709fc634da0c9162cb4a03ad3b730"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">My learners have tried three or "
+"four of these activities and we do at least two of them regularly.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "d173ffc3d22e39746a6ae09f7771d004"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Great! Your experience suggests "
+"you are ready for the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "3209dfd06f686222bdc434bdb089c93c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Do you have any teaching "
+"qualifications (for example, a Teaching Certificate, a Masters in Education)"
+" ?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "be8bfbaf073f466edaa9664af8f497e3"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "560f5352f9644cadcef2e87cd9429893"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "bb34f674ac6183ed0e4e543ed73eef24"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "096ee10dd36508bb50be3717c7766ffe"}
+msgid ""
+"No&nbsp; I have no official teaching qualification and I am new to online "
+"teaching."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "c339c4c61f592f02ce277dc08ad99282"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Although a teaching qualification"
+" is not essential, you do need online teaching experience.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "cc8339dbc6e2e24aeae3805b9d2152a6"}
+msgid ""
+"No I have no official teaching qualification but I am experienced in "
+"teaching online."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "1a37d710eb78e3cd146d9e08f7461bbd"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">A teaching qualification is "
+"recommended but not essential. However experience in teaching online is "
+"essential.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "c4abd5735fa60588d5a4b77c1367800d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes I have an official teaching "
+"qualification.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "52d0a76e9aa01791f62b6afbd3fe4a37"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Very good! A teaching "
+"qualification is recommended but not essential. However, experience teaching"
+" online is essential.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "4a16a3baf83da6302127a4974cfd6ae2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">How long have you been teaching "
+"classes with Moodle?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "53c8fe2b5de15202dcb79b373856c788"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "4c38158e4569a1f2eed0a5e46187069c"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "f5fa5036597a32ea2ff7aa04be937b60"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "0b575ae1daba71627dacbbbca092691a"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Less than six months.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "009e017175aebcf1f9a0c6bc5c78f31e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is not really enough to do "
+"the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "d9183391c8ea0ebac0aa8f0fb8f554c5"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">More than six months but less "
+"than 12 months.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "6b05247d9d7b53aa13aada60d70051e8"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This might be enough to start the"
+" MEC, depending on other training and qualifications.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "13ce31e4ca15588f41e8071f0bb8a425"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">More than a year.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "caf1c645295e0fbd0a51f5d6ee3ce39a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is enough to start the MEC. "
+"Great!</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "ca9a7c665be9b7a14263d45e17bc913d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Have you created online courses "
+"yourself with Moodle?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "1f0a705b94e0bc28c95dabaff33eb326"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "0d665314b5748df9a169834b3beff3e5"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "ca26c575bbc9a5921fa5cd079274bec5"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "803d69b8480655fd8116fcbf07adb9ff"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">No - I use courses developed by "
+"others, for example by my organisation or professionally produced "
+"courses.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "9d8e166315f54bece3d6afdf5ada8d91"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You really need experience "
+"creating your own courses in Moodle to start the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "6ef9ad971ee929b1363db48a0d061c1a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I have made at least one course, "
+"for example during basic Moodle training.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "06fbb7308bb093c47deea750a0120a66"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This might be enough to start the"
+" MEC, depending on other training and qualifications. It would be better if "
+"you have more experience creating courses before applying for the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "b840ce7dd5b617d9997efcb3db511ba6"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes, I regularly create my own "
+"Moodle courses.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "782cf6a48d515c8f7fb45c2d3afe67f1"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is good. You are probably a "
+"good candidate to start the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "a3315ad2b97c55f1a84575b05f5ee016"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">How do you ensure your learners "
+"behave safely and responsibly in your courses?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "b638f1d73cddced0d081ef6de58a5149"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "37fd8bb71b3bceb7bc8e202b2bb05afe"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "5fe3584b73ec27d3e1e6875079cb39f7"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "df9d0f63e06205a83ffe38497344d88e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I do not need to do this as my "
+"learners are mature and already responsible online.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "7b9d400685aa72ad6dda1de20249dcc9"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Are you sure you can make "
+"assumptions like that?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "7f6eb209633327156a27448744fa6b60"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I remind them at the start of the"
+" course about good online behaviour.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "f11318677850343047fd3eb7c41e8137"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That is better than nothing. Have"
+" you considered how you will monitor and ensure this?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "0cbc884bddc5acba189ab3ce22c67665"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Together we agree upon course "
+"rules of conduct and we regularly discuss and review online safety in "
+"general.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "2489a972daa07ad2bd3b0bd38c224eb3"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You have a good attitude and "
+"appear to be ready for the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "0d8c4970c4ad185cf06c48c7b3384d7c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">How often do you give your "
+"learners the opportunity to use digital technology in a creative way in your"
+" courses?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "9f392ec4207e1705bef573631604f828"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "6011f14ce142e53d72bb553c461ad5ee"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "663c05ed6d1dc9af4118723339422200"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "712791d8ef627dd5839b7c6f1f72ff74"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Never or very rarely, "
+"because&nbsp; it is not appropriate to the courses I teach.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "2d9695fed1a2a7f6c1743935cebeed48"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's unfortunate, since you "
+"will need to be competent in this as part of your MEC certification.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "638adf7da2c895f871ed3013dd8707f1"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I will sometimes ask them to "
+"upload digital artefacts (audio, video) as assignment submissions.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "53fe1ffae2382758215696bb9b528459"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is a start. You'll need to "
+"be competent in this as part of your MEC certification.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "59461cd8500d3f79e9ae7c803eac2697"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I encourage them regularly to "
+"create and share digital resources as part of their learning, and I guide "
+"them in the best tools to use.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "ab3a65d27a64984f0f7bf7a0e7fdbebe"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Great! Your experience will be "
+"beneficial when doing the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "355a6678bef6dfe97329b2d94fc7ba65"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">How often do you share "
+"experiences and resources with colleagues inside and outside of your "
+"organisation?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "bccd624800e031078a0718e98dc3006e"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "bc5f8ca7dd5179c9ba06b6bf766fa0b4"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "ca0bcb4cf1f659192d61a951c10f3c96"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "8aeadff5df18e4e3dc0bca727e6cda81"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I sometimes share with my "
+"colleagues inside our organisation but I don't share outside the "
+"organisation.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "942f0f320c9367ea047ead4e5a90ab4e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">As an experienced online "
+"educator, you should be sharing outside your organisation where "
+"appropriate.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "d2c05925f281d1006208630d5c6e601d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I sometimes share with colleagues"
+" inside our organisation and also sometimes with colleagues outside our "
+"organisation.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "68c3e1dc853d6a7e10209b6d639a6fcb"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is a good start. As an MEC "
+"candidate you would be expected to share widely. You could start on "
+"MoodleNet for example.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "f6eb50b41d2294b49958db302649adbc"}
+msgid ""
+"I regularly share with colleagues both inside and outside of our "
+"organisation."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "ae3e40b803d82ddf4b87aad55eb1678f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You sound like a good candidate "
+"for the MEC. Perhaps in your application you can highlight some resources "
+"you have shared publicly?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "d82a6a48f9081b111eadeea5f56b7da1"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">How often do you participate in "
+"online training opportunities such as MOOCs or online webinars?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "cd40928aa0eda35d7f4320d25f1829f1"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "a6ba1ffe42b3689bad367a1521d33703"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "db6579de8eff75ffc6a4d53ab1f6168b"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "5efdbcd39ba86576e9abaad40fc1dcb8"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I have only just started to do "
+"this (or I plan to do it now).</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "89eace6885f665920a382c9c83fbcbd7"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Good that you have started doing "
+"this, but you really need more experience in this before you can confidently"
+" take the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "703dc8ad2a7e590829cbd64fa4933fd0"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I have&nbsp; attended webinars "
+"and tried at least one online course such as a MOOC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "39ab8504e6da10152aa6feafc4d1a312"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is a good start. Depending "
+"on your other training and experience, you might be ready for the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "a4d07a0bdd86032c131fcc82abf72474"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I not only participate in online "
+"training opportunities but I also design and/or run them for others.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "92978bdad0fc4a73d85638f5c059a2a0"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Your experience suggests you are "
+"ready to take the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "9978aced04e0aba424d770fea2babb4a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">How many of these teaching "
+"techniques have you tried in Moodle?</p><p dir=\"ltr\" style=\"text-align: "
+"left;\"></p><ul><li>Collaborative work.</li><li>Gamification.</li><li>Self-"
+"regulated learning.</li><li>Formative (ungraded) "
+"assessment.</li></ul><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "4e3c1c0a35a68062d7217f087b873cb5"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "7ff64393a95908286457b62a3e2aca9c"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "3bbc724470fa35ef7e3d30654f5af0a8"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "ca6733018982a98f399e094c3485a71a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">None of them yet, but I plan to "
+"try them soon.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "4a6b834f5ae8e1e36a90a86d120b22ed"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">An experienced online educator "
+"should have tried at least a couple of these. You probably need more "
+"experience before applying to do the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "e216f7a21857499e32b1ce5002110806"}
+msgid "One, two or three."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "380401b21aa92c8a490ee59b169d8ce3"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You have made a start. Depending "
+"on your other experience and training you might be ready for the MEC.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "576a9a7b1ca08a8467b6c2c1bda51241"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I have tried all four at least "
+"once.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "d32563342fce0c058f945ce819e9e16c"}
+msgid ""
+"Your answer suggests you use a variety of techniques and are a good "
+"candidate for the MEC."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "27010b20620b2e24c692112675493a81"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">How do you mainly use Moodle?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "ba2f964dd2577bf29bf21b205fe6a681"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "5bf3e802a47269a3422c5fde970cec04"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "0e45d840277daa02c6397a8737e62156"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "9d0da78cc6e315272f1b6385fac6be4f"}
+msgid "So far I have only used the materials given to me by my colleagues."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "d650fd0c04eb554489fda04ffcd8e98a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">An MEC candidate really needs to "
+"have created their own&nbsp; course materials using Moodle activities and "
+"resources as well as with other software.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "365eb4b6c28d4b35002521aaca9d6b1b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I use it mainly for sharing "
+"documents and weblinks with my learners.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "3bc2b920ad9e7362a863bf09cc084bcb"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is a good start, although "
+"you are probably not ready yet to take the MEC. An MEC candidate really "
+"needs to have created their own course materials using Moodle activities and"
+" resources as well as with other software.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "0363420543c3dfa55654a0ba32d39d23"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">I use it in a variety of ways "
+"including grading activities, forum discussions and quizzes.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "537", "md5key":
+# "ac21a763267013da281fa8a10d13ffdd"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">An MEC candidate should have "
+"created their own course materials using Moodle activities and resources as "
+"well as with other software.</p>"
+msgstr ""
