@@ -1,10 +1,10 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-17 12:18+0000\n"
+"PO-Revision-Date: 2024-06-17 12:48+0000\n"
 "Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
 "Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
-"18-introduction-to-gamification/id/>\n"
+"018-introduction-to-gamification/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -521,7 +521,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5270", "md5key":
 # "a8b252aee7a9c7cbd8807e2a390ad6d9"}
 msgid "Well done!"
-msgstr ""
+msgstr "Bagus sekali!"
 
 # {"targetlanguage": "id", "contextid": "5270", "md5key":
 # "fddd555b1e126c8e2d7062e1d9cb46bf"}
@@ -830,7 +830,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5269", "md5key":
 # "cc40378bfc9614a14500fbd6db90869f"}
 msgid "University of Michigan"
-msgstr ""
+msgstr "University of Michigan"
 
 # {"targetlanguage": "id", "contextid": "5269", "md5key":
 # "6af4a113be2df2f2eab0dfdd3869c958"}
@@ -843,7 +843,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5269", "md5key":
 # "a501fafce49693a0afc861058e4cba24"}
 msgid "University of Hawaii"
-msgstr ""
+msgstr "University of Hawaii"
 
 # {"targetlanguage": "id", "contextid": "5269", "md5key":
 # "2e86da74cccf3eee39dc0441262656c6"}
