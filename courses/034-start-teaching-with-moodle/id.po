@@ -1,0 +1,1713 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "7859593959c56ed109709c8ad0fe9a6d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Understand how to navigate Moodle, set up your teaching space and give access to your learners in this free self-paced course, part of the Moodle Teaching Basics program.</p>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"></p>\n"
+"<p>This course relates to the following competence(s):</p>\n"
+"<p>3.1 Teaching</p><br>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "e32f06356e93bb7621471330bf05e63f"}
+msgid ""
+"<p>This beginner level course addresses some basics on teaching with Moodle. It specifically covers how to navigate in Moodle, set up your teaching space and give access to your learners.</p>\n"
+"<h5>Please note</h5>\n"
+"To get maximum benefit, we strongly advise you to take this course first and then complete the <a href=\"https://moodle.academy/course/view.php?id=57\">Moodle Teaching Basics Program</a>."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "8a541300a547078a46c838980b2d75c9"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">When you have completed all the "
+"required activities, the Course check will appear for you to check your "
+"understanding.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5814", "md5key":
+# "7c5e68cf681bdc7bd1b6cc8cd88dcf0f"}
+msgid ""
+"<p></p>\"Being digitally competent means\n"
+"using digital technologies\n"
+"in a confident and safe way\" (DigComp 2.0). <br><br>Moodle Academy courses in the Educator learning pathway use a Moodle specific version of the Digital Competence Framework for Educators&nbsp;(DigCompEdu). This is the same framework used by the advanced Moodle Educator Certification (MEC).<br><br>This course relates to the following competence(s):<br><br>\n"
+"3.1 Teaching<br>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5814", "md5key":
+# "9f2557d98c2d0288e047704401f89292"}
+msgid ""
+"<p dir=\"ltr\">To complete the course you need to complete the following activities:</p>\n"
+"<p dir=\"ltr\"></p>\n"
+"<ul>\n"
+"    <li><span style=\"font-size: 1rem;\">View&nbsp; 'About this course', reading all sections.</span><br></li>\n"
+"    <li>View 'Get a practice course'.</li>\n"
+"    <li>View the 'Tutorial: Start exploring Moodle', reading all sections.</li>\n"
+"    <li>View the 'Tutorial: Start setting up your course', reading all sections.</li>\n"
+"    <li>View the 'Tasks: Start teaching with Moodle', trying out the suggestions.</li>\n"
+"    <li>Complete the 'Checklist: Start teaching with Moodle' , confirming your understanding.</li>\n"
+"    <li>Achieve 80% or more in&nbsp; the 'Start Teaching with Moodle: Check your understanding' quiz.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<h4>Completing the activities</h4>\n"
+"<ul>\n"
+"    <li>Some activities are automatically marked as completed based on specific criteria.</li>\n"
+"    <li>Some activities require you to manually mark them as done.</li>\n"
+"</ul>\n"
+"<p>Make sure you complete the activities according to their completion conditions.</p>\n"
+"<p></p>\n"
+"\n"
+"<h4>Course badge</h4>\n"
+"<p>Upon successful completion of this course you will be automatically awarded with a badge to showcase the skills and knowledge you have obtained.</p>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5814", "md5key":
+# "885824e18ba7fd04dcc199e54168e8e9"}
+msgid ""
+"<p>This course is designed to help you understand the basics of teaching with Moodle.</p>\n"
+"<p>You will need to have a Moodle course with an editing-teacher account. If your organisation is unable to give you a Moodle course with a teacher account then look at the page Get a practice course.</p>\n"
+"<h5>This course IS...</h5>\n"
+"<ul>\n"
+"    <li>For anyone interested in teaching with Moodle, whatever your background.</li>\n"
+"</ul>\n"
+"<h5>This course IS NOT...</h5>\n"
+"<ul>\n"
+"    <li>For people who want to manage a whole Moodle site as an administrator.</li>\n"
+"    <li>For people looking for advanced Moodle training.</li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5814", "md5key":
+# "bb44349bc3bb7775684997960377eaa1"}
+msgid ""
+"<p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img src=\"https://moodle.academy/pluginfile.php/5814/mod_book/chapter/827/ccby.png\" alt=\"Creative Commons Licence\" width=\"120\" height=\"42\" style=\"float:left\" class=\"img-fluid atto_image_button_middle\"></a>\n"
+"    This course by Moodle Academy (Moodle Pty Ltd) is licensed under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>. Original resources available at&nbsp;<a href=\"https://moodle.academy/\">https://moodle.academy</a>.<br></p>\n"
+"<p>\n"
+"    <span class=\"moodle-orange bold larger\">›</span>\n"
+"\n"
+"    <a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=272\">Read more about how you should attribute this work.</a><br>\n"
+"</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5814", "md5key":
+# "29847d33790519aa1aa26226bf52790a"}
+msgid ""
+"<p>If you complete this course successfully, why not take the other courses in the Moodle Teaching Basics program and optionally purchase a certificate? </p>\n"
+"<ul>\n"
+"    <li>Moodle Course Content.<ul>\n"
+"            <li>Discover the best ways to display teaching materials and track learner progress.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"\n"
+"\n"
+"\n"
+"    <li>Moodle Course Activities.<br>\n"
+"        <ul>\n"
+"            <li>Encourage discussion, collaboration and other interactivity. Explore automatic and manual grading in Moodle, including quizzes and assignments.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"    <li>Moodle Course Management.<ul>\n"
+"            <li>Learn how to reuse your courses and explore some advanced features you'll learn with further training.\n"
+"            </li>\n"
+"        </ul>\n"
+"    </li>\n"
+"    <li>Accessible Teaching Basics.<ul>\n"
+"            <li>Learn basic accessiblity so no learner is disadvantaged in your course.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5814", "md5key":
+# "7370f5e626a0eaeae3ffdbc78d2165f6"}
+msgid ""
+"<h4 style=\"text-align: left;\"><span style=\"color: rgb(73, 80, 87); font-"
+"size: 1rem;\">By the end of this course, you will be able "
+"to:</span><br></h4><p dir=\"ltr\"></p><ul><li>Describe how to navigate and "
+"edit a Moodle course;</li><li>Define the layout of your own Moodle course as"
+" a teacher;</li><li>Add and edit text in your Moodle course;</li><li>Add "
+"blocks to your Moodle course;</li><li>Identify how learners can access your "
+"course.</li></ul><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5814", "md5key":
+# "08dde82590c8ec4c021f0857c76c4929"}
+msgid ""
+"<ul>\n"
+"    <li>This is a free, self-paced course provided by Moodle Academy.</li>\n"
+"    <li>You must have an editing teacher role in a Moodle course in a Moodle site. If your organisation cannot offer you a course, then follow the instructions in the page Get a practice course.</li>\n"
+"    <li>Although this course is not facilitated, you are welcome to ask any questions in the General discussion forum.</li>\n"
+"    <li>We would love to hear what you think of the course, if anything is unclear, or you have any ideas for improvements. Please provide feedback so we can improve the course for everyone.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<h4>Welcome</h4>\n"
+"<p>Find out how the course works, confirm that this course is right for you, get a practice course and join in an optional general discussion.</p>\n"
+"<h4><span style=\"font-size: 1.5rem;\">Review, learn and practise</span><br></h4>\n"
+"<p>Explore the interactive books and use the tasks provided to practise yourselves.&nbsp;</p>\n"
+"<h4><span style=\"font-size: 1.5rem;\">Course check</span><br></h4><p>Test your understanding in the final quiz.</p><h4>Feedback</h4>\n"
+"<p>Answer few questions to help us improve this course.</p><p></p><h4>Videos and transcripts for download</h4><p><span style=\"font-size: 1rem;\">Find the videos and their transcripts used in this course in a downloadable format.</span></p><br><p></p>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5814", "md5key":
+# "189475e500b89a2a0a51e221a8f4f1b1"}
+msgid ""
+"<h4 style=\"text-align: left;\">Aim</h4>\n"
+"<p>In this course you will:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <ul>\n"
+"        <li>Explore how to find your way around a Moodle site;</li>\n"
+"        <li>Learn what the Dashboard and My courses tab do;</li>\n"
+"        <li>Explore what a Moodle course is and how to set up and customise your course layout;</li>\n"
+"      <li>Discover how to add and edit text in your course;</li><li>Explore the benefit of adding blocks to your course;</li><li>Learn how learners can access your course.</li>\n"
+"\n"
+"    </ul>\n"
+"</ul>\n"
+"<p></p>\n"
+"<p></p>\n"
+"<h4>Format</h4>\n"
+"<p dir=\"ltr\">This is a self-paced course without active moderation.</p>\n"
+"<h4 style=\"text-align: left;\">Estimated time</h4>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\">The estimated time to complete this course is 3 hours.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5814", "md5key":
+# "0890b66cc47037685fcfe6ad614f09fa"}
+msgid ""
+"The activities and screenshots in this course are based on the standard Boost theme and the latest version of Moodle LMS, currently 4.3.&nbsp;See <a href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3 documentation overview</a> and&nbsp;<a href=\"https://docs.moodle.org/403/New_features\">New Features 4.3 documentation.</a><br>&nbsp;If your Moodle site looks different, ask your Moodle support staff about the theme and version being used.\n"
+"<br><br>&nbsp;You can access documentation about earlier, supported versions of Moodle LMS below. This documentation includes the videos related to each version.<br>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/402/en/Main_pagehttps://docs.moodle.org/402/en/New_features\" title=\"https://docs.moodle.org/402/en/Main_pagehttps://docs.moodle.org/402/en/New_features\">Moodle 4.2 documentation overview</a> and <a href=\"https://docs.moodle.org/402/en/New_features\">New Features 4.2 documentation.</a></li>\n"
+"    <li><a href=\"https://docs.moodle.org/401/en/Main_page\">Moodle 4.1 documentation overview</a> and&nbsp;<a href=\"https://docs.moodle.org/401/en/New_features\">New Features 4.1 documentation.</a></li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5814", "md5key":
+# "b861332bdddcaa0c107ff9a2465ebddf"}
+msgid ""
+"\n"
+"<p>All notable changes to this course will be documented in this page.</p>\n"
+"<hr>\n"
+"<p>Date: December 11 2023<br>\n"
+"    Changed by: Mary Cooch<br>\n"
+"    Changes:&nbsp;</p><p></p><ul><li>In the page Get a practice course, replaced the video with the 4.3 version.</li><li>In the Tutorial: Start exploring Moodle and the Tutorial: Start setting up&nbsp; your course, changed all the YouTube video links to 4.3 versions<span><span style=\"\"><em style=\"font-weight: bold;\"> except </em>Add and edit text.</span></span></li><li><span><span style=\"\">In the folder Videos for download, changed all the videos to 4.3 versions&nbsp;<strong><em>except</em></strong> Add and edit text.</span></span></li><li><span><span style=\"\">In the folder Transcripts for download, replaced the transcripts Course layout and Course editing with 4.3 versions.</span></span></li><li><span><span style=\"\">Changed the text relating to Role renaming in <a href=\"https://moodle.academy/mod/book/view.php?id=592&amp;chapterid=386\">Lay out your course</a>.</span></span></li><li><span><span style=\"\">Updated the side block to reflect that the course is now based on 4.3</span></span></li><li><span><span style=\"\">Updated the Moodle versions section in this book to reflect 4.3.</span></span></li></ul><p></p>\n"
+"\n"
+"<hr>\n"
+"<p>Date: September 8 2023<br>\n"
+"    Changed by: Mary Cooch<br>\n"
+"    Changes:&nbsp;</p>\n"
+"\n"
+"<ul>\n"
+"    <li>Changed <a href=\"https://moodle.academy/mod/book/view.php?id=556&amp;chapterid=929\">text editor question in Quick check.</a></li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<hr>\n"
+"<p>Date: June 09 2023<br>Changed by:&nbsp; Mary Cooch<br>Changes:</p>\n"
+"<p>\n"
+"</p>\n"
+"<ul>\n"
+"    <li>Removed reference to MoodleCloud sites not being on 4.2 in Get a practice course.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<hr>\n"
+"<p>Changes made May 24 2023 (Mary Cooch)</p>\n"
+"<ul>\n"
+"    <li>Changed <a href=\"https://moodle.academy/mod/book/view.php?id=553&amp;chapterid=1659\">Moodle versions page</a>&nbsp;to include 4.2 documentation overview and new features documentation.</li>\n"
+"    <li>Added note that MoodleCloud sites are not yet on 4.2 to the&nbsp;<a href=\"https://moodle.academy/mod/page/view.php?id=554\">Practice course page.</a></li>\n"
+"    <li>Tutorial: Start exploring Moodle&nbsp; - changed all the video links to 4.2 playlist and removed references to Atto in the <a href=\"https://moodle.academy/mod/book/view.php?id=556&amp;chapterid=308\">Add and edit text&nbsp;</a>section.</li>\n"
+"    <li>Tutorial: Start setting up your course - changed all the video links to the 4.2 playlist and added info about Bulk move to the <a href=\"https://moodle.academy/mod/book/view.php?id=592&amp;chapterid=385\">Move items section</a>.&nbsp;Added info about Bulk editing to the <a href=\"https://moodle.academy/mod/book/view.php?id=592&amp;chapterid=382\">Add and edit course content</a>&nbsp;section. Added reference to indent to the <a href=\"https://moodle.academy/mod/book/view.php?id=592&amp;chapterid=783\">The icons section.</a></li>\n"
+"    <li>Tasks: Start teaching with Moodle - removed reference to Atto.</li>\n"
+"    <li>Two questions in the <a href=\"https://moodle.academy/mod/quiz/view.php?id=559\">Check your understanding quiz</a> which mention Atto have been changed to remove reference to Atto.&nbsp;</li>\n"
+"    <li>Videos for download - replaced all but the Set up your practice course videos with 4.2 versions.&nbsp;</li>\n"
+"    <li>Transcripts for download - replaced some transcripts (note: fairly minor changes) with 4.2 versions.</li>\n"
+"    <li>Changed the side block to say this course is based on version 4.2</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<hr>\n"
+"<p>Changes made May 18 2023 (Mary Cooch)</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>Added a section <a href=\"https://moodle.academy/mod/book/view.php?id=592&amp;chapterid=385\">\"Indent teaching materials\"</a>&nbsp;to the Tutorial 'Start setting up your course'.</li>\n"
+"</ul>\n"
+"<hr>\n"
+"<p>Changes made December 2022</p>\n"
+"<ul>\n"
+"    <li>Added versions page and changed text block to say 4.1</li>\n"
+"    <li>Replaced references to Label with Text and media</li>\n"
+"    <li>For other changes see the worksheet MTBasics and the relevant course in this <a href=\"https://docs.google.com/spreadsheets/d/15Fb0yOrqXnaOoK6d8BdAmqRQKPPurUPfsq98WZEgHC4/edit?usp=sharing\">4.1 updates sheet</a></li>\n"
+"</ul>\n"
+"<hr>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5815", "md5key":
+# "731467b931ebf1969f01cda1e824424e"}
+msgid "Get a practice course"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5815", "md5key":
+# "7c2d6dc7e5191b200ff18b342ca66f17"}
+msgid ""
+"<p>To benefit most from this course, you should have an empty Moodle course in which you have the role of editing teacher. It is very useful also to have a sample student account which you can use to test your activities.</p>\n"
+"<p>Ideally, your organisation will provide you with a course with teacher access and offer you a test student account.</p>\n"
+"<p>If that is not possible you can use our <a href=\"https://sandbox.moodledemo.net\" target=\"_blank\">Moodle sandbox demo</a> with the teacher login (username = teacher/password= sandbox) but be aware that this site is reset every hour so you won't be able to save your work.</p>\n"
+"<hr>\n"
+"<p>Alternatively,&nbsp;<a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=576\">explore and sign up to MoodleCloud,</a>&nbsp;create a teacher login and a course and try out the activities there.&nbsp;</p>\n"
+"<p>The video below demonstrates how to get a MoodleCloud site. The transcript and MP4 file may be downloaded from the section Videos and transcripts for download.</p><p><a href=\"https://youtu.be/VzYQq4C2T7c\">Set up your practice course</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "24e0aa00655d1853ef9fa9cdf05174b1"}
+msgid "Tutorial: Start exploring Moodle"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "d8f4bcb9ef967f8a5a5690c29c0f32c4"}
+msgid ""
+"<p>In this tutorial we explore:</p>\n"
+"<ul>\n"
+"    <li>How to find your way around a Moodle site and course;</li>\n"
+"    <li>What the Dashboard and My courses tab do;</li>\n"
+"    <li>What a Moodle course is and how to navigate it.</li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "ced5b6bafcf72c8f15a69a5b18e9ced4"}
+msgid "My courses"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "ec5b800ee69897e3dea6bf6ee29a1d70"}
+msgid ""
+"<p>The <strong>My courses</strong> tab is where you can see courses you are enrolled in. You can view them all, or filter courses that are in progress, completed or yet to begin. You can favourite (or 'star') courses and hide (or 'archive' ) courses that you no longer want to display.</p><p>\n"
+" </p><p>You can search for your courses and display them as cards or as a list.</p><p>\n"
+"</p><p>The percentage you see is a mark of how much of that course you have completed. It might not show on all courses, if a course has no required items. </p><p><img src=\"https://moodle.academy/pluginfile.php/5817/mod_book/chapter/303/Mycourses34.png\" alt=\"\" width=\"700\" height=\"309\" role=\"presentation\" class=\"img-fluid atto_image_button_text-bottom\"><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "09ae06c4a9abc6ffa6f8442600aa4975"}
+msgid "Add and edit text"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "47bad54b1b7fbbe032206054da0acd05"}
+msgid ""
+"<ul>\n"
+"    <li>TinyMCE is Moodle's default editor for adding text, images and media. It has improved accessiblity, with a screenreader and accessibility checker.</li>\n"
+"    <li>You can drag and drop images directly into the text box and make links.</li>\n"
+"    <li>If you use H5P interactive content, you can display it in the editor.&nbsp;</li>\n"
+"    <li>Content you add to the editor is saved automatically at regular intervals, so you don't have to worry about losing it.</li>\n"
+"    <li>The media and recording icons offer many options when adding or recording audio and video.</li>\n"
+"    <li>If your admin allows, you can change your editor&nbsp; from the <strong>user menu</strong> top right, <strong>Preferences</strong> and then <strong>Editor Preferences</strong>.</li>\n"
+"\n"
+"</ul><p>&nbsp;The following video explains how to add and edit text with the&nbsp; editor.&nbsp; The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=34#section-4\">Videos and transcripts for download</a>.<br><br><a href=\"https://youtu.be/Q-D6nWSusrY\">https://youtu.be/Q-D6nWSusrY</a><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "9d56bb5b3a6a11d5e485011ed295af4d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Test your understanding with this"
+" quick check. The grades are not stored, so you can try as often as you "
+"like.<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed7|690974852cf2df4bed0cbadf8a8cee5ee43caf58b0dff1f4655b02703086670e}Q}<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "041dca81f7198ce185cab54a0dc84680"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Test your understanding with this"
+" quick check. The grades are not stored, so you can try as often as you "
+"like.<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed2|1cdbf5f820e952f039c94ae067cde3c1d24bf9a9b8b7297d77d37f856940da17}Q}{Q{embed/embed3|bd3c6697b7cdfd554ef34e9be40c7b5f379527c90f0ecd44e5d9e4f644f9921b}Q}<br></p><p"
+" dir=\"ltr\" style=\"text-align: left;\"><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "2938c7f7e560ed972f8a4f68e80ff834"}
+msgid "Dashboard"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "4ac433fc9b67d084ade598983c71d303"}
+msgid ""
+"<p>You can access your personal dashboard at any time by clicking the <strong>Dashboard</strong> tab at the top of your screen.</p><p>\n"
+"  </p><p>The timeline shows which activities you must complete, along with any deadlines. Click the button on the right (showing the task completion requirement) to access the task directly. You can filter and search the timeline. </p>\n"
+"<p>The Calendar shows events added by the teacher and site admin as well as any reminder you want to set for yourself. </p>\n"
+"<p>If you click the arrow top right ('Open block drawer') it will show the course item you most recently accessed, so you can return there if you want.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "9314fd308d33a78c8b04ef8f228e4b02"}
+msgid "Finding your way around"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "64da9ee1fb338b71c2aee6595b42e937"}
+msgid ""
+"<ul>\n"
+"    <li>How you navigate around a site depends on your administrator's settings and your version of Moodle.</li>\n"
+"    <li>With the latest version of Moodle, using the standard \"Boost\" theme you will see three links at the top when&nbsp; you first log in.</li>\n"
+"    <ul>\n"
+"        <li><span style=\"font-size: 1rem;\"><strong>Home</strong> takes you to the front page;</span></li>\n"
+"        <li><span style=\"font-size: 1rem;\"><strong>Dashboard</strong> shows you a timeline of tasks you have to complete, a calendar and items you have recently accessed;</span></li>\n"
+"        <li><strong>My courses</strong> shows you courses you are enrolled in. If you are not yet enrolled in any courses you won't see anything there.</li>\n"
+"    </ul>\n"
+"    <li>A user menu top right when logged in has quick links to useful areas of Moodle. You can edit your profile and preferences from there, view grades, change the language you see instructions in, and more.</li>\n"
+"    <li>You can access messages and notifications from the icons at the top and do a global search if enabled.</li>\n"
+"    <li>Once inside a course, you will notice a collapsible Course index on the left which displays course sections and the items within them.</li>\n"
+"</ul>\n"
+"<p>&nbsp;The following video explains how to find your way around a Moodle.&nbsp; The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=34#section-4\">Videos and transcripts for download</a>.<br></p><a href=\"https://youtu.be/3z5T5eYd2_w\">Finding your way around</a><br><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "b8144fb2edc632254b961115f0c03870"}
+msgid "What is a course?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5817", "md5key":
+# "6e94386a5b2d31b0e47645264cb31a03"}
+msgid ""
+"<ul>\n"
+"    <li>A 'course' can be a simple page with documents for one teacher and one class, or a complex page with many different activities shared by teachers and several classes.</li>\n"
+"    <li>It can be always available or have start and end dates, and learners can access it in a number of ways, such as enrolling themselves, being enrolled by their teacher, or by the Moodle administrator.</li>\n"
+"    <li>A course can display its materials in a number of ways or 'formats', for example in weekly sections or (named) topic sections. You can show all the sections at once or just reveal one at a time.</li>\n"
+"    <li>You can also add elements known as 'blocks' to the right of the course central area to display more useful information.&nbsp;</li>\n"
+"</ul><p>&nbsp;The following video explains what a course is.&nbsp; The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=34#section-4\">Videos and transcripts for download</a>.<br><br><a href=\"https://youtu.be/sePO9ZZfK0c\">What is a course?</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "00b615f9fd3f51916cb9b23c69309c90"}
+msgid "Tutorial: Start setting up your course"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "0e907ffb8e0d35ed40e68d9ab089d509"}
+msgid "The icons"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "b8fc59a26ffb9c0acfc2dff50dc3a9a0"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">With <strong>Edit mode "
+"on</strong>, you will see a <strong>pencil</strong> icon next to the names "
+"of each activity or resource. Click into the name to change it, and press "
+"<strong>Enter</strong> to save your changes.</p><p dir=\"ltr\" style=\"text-"
+"align: left;\">To the right of each section you will see <strong>three "
+"dots</strong>. Click there to edit the section description.</p><p "
+"dir=\"ltr\" style=\"text-align: left;\">To the right of each item (activity "
+"or resource) you will see <strong>three dots</strong>. From here you can "
+"delete, hide, duplicate (and if allowed by admin, indent) the item, along "
+"with accessing additional ways to move or edit it.</p><p dir=\"ltr\" "
+"style=\"text-align: left;\"><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "08e27a12a5fe2f221a9bbe7516f1ddf4"}
+msgid ""
+"<p>In this tutorial we explore:</p><ul>\n"
+"  <li>How to define the layout of your course;</li>\n"
+"    <li>How to customise your course sections;</li>\n"
+"    <li>How blocks work in Moodle and how to add them;</li>\n"
+"    <li>How to give learners access to your course.</li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "22439b396ba08402ea063686a7c9387d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Test your understanding with this"
+" quick check. The grades are not stored, so you can try as often as you "
+"like.<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed4|ceb98afaa1a09abbe78b4c34b49cfd7ea779eb68473d41f7545250e2e0eecea4}Q}<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "61cffcfc060fac521a3f0a8f8d663f02"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Test your understanding with this"
+" quick check. The grades are not stored, so you can try as often as you "
+"like.<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed6|703bcfd43a202e6ca1eac81d46b1346c711b8c26feb499c28be63e7dcee44afe}Q}<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "722fd887a15663b342a024365b5f14d3"}
+msgid "Move items and sections"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "348f96057ae9b476ee9803a6d0084868"}
+msgid ""
+"<p>With <strong>Edit mode on</strong>, you can add, modify and move teaching materials and course sections.</p>\n"
+"<h5>Indent teaching materials</h5>\n"
+"If your admin has enabled the feature, you can move items once to the right by clicking the three dots next to an item and then clicking 'Move right'.\n"
+"<br><br>\n"
+"<h5>Move teaching materials</h5>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>Click onto an item and drag it to the position you want it to go to, either from the course main page (central area) or from the Course index.</li>\n"
+"    <li>You can also click on an item in the course main page and drag it to a location in the Course index, if you find that easier. (This is useful when your course has lots of activities or sections).</li>\n"
+"    <li>You can also click the three dots next to an item, click <strong>Move</strong> and then decide where to relocate the item.</li>\n"
+"</ul>\n"
+"<h5>Move course sections</h5>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>Collapse the section, either on the course main page or in the course index.</li>\n"
+"    <li><span style=\"font-size: 1rem;\">Click onto a section and drag it to the position you want it to go to, either from the course main page (central area) or from the course index.</span><br></li>\n"
+"    <li><span style=\"font-size: 1rem;\">You can also click on a section in the course main page and drag it to a location in the course index, if you find that easier. (This is useful when your course has lots of activities or sections).</span><br></li>\n"
+"    <li><span style=\"font-size: 1rem;\">You can also click the three dots next to a section, click <strong>Move</strong> and then decide where to relocate it.</span></li>\n"
+"</ul>\n"
+"\n"
+"<h5>Bulk move items</h5>\n"
+"With edit mode enabled, click the link Bulk actions. Checkboxes appear to the left of each item and section. Select the ones you want to bulk move, and from the footer, click Move. A pop up will appear for you to click into where you want to move them.\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "d2d04deb8a8a7102eb3b358278fe3785"}
+msgid "Lay out your course"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "deb19cea4577f7b3db029f7a3f37a29e"}
+msgid ""
+"<p>As a teacher you can make changes to your course if allowed by your admin. From the <strong>Course navigation</strong>, click '<strong>Settings</strong>'. You can, for example...</p>\n"
+"<ul>\n"
+"    <li>Change your course name and the coloured course image.</li>\n"
+"    <li>Set start and end dates. These dates affect whether the course shows in the Future or Past sections of the Dashboard course overview.</li>\n"
+"    <li>Set your course up in weekly sections or numbered topics (which you can rename).</li>\n"
+"    <li>Decide whether you want the completion requirements of activities to display on the course page or only when clicking the activity.</li>\n"
+"    <li>Decide whether you want to show due dates for activities.</li>\n"
+"</ul>\n"
+"\n"
+"<p>If your course involves mainly discussion you can use the Social format. If you use SCORM packages for your course instead of Moodle activities you can select the Single activity course format.</p>\n"
+"\n"
+"<p>If you prefer to call your students by a different name (such as 'learner') or you would rather be a 'facilitator' instead of a teacher then you can do this from <strong>Course navigation &gt; Participants </strong>&gt; (click the dropdown) <strong>Role renaming.</strong></p>\n"
+"<p>You can always go back and change any settings if needed.</p><p>&nbsp;The following video explains how to lay out your course.&nbsp; The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=34#section-4\">Videos and transcripts for download</a>.<br><br><a href=\"https://youtu.be/b5AvFNRFLUc\">Course layout</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "9dda8d12683d36de4dff5d7e61ffd1af"}
+msgid "Add and edit course content"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "5f18c13836baffa0213fdab504154c7f"}
+msgid ""
+"<p>With Edit mode on, you can add and edit your course content. Here we look at how you can add an individual item, an activity or resource.</p>\n"
+"<h5>Add an item</h5>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>At the bottom of the section where you want to add your materials, click <strong>Add an activity or resource</strong> and then click the item you want to add. (You can always move it to a different location later.)</li>\n"
+"    <li>Complete the settings form you are presented with and save it. (Explore our courses Moodle Course Content and Moodle Course Activities for more detailed instructions.)</li>\n"
+"</ul>\n"
+"<h5>Modify an item</h5>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>Click onto the item.</li>\n"
+"    <li>Click '<strong>Settings</strong>' from the activity navigation and make your changes.</li>\n"
+"    <li>If you want,&nbsp; you can alert learners to the modifications by ticking '<strong>S</strong><strong>end content change notification</strong>' before you click to save.</li>\n"
+"    <li><strong>Save</strong>.</li>\n"
+"</ul>\n"
+"<h5>Make changes in bulk</h5>\n"
+"With edit mode enabled, click the link Bulk actions. Checkboxes appear to the left of each item and section. Select the ones you want to bulk modify and then from the footer, choose either to change their availability/visibility, duplicate, move or delete (or add to MoodleNet if enabled.)<p>The following video explains how to edit your course.&nbsp;&nbsp;The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=34#section-4\">Videos and transcripts for download</a>.</p>\n"
+"<p><a href=\"https://youtu.be/IPXi0WoV4Gc\">Course editing</a></p>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "93cca24e346336931d59c6de3c6cda15"}
+msgid ""
+"<ul>\n"
+"    <li>Blocks provide extra information on the side of your course.</li>\n"
+"    <li>You can add blocks by enabling <strong>Edit mode</strong> top right, opening the <strong>Block drawer</strong> and then clicking to <strong>Add a block</strong>.</li>\n"
+"    <li>Think carefully before you add blocks to ensure they are useful.</li>\n"
+"    <li>Teachers can add and remove blocks with the editing turned on. Admins can make some blocks \"sticky\" so they display throughout the site. These cannot be removed by teachers.</li>\n"
+"    <li>Some blocks, such as Text blocks may be added more than once in a course.</li>\n"
+"</ul><p>&nbsp;The following video explains what blocks are.&nbsp; The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=34#section-4\">Videos and transcripts for download</a>.<br><br><a href=\"https://youtu.be/1lvA5SFsh70\">What are blocks?</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "7ef25f7b93adc8bf024ed532d722f697"}
+msgid "Text block"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "2a1937a43da3bd7ea3c7f12bff848b02"}
+msgid ""
+"<ul>\n"
+"    <li>The Text block provides you with the text editor so you can add text, links, images, media and even (with care) embedded code to the block to create truly customised blocks.</li>\n"
+"    <li>You can add more than one Text block to your course page.</li>\n"
+"</ul><p>&nbsp;The following video explains how to use the Text block.&nbsp; The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=34#section-4\">Videos and transcripts for download</a>.<br><br><a href=\"https://youtu.be/RVO7GvgDF70\">Text block</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "44f6ecf58d7527ebedbd2c4f18264e29"}
+msgid "Give learners course access"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5874", "md5key":
+# "ff13d9deaeea35d5d39847d2bb27b4ed"}
+msgid ""
+"<p><strong>Note:</strong> Giving learners course access is an important aspect of course set up but we advise you to complete the courses Add content to your Moodle course and Add activities to your Moodle course before enrolling learners. An empty course is not very motivating ;)</p>\n"
+"<ul>\n"
+"    <li>How learners access your course depends on the policies of your institution and Moodle administrator.</li>\n"
+"    <li>As a teacher you might be able to give learners access yourself, or this might be done by the admin.</li>\n"
+"    <li>Click the <strong>Participants</strong> link from the Course navigation to see who is already in your course and then click <strong>Enrol users</strong> to see who is already in your course and to manually enrol others (if allowed).</li>\n"
+"    <li>Click the <strong>Participants</strong> link and then <strong>Enrolment methods</strong> to explore other ways of giving learners access, for example Self-enrolment.</li>\n"
+"    <li>A course teacher cannot normally add other teachers. You will have to ask the admin to do this for you.</li>\n"
+"</ul>\n"
+"<p>&nbsp;The following video explains how to give learners course access.&nbsp; The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=34#section-4\">Videos and transcripts for download</a>.<br><br><a href=\"https://youtu.be/5rzQP2jMNYI\">Give learners course access</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5818", "md5key":
+# "e8d9c926d171d9532856282ce48d426a"}
+msgid "Tasks: Start teaching with Moodle"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5818", "md5key":
+# "498e75f419e8362bf62f98d58f42a492"}
+msgid ""
+"<p>Try these tasks to practise what you have learned in the tutorial:</p>\n"
+"\n"
+"<ol>\n"
+"    <li>Log in to our demonstration site <a href=\"http://school.moodledemo.net\">Mount Orange School</a> (username teacher, password moodle) , click the My courses tab and explore any courses that interest you.</li>\n"
+"    <li>From the Mount Orange School site (as above) go to the Digital Literacy course, access the Participants link in the Navigation drawer to explore enrolments and filtering.</li><li>Enable Edit mode and try dragging and dropping sections and activities from both the course index and the cours main page (central area).</li>\n"
+"    <li>In your own practice course, rename the sections with titles meaningful to you.</li>\n"
+"    <li>Edit the course (topic) sections and use the editor to add a short sentence explaining each section, as in this course.</li>\n"
+"    <li>Explore adding blocks, for example adding a Text block with a small image.</li>\n"
+"</ol>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5819", "md5key":
+# "ebd40a95f176109bee904512e5fb70ba"}
+msgid "Checklist: Start Teaching with Moodle"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "316149", "md5key":
+# "08ae429734fe822d8613ed84d8de1cc0"}
+msgid ""
+"<div class=\"no-overflow\"><h4><i class=\"fa fa-graduation-cap\" aria-hidden=\"true\" style=\"font-size: 1rem;\"></i>&nbsp;Related courses</h4>\n"
+"<p>This course is part of the <strong>'Moodle Teaching Basics'</strong> program. Visit the program course to enrol in other courses in this program:</p>\n"
+"<ul>\n"
+"    <li><a href=\"https://moodle.academy/course/view.php?id=57\">Moodle Teaching Basics program and certificate</a>.</li>\n"
+"</ul>\n"
+"</div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5821", "md5key":
+# "a1c0b09d117ee5bb5e22bf7b9805309b"}
+msgid ""
+"<div class=\"no-overflow\"><p dir=\"ltr\" style=\"text-align: left;\">Please"
+" answer these short questions. They should take only a few minutes to "
+"complete.</p></div>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "18785", "md5key":
+# "aadb0f0f86c8df23baa4330d3b3d7249"}
+msgid ""
+"<p style=\"text-align: center;\">\n"
+"<a href=\"https://moodle.academy/mod/book/view.php?id=5&amp;chapterid=624\">\n"
+"<img src=\"https://moodle.academy/pluginfile.php/18785/block_html/content/ccby.png\" alt=\"Creative Commons Licence\" width=\"120\" height=\"42\" style=\"border-width:0\" class=\"img-fluid atto_image_button_text-bottom\"></a></p>\n"
+"<p style=\"text-align: center;\"><a href=\"https://moodle.academy/mod/book/view.php?id=553&amp;chapterid=827\">Licensed under CC BY 4.0</a>.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6902", "md5key":
+# "00b4a3a673139eda218795a671fcce84"}
+msgid ""
+"This course launched in April 2022 and is now based on <a "
+"href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3</a> "
+"functionality."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "9084a601a3cc7475c9b80092da1bd804"}
+msgid ""
+"You've been given a course with teacher permissions to practise in. "
+"Unfortunately you realise you typed the name of your course wrong. How can "
+"you correct it?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "0cadfa8f011ab51b834a8331984141b9"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "240fa1d5730d61108867b5b10fcd2c8f"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "da0863bac8e950187a39344ad1d5edb0"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "2cd9e2bcd86cfd24ae9351b3b1c226ff"}
+msgid "<p>As admin, delete the course and create a new one.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "110c94170e3637d6797a994bf57ceea8"}
+msgid "<p>You are not an admin and you don't need to do this!</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "6509ea8ecdfeb60271e18171551f46fe"}
+msgid ""
+"<p>Enable Edit mode and click the pencil icon next to General on the course "
+"page.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "bc3ca30d1c17cf318a5035a3495ea574"}
+msgid "<p>This will not change your course name.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "dc5cdce97af08706f0a6153cba9d7e20"}
+msgid ""
+"<p>Click 'Settings' in the Course navigation and change the name from "
+"there.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "84487a1525fb8da56c9f0f273fd3a69e"}
+msgid "<p>That's the way to do it!</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "2df0c07a843c07f953f4513c43e9be5c"}
+msgid "<p>Enable Edit mode</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "0c56d36c5284914e96ad2365dc750171"}
+msgid "<p>You don't need to enable edit mode to change the course name.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "7f05b54b3edb871044472d9d8533035f"}
+msgid ""
+"<p>This screenshot shows a student's My courses page. How did the course "
+"images get there?</p><p><img src=\"@@PLUGINFILE@@/StudentMycourses.png\" "
+"alt=\"My course tab showing course images\" width=\"700\" height=\"266\" "
+"class=\"img-fluid atto_image_button_text-bottom\"><br></p><p><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "564d0620a6e68dea6bb26f7013672fa2"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "c3ddcd75f09561670def7ede2ce3711e"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "d2eecad1ccfa6258cc4a36635764943f"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "81161ce25ac1b2696b0fdc6ea3e94221"}
+msgid "<p>They are part of the standard Boost theme.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "be74cdb2cb68d8dfa6d122cfcc09ece2"}
+msgid "<p>No - these images do not depend on the Boost theme.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "d4feb9f09cd0a539aaa28136aa93ceb3"}
+msgid ""
+"<p>The administrator adds them from Site administration &gt; Courses &gt; "
+"Course default settings.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "6496d632b95daa3fbb64aef57d5de079"}
+msgid "<p>Go and check!</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "d1b0ed80706f9984616ca6212929e3cb"}
+msgid "They are added from the course settings within each course."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "2cdb9fa1dfd9b48974bb84b85331c0f6"}
+msgid ""
+"<p>Yes. Anyone who can edit the course settings such as admins or teachers "
+"can add them.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "eb67041e2a590158a4349abd2d4674b1"}
+msgid "<p>They are part of a course template.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "c7975a7402afc423299117bd0c087d34"}
+msgid "<p>No. No template is needed to add the various images.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "6c1659a4ac161ab9d4e832587074f073"}
+msgid ""
+"<p>A course may be set up in a variety of formats. You are teaching an "
+"English language course with four sections, not dependent on weeks in a "
+"term. The sections are Reading, Speaking, Listening and Writing. Which "
+"course format would be best?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "f4e8d5d9226385f84da72db855771cf4"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "3a9618531fa66684ad45a63afcfa110c"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "b14cb7af88c8e069b38b30d237e15afd"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "f77d22f74654f6552c62f1acdfc11fe9"}
+msgid "<p>Topics format</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "6f422f256f35dbaa0a98676df1acc638"}
+msgid "<p>This would be the most appropriate, yes.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "0ac9ba9cd7a3848214863aaa7bf106b4"}
+msgid "<p>Weekly format</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "c81e48f53f4d5ddeedbb3dc798f9e83a"}
+msgid "<p>You don't need the course divided into weeks.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "d58c2bbb27c9706e2454d1c72f68756d"}
+msgid "<p>Social format</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "2f4e4d62ba9c81844d49e94eb24a3947"}
+msgid "<p>This is more for discussions only.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "d10277192aab5107b5761fb06ae7afc4"}
+msgid "<p>Single activity format</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "aff5dfb35d7567dc3214a30ebda37526"}
+msgid "<p>This would only allow you to create one activity in her course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "cea018cdf14bc74e01424b6761faa9a3"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You don't want your learners to "
+"be able to sign up to your course themselves. You want to specify who can "
+"and cannot have access to the course. How do you do that?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "3b51e109444b2bcf48d11ac9478a3abb"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Review the section 'Give learners"
+" access to your course' in the Tutorial: Start setting up your course for "
+"more informatoin.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "490a6760b579a1607648a3179e92d4d5"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "e995d8cd34d1ddbdf12d6b3eca705ca2"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "4949f36960ae680955ec39ca0760f091"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "2d8a417de43b918b64bba05904274afc"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Use manual enrolment.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "15ab19d1d97498988bfe1ff4ad862cb9"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">That is the way.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "7e0146254181a82c1f5b3ca8b6c3ac9f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Delete the enrolment method "
+"'Self-enrolment' from your course settings.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "ade9cb4d34505a6ca2a9c68c54b74914"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That would not really help. You "
+"still need to specify who can enter your course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "0ee2cc8fe1c0aaa1446d83f3211af69b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Give the admin a list of students"
+" you want added to the course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "62bbcda1bb5f8358e40e045d8a6c7006"}
+msgid "Do you really need the admin's help?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "2c19c7cbd38d5963ca534bc9387be588"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Use the 'Cohort sync' method.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "d63c1518184cf6ff99575addef041935"}
+msgid ""
+"Do you have a cohort? As a teacher, you can't create a cohort. Perhaps there"
+" is a simpler way."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "498482e7c2fd3eeb2d3998889b2c5538"}
+msgid ""
+"You are a teacher in your course, with the standard Boost theme. How can you"
+" enrol a student?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "bbc3cc9d5f751bf0fc477803bc180667"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "5923f257738387c28f8cc8c64f0d60f9"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "05e013690a71819033ce1ea5a23b801b"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "63523b60a9c0513aa35f6e24f2587992"}
+msgid ""
+"Click the Participants link from the course navigation and then click Enrol "
+"users."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "ff56c7b4a4ba2b04280289b32302f769"}
+msgid ""
+"<p>Yes! If you are using the Classic theme it is slightly different. Perhaps"
+" you could go and try?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "bfca006bddd3e946eb06445cb354d9d1"}
+msgid ""
+"<p>With a CSV file with the required fields 'username, password, firstname, "
+"lastname, email'.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "ba3cafebb4667303781bd4d34a7b686f"}
+msgid ""
+"<p>No. Only admins can do this and you have the editing teacher role.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "06e9237a1350b44792e38882ee80e047"}
+msgid "<p>Enable edit mode, click 'Add an activity' and then 'Users'.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "ada1c8c95a4ac30816c6df38ad4d1589"}
+msgid "<p>No. Such a setting does not exist.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "2a479302b47009498d9a527b104d5202"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You are exploring the <a href=\"http://school.moodledemo.net\">Mount Orange School</a> site and you notice that some courses, such as Psychology in Cinema and Russia in Revolution have blocks on the side giving licensing details for the course. You'd like\n"
+"    to add such a block to your course. What type of block is this?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "450ca3de333003294e7ad053d6b6d6f8"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "2b244d117ac2f696b8fb7805fd5f664f"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "4ebad206800377e219f7ddcbe78fe1b0"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "14565f092bdbe6de5839ad9d65ada235"}
+msgid "<p>A Creative Commons licensing block</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "058531211aaff887c29117350e3e10d2"}
+msgid "<p>That is not a standard block.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "75c8544dc41421d7ae8dc73ed052b944"}
+msgid "<p>A Text block</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "a1d6d395b90ee580d0f7bce7ef08c8f7"}
+msgid ""
+"<p>That's right. This is a customisable block allowing you to add images, "
+"text and certain types of code.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "968ce589d7a62b01ad1f607a4cc0e91b"}
+msgid "<p>An RSS block</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "c71b5e1f12046d074a87eca99556f7f1"}
+msgid "<p>No. Make sure you explore what an RSS block is.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "cc157d85bea11f9ab0b436362df8343f"}
+msgid "<p>A non-standard block not available on your site</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "15e62b89e728dd9ac67253c644f815d4"}
+msgid ""
+"<p>Not true! Log in to the School demo site with username teacher, password "
+"moodle, turn on the editing and discover what the block is.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "978b9012894cea6caf98af6e3349ae3a"}
+msgid ""
+"Student Anna sees '50% complete' in a course on her My courses tab. What "
+"does this mean?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "9a0c327fbb3060ce12b7d4b9dd68f3c5"}
+msgid "Review the Book Start exploring Moodle for more information."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "90297597be9bc64d650b832d6ebc3739"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "7abc191041aab78af7f3cb702dea2820"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "d6249a4b65e0cdc559153e65f232c509"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "f5bd7894e71ddc4ca9b3c8437cac23cb"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It is the percentage of required "
+"activities that she has completed in that course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "7140f03a2691794db35c50020dadfcf4"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It is the percentage of the "
+"course which she still has left to complete before she has finished.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "bf4bf331e79e72a01eaebfec9b41998d"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Check again!</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "7cc8d62610c51d07c530c83240acf540"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It is the percentage of "
+"time&nbsp; she has spent in that course as opposed to the time she has spent"
+" in other courses.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "8e8aa56054aeebf36ce90608ee0477f5"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Think again!</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "f5471b183345858d6684255c66e5a306"}
+msgid ""
+"This course is still being prepared by her teacher and it is the percentage "
+"of the course that her teacher has completed for the students."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "a4be35b1e261a609ecf0cd7c5129492b"}
+msgid ""
+"Think again and do please review the Tutorial: Start exploring&nbsp; Moodle."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "9d25c3168c1aa55b6a0ee1585c59d5f2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which of the following statements"
+" is/are true? Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "6137a271e08b1146db287102b9f49592"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "138db705ed31cfa14c4e1da1509030a9"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "3bd36d07785e72618e99181d412c1f0d"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "97656708afc59ab6b920545842e0b96e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">TinyMCE is Moodle's default "
+"editor for adding text.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "fbe4e629a558642f74dd4ea98368beec"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's right. There are others if"
+" enabled by your administrator.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "28c99a1cc99d338cb867a12bb02fec4f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Blocks add extra information to "
+"the side of a course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "67484eff2df059f78217b32158acb904"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Yes. Have you explored blocks?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "44e8c87979002eef251d3400dda2bf6c"}
+msgid "Courses must contain more than one item."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "1dbcc6238865d26dfcbee5036a0c2a6b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not true. Look again at the "
+"course formats. What do you see?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "f3c5b031a4f5c2575dc18607635d49cf"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Extra topic sections must be "
+"added from a link at the bottom of the course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "12d9af575f71c3eeef093de38eefef41"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Are you sure? Review the "
+"information and see if you can add them in other places.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "d1bce4d7111b6fa91b40592149dfe5d7"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which of these are available in "
+"Moodle's standard TinyMCE editor? Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "69849fb1a2137ca995f07ef743ced204"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "7664f45bc47df19b1b960c1383baa849"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "5a1f0d6bb62faa329e77d0f9dbf55893"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "a24f262bd0f51ee9ebe6f5fc2f60f81c"}
+msgid "<p>Record short audio or video clips.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "78e5bccb7fe8a61edc0d6dfdb499922e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes! You may record 2 min video "
+"or audio clips directly into the editor.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "ca1fae682bb54341d0b8ef98714fda23"}
+msgid "<p>Check your text for accessibility.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "cb86026c612e8990716fb145a8fd731a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes! And it is a good practice to"
+" adopt.&nbsp;<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "82d837bd48a0aa01536663a74e87b57c"}
+msgid "<p>Drag and drop images into the text editor.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "e5b1e9474286f5f8be294f8755810107"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes! This is also possible "
+"now.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "b90ad0efd4f061bcfb761b55e0c30bcf"}
+msgid "<p>Use a wide variety of different colours.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "023ae3dddaef9b06f3b9bfe0f6818574"}
+msgid ""
+"<p>The standard editor doesn't allow you to choose different&nbsp; colours. "
+"Some users have problems with different colours.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "b2cc27aa9ae0cbdda2d80ff812605797"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which of these methods can you "
+"use to move sections on your Moodle 4 course when edit mode is enabled? "
+"Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "f054fcb6aad4accd4e1c14a1a59dcce3"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Review the Book Start setting up "
+"your course for more information.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "68074f9769093d3a50dcbf858181c93e"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "fa1636d45d8db6aea1a16fe468d82318"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "9b9a486ef07c121ae5e867b38e591f24"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "dce5c5419c8430ba3333a0cffe4b92a2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Collapse the section, click on it"
+" and drag and drop to the area you want it on the main course page.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "347c986ded28e8130196f6e35f53a399"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">That's one way, yes.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "3b2b3e360a5fda57f14679998992fffc"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">From the main course page "
+"collapse the section, click on it and drag and drop it into the course index"
+" in the location you want it.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "8fd98e2730359d6dc25e88dddf750435"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">That's one way, yes.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "d0a1fbf159750015b2f87d2af5db74db"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Click the three dots next to the "
+"section, click Move and select the location you want to move it to.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "3ecd1dfe2fe6ea2a8d14a1433abfc318"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">That's one way, yes.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "258a20aa250f18d01f76b4e2d9c60163"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Click the up or down arrow next "
+"to the section and move it up or down to the location you want.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "b81ae29ec05deb21e86f608ad9086173"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Check again. Do you see up and "
+"down arrows on a Moodle 4 site?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "0e99df030dbdf6b4ae7dffbd0df7c365"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">John has been given editing "
+"teacher access to his course so he can prepare materials for his learners. "
+"When the course is ready he emails his class to tell them to begin.</p><p "
+"dir=\"ltr\" style=\"text-align: left;\">However, they all reply saying they "
+"cannot join the course. What is the most likely reason?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "dc899dfbcb161508975dd405776f3b70"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"review the section 'Give learners course access' in the Tutorial: Start "
+"setting up your course for more information.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "61226b8e9178fe8bd75d87769f8171e3"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "b26079500229a746156a8aea9ad73a1e"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "56e5322b94482f60a6240c498c01f0d5"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "4db1734bd48c1ca68e78fd348214a333"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">He has not set a course end "
+"date.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "7cb332c234da80725def82b5a3612c87"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">That is not relevant.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "e74aa897aff0fc8b4a267035db03c537"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">He has not enabled self-"
+"enrolment.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "f875a092ada20289a7d3137c9c1f7947"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">That is the most likely reason.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "9421fd439b533e5d6f5040fff3f24c1f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">He does not have the permissions "
+"to allow students into his course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "48a5c7d5ace9af9971366eebde4cf8a4"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That is unlikely. There is a more"
+" likely reason.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "90bc390df30f6b65a1dbaaba1bb3f432"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The administrator must enrol them"
+" for John.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "cb54620481c3e8124aa0755670c90445"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Let us assume John, as an editing"
+" teacher, can give learners access himself.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "126ec02ff7eb433d9e993d0f17eb9db5"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which of these statements are "
+"true? Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "b90eba8cb398073370de1c8e83be2e9a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Do check the links in your site "
+"too!</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "c2b628a5dee9fc906cdabf98e1d2a29a"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "a84a6f65df275ba1a60b2a0ac932b76f"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "1ab049cf356f541ce18f09edc38f705f"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "e1d55af6ac1f1d1afad4af40c9d4b365"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">&nbsp;From the<strong>&nbsp;User "
+"menu</strong>&nbsp;you can edit your profile.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "fecb108ddf1744e3578790422accdc18"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">From the <strong>Dashboard "
+"</strong>you can see a timeline of important deadlines.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "319f6f886aaee200f06c6c941969b356"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">From <span>the</span><strong> "
+"Dashboard</strong>&nbsp;you can see recently accessed items.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "dc29dcfaa302fdd72e5bd55d31ba4911"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">From <strong>Home</strong> you "
+"can go to the front page of your Moodle site.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "b54fa17e6aabdc7622a196c6bcc6fed6"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Why would you check the box 'Send"
+" content change notification' at the bottom of an activity or resource "
+"settings page? Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "98e6119114edaf16efe9235a4f465a4c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"review the section 'Add and edit course content' from the Tutorial: Start "
+"setting up your course for more information - and why not test this in your "
+"own practice course?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "7205c80799cc0a4f50a86e08de144e8f"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "f099aae8c31d258de6d3be61b38ea405"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "6fc6684ebdd80eaf2039daf6b14d11d0"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "3c55f576bc4574c5d6a1c89088283c53"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">To alert learners when you add a "
+"new activity or resource.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "fb32b1cc2f463ac8d1998cd946f260e3"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">To alert learners when you make a"
+" change to an activity or resource.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "4a508fc57ab94769a99bf4a9a6bd76ca"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">To alert learners when an "
+"assignment is due.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "f16911e17f887e7d12a7134447a1a116"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not really - there are other "
+"automatic ways to do that.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "e44d43e2c0cb7d5e73780958fa35fc13"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">To alert learners when the course"
+" will close.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "3deb12a94362a3583fce628c876589c5"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Think again - and look at the "
+"tutorial.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "20204c4f0aa4a589c7d79920ffe714e6"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">TinyMCE is Moodle's default text "
+"editor and is optimised for accessiblity, with icons for accesiblity "
+"checking and useful support for keyboard navigation. However, some people "
+"prefer to use other editors or plain text for example. How could you change "
+"your editor?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "0986b7f22518e4e1be431cfb193c9f3a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"review the section 'Adding and editing text' in the Tutorial: Start "
+"exploring Moodle for more information.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "0ee778ac317c712d7ece7dcb04ba2523"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "030f015b2cb7aa5436391be59d489b7b"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "eb92a033c12f50b350050c7a75470ec2"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "94e54e7330e80a06ffed24d80aa87f77"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ask your admin to change your "
+"editor for you.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "889d24791ff33e680077445d3b6806ae"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">No need to -&nbsp; you can do "
+"this yourself.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "a1770760fc43decb611dd617b32b1c78"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">From the User menu &gt; Profile</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "30d486cb71c990beb23338fb934bbd46"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Are you sure? Go and check your "
+"profile. Can you see other editors there?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "a054533282ba5194f22d9570e5534c94"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">From the User menu &gt; "
+"Preferences &gt; Editor preferences.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "5896e31185f0b50186a2123be90c7910"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Well remembered!</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "8fc131607cf595b518f8f0fbb61e1114"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">From the TinyMCE editor, click to"
+" expand the toolbar and then click the \"Other editors\" button.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "3a130a5caee52f6c2ab3b79d4a833a6b"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">There is no such button.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "f775f070bd31f352a2f237ac2d2bb31d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which of these statements "
+"describes a course in Moodle? Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "d344478af0be5c99aaa3c7d64ef9df8b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"review the section 'What is a course?' in the Tutorial: Start exploring "
+"Moodle for more information.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "4f7ea46c406473348110271a7fd8fe7e"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "ba6421e39e4063ce7bbe7724dc6eccb5"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "bcaf504b66f20d4ac95072f219c0b55b"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "3f4efe8ccb310b7905d7ddb93979bb78"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">A course is a place on Moodle "
+"where teachers teach and learners learn.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "02290858e5f37d74582bdd1a69c5cce1"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">That is a good description.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "9c8c39976b27a9769a9c8d016b566094"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">A course must always&nbsp; have a"
+" specific start and end date.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "6ea90436739b64c0ec56865eb942845f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Are you sure about that? Read the"
+" information again.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "9972c3aa5390f94ce30249b52effe336"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">A course can be in weekly or "
+"topic sections.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "f5687cbfec36a4d11b7c3a02485647cd"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes, and other course formats are"
+" available as well.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "42bd93dcc5d0cfc2f5a37374ca94c10c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Learners must be enrolled by the "
+"teacher or admin into the course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5809", "md5key":
+# "c1491cde773a398fef385035e7a7cf36"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Are you sure? What about if they "
+"want to join the course themselves?</p>"
+msgstr ""
