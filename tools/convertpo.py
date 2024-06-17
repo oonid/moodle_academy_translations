@@ -19,6 +19,10 @@ args = parser.parse_args()
 print(f'src: {args.src}')
 print(f'dst: {args.dst}')
 
+if args.src == args.dst:
+    print(f'src must not equal to dst.')
+    exit()
+
 target_src = Path(args.src)
 target_dst = Path(args.dst)
 
