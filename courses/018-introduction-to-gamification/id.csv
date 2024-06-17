@@ -1,0 +1,395 @@
+md5key,rawtext,substitutetext,targetlanguage,contextid
+cf581b5e96cfaaa52d86c01965aa043e,"<p dir=""ltr"" style=""text-align: left;"">An introduction to the theory, set up and practice of gamification in Moodle.</p><p dir=""ltr"">This course relates to the following competence(s):</p><p dir=""ltr"">3.1 Teaching</p><p dir=""ltr""><span style=""font-size: 1rem;"">3.3 Collaborative learning</span><br></p><p dir=""ltr""><span style=""font-size: 1rem;"">3.4 Self-regulated learning</span><br></p><p dir=""ltr""><span style=""font-size: 1rem;"">5.3 Actively engaging learners</span><br></p>",,id,2981
+22fc9e9c6bdc77f83a7bdbaf52851111,"This intermediate level course covers how to create a gamified course in Moodle.",,id,2981
+3186bd28f19c7fd8bd7b57cfbae15ca0,"Live sessions",,id,2981
+7177c8436621e0024d6e1bf5f5db1fd0,"What is gamification?",,id,2981
+e3c1e749e631e134a565531fd4c3e5a0,"How to gamify your Moodle course? A gamified topic",,id,2981
+80ffa4ac651d27c013627583a9515c8d,"Gamification case studies",,id,2981
+07ce09edf9d9f4790b503a5c66aea8ec,"<div class=""no-overflow"">Before you begin, review the Course overview, Learning outcomes,  Course structure and Completion and assessment information.</div>",,id,2986
+723beccd0a3ae22dceb98e6832fad4ae,"<h4 style=""text-align: left;"">Aim</h4>
+<p>In this course you will learn:</p>
+<ul><li>The theory behind gamification.</li>
+  <li>How to create a gamified course in Moodle.</li>
+  <li>How gamification is used in organisations to, for example, enhance continuous professional development.</li></ul>
+<h4 style=""text-align: left;"">Estimated time</h4>
+<p dir=""ltr"" style=""text-align: left;"">The estimated time to complete this course is two hours.</p>",,id,2986
+c0beef70cee995a03cc60d5bafba9897,"The activities and screenshots in this course are based on the standard Boost theme and the latest version of Moodle LMS, currently 4.3.&nbsp;See <a href=""https://docs.moodle.org/403/en/Main_page"">Moodle 4.3 documentation overview</a> and&nbsp;<a href=""https://docs.moodle.org/403/New_features"">New Features 4.3 documentation.</a><br>&nbsp;If your Moodle site looks different, ask your Moodle support staff about the theme and version being used.
+<br><br>&nbsp;You can access documentation about earlier, supported versions of Moodle LMS below. This documentation includes the videos related to each version.<br>
+<ul>
+    <li><a href=""https://docs.moodle.org/402/en/Main_pagehttps://docs.moodle.org/402/en/New_features"" title=""https://docs.moodle.org/402/en/Main_pagehttps://docs.moodle.org/402/en/New_features"">Moodle 4.2 documentation overview</a> and <a href=""https://docs.moodle.org/402/en/New_features"">New Features 4.2 documentation.</a></li>
+    <li><a href=""https://docs.moodle.org/401/en/Main_page"">Moodle 4.1 documentation overview</a> and&nbsp;<a href=""https://docs.moodle.org/401/en/New_features"">New Features 4.1 documentation.</a></li>
+</ul>",,id,2986
+7295351f188f13c5e1bd5e9de5d33901,"<h4 style=""text-align: left;""><span style=""color: rgb(73, 80, 87); font-size: 1rem;"">By the end of this course, participants will be able to:</span><br></h4><p dir=""ltr""></p><ul><li>Explain the basic history and theory behind gamification.</li><li>Identify standard and contributed gamification features in Moodle.</li><li>Set up a gamified Moodle course.</li><li>Put into practice tips from other organisations using gamification in Moodle.</li></ul><p></p>",,id,2986
+d674728606a82d660c65582d163fd33f,"<p><a rel=""license"" href=""http://creativecommons.org/licenses/by/4.0/""><img src=""https://moodle.academy/pluginfile.php/2986/mod_book/chapter/630/ccby.png"" alt=""Creative Commons Licence"" width=""120"" height=""42"" style=""float:left"" class=""img-fluid atto_image_button_middle""></a>
+    This course by&nbsp;Vasilis Palilis (<span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">WIDE Services),&nbsp;</span>Mark Glynn (<span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">DCU) and&nbsp;</span><span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">Moodle Academy (Moodle Pty Ltd) is licensed under&nbsp;</span><a href=""https://creativecommons.org/licenses/by/4.0/"" style="""">CC BY 4.0</a><span style=""font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;"">. Original resources available at&nbsp;</span><a href=""https://moodle.academy/"" style="""">https://moodle.academy</a>.</p>
+<span class=""moodle-orange bold larger"">›</span>
+<a href=""https://moodle.academy/mod/glossary/showentry.php?eid=272"">Read more about how you should attribute this work.</a>",,id,2986
+fa2b4a2863e1aad40cc841ecdd809d69,"<p dir=""ltr"" style=""text-align: left;""></p>
+<h4>Welcome</h4>
+<p>Find out how the course works, check your prior understanding and join in an optional general discussion.</p>
+<h4>Live session</h4>
+<p>Participate in the live webinar or watch the recording at your convenience.</p>
+<h4>What is gamification?</h4>
+<p>Explore how gamification started. Learn what is and is NOT gamification. Consider why and why NOT to gamify your Moodle courses.</p>
+<h4>How to gamify your Moodle course</h4>
+<p>Learn how to use standard and contributed features to create a gamified Moodle course tailored to the needs of your learners.</p>
+<h4>Gamification case studies</h4>
+<p>Find out how others are using gamification in their organisations and take away useful tips for your own practice.</p>",,id,2986
+2b0c2ac22bb5824a83e6c66ab44dda66,"Our Moodle Educator Certification (MEC)is based on the Digital Competence Framework for Educators.&nbsp;<a href=""https://ec.europa.eu/jrc/en/digcompedu""> (DigCompEdu).</a> This course relates to the following competence(s):
+    <p>3.1 Teaching</p>
+    <p>3.3 Collaborative learning</p>
+    <p>3.4 Self-regulated learning</p>
+    <p>5.3 Actively engaging learners</p>
+
+<dl><a href=""https://ec.europa.eu/jrc/en/digcompedu"">
+    </a>
+    <dd>The MEC is offered by our&nbsp;<a href=""https://moodle.com/solutions/certified-service-providers/"">Moodle&nbsp;Certified Partners and Service Providers</a>.
+    </dd>
+</dl>",,id,2986
+8bde18b8a9b780b9701d644acef2d9da,"<p dir=""ltr""><span style=""font-size: 1rem;"">To complete the course you need to have all required activities marked as complete. Some are automatically marked as completed based on specific criteria and some need to be manually marked as completed.</span><br></p><p dir=""ltr""><span style=""font-size: 1rem;"">This course contains a summative quiz, Gamification: Check your understanding, and you need to reach 80% in order to successfully complete the course.</span></p><h5><span style=""font-size: 1rem;"">Required activities:</span></h5><p></p><ul><li><span style=""font-size: 1rem;"">About this course;</span></li><li><span style=""font-size: 1rem;"">Webinar recording: Introduction to gamification;</span></li><li><span style=""font-size: 1rem;"">Background to gamification;</span></li><li><span style=""font-size: 1rem;"">Know your student participant types;</span></li><li><span style=""font-size: 1rem;"">Does gamification work?</span></li><li>Before starting to gamify;<br></li><li><span style=""font-size: 1rem;"">6 steps to help gamify your course;</span></li><li><span style=""font-size: 1rem;"">Real world examples of gamification;</span></li><li><span style=""font-size: 1rem;"">Gamification: check your understanding.</span></li></ul><p></p><h5>Course badge</h5><p>Upon successful completion of this course you will be automatically awarded with the relevant badge to showcase the skills and knowledge you have obtained.</p><p></p>",,id,2986
+8f293c2ac2eef2e7ced855ddfd7c2d10,"
+
+<p>All notable changes to this course will be documented in this page.</p>
+<hr>
+<p>Date: 17 Dec 2023<br>Changed by: Mary Cooch<br>Changes:</p><p><ul><li>Changed the side block to say this course is relevant for 4.3.</li><li>Updated the Moodle versions page in this book to reference 4.3.</li></ul></p>
+<hr>
+<p>Date: 28 Dec 2022<br>Changed by: Mary Cooch<br>Changes:</p>
+<p></p>
+<ul>
+    <li>Added versions page and changed text block to say 4.1</li>
+    <li>Replaced references to Label with Text and media</li>
+</ul>
+<hr>",,id,2986
+43a89dcf1d266dea1646c22b4f210904,"Webinar recording: Introduction to gamification",,id,2991
+1889ddd136bb0aa4e399edf6785d6a37,"Slides from the webinar",,id,2993
+064b9031bb9a658a3a35618f97751d04,"Background to gamification",,id,3119
+a0f962bdb137fd1ea6794fc80bccf0ff,"Know your learners",,id,3119
+415f854e78f451889d879183df3a62b1,"<span style=""font-size: 1rem;"">One reason - perhaps the main reason - to consider gamifying your course is to motivate your learners to be more engaged, to study harder.</span><br>
+<p dir=""ltr"" style=""text-align: left;"">It is not enough, however, just to add gamification elements such as badges, a complex restrict access scenario, and then expect your course to immediately become more successful.</p>
+<p dir=""ltr"" style=""text-align: left;"">Before gamifying your course, first research whether your learners really need it and would benefit from it.&nbsp; Despite 'Gamification' being widely promoted&nbsp; - how many sites, webinars, courses have you seen on gamification?&nbsp; &nbsp;- that does not make it the solution to all our education problems! In fact, used unwisely, it can make a bad situation worse.</p>
+<h5 style=""text-align: left;"">Know your learners</h5>
+<p>Ask them! Survey them! What is their experience of gamification? (They might not be aware of some instances. Look at the section 'Happy hour') Do they like collecting digital badges? Do you ever do group work with them? If not, they might struggle with a gamifed course requiring collaboration for example.</p>
+<p>How motivated are they to learn?</p>",,id,3119
+865ec7f3853edcf7b040fd8285f71104,"Moodle elements",,id,3119
+9249bc87f36af3a82977f14cc39af9d5,"<p dir=""ltr"" style=""text-align: left;"">Gamifying your Moodle course involves adding Moodle features and activities which can replicate those elements which work well with gamers.&nbsp;</p><p dir=""ltr"" style=""text-align: left;"">The section How to gamify your Moodle course explores in more detail how to set up those features and activities. Here below we will just list a few examples of what Moodle can offer. Many features and activities are standard in Moodle. Those with an asterisk are contributed plugins.</p><p dir=""ltr"" style=""text-align: left;""></p><ul><li>Involvement - Group activities</li><li>Choice - Choice activity / Group choice activity*</li><li>Control - Choice activity / Restrict access / Groups</li><li>Rewards - Badges / Stash* / XP points*</li><li>Fun - Standard features well used / Game plugin* / Quiz venture*</li><li>Progress - Activity results block / LevelUp!* / Completion progress*</li><li>Accumulation -&nbsp; LevelUp!* / Stash*</li><li>Personalisation - Filter codes plugin*</li><li>Adaptability - 'Branching activities' such as Lesson / H5P</li><li>And more! - Activity completion combined with many other standard and contributed features.</li></ul><br><p></p>",,id,3119
+8370ca68fe89f32459176c88f5bc124e,"Game elements",,id,3119
+82cf827cce518c2624da7103dd890b39,"<p dir=""ltr"" style=""text-align: left;"">People who play games online (and offline!) are motivated by certain factors built into the games. Popular and enaging games contain several of the following factors:</p><p dir=""ltr"" style=""text-align: left;""></p><ul><li>Involvement - players like to feel they have an active role in the game.</li><li>Choice - players like to feel they can make certain choices/decisions (even if, in reality, those choices are defined by the game maker)</li><li>Control - players like to feel they have some power or control over their actions.</li><li>Rewards - players are encouraged to continue with regular small rewards.</li><li>Fun - players enjoy the game because it is interesting - not boring!</li><li>Progress - players have a sense that they are moving forward, getting better, gaining skills.</li><li>Accumulation -&nbsp; players like to gather items such as money, treasure, points, 'stash'.</li><li>Personalisation - players like to customise their avatar, develop an identity.</li><li>Adaptability - the game changes depending on their decisions.</li><li>And more&nbsp; - sometimes even Learning! (Many apps such as for language learning incorporate game elements.)</li></ul><p></p>",,id,3119
+a77105ec75579f0ef159bcdf03d79ddf,"Defining gamification",,id,3119
+777bd0a7439341b9eb3d613ada435cd9,"Before defining what gamification is, let us say what it is not.<img src=""https://moodle.academy/pluginfile.php/3119/mod_book/chapter/50/gamification.png"" alt="""" width=""150"" height=""112"" role=""presentation"" class=""img-fluid atto_image_button_right""><br>Gamification is not:<br><ul><li>playing games such as video games (although you can include games in a gamified course but they are not an integral part.)</li><li>so-called 'serious games' as used in industry, health care, emergency&nbsp; management and so on.</li><li>role-play games, such as battle reconstructions.</li></ul><p>One of the most popular definitions of gamification is the following:</p><p><em>""The use of game elements and game techniques in non-game contexts""</em></p><p><span id=""docs-internal-guid-edd82036-7fff-ff99-e634-cff65ed6ae8e"">Deterding, Dixon, Khaled &amp; Nacke, 2011</span><br></p><p><span>Go to the next page to explore what this actually means.</span></p>",,id,3119
+e14ab946c1469491f93166082ab9e1de,"Happy hour",,id,3119
+de03131f17d9791ef5e10da23117334b,"<p>Have you ever been in a bar when there is 'Happy hour' and you can have drinks at half price? Have you ever been tempted by the 'Buy<img src=""https://moodle.academy/pluginfile.php/3119/mod_book/chapter/55/HappyHourMan.png"" alt="""" width=""150"" height=""199"" role=""presentation"" class=""img-fluid atto_image_button_right""> one, get one free' advertisements? Do you have a loyalty card for your favourite store? Do you (or did you before COVID) collect Airmiles when flying? Do you use a language learning app where you accumulate tokens for reaching different levels? </p>
+<p>All of these are examples of gamification in business and marketing. Although we are looking at gamification in an education and training setting, it is worth remembering that gamification has a much broader reach and is probably part of your every day life without you realising it!</p>",,id,3119
+c076e4fd1559721e171432e66b70a487,Motivation,,id,3119
+74d918509a3f7744bc2525df84fa35c1,"<p>Of course, we want our learners to be motivated! If gamification will help motivate them, it is worth doing.<img src=""https://moodle.academy/pluginfile.php/3119/mod_book/chapter/54/MotivatedMan.png"" alt="""" width=""138"" height=""118"" role=""presentation"" class=""img-fluid atto_image_button_right""></p>
+<p>However.. we must carefully consider how our learners are motivated, and ensure our gamified course does not have the opposite effect from what we wish.Here are two types of motivation:</p>
+<h5>Extrinsic motivation</h5>
+<p>This means that the desire to learn comes from outside - an external source, rather than the genuine desire of the learner. Perhaps they want to study because they know it will improve their chances of a good job or a promotion? Perhaps they want to study because they need a certain qualification in order to study something they genuinely prefer? Gamification tends to work well when learners are extrinsically motivated. A small reward, a digital badge, some hidden treasure (stash) can give them a sense of satisfaction and achievement to encourage them onto the next stage in their learning.</p>
+<h5>Intrinsic motivation</h5>
+<p>This means that the desire to learn comes from inside - the learner does not necessarily have an end goal in mind such as a promotion; they are simply learning for the pleasure or mental challenge of it. Be careful when gamifying your course when you know your learners are instrinsically motivated. For some intrinsically motivated learners badges, points, leaderboards can in fact appear patronising if the learner was planning to do the tasks anyway. Research shows that in some cases, gamification can have a negative effect on intrinsically motivated learners.</p><p>Bear in mind that it is possible for a learner to be both extrinsically and intrinsically motivated.</p>",,id,3119
+569497068e331c0bbef7794256bcd862,"Gamifying education: what is known, what is believed and what remains uncertain",,id,5122
+12af15717c62c4b63edab39554002015,"<div class=""no-overflow"">A critical review by Dichev, C. and Dicheva, D in the International Journal of Educational Technology in Higher Education,</div>",,id,5122
+52d0825580134be7f8a9f3429013ba58,"Assessing the effects of gamification in the classroom",,id,5128
+abc613d827ba161a4a4af9a113eac1b2,"<div class=""no-overflow"">Research by Hanus, M.D. and Fox, J highlighting less positive effects of gamification.</div>",,id,5128
+31f4ac279c142773597c1dddf2ff3314,"Know your student participant types",,id,5270
+966a17e78d61b6fc298721f9dde3baf1,"Thinkers - Socialisers - Achievers - Disruptors",,id,5270
+021dd224c5345278839ddd5bb4764e35,"<p>How would you call those who...</p><p><ol><li>Spend time working on a solution.</li><li>Value teamwork.</li><li>Want to get the best scores.</li><li>Can be useful for improving your gamified activities.</li></ol></p>",,id,5270
+9f3d676ea630367ba5f07889648903e0,"Bending the rules",,id,5270
+884f7d547b27b965a47d8f4f808a07f2,"<p>Jon doesn't like playing by the rules! His fellow students say he is cheating, but he sees this as a challenge. What type of participant is he? </p>",,id,5270
+951cea62977fa4004f1cca88cb196393,"The six types",,id,5270
+e8ad490c9d6fa4b7b2447278c64be8ef,"<p>The six classifications are listed here. To keep it simple, we will look at each one in order. You can always go back to check something if you need to.</p>
+<ol>
+  <li>Explorers</li>
+  <li>Socialisers</li>
+  <li>Philanthropists</li>
+  <li>Thinkers</li>
+  <li>Achievers</li>
+  <li>Disruptors</li> </ol>",,id,5270
+a66fcf267ac270f40606317837249c99,Explorers,,id,5270
+c569743bd20085372626fe3531363ade,"Explorers enjoy seeing what happens as they try out various different strategies available in a gamified environment. They enjoy role-playing in fictitious scenarios.",,id,5270
+ed6e9bcadb9ee80f34aa0b6acc407365,Socialisers,,id,5270
+2453f0cb28b42ac9caf834a350c0623e,"Socializers place more value on interaction and teamwork than on solo efforts and will view the fostering of good relationships as a measure of success",,id,5270
+bd0ceef5293733eab63f722c49a29cfc,Achievers,,id,5270
+f86264968475cd634033588880290f03,"Achievers like to win.  They prepare for and tackle challenges methodically, and focus their efforts into whatever actions will secure them the best scores.",,id,5270
+073e2b7f7ab53da55117cc7e559a9340,"About this lesson",,id,5270
+1f332b4bb9d925d14c4e433d29133110,"<p>Before setting out to select a combination of game elements to implement in a given course, it is worth thinking about how the target population is likely to respond. The Observatory of Educational Innovation (Tecnologica de Monterrey) identifies six classifications of participant.</p>
+<p>It's not possible for every aspect of a gamified environment to cater equally for all these different motivations, and the goal of a particular module might have a bias in favour of one over all others. Nevertheless, recognising that this sort of diversity is likely to be present in a given student population will be helpful in designing, implementing, and evaluating a gamification strategy.
+</p>
+<p>In this Lesson you will explore the six classifications and check your understanding with a few questions. You should spend at least ten minutes reading and responding to the questions. </p>
+<hr>
+<p>Note: This Lesson is inspired by<a href=""http://dcuh5p.com/gamification/"" target=""_blank""> Gamification in Higher Education: An Overview </a>(opens in a new window), available as Creative Commons with attribution.</p>",,id,5270
+21f4e3216ea9dff5e89a995b0eab7b7d,"Battle re-enactions",,id,5270
+c26bcda5bb6e2f12c0ceff035ca03408,"<p>Aline is a member of a society that re-enacts Medieaval battles. She loves planning the campaigns and testing different strategies. What type of participant is Aline? </p>",,id,5270
+2557c805424805da1bc1c5192bf739c4,Philanthropists,,id,5270
+604f1a971aee78172253d44a0fb4e9b5,"Philantropists get the most satisfaction from helping others, or the collective, to be successful.",,id,5270
+0e869d3e2d101e23ce7b632363276ea6,Thinkers,,id,5270
+0d944c18f9df3982b9d72c4b97479f06,"Thinkers like to solve puzzles. They can spend more time and gain greater satisfaction from finding a creative solution to a difficult problem than simply achieving the highest score.",,id,5270
+6effa204eae4b87a77d3051d503bfef7,Disruptors,,id,5270
+2281f15660fefea52c1e8a68e5e8d602,"Disruptors are less focused on winning than on beating the system.  They like to see how far the rules can be bent or reinterpreted to their benefit, and are a good source of feedback for how game elements can be tweaked or replaced in pursuit of variety, innovation, and challenge.",,id,5270
+4431b42e150a7e90b31bd7df3939bc62,"1. Thinkers;&nbsp; 2. Socialisers;&nbsp; 3. Achievers;&nbsp; 4. Disruptors.",,id,5270
+a8b252aee7a9c7cbd8807e2a390ad6d9,"Well done!",,id,5270
+fddd555b1e126c8e2d7062e1d9cb46bf,"1. Thinkers;&nbsp; 2. Disruptors;&nbsp; 3. Achievers;&nbsp; 4.&nbsp;Socialisers.",,id,5270
+acef12c43c48009d045ccc4af8aa0d63,"Not quite. Think again.",,id,5270
+b29985b4e3935277e2c0c5420faa12d4,"1. Achievers;&nbsp; 2. Socialisers;&nbsp; 3. Thinkers;&nbsp; 4. Disruptors.",,id,5270
+7828821d463755c5006f34c53592c997,"Not quite. Think again.",,id,5270
+5d8c16f4a7d086ac8fd2d7a8cdc47a5b,"1. Socialisers;&nbsp; 2.&nbsp;Thinkers;&nbsp; 3. Achievers;&nbsp; 4. Disruptors.",,id,5270
+40518070714c753738198cdec815d9e3,"Not quite. Think again.",,id,5270
+803cb9bc99abdfb61666193b3071ae67,"Go to Explorers",,id,5270
+f11d1d4b12ac3bdf153d9dae0c908dfa,"Get started.",,id,5270
+6c002307ae31e328ac37ff0d6687bacb,"Go to the Quick Check.",,id,5270
+480cf4fd344b9fdf18f450395be77e40,"Go to Socialisers",,id,5270
+d45c1063bdb60004fd20b822a666f1ec,"Go back to the previous page",,id,5270
+eb03b681ca98cce0905c39eed57bef95,"Go back to the previous page.",,id,5270
+828a2a7d3feaa8e9b4885efdd9e49df0,"Go to Philanthropists.",,id,5270
+4be60031bd067070150d951b040033f2,"Go to Thinkers.",,id,5270
+2afa72f3bdc7925efcac16e0fe786e31,"Go to the previous page.",,id,5270
+8f835843df39783f6ec2e523bbc3116d,"Go to Achievers.",,id,5270
+ec596c9df7bbf72d7b47af86a438a045,"Go to Disruptors.",,id,5270
+f66f947161121e72afe3a8e8565a1b88,"<p dir=""ltr"" style=""text-align: left;"">A Disruptor</p>",,id,5270
+8d613d4379addbd1057a8947f3b4b699,"<p dir=""ltr"" style=""text-align: left;"">That's Jon!</p>",,id,5270
+18c270192f8581957d6a80bb5cc47fca,"An Achiever",,id,5270
+a318cdda3912feab6adc75a967bda9ca,"<p dir=""ltr"" style=""text-align: left;"">Think again.</p>",,id,5270
+99afa267b29379fc1340414b162fc4de,"<p dir=""ltr"" style=""text-align: left;"">An Explorer</p>",,id,5270
+bb29be8a6e7cf2c27e7e4e968740ba55,"<p dir=""ltr"" style=""text-align: left;"">That's Aline!</p>",,id,5270
+2981e36005b0086829e0d48e8b08bf5f,"<p dir=""ltr"" style=""text-align: left;"">A Thinker</p>",,id,5270
+8a40d63a0bdae06bde600328486ea60a,"<p dir=""ltr"" style=""text-align: left;"">Jon is not a thinker - think again!</p>",,id,5270
+e8c9d069d3af4293eaea1a5653a3bdd3,"Go back to the previous page.",,id,5270
+109bab4f5a2c7004bc860be23d213e9c,"Go back to the previous page.",,id,5270
+03d7f1886d37db81647225ae87b36202,"Go back to the previous page.",,id,5270
+5e6966e0d8eaccd47f454dd1450fa261,"<p dir=""ltr"" style=""text-align: left;"">A Philanthropist</p>",,id,5270
+0edcfec3be658d8ab680b89f3b6b2eca,"<p dir=""ltr"" style=""text-align: left;"">Think again!</p>",,id,5270
+682a3787db877bbf37dcf5aa7b26f175,"<p dir=""ltr"" style=""text-align: left;"">A Socialiser</p>",,id,5270
+bddaae1368c4b6e4443e0ca3e45d9824,"<p dir=""ltr"" style=""text-align: left;"">Think again!</p>",,id,5270
+e79d3e129f30cb4a1dee46120e0c243d,"Does Gamification work?",,id,6432
+8a9d47d3d71bd870e4b514f2e68e5547,"<p dir=""ltr"" style=""text-align: left;"">https://www.youtube.com/watch?v=aW96KaAwlD0<br></p><p dir=""ltr"" style=""text-align: left;""><br></p><h5 style=""text-align: left;"">Papers referenced in the video:</h5><p dir=""ltr"" style=""text-align: left;"">J. Hamari, J. Koivisto and H. Sarsa, ""Does Gamification Work? -- <a href=""https://doi.org/10.1109/HICSS.2014.377"">A Literature Review of Empirical Studies on Gamification</a>,""&nbsp;<em>2014 47th Hawaii International Conference on System Sciences</em>, 2014, pp. 3025-3034,&nbsp;<br></p><p dir=""ltr"" style=""text-align: left;"">Lister, M. (2015). <a href=""https://doi.org/10.2458/azu_itet_v3i2_Lister"">Gamification: The effect on student motivation and performance at the post-secondary level</a>. Issues and Trends in Educational Technology.&nbsp;<br></p>",,id,6432
+2fbbdcc0090a817a442332bc94676799,"History of Gamification",,id,5380
+4c23ae328748165142843091ea89dca2,"What kind of ""Doing"" activates you?",,id,5555
+a2b0e5f9bb50628829ee3376083c9ca1,"Glossary on Gamification",,id,5387
+2bdcc69be3444641a0f9cbfdd5e63f65,"Before starting to gamify",,id,7000
+599d21252818e02feda5c9cf266f5c9e,"<p dir=""ltr"" style=""text-align: left;""></p><p>On the occasion of this course, 
+Vassilis has published the following articles, under the general title 
+""<strong>Gamified education/training and the frameworks of AI, AR, VR and 
+Blockchain</strong>"", on the CPD Certification Service website. You may find them
+ useful.</p><ol><li><a href=""https://cpduk.co.uk/news/gamified-education-training-and-the-frameworks-of-ai-ar-vr-and-blockchain-part-i"">Part I: Well-structured e-learning process</a>. We discuss the components of a well-structured e-learning process and the added value of gamification for it.</li><li><a href=""https://cpduk.co.uk/news/part-2-about-gamified-education-training"">Part II- About gamified education training</a>.&nbsp; We explore the ""WHAT - WHY - HOW"" of a gamified e-learning process.</li></ol><br><p></p>",,id,7000
+7d1b437a578251128d5073f7d72186cb,"6 Steps to help gamify your course",,id,6431
+18f115ec44a4e80fc457de372ad6c3b0,"<p dir=""ltr"" style=""text-align: left;"">https://youtu.be/zmQ8KVmOe8k<br></p>",,id,6431
+7455a3e48362120cfabfc11f76618f77,"A true story of students and Zombies!",,id,5129
+1c739b2b161d283e07ba521ff1710311,"<div class=""no-overflow""><p dir=""ltr"" style=""text-align: left;"">A blog post /case study on gamifying undergraduate teaching.</p></div>",,id,5129
+6bf3c46f856e978f25d4205b47ba05dc,"Real world examples of gamification",,id,5269
+bad165b4de012caed273a92c6a65e52a,"Original source",,id,5269
+b9de8f4589cd643cac5ca440034d5f07,"<p dir=""ltr"" style=""text-align: left;"">These real world examples are taken from the resource <a href=""http://dcuh5p.com/gamification/"" target=""_blank"">Gamification in Higher Education: An Overview</a>&nbsp;(opens in new window), licensed under Creative Commons by attribution.</p>",,id,5269
+fce94f0cdec33c6d6b95e4a38d6ed446,"Lublin University of Technology",,id,5269
+09565baeb2d067689555e42809817801,"<h5>Gamified grading: 3rd year Software Engineering</h5>
+<p>In addition to three core exams and a project, the class was given five extra assignments which could earn them additional points. Points were subtracted for failed exams. A points leaderboard was visible to all students. Students competed for a pre-defined set of grades with the highest score getting the highest grade, then the next two highest scores receiving half a point less on their grade; the next three, one point less, and so on.</p>
+<p>The class achieved a higher attendance level, greater participation in additional activities, and improved project completion times, compared with other groups in the same course. However students with lower scores reported being less motivated. (Laskowski, 2015).</p>",,id,5269
+b78c048ec603357110df519c3d072f52,"Delft University of Technology",,id,5269
+d03c24c556c4eb55ee9f142c193c78d8,"<h5>Gamifying for student types</h5>
+<p>Gamification was implemented in undergraduate Computer Organization and graduate Cloud Computing courses in response to the growing number of exam failures. Class activities were designed to engage in different ways the student types: explorers, achievers, socializers and winners. The explorers had multiple paths to explore, achievers had different progress options, socializers benefit from participating in teams, and winners compete in challenges presented by laboratory work and in-class discussions. In addition a points-scale was set that requires 10,000 points for a top grade, with tokens are available for unlocking different rewards levels. In addition to these gamification elements, game analytics were deployed to monitor student progress and engagement based on quizzes, and results used to target guidance resources where most necessary.</p>
+<p>An increase in student participation levels and numbers of students passing exams was observed following this gamification initiative. (Losup and Epema, 2014).</p>",,id,5269
+71e361ce06578f7603ae51aa71dfaccc,"Tecnológico de Monterrey.",,id,5269
+ecd0b3aa61693d70dad8ad70f75fee06,"<h5>Rewards and Teamwork: Machine Design and Development</h5>
+<p>Four medals were awarded during the course for quality of contribution, fulfilment of assignments, willingness and collaboration, and attendance and punctuality. A listing of awarded medals (represented by icons) was published mid-term, and at the end of the semester. Students achieving all four medals get an outstanding performance certificate attached to their student record. Another strategy deployed were team-based quizzes using the Kahoot! and Socrative apps, with grade points on offer to the top three scorers.</p>
+<p>Teachers reported that having been a little wary at first, students responded positively as they realised the gamified activities involved some team competition, fun, and the possibility of extra grade points.</p>",,id,5269
+cc40378bfc9614a14500fbd6db90869f,"University of Michigan",,id,5269
+6af4a113be2df2f2eab0dfdd3869c958,"<h5>Freedom of Choice: Undergraduate Program in Informatics</h5>
+<p>Professor Cliff Lampe has become regarded as a leading innovator in higher level education gamification. He teaches an introductory course to 200 students, and has successfully integrated gamification strategies to engage and expand student’s interest in the course. Perhaps most notably, he has designed a means whereby students have autonomy in how they navigate assignments and assessments. For example, students can choose to complete an assessment by creating an infographic on a particular topic rather than sit a more conventional test. In addition, teamwork and role-play are facilitated though the establishment of ‘guilds’ and his class is supported by teaching assistants who maintain progress scoreboards.</p><p>
+</p><p>Lampe has received testimonies from his former students pointing out that they have a better recollection of the class experience and the course content compared to others classes. (Weng Mak, 2103)</p>",,id,5269
+a501fafce49693a0afc861058e4cba24,"University of Hawaii",,id,5269
+2e86da74cccf3eee39dc0441262656c6,"<h5>Scenarios and Role-play: Social Psychology (online version)</h5>
+<p>Professor Alex Nagurney in Hawaii engaged Texas-based instructional designer Patrick Smith to create a series of videos in which he described behavioural problems he was experiencing at his college in Texas, on the pretext that he was looking for help from his friend’s the class in Hawaii.  In fact all the problems were based on experiences in the Hawaii campus, with local ethnic dynamics being transposed and disguised as Texan-Californian tensions. Nagurney arranged students into teams who would propose interventions, following which he cast the students as individual consultants to examine and comment on the various proposals.</p>
+<p>Aligning this exercise with other game elements such as a rewards system that took into account different student types, Nagurney reports that student participation in online forums increased by 143% following this gamification initiative.</p>",,id,5269
+0667db0d8a5b5946139921ed6324cb87,"Useful gamification resources collated by Dr Mark Glynn",,id,5268
+e1f45dbf62defe57f69c68622206ab42,"Gamification: Check your understanding",,id,2994
+406ba888b0c936868aacd43ea4f355f7,"<p style=""text-align: center;""><a href=""https://moodle.academy/course/view.php?id=4"" style=""font-size: 0.9375rem;""><img src=""https://moodle.academy/pluginfile.php/2982/block_html/content/AllIcons_forWebsite-22.png"" style=""border-width:0"" alt="""" width=""100"" height=""100"">
+    </a></p>
+<p style=""text-align: center;"">&nbsp;<span style=""font-size: 0.9375rem;"">&nbsp;<a href=""https://moodle.academy/course/view.php?id=4"" style=""font-size: 1rem;"">Get Involved!</a>&nbsp;</span>&nbsp;</p>",,id,2982
+a7139716b671808bb71a599eea1ae2c4,"<p dir=""ltr"" style=""text-align: center;""><em style=""font-size: 1rem;""><a href=""https://moodle.academy/user/view.php?id=183&amp;course=18""><img src=""https://moodle.academy/pluginfile.php/543/user/icon/workplace/f1?rev=19989"" class=""userpicture""></a></em><br></p>
+<p dir=""ltr"" style=""text-align: center;""><span><a href=""https://moodle.academy/user/view.php?id=183&amp;course=18"" style=""""><strong>Vasilis Palilis</strong></a><br></span><span style=""font-size: 1rem;""><span style="""">Director of&nbsp;<a href=""https://widetraining.gr/"" data-saferedirecturl=""https://www.google.com/url?q=https://widetraining.gr/&amp;source=gmail&amp;ust=1637828126302000&amp;usg=AOvVaw3gUp-aNKmi4nCnq13l_oUz"" style="""">WIDE Training Academy</a>,&nbsp;<a href=""https://wideservices.gr/en/"" data-saferedirecturl=""https://www.google.com/url?q=https://wideservices.gr/en/&amp;source=gmail&amp;ust=1637828126302000&amp;usg=AOvVaw2dm0BeY9s1uC1ZKQ3eei1_"" style="""">WIDE Services</a>, Premium Moodle Partner in Greece and Cyprus.</span></span></p>
+<p dir=""ltr"" style=""text-align: center;""><em><em><br></em></em></p>
+<p dir=""ltr"" style=""text-align: center;""><em><em></em></em></p>
+<p dir=""ltr"" style=""text-align: center;""><em><em><a href=""https://moodle.academy/user/view.php?id=1793&amp;course=18""><img src=""https://secure.gravatar.com/avatar/a7e34512b2d5e8e03081d1665e7489cd?s=100&amp;d=mm"" class=""userpicture""></a><br></em></em></p>
+<p dir=""ltr"" style=""text-align: center;""><span><span style=""""><a href=""https://moodle.academy/user/view.php?id=1793&amp;course=18"" style=""""><strong>Dr Mark Glynn</strong></a><br></span></span><span style=""font-size: 1rem;"">Head of Teaching Enhancement Unit, DCU</span></p>
+<p dir=""ltr"" style=""text-align: center;""><span style=""font-size: 1rem;""><br></span></p>
+<p dir=""ltr"" style=""text-align: center;""><span style=""font-size: 1rem;""></span></p>
+<p dir=""ltr"" style=""text-align: center;""><a href=""https://moodle.academy/user/view.php?id=4&amp;course=18""><img src=""https://moodle.academy/pluginfile.php/31/user/icon/workplace/f1?rev=4426"" class=""userpicture""></a><br></p>
+<p dir=""ltr""></p>
+<p style=""text-align: center;""><a href=""https://moodle.academy/user/view.php?id=4&amp;course=18""><strong>Mary Cooch</strong></a><b><br></b><span style=""font-size: 1rem;"">Education Manager, Moodle HQ</span></p>
+<p></p>",,id,3872
+0f11a4225351a1eafe59fe58bbd71c76,"<p style=""text-align: center;"">
+    <a href=""https://moodle.academy/mod/book/view.php?id=245&amp;chapterid=630"">
+        <img src=""https://moodle.academy/pluginfile.php/2984/block_html/content/ccby.png"" alt=""Creative Commons Licence"" width=""120"" height=""42"" style=""border-width:0"" class=""img-fluid atto_image_button_text-bottom""></a>
+</p>
+<p style=""text-align: center;""><a href=""https://moodle.academy/mod/book/view.php?id=245&amp;chapterid=630"">Licensed under CC BY 4.0</a>.</p>",,id,2984
+33bc3191d38db0f0827b7f32ffa6b315,"This course launched in November 2021 and is now based on <a href=""https://docs.moodle.org/403/en/Main_page"">Moodle 4.3</a> functionality.",,id,5528
+e143e1b5c9f48fa37c449fcc3be0c4e4,"<p>Gamification is often defined as 'the use of game [[1]] and game techniques in [[2]] game contexts.' Gamification can increase learner [[3]] when thoughtfully used. However, it can sometimes have the opposite effect if learners are already [[4]] motivated.</p>",,id,2981
+fc4461e876f48339b00c29f3fed86619,elements,,id,2981
+8cccaad6593a7e311a744d322d46ba10,1,,id,2981
+d77885ccd2196458dcc5530392910640,non,,id,2981
+e3c1480cb7ef70dd23d14db1e1f7b10e,1,,id,2981
+606105ad0232a9da723c8726a063e2d0,motivation,,id,2981
+0e8ceacd1ffb49573756627e4d30ae5e,1,,id,2981
+88469895fa6a5c696228e78a3afafd60,intrinsically,,id,2981
+b710174057166b379d9db4cce132da68,1,,id,2981
+db115b9b3347bed1efe772bab3396ae4,extrinsically,,id,2981
+b0715a01db040499ff57539abb387177,1,,id,2981
+4ab89bdbfdfc3c48e0acd90942f2ba53,challenge,,id,2981
+6a82b5f0353ef177d516bd00213ef916,1,,id,2981
+a7d4189d52f1848422e88c475458e24c,"Match the Moodle tool to its use in gamification.",,id,2981
+cccfcfc08cb68e99454c5b36fc1db195,"<p dir=""ltr"" style=""text-align: left;"">Find out more about these tools in the section How to gamify your Moodle course.</p>",,id,2981
+031245c1f39c3b698effc127843fbadb,"Your answer is correct.",,id,2981
+52ded9a4fcac7e595ad4b4ce052d3cb0,"Your answer is partially correct.",,id,2981
+96f8fb94135ba1d3230c85072525c064,"Your answer is incorrect.",,id,2981
+be1a78ff080b9af5dd2c41b2952a8f3a,"Match the student participation types to their descriptions.",,id,2981
+cf83f77d3840cabf69c0e6710e76a9aa,"Your answer is correct.",,id,2981
+6ecfbdad746be49604a7dcc87b0f478c,"Your answer is partially correct.",,id,2981
+c8c7a702c2e9941ae07ab34c2885347f,"Your answer is incorrect.",,id,2981
+68d0af1e41f42d9907c7fc4758c1858e,"<p dir=""ltr"" style=""text-align: left;"">According to research by Hanus and Fox.. (Select all true statements)</p>",,id,2981
+76eb89be27b749056ba6597daec9a5f3,"<p dir=""ltr"" style=""text-align: left;"">Look at the report highlights for more information.</p>",,id,2981
+f94527a5c327c6c75738f3a27be8f53c,"Your answer is correct.",,id,2981
+a82df3bb81a307fa271a5b55503a51db,"Your answer is partially correct.",,id,2981
+adff7e56fb97e017cef2dda841c2e8bc,"Your answer is incorrect.",,id,2981
+d834ba60178225bd7cf351ac8f05bddb,"Gamified systems strongly featuring rewards may have negative effects",,id,2981
+011cb01a56cec4351a63fb2d0d3dc103,"Over time, gamified students were less motivated, empowered, and satisfied.",,id,2981
+51344e3c7929217789e06fd8e206f710,"71 students surveyed were very negative about gamification",,id,2981
+c0b0b9346f5c55877d214f87c7e69d8a,"The research does not tell us this, so we cannot assume it.",,id,2981
+c6f91933c9730546bfc124e363832d66,"A gamified course negatively affected final exam grades through extrinsic motivation.",,id,2981
+8bb1b5214dc5da1100a96ac0922f932f,"Please look again at the report highlights.",,id,2981
+6093600d3dd67af85cbb3486a5b37436,"According to the University of Hawaii, student participation in online forums increased by how much when gamification was implemented?",,id,2981
+d636c652c467f27a6588948a261b9ff2,"The information is available in the section on Gamification case studies.",,id,2981
+298814aa82d17bb53b9801db3ba3c169,"Your answer is correct.",,id,2981
+8923840bdc58cffb88d63ee52fb31b07,"Your answer is partially correct.",,id,2981
+32e6579627345f9bbcc7277d1a5625da,"Your answer is incorrect.",,id,2981
+2589cdd0a527d00a4cd2aea00f40453a,"<p dir=""ltr"" style=""text-align: left;"">50%</p>",,id,2981
+fa11219ecf6f92b12087cadc863e18b0,"<p dir=""ltr"" style=""text-align: left;"">143%</p>",,id,2981
+6bb447e3548aca5b6f21137272b42a43,"<p dir=""ltr"" style=""text-align: left;"">116%</p>",,id,2981
+c9a5215a48963fe7626771280289414c,"<p dir=""ltr"" style=""text-align: left;"">134%</p>",,id,2981
+56dd04159ea21308102d89e5ea77374a,"In student participation types, what are disruptors?",,id,2981
+6d6cc66ffb6b0ca31c174e5a8c0c5da8,"Your answer is correct.",,id,2981
+25b04c6ba7d1bb52dae0a4caeb7531f3,"Your answer is partially correct.",,id,2981
+50c49b080ef1c35078ab1eb6922d57dd,"Your answer is incorrect.",,id,2981
+01d4c68ef9fce2ce407e89701da140c2,"They like to try out different strategies.",,id,2981
+fbb492ee6050a63e8eecf75027ee54fd,"They feel successful when they have good relationships.",,id,2981
+7550a798a04f1e6c80f3f6e3e2cf0079,"They are more interested in solving problems than in the gamified course.",,id,2981
+f67898cfb1cc350fdbb872d833a3b037,"They will try to break your course.",,id,2981
+94fbac9918d7d9b9647abcaa132439e4,"Which of the following definitions is the popular definition of gamification?",,id,2981
+b4b108dd5674605317b7b9a791755575,"Your answer is correct.",,id,2981
+2f681b8cb995e1deff03716a6c97dc5e,"Your answer is partially correct.",,id,2981
+d33a417837d53a65e67b53edd6a791f4,"Your answer is incorrect.",,id,2981
+b89580d8118b058aed0758ff548f1ffc,"The use of game elements and game techniques in non -game contexts.",,id,2981
+f3163c4c88af0b447d157c19769c96e8,"The use of game-based learning in non-educational contexts",,id,2981
+a9ed8f5f00497f0367065a0f8bff9c6e,"The use of game and game design in a learning environment.<br>",,id,2981
+ce5f83568a0f1218d74e3a83066b8836,"The use of games in non-game contexts.",,id,2981
+2b69d9bc0258d7f2da67d1ce5bc37258,"<p dir=""ltr"" style=""text-align: left;""><br></p>",,id,2981
+0a316a6a15ae3c5cc8b32414fcaac633,"Joost wants to add a competitive element to his course. His learners are happy to be put into teams but they don't want to be individually identified. What strategy could he use?",,id,2981
+e59507e6cb074e6535f11305497d662d,"Your answer is correct.",,id,2981
+c3fcea2ed92151e8201d93674cde800a,"Your answer is partially correct.",,id,2981
+dcc64fc5990c568c99af42f49dba7476,"Your answer is incorrect.",,id,2981
+bef00acd49815fa8474fe492822ff854,"He could add an Activity results block and set it to display group results.",,id,2981
+30de010c0b555112a3313972317794aa,"This would work as the group names would display but not the individual members.",,id,2981
+ed30be0c157e551ec2282d3ce44282f5,"He could create a Forum in separate groups for the learners to post in.",,id,2981
+9ab8f4f09368b89a638a9512cc552ada,"There is no competitive element here, as learners in separate groups would not be able to see each other.",,id,2981
+e650a408f0dc7e4ed48f83b00320e70d,"He could set up a Workshop activity in groups and the groups submit together as a team.",,id,2981
+f4a4bba6e096a01f08105b316660ab85,"Unfortunately it is not possible with a Workshop activity for groups to submit together as a team.",,id,2981
+1cccb9fc289984663c5486301de0992b,"He could set up a Group Choice activity for learners to choose a team.",,id,2981
+5ca6162139f43eaa065b8397b968bbf4,"He could do this at the start of the course, but this does not necessarily add a competitive element.",,id,2981
+cb25aac6bb6b874e51c1fb4df6a718a7,"<p dir=""ltr"" style=""text-align: left;"">Lublin University of Technology gamified grading in their Software Engineering course and included a Leaderboard. What can we learn from their experience?</p>",,id,2981
+e7baa6ad408b73a6c8719b674651dc70,"Your answer is correct.",,id,2981
+15743b09a5e6e2e84f2669dc3320116d,"Your answer is partially correct.",,id,2981
+d1f0d6400e0b38b0b1171c368f80ebfc,"Your answer is incorrect.",,id,2981
+736ea14bb3ab2913519b6ea61ae70e24,"<p dir=""ltr"" style=""text-align: left;"">More students attended class and the motivation of all students increased.</p>",,id,2981
+0724e47b07f5b97271671bde6b512d65,"<p dir=""ltr"" style=""text-align: left;"">More students participated but not all students became more motivated.</p>",,id,2981
+6579fba379321dffe05195e308322d31,"<p dir=""ltr"" style=""text-align: left;"">Those students who had lower scores were inspired to participate more.</p>",,id,2981
+cddbf4c93d1ec7b5585dc79d2eb27271,"<p dir=""ltr"" style=""text-align: left;"">Those students who had higher scores were motivated to help those with lower scores.</p>",,id,2981
+17b96a2c17040a3027b2f8f67225f76b,"<p dir=""ltr"" style=""text-align: left;"">We don't know that.</p>",,id,2981
+2d8bbe2c25c3d90dea33c556598fae96,"<p>Marlene runs a training business and sells online courses. Her manager wants her to improve sales and reputation. As Moodle admin, she organises her courses so that when a client purchases a course, they are automatically enrolled into a second one as well. People are encouraged to sign up because of her offer and her manager is pleased. Can we say that Marlene has used gamification? </p>",,id,2981
+232c170d5d8bb33754f8f3655417d533,"<p>Look at 'Happy hour' in the Background to gamification section.</p>",,id,2981
+c254a7f0e2fc0896a733b9d7e633d91b,"Your answer is correct.",,id,2981
+adc56caa71fb64d87e706de0c0dea82e,"Your answer is partially correct.",,id,2981
+83f0b0d7f632c29ba9cffecbe0f21d81,"Your answer is incorrect.",,id,2981
+44c2e11edf3f8d46b151d1afb20099ca,"Yes! Clients are motivated to sign up because of the promise of a (free) reward.",,id,2981
+b2c265f6e51cf744d1e569d1471b01fb,"No! Gamification only applies once clients are inside a course, not before they join.",,id,2981
+e5a3632aed9c433707eb74f1513f2d56,"Possibly! It depends on how she has set up the activities in her course.",,id,2981
+26661d7a63a4e83223baf4741cac4003,"<p>Olga is running an online course for a group of lawyers who need specialised training in a new software product. They are experienced professionals, independent learners comfortable with online training and are very keen to understand the new software. Olga gamifies the course by awarding badges for profile completion, assignment submission and viewing the suggested URLs.</p>
+<p>Despite a positive start, the lawyers very quickly lose interest in Olga's training. Why do you think this is? You may choose more than one reason. </p>",,id,2981
+20360df449dd0487c0c8566bfbaa66cc,"For more information, explore the section What is gamification?",,id,2981
+920a6559462abf601b9a740f21180319,"Your answer is correct.",,id,2981
+0c4c43d82a214cde6259fb4beeaf0360,"Your answer is partially correct.",,id,2981
+1765161d8f8751f43a393fc24a677495,"Your answer is incorrect.",,id,2981
+25087cd85d8f24caf8a59aeef6a3afe6,"They feel insulted by being awarded badges for such simple actions.",,id,2981
+c8a063b55e1b774ff4545e4083324197,"As intrinsically motivated learners, they didn't need or want gamification.",,id,2981
+0e39598fad45b192a1c0068c1ada10e5,"They are too old for gamification",,id,2981
+51dfe34f27288f0b0f9e9ceee154d6f3,"Nobody is too old for gamification! We cannot be sure this is the case with Olga's group of lawyers.",,id,2981
+8c984ebfdfb11e78b3c8b52277b4b57a,"<p dir=""ltr"" style=""text-align: left;"">Olga did not include enough gamification activities to maintain the lawyers' interest.</p>",,id,2981
+18fd270ea087d2b3b42058f7262fb03c,"<p dir=""ltr"" style=""text-align: left;""><br></p>",,id,2981
+936ddf4dfb342c11290d4cd5cb48f472,"Which of the following gamification tools are available in a standard Moodle site (ie, they are *not* contributed plugins?) Select all that apply.",,id,2981
+af29ce82d74f1a4d85ac6443b1f3deeb,"Your answer is correct.",,id,2981
+e7f51148c0ade94ae88b6579be96c902,"Your answer is partially correct.",,id,2981
+c66ee13f1d1732213d7d4e08d912d61b,"Your answer is incorrect.",,id,2981
+463e3246b9fedb469aa0670b0b7285bd,"Group choice",,id,2981
+f3d7aa8ca548306f744c0eb3622b1f3e,"Choice is standard but Group choice is a plugin.",,id,2981
+5f62c06d7254a74b62aca363c28002cb,Badges,,id,2981
+e26faa7b4d38d320e4cde4ee49d5cd01,"Activity results block",,id,2981
+e280787c08dd3771288c31f4a73cbb39,"Experience (XP) points",,id,2981
+266b9718fd9715c17488b7763ac8e9d8,"This is a contributed block",,id,2981
+0d911bea3261a5872f7693dbdb430b87,"<p dir=""ltr"" style=""text-align: left;"">When gamifying your course, which of the following should be your first step?</p>",,id,2981
+45529c7fdad87dc8e5fc33b826c7aff4,"It is important to plan out a gamified course just as you would plan out a traditional course. It does not have to be a detailed plan but should include certain steps. The video 6 steps to gamify your course by Dr Mark Glynn might help you.<br><br><a href=""https://youtu.be/zmQ8KVmOe8k"">https://youtu.be/zmQ8KVmOe8k</a><br>",,id,2981
+f2d06f9382c9b17de54269453aa06b40,"Your answer is correct.",,id,2981
+63321c3898a3115dcd9b9f0b0bb7928c,"Your answer is partially correct.",,id,2981
+8785c2fc23c5f0384919da6567bb73f8,"Your answer is incorrect.",,id,2981
+d57b142283c5c3d71874cb0c6bc27586,"Identify the objectives, the goal of the gamification project.",,id,2981
+95b522e2767a82768c87ee0af6198568,"Check your Moodle version, to ensure you have the appropriate gamification features.",,id,2981
+21acd28148a50e3b301e40a9af55acb8,"Design your rewards such as badges.",,id,2981
+e12308fe4e53f732dd84ee8ac99fe2b8,"Plan the final summative assessment.",,id,2981
+f89bdf043f6b9ed3f4ec2fa9b4a0bcac,"<p dir=""ltr"" style=""text-align: left;"">Match the terms to their definitions.</p>",,id,2981
+ac521daa2154aae70164b535ed8d19d3,"<p dir=""ltr"" style=""text-align: left;"">It is important to understand what motivates your learners before you design your gamified Moodle course.</p>",,id,2981
+5dccb3a9887f9ecdaf43dee8bac6d9f3,"Your answer is correct.",,id,2981
+773a5c1d027a4438e063afeb4b91e38f,"Your answer is partially correct.",,id,2981
+8d9275ef6abe3d84ab117a5428459f28,"Your answer is incorrect.",,id,2981
+b892ce9b43fbeb72e6269fc5101a09fd,"<p dir=""ltr"" style=""text-align: left;"">Which of the following are examples of gamification? You may select more than one.</p>",,id,2981
+578ef6d61db7567d8f38375e12498103,"<p dir=""ltr"" style=""text-align: left;"">Gamification is widely used in many contexts. Can you spot it in your everyday life?</p>",,id,2981
+64fc65b8b4de8153b7ce92d7b2724d6c,"Your answer is correct.",,id,2981
+b8d4c2c0ddc623ae6a196c6ab6bf7243,"Your answer is partially correct.",,id,2981
+6ad05c5346b3a5359add4bac8b03df07,"Your answer is incorrect.",,id,2981
+f24432add767f0e0b81aea39e39e050e,"<p dir=""ltr"" style=""text-align: left;"">""Buy one, get one free!""</p>",,id,2981
+a351a8a94da6f7a6b223bc159a91f463,"<p dir=""ltr"" style=""text-align: left;"">A very early example!</p>",,id,2981
+60ae3c1ee46bf6c4ff862e92b6566496,"<p dir=""ltr"" style=""text-align: left;"">""Happy hour at the bar""</p>",,id,2981
+c113ee82a2f5c3932672e7d764b111ee,"<p dir=""ltr"" style=""text-align: left;"">And it works, doesn't it?</p>",,id,2981
+6d54239cff2db7d70fb273e241546524,"<p dir=""ltr"" style=""text-align: left;"">""Points win prizes!""</p>",,id,2981
+0b9725b3efa3923872270aa475a2c071,"<p dir=""ltr"" style=""text-align: left;"">An example which works both in an educational and business context. Think of store loyalty cards.</p>",,id,2981
+780baf3d58f3fd166d92dc41bf41834b,"<p dir=""ltr"" style=""text-align: left;"">Classroom league table</p>",,id,2981
+6d6487a998ec5ad3b62f1b0f0593eccf,"<p dir=""ltr"" style=""text-align: left;"">This can be very powerful -but you have to be sure your students will respond positively.</p>",,id,2981
+a6932b3d2b4032b8fa563d2b88684a1b,"<p dir=""ltr"" style=""text-align: left;"">For how long have teachers been gamifying learning?</p>",,id,2981
+25ab02902935c02f904558181650f5e7,"<p dir=""ltr"" style=""text-align: left;"">Adding an element of competition or fun to learning is nothing new, even though the internet is relatively modern.</p>",,id,2981
+0d30be071ad55989fae1b2cd8390985f,"Your answer is correct.",,id,2981
+9fe6709af8a4a38ebd9b03deaede8db1,"Your answer is partially correct.",,id,2981
+b89f43b06a318bfa8f0b976daaf746b5,"Your answer is incorrect.",,id,2981
+a9051f274d118811e1f4990b5c7ec32a,"For about five years",,id,2981
+8f0062c81957bb675334129b6bdd1356,"<p dir=""ltr"" style=""text-align: left;"">For between five and ten years</p>",,id,2981
+9f99e4635a4e898b81e52ce8ff4b19c6,"<p dir=""ltr"" style=""text-align: left;"">For between ten and fifteen years</p>",,id,2981
+4988548350059bdd9b3fb457d1d8faca,"<p dir=""ltr"" style=""text-align: left;"">For a very long time</p>",,id,2981
+15fcee409891ed96282d23ce160f0bf5,"<p dir=""ltr"" style=""text-align: left;"">Which of the following statements about gamification are true? You may select more than one.</p>",,id,2981
+b3bd58910180716a930755aef1bb22b9,"<p dir=""ltr"" style=""text-align: left;"">There are many aspects to gamification. Watch the webinar and work through the activities to find out more.</p>",,id,2981
+0baeff35b0ab9bca4af351096199fe7c,"<p>Your answer is correct.</p>",,id,2981
+ae69b7ab5f5c9164deb1c829e44b7445,"<p>Your answer is partially correct.</p>",,id,2981
+3bbd7a7ad6494909c193ffbc0c6fd085,"<p>Your answer is incorrect.</p>",,id,2981
+087e33b60cc37fd0fd3539eec5d8afb7,"<p dir=""ltr"" style=""text-align: left;"">Gamified courses only work when the course has a group of learners.</p>",,id,2981
+0b722c09bfc75002dfa72246f248ff59,"<p dir=""ltr"" style=""text-align: left;"">Actually you can enjoy a gamified course as an individual learner.</p>",,id,2981
+61f48c3de3071b5812a082f6b603aba7,"<p dir=""ltr"" style=""text-align: left;"">Gamified courses work for all kinds of learners.</p>",,id,2981
+0494eab63d16c6c93d62afcf77bfdcf8,"<p dir=""ltr"" style=""text-align: left;"">It might not suit some learners. Know your learners!</p>",,id,2981
+0bcc9451443184ddd1d9ffffc628c97e,"<p dir=""ltr"" style=""text-align: left;"">Gamified courses must always include a game.</p>",,id,2981
+1e62f845d38f0238818738d5bfdd604a,"<p dir=""ltr"" style=""text-align: left;"">Gamification does not mean playing games.</p>",,id,2981
+dc2fe41cbfb70eed02128fe78e73bde5,"<p dir=""ltr"" style=""text-align: left;"">Gamified courses can have regular small rewards.</p>",,id,2981
+6c3e753a01b408c93d053bfd730991ea,"<p dir=""ltr"" style=""text-align: left;"">Regular small rewards can increase motivation.</p>",,id,2981
+f7033723173f9e0769bc91282883052e,"<p dir=""ltr"" style=""text-align: left;"">Gamified courses do not need any extra Moodle plugins.</p>",,id,2981
+dc816261788905316fcb9322146aaad8,"<p dir=""ltr"" style=""text-align: left;"">You can gamify a Moodle course using standard features.</p>",,id,2981
+0ad6039310421acf9d091e2daeea86fe,"<p dir=""ltr"" style=""text-align: left;"">In which of these spheres could you use gamification? You may select more than one.</p>",,id,2981
+af03241a4f1c0c9bf50590304837cd39,"Your answer is correct.",,id,2981
+b296f0c14444f11b2517311a7aaa5da1,"Your answer is partially correct.",,id,2981
+53185b299e77a8a9997cc0e645a743ba,"Your answer is incorrect.",,id,2981
+85a5e881fcd199c3131a40836457ebac,"<p dir=""ltr"" style=""text-align: left;"">General education</p>",,id,2981
+18397dd9688a6aa2053e4779e98d65da,"<p dir=""ltr"" style=""text-align: left;"">Hopefully you selected this one!</p>",,id,2981
+ebfeb48fc09bf365faf5cf8aa3def5cc,"<p dir=""ltr"" style=""text-align: left;"">Marketing</p>",,id,2981
+e92ee0754ed9ca165d6fa47fc0e61c4e,"<p dir=""ltr"" style=""text-align: left;"">""Buy one, get one free""</p>",,id,2981
+ac9c65754d5e6d3e0c6339dbdd22fc8b,"<p dir=""ltr"" style=""text-align: left;"">Continuous Professional Development</p>",,id,2981
+800bef0b00b4d004cd2cdff7d3584cd7,"<p dir=""ltr"" style=""text-align: left;"">Learn more in our webinar and course activities.</p>",,id,2981
+42357f73ef132e06de2bbf484e6fb53d,"<p dir=""ltr"" style=""text-align: left;"">Onboarding (Induction) of new team members</p>",,id,2981
+a36977fcb2f10320c8356587eaf8df47,"<p dir=""ltr"" style=""text-align: left;"">This might help them feel more comfortable as they join your organisation.</p>",,id,2981
