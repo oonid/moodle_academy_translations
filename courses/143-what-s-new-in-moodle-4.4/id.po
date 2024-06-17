@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-17 12:18+0000\n"
+"Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
+"Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
+"143-what-s-new-in-moodle-4-4/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "ee370c35998bd53967db65fc73d0b9f3"}
@@ -275,7 +282,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "ff5627f178b47dbd65d0cc229a956c4e"}
 msgid "Badges"
-msgstr ""
+msgstr "Lencana"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "cfde9e7179388c9348f07a6d807d27e1"}
@@ -326,7 +333,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "9fe7670f278c5e2001f65c4aecd61622"}
 msgid "BigBlueButton"
-msgstr ""
+msgstr "BigBlueButton"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "c719edc26bcd45b799177145a8594a69"}
@@ -338,7 +345,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "c75f7811d70d17dbcd88e9d03752cbed"}
 msgid "Authentication"
-msgstr ""
+msgstr "Autentikasi"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "3d0c1acac93178004b7be29a106c4a9d"}
@@ -353,7 +360,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "fe509c38c1edb3e42923dfb261ac5403"}
 msgid "H5P"
-msgstr ""
+msgstr "H5P"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "b29e540e1585f874e774c846500fd68f"}
@@ -397,7 +404,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "82ec2cd6fda87713f588da75c3b1d0ed"}
 msgid "Capabilities"
-msgstr ""
+msgstr "Kemampuan"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "2e0741f329cd4b566507c6016eb88cde"}
@@ -413,7 +420,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "c5562ce2e22a86c247849904ecef3dc8"}
 msgid "Reporting"
-msgstr ""
+msgstr "Pelaporan"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "b9e3997668b520c5314ae93ddc62f16a"}
@@ -525,7 +532,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "6bb6d58b728200b4db7d63055275a07d"}
 msgid "Forums"
-msgstr ""
+msgstr "Forum"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "cf7e747503adb0c61bc891642a0e3d2a"}
@@ -733,7 +740,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "e6a7f8a2f42cc35979973da8dfb10720"}
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "52133863173f1b74a193b029c1f8eb55"}
@@ -747,7 +754,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "324003a4dfcaf85c9e0824eef031764b"}
 msgid "TinyMCE"
-msgstr ""
+msgstr "TinyMCE"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "34826c785fc72f43532654882a07f868"}
@@ -872,7 +879,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "a274f4d4670213a9045ce258c6c56b80"}
 msgid "Notifications"
-msgstr ""
+msgstr "Notifikasi"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "0676441020d64852c8a9ce3249ebc9ef"}
@@ -1275,22 +1282,22 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "9249b0357adbb12a85adc208820963cd"}
 msgid "tool/uploadcourse:use"
-msgstr ""
+msgstr "tool/uploadcourse:use"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "730211716af5247200e9a1ca91b8ab65"}
 msgid "moodle/course:update"
-msgstr ""
+msgstr "moodle/course:update"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "ff42c2001798b5bb11fa71081450ce57"}
 msgid "moodle/reportbuilder:viewall"
-msgstr ""
+msgstr "moodle/reportbuilder:viewall"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "1f490b33f1fa96fc3477664c346fe501"}
 msgid "moodle/reportbuilder:view"
-msgstr ""
+msgstr "moodle/reportbuilder:view"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "5cf49b9e1fc9df4c4894a7f8beec6603"}
@@ -1387,7 +1394,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "4bd2b40b0dd5610cb1d0620ff6c6c817"}
 msgid "Roles"
-msgstr ""
+msgstr "Peran"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "eef72a5734593c4e545c1ac89233ec40"}
@@ -1469,12 +1476,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "d16253ccc2cb68b7699907297c97fa6e"}
 msgid "Course"
-msgstr ""
+msgstr "Kursus"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "a6467084411e3e5123f5e3a5a2648a07"}
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "bc79bd444db2ae5792255cb09ad94b0b"}

@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-17 12:18+0000\n"
+"Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
+"Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
+"18-introduction-to-gamification/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "cf581b5e96cfaaa52d86c01965aa043e"}
@@ -16,6 +23,13 @@ msgid ""
 " 1rem;\">3.4 Self-regulated learning</span><br></p><p dir=\"ltr\"><span "
 "style=\"font-size: 1rem;\">5.3 Actively engaging learners</span><br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pengantar teori, pengaturan dan "
+"praktik gamifikasi di Moodle.</p><p dir=\"ltr\">Kursus ini berkaitan dengan "
+"kompetensi berikut:</p><p dir=\"ltr\">3.1 Mengajar</p><p dir=\"ltr\"><span "
+"style=\"font-size: 1rem;\">3.3 Pembelajaran kolaboratif</ span><br></p><p "
+"dir=\"ltr\"><span style=\"font-size: 1rem;\">3.4 Pembelajaran "
+"mandiri</span><br></p><p dir= \"ltr\"><span style=\"font-size: 1rem;\">5.3 "
+"Melibatkan peserta didik secara aktif</span><br></p>"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "22fc9e9c6bdc77f83a7bdbaf52851111"}
@@ -23,16 +37,18 @@ msgid ""
 "This intermediate level course covers how to create a gamified course in "
 "Moodle."
 msgstr ""
+"Kursus tingkat menengah ini mencakup cara membuat kursus dengan gamifikasi "
+"di Moodle."
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "3186bd28f19c7fd8bd7b57cfbae15ca0"}
 msgid "Live sessions"
-msgstr ""
+msgstr "Sesi siaran langsung"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "7177c8436621e0024d6e1bf5f5db1fd0"}
 msgid "What is gamification?"
-msgstr ""
+msgstr "Apa itu gamifikasi?"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "e3c1e749e631e134a565531fd4c3e5a0"}
@@ -42,7 +58,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "80ffa4ac651d27c013627583a9515c8d"}
 msgid "Gamification case studies"
-msgstr ""
+msgstr "Studi kasus gamifikasi"
 
 # {"targetlanguage": "id", "contextid": "2986", "md5key":
 # "07ce09edf9d9f4790b503a5c66aea8ec"}
@@ -186,12 +202,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "3119", "md5key":
 # "064b9031bb9a658a3a35618f97751d04"}
 msgid "Background to gamification"
-msgstr ""
+msgstr "Latar belakang gamifikasi"
 
 # {"targetlanguage": "id", "contextid": "3119", "md5key":
 # "a0f962bdb137fd1ea6794fc80bccf0ff"}
 msgid "Know your learners"
-msgstr ""
+msgstr "Kenali peserta didik Anda"
 
 # {"targetlanguage": "id", "contextid": "3119", "md5key":
 # "415f854e78f451889d879183df3a62b1"}
@@ -207,7 +223,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "3119", "md5key":
 # "865ec7f3853edcf7b040fd8285f71104"}
 msgid "Moodle elements"
-msgstr ""
+msgstr "Elemen Moodle"
 
 # {"targetlanguage": "id", "contextid": "3119", "md5key":
 # "9249bc87f36af3a82977f14cc39af9d5"}
@@ -235,7 +251,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "3119", "md5key":
 # "8370ca68fe89f32459176c88f5bc124e"}
 msgid "Game elements"
-msgstr ""
+msgstr "Elemen permainan"
 
 # {"targetlanguage": "id", "contextid": "3119", "md5key":
 # "82cf827cce518c2624da7103dd890b39"}
@@ -263,7 +279,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "3119", "md5key":
 # "a77105ec75579f0ef159bcdf03d79ddf"}
 msgid "Defining gamification"
-msgstr ""
+msgstr "Mendefinisikan gamifikasi"
 
 # {"targetlanguage": "id", "contextid": "3119", "md5key":
 # "777bd0a7439341b9eb3d613ada435cd9"}
@@ -299,7 +315,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "3119", "md5key":
 # "c076e4fd1559721e171432e66b70a487"}
 msgid "Motivation"
-msgstr ""
+msgstr "Motivasi"
 
 # {"targetlanguage": "id", "contextid": "3119", "md5key":
 # "74d918509a3f7744bc2525df84fa35c1"}
@@ -392,7 +408,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5270", "md5key":
 # "a66fcf267ac270f40606317837249c99"}
 msgid "Explorers"
-msgstr ""
+msgstr "Penjelajah"
 
 # {"targetlanguage": "id", "contextid": "5270", "md5key":
 # "c569743bd20085372626fe3531363ade"}
@@ -431,7 +447,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5270", "md5key":
 # "073e2b7f7ab53da55117cc7e559a9340"}
 msgid "About this lesson"
-msgstr ""
+msgstr "Tentang pelajaran ini"
 
 # {"targetlanguage": "id", "contextid": "5270", "md5key":
 # "1f332b4bb9d925d14c4e433d29133110"}
@@ -472,7 +488,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5270", "md5key":
 # "0e869d3e2d101e23ce7b632363276ea6"}
 msgid "Thinkers"
-msgstr ""
+msgstr "Pemikir"
 
 # {"targetlanguage": "id", "contextid": "5270", "md5key":
 # "0d944c18f9df3982b9d72c4b97479f06"}
@@ -550,7 +566,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5270", "md5key":
 # "f11d1d4b12ac3bdf153d9dae0c908dfa"}
 msgid "Get started."
-msgstr ""
+msgstr "Memulai."
 
 # {"targetlanguage": "id", "contextid": "5270", "md5key":
 # "6c002307ae31e328ac37ff0d6687bacb"}
@@ -677,7 +693,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "6432", "md5key":
 # "e79d3e129f30cb4a1dee46120e0c243d"}
 msgid "Does Gamification work?"
-msgstr ""
+msgstr "Apakah Gamifikasi berfungsi?"
 
 # {"targetlanguage": "id", "contextid": "6432", "md5key":
 # "8a9d47d3d71bd870e4b514f2e68e5547"}
@@ -700,7 +716,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5380", "md5key":
 # "2fbbdcc0090a817a442332bc94676799"}
 msgid "History of Gamification"
-msgstr ""
+msgstr "Sejarah Gamifikasi"
 
 # {"targetlanguage": "id", "contextid": "5555", "md5key":
 # "4c23ae328748165142843091ea89dca2"}
@@ -710,7 +726,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5387", "md5key":
 # "a2b0e5f9bb50628829ee3376083c9ca1"}
 msgid "Glossary on Gamification"
-msgstr ""
+msgstr "Glosarium tentang Gamifikasi"
 
 # {"targetlanguage": "id", "contextid": "7000", "md5key":
 # "2bdcc69be3444641a0f9cbfdd5e63f65"}
@@ -759,7 +775,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5269", "md5key":
 # "bad165b4de012caed273a92c6a65e52a"}
 msgid "Original source"
-msgstr ""
+msgstr "Sumber asli"
 
 # {"targetlanguage": "id", "contextid": "5269", "md5key":
 # "b9de8f4589cd643cac5ca440034d5f07"}
@@ -799,8 +815,9 @@ msgstr ""
 
 # {"targetlanguage": "id", "contextid": "5269", "md5key":
 # "71e361ce06578f7603ae51aa71dfaccc"}
+#, fuzzy
 msgid "Tecnológico de Monterrey."
-msgstr ""
+msgstr "Tecnológico de Monterrey."
 
 # {"targetlanguage": "id", "contextid": "5269", "md5key":
 # "ecd0b3aa61693d70dad8ad70f75fee06"}
@@ -901,7 +918,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "fc4461e876f48339b00c29f3fed86619"}
 msgid "elements"
-msgstr ""
+msgstr "elemen"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "8cccaad6593a7e311a744d322d46ba10"}
@@ -921,7 +938,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "606105ad0232a9da723c8726a063e2d0"}
 msgid "motivation"
-msgstr ""
+msgstr "motivasi"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "0e8ceacd1ffb49573756627e4d30ae5e"}
@@ -931,7 +948,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "88469895fa6a5c696228e78a3afafd60"}
 msgid "intrinsically"
-msgstr ""
+msgstr "secara intrinsik"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "b710174057166b379d9db4cce132da68"}
@@ -941,7 +958,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "db115b9b3347bed1efe772bab3396ae4"}
 msgid "extrinsically"
-msgstr ""
+msgstr "secara ekstrinsik"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "b0715a01db040499ff57539abb387177"}
@@ -951,12 +968,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "4ab89bdbfdfc3c48e0acd90942f2ba53"}
 msgid "challenge"
-msgstr ""
+msgstr "tantangan"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "6a82b5f0353ef177d516bd00213ef916"}
 msgid "1"
-msgstr ""
+msgstr "1"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "a7d4189d52f1848422e88c475458e24c"}
@@ -1472,7 +1489,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "463e3246b9fedb469aa0670b0b7285bd"}
 msgid "Group choice"
-msgstr ""
+msgstr "Pilihan kelompok"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "f3d7aa8ca548306f744c0eb3622b1f3e"}
@@ -1482,7 +1499,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "5f62c06d7254a74b62aca363c28002cb"}
 msgid "Badges"
-msgstr ""
+msgstr "Lencana"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "e26faa7b4d38d320e4cde4ee49d5cd01"}
@@ -1818,17 +1835,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "af03241a4f1c0c9bf50590304837cd39"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "b296f0c14444f11b2517311a7aaa5da1"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "53185b299e77a8a9997cc0e645a743ba"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "85a5e881fcd199c3131a40836457ebac"}
