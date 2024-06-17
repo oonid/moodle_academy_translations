@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-17 12:48+0000\n"
+"Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
+"Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
+"034-start-teaching-with-moodle/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "7859593959c56ed109709c8ad0fe9a6d"}
@@ -283,7 +290,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5817", "md5key":
 # "ced5b6bafcf72c8f15a69a5b18e9ced4"}
 msgid "My courses"
-msgstr ""
+msgstr "Kursus saya"
 
 # {"targetlanguage": "id", "contextid": "5817", "md5key":
 # "ec5b800ee69897e3dea6bf6ee29a1d70"}
@@ -334,7 +341,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5817", "md5key":
 # "2938c7f7e560ed972f8a4f68e80ff834"}
 msgid "Dashboard"
-msgstr ""
+msgstr "Dasbor"
 
 # {"targetlanguage": "id", "contextid": "5817", "md5key":
 # "4ac433fc9b67d084ade598983c71d303"}
@@ -539,7 +546,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5874", "md5key":
 # "7ef25f7b93adc8bf024ed532d722f697"}
 msgid "Text block"
-msgstr ""
+msgstr "Blok teks"
 
 # {"targetlanguage": "id", "contextid": "5874", "md5key":
 # "2a1937a43da3bd7ea3c7f12bff848b02"}
@@ -689,7 +696,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "2df0c07a843c07f953f4513c43e9be5c"}
 msgid "<p>Enable Edit mode</p>"
-msgstr ""
+msgstr "<p>Aktifkan mode Edit</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "0c56d36c5284914e96ad2365dc750171"}
@@ -791,7 +798,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "f77d22f74654f6552c62f1acdfc11fe9"}
 msgid "<p>Topics format</p>"
-msgstr ""
+msgstr "<p>Format topik</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "6f422f256f35dbaa0a98676df1acc638"}
@@ -801,7 +808,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "0ac9ba9cd7a3848214863aaa7bf106b4"}
 msgid "<p>Weekly format</p>"
-msgstr ""
+msgstr "<p>Format mingguan</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "c81e48f53f4d5ddeedbb3dc798f9e83a"}
@@ -811,7 +818,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "d58c2bbb27c9706e2454d1c72f68756d"}
 msgid "<p>Social format</p>"
-msgstr ""
+msgstr "<p>Format sosial</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "2f4e4d62ba9c81844d49e94eb24a3947"}
@@ -821,7 +828,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "d10277192aab5107b5761fb06ae7afc4"}
 msgid "<p>Single activity format</p>"
-msgstr ""
+msgstr "<p>Format aktivitas tunggal</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "aff5dfb35d7567dc3214a30ebda37526"}
@@ -1001,7 +1008,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "75c8544dc41421d7ae8dc73ed052b944"}
 msgid "<p>A Text block</p>"
-msgstr ""
+msgstr "<p>Blok teks</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "a1d6d395b90ee580d0f7bce7ef08c8f7"}
@@ -1013,7 +1020,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "968ce589d7a62b01ad1f607a4cc0e91b"}
 msgid "<p>An RSS block</p>"
-msgstr ""
+msgstr "<p>Blok RSS</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "c71b5e1f12046d074a87eca99556f7f1"}
