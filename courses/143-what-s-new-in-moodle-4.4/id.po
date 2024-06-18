@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-17 12:18+0000\n"
+"PO-Revision-Date: 2024-06-19 08:23+0000\n"
 "Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
 "Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
 "143-what-s-new-in-moodle-4-4/id/>\n"
@@ -21,6 +21,13 @@ msgid ""
 "<p dir=\"ltr\">1.4 Digital CPD (for educators).</p>\n"
 "<p dir=\"ltr\">2.4 Support structures (for administrators).</p>"
 msgstr ""
+"<p dir=\"ltr\">Kursus ini ditujukan bagi siapa saja yang ingin mempelajari "
+"tentang fitur-fitur baru dan peningkatan di Moodle 4.4.</p>\n"
+"<p dir=\"ltr\">Anda harus sudah familiar dengan Moodle agar bisa mendapatkan "
+"manfaat dari webinar dan materi kursus.</p>\n"
+"<p dir=\"ltr\">Kursus ini berkaitan dengan kompetensi sebagai berikut:</p>\n"
+"<p dir=\"ltr\">1.4 CPD Digital (untuk pendidik).</p>\n"
+"<p dir=\"ltr\">2.4 Struktur pendukung (untuk administrator).</p>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "3df2bac14bfe5c0f401298511dfc2501"}
@@ -28,6 +35,8 @@ msgid ""
 "This intermediate level course is for anyone who wants to learn about the "
 "new features and improvements in Moodle 4.4."
 msgstr ""
+"Kursus tingkat menengah ini diperuntukkan bagi siapa saja yang ingin "
+"mempelajari tentang fitur-fitur baru dan peningkatan di Moodle 4.4."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "fd97262349d0bc2a56f642596f5d06bc"}
@@ -35,6 +44,8 @@ msgid ""
 "If you're an administrator in Moodle, learn about what's new "
 "here.<br>Activities in this section will become visible after the webinar."
 msgstr ""
+"Jika Anda seorang administrator di Moodle, pelajari tentang apa yang baru di "
+"sini.<br>Aktivitas di bagian ini akan terlihat setelah webinar."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "db06d3f70c19e304428fb0802bcab7ff"}
@@ -43,6 +54,9 @@ msgid ""
 "here.<br>Activities in this section will&nbsp; become visible after the "
 "webinar.<br>"
 msgstr ""
+"Jika Anda seorang pengajar di situs Moodle, pelajari hal-hal baru di "
+"sini.<br>Aktivitas di bagian ini akan&nbsp; menjadi terlihat setelah "
+"webinar.<br>"
 
 # {"targetlanguage": "id", "contextid": "262746", "md5key":
 # "4c7afc763741a26edb00a929c01ee8cb"}
@@ -51,6 +65,9 @@ msgid ""
 "Learning outcomes, Course structure and Completion and assessment "
 "information.</p></div>"
 msgstr ""
+"<div class=\"no-overflow\"><p>Sebelum memulai, tinjau ikhtisar Kursus, "
+"Capaian pembelajaran, Struktur kursus, serta Informasi kelulusan dan "
+"penilaian.</p></div>"
 
 # {"targetlanguage": "id", "contextid": "262746", "md5key":
 # "fdcfae6161005e30337a9b22207a0890"}
@@ -68,6 +85,21 @@ msgid ""
 "<p>Download the videos and transcripts from this course.</p>\n"
 "<p></p>"
 msgstr ""
+"<h4>Selamat datang</h4>\n"
+"<p>Cari tahu cara kerja kursus, periksa pemahaman Anda sebelumnya, dan "
+"bergabunglah dalam diskusi umum opsional.</p>\n"
+"<h4>Webinar</h4>\n"
+"<p>Berpartisipasilah dalam webinar langsung atau tonton rekamannya sesuka "
+"Anda.</p>\n"
+"<h4>4.4 untuk Admin</h4>\n"
+"<p>Jelajahi peningkatan dan fitur baru untuk administrator situs.</p>\n"
+"<h4>4.4 untuk Pendidik</h4>\n"
+"<p>Jelajahi penyempurnaan dan fitur baru untuk pendidik.</p>\n"
+"<h4>Pemeriksaan kursus</h4>Uji pemahaman Anda pada kuis(-kuis) akhir.<br><br>"
+"\n"
+"<h4>Video dan transkrip</h4>\n"
+"<p>Unduh video dan transkrip dari kursus ini.</p>\n"
+"<p></p>"
 
 # {"targetlanguage": "id", "contextid": "262746", "md5key":
 # "b826b7eb8ec84b116116cd7ba5e19707"}
@@ -86,6 +118,26 @@ msgid ""
 "<h4 style=\"text-align: left;\">Learning time</h4>\n"
 "<p dir=\"ltr\" style=\"text-align: left;\">The estimated learning time to complete this course is 2 hours.</p>"
 msgstr ""
+"<h4 style=\"text-align: left;\">Bidik</h4>\n"
+"<p>Dalam kursus menengah ini Anda akan mempelajari:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>Fitur-fitur baru untuk semua pengguna di Moodle 4.4.</"
+"li><li>Penyempurnaan terhadap fitur-fitur yang ada untuk semua pengguna di "
+"Moodle 4.4.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"\n"
+"<h4>Prasyarat</h4>Sebelum memulai kursus ini diharapkan Anda sudah "
+"mengetahui cara mengelola situs Moodle dan/atau cara mengajar dengan "
+"Moodle.<br><br>\n"
+"<h4>Format</h4>\n"
+"<p dir=\"ltr\">Ini adalah kursus mandiri tanpa moderasi aktif. Anda "
+"dianjurkan untuk mendiskusikan ide di forum diskusi dan menanggapi "
+"pertanyaan peserta didik lainnya.</p>\n"
+"<h4 style=\"text-align: left;\">Waktu belajar</h4>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\">Perkiraan waktu pembelajaran "
+"untuk menyelesaikan kursus ini adalah 2 jam.</p>"
 
 # {"targetlanguage": "id", "contextid": "262746", "md5key":
 # "3a28229a7d7b662c67b7f7c66e1a6df8"}
@@ -101,6 +153,17 @@ msgid ""
 "</ul><br>\n"
 "<hr>"
 msgstr ""
+"<p>Semua perubahan penting pada kursus ini akan didokumentasikan di halaman "
+"ini.</p>\n"
+"<hr>\n"
+"<p>Tanggal: DD Month YYYY<br>Diubah oleh:&nbsp;<br>Perubahan:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>...</li>\n"
+"    <li>...</li>\n"
+"    <li>...</li>\n"
+"</ul><br>\n"
+"<hr>"
 
 # {"targetlanguage": "id", "contextid": "262746", "md5key":
 # "b8d7a140965c588683e202f3f08e8ec1"}
@@ -113,6 +176,20 @@ msgid ""
 "    <a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=272\">Read more about how you should attribute this work.</a><br>\n"
 "</p>"
 msgstr ""
+"<p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\""
+"><img src=\"https://moodle.academy/pluginfile.php/262746/mod_book/ chapter/"
+"4053/ccby.png\" alt=\"Lisensi Creative Commons\" width=\"120\" height=\"42\" "
+"style=\"float:left\" class=\"img-fluid atto_image_button_middle\"></a>\n"
+"    Kursus dari Moodle Academy (Moodle Pty Ltd) ini dilisensikan dengan&nbsp;"
+"<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>. "
+"Sumber daya asli tersedia di<a href=\"https://moodle.academy/\" title="
+"\"Moodle Academy\">Moodle Academy</a>.<br></p>\n"
+"<p>\n"
+"    <span class=\"moodle-orange bold larger\">›</span>\n"
+"\n"
+"    <a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=272\""
+">Baca selengkapnya tentang cara mengatribusikan karya ini.</a><br>\n"
+"</p>"
 
 # {"targetlanguage": "id", "contextid": "262746", "md5key":
 # "3c2415d3f71c81e2e9c5c6b170cecfa7"}
@@ -124,6 +201,15 @@ msgid ""
 "    <li>Identify improvements in Moodle 4.4 and changes from earlier versions either for site administrators, editing teachers or both.</li>\n"
 "</ul>"
 msgstr ""
+"<h6>\n"
+"    Pada akhir kursus ini, peserta akan mampu:</h6><br>\n"
+"<ul>\n"
+"    <li>Identifikasi fitur-fitur baru di Moodle 4.4 baik untuk administrator "
+"situs, pengajar pengedit, atau keduanya;&nbsp;</li>\n"
+"    <li>Identifikasi peningkatan dalam Moodle 4.4 dan perubahan dari versi "
+"sebelumnya baik untuk administrator situs, pengajar pengedit, atau "
+"keduanya.</li>\n"
+"</ul>"
 
 # {"targetlanguage": "id", "contextid": "262746", "md5key":
 # "755ad3646f025fa43dce092f41d99b69"}
@@ -135,6 +221,22 @@ msgid ""
 "<p>This course relates to the following competences:</p>\n"
 "<p>1.4 Digital CPD (DigCompEdu).</p><p>2.4 Support structures (DigCompLMSAdmin).</p><p>8.2 Reflective Practice and Digital CPS (DigCompLMSAdmin).</p>"
 msgstr ""
+"<p>\"Menjadi kompeten secara digital artinya\n"
+"    menggunakan teknologi digital dengan cara yang percaya diri dan aman\" ("
+"DigComp 2.0).</p>\n"
+"<p>Kursus Moodle Academy di jalur pembelajaran Pendidik menggunakan versi "
+"khusus Moodle dari Kerangka Kompetensi Digital untuk Pendidik (DigCompEdu). "
+"Ini adalah kerangka kerja yang sama yang digunakan oleh Moodle Educator "
+"Certification (MEC) tingkat lanjut.&nbsp;</p>\n"
+"<p>Kursus Moodle Academy di jalur pembelajaran Administrator menggunakan <a "
+"href=\"https://moodle.academy/mod/glossary/view.php?id=1915\""
+">DigCompLMSAdmin</a>, sebuah kerangka kerja yang dirancang oleh Moodle "
+"Academy untuk menunjukkan kompetensi administrator situs Moodle, mirip "
+"dengan bagaimana DigCompEdu menunjukkan kompetensi pendidik.&nbsp;</p>\n"
+"<p>Kursus ini berkaitan dengan kompetensi sebagai berikut:</p>\n"
+"<p>1.4 CPD Digital (DigCompEdu).</p><p>2.4 Struktur pendukung "
+"(DigCompLMSAdmin).</p><p>8.2 Latihan Reflektif dan CPS Digital "
+"(DigCompLMSAdmin).</p>"
 
 # {"targetlanguage": "id", "contextid": "262746", "md5key":
 # "c895f76b246f37f2841affe2b5ec8e97"}
@@ -184,6 +286,13 @@ msgid ""
 "    <li>###, Moodle Academy;</li>\n"
 "</ul><br>"
 msgstr ""
+"<p dir=\"ltr\">Terima kasih banyak kepada individu berikut yang telah "
+"berkontribusi pada kursus ini, baik dalam menyediakan konten dan instruksi, "
+"atau memberikan masukan untuk membantu menyempurnakan desain kursus "
+"ini.<br></p>\n"
+"<ul>\n"
+"    <li>###, Moodle Academy;</li>\n"
+"</ul><br>"
 
 # {"targetlanguage": "id", "contextid": "262746", "md5key":
 # "873e9d1b630f2e559a6907b558636e15"}
@@ -195,6 +304,11 @@ msgid ""
 "href=\"https://docs.moodle.org/403/en/New_features\">&nbsp;New Features 4.4 "
 "documentation.</a><br><br><br>"
 msgstr ""
+"Kursus ini mencakup fitur-fitur baru dan peningkatan dalam Moodle LMS 4."
+"4<br><br>&nbsp;Lihat&nbsp;<a href=\"https://docs.moodle.org/404/en/"
+"Main_page\">Ikhtisar dokumentasi Moodle 4.4</ a>&nbsp;dan<a href=\"https"
+"://docs.moodle.org/404/en/New_features\">&nbsp;dokumentasi Fitur Baru 4."
+"4.</a><br><br><br>"
 
 # {"targetlanguage": "id", "contextid": "262748", "md5key":
 # "2518b28e15f46e7134c013d548afdab3"}
@@ -204,6 +318,24 @@ msgid ""
 "<p>Alternatively you can use the <a href=\"https://school.moodledemo.net\"> Mount Orange School demo site</a>, a demo site with many existing activities you can explore and adapt. While this does not  offer an administrator login, you can experience many features with the manager login (username = manager/password = moodle), and the editing teacher login (username= teacher/password = moodle), again remembering that the site is reset every hour so you won't be able to save your work.</p>\n"
 "<p>Note:<strong> </strong>MoodleCloud sites are currently on 4.3 and not yet upgraded to 4.4.</p>"
 msgstr ""
+"<p>Untuk mendapatkan manfaat maksimal dari kursus ini, Anda harus memiliki "
+"situs uji Moodle 4.4 di mana Anda memiliki akses administrator atau pengajar "
+"pengedit, tergantung pada tanggung jawab Anda.</p>\n"
+"<p>Jika tidak memungkinkan, Anda dapat menggunakan <a href=\"https://sandbox."
+"moodledemo.net\">demo sandbox Moodle</a> dengan login admin (nama pengguna = "
+"admin/kata sandi = sandbox) namun perlu diketahui bahwa situs ini disetel "
+"ulang setiap jam sehingga Anda tidak akan dapat menyimpan pekerjaan Anda.</p>"
+"\n"
+"<p> Alternatifnya, Anda dapat menggunakan <a href=\"https://school.moodledemo"
+".net\"> situs demo Mount Orange School </a>, situs demo dengan banyak "
+"aktivitas yang dapat Anda jelajahi dan adaptasi. Meskipun ini tidak "
+"menawarkan login administrator, Anda dapat merasakan banyak fitur dengan "
+"login manajer (nama pengguna = manager/kata sandi = moodle), dan login "
+"pengajar pengedit (nama pengguna = teacher/kata sandi = moodle), sekali lagi "
+"mengingat bahwa situs telah disetel ulang setiap jam sehingga Anda tidak "
+"dapat menyimpan pekerjaan Anda.</p>\n"
+"<p>Catatan:<strong> </strong>Situs MoodleCloud saat ini menggunakan versi "
+"4.3 dan belum ditingkatkan ke 4.4.</p>"
 
 # {"targetlanguage": "id", "contextid": "262749", "md5key":
 # "9fb36eb0416734bdd338f55271454356"}
@@ -212,11 +344,14 @@ msgid ""
 "features and improvements. We'll explore many, but not all, of them in this "
 "course, so here is the complete list.</div>"
 msgstr ""
+"<div class=\"no-overflow\">Ini adalah halaman resmi dengan semua fitur dan "
+"peningkatan baru. Kita akan menjelajahi banyak, namun tidak semuanya, dalam "
+"kursus ini, jadi inilah daftar lengkapnya.</div>"
 
 # {"targetlanguage": "id", "contextid": "300763", "md5key":
 # "bb945cbf9c71d69f2e7757dd8982ba24"}
 msgid "Webinar recording 'What's New in Moodle 4.4'"
-msgstr ""
+msgstr "Rekaman webinar 'Yang Baru di Moodle 4.4'"
 
 # {"targetlanguage": "id", "contextid": "300763", "md5key":
 # "672d47e37941678d055bfd6121fd4039"}
@@ -238,21 +373,54 @@ msgid ""
 "</div>\n"
 "\n"
 msgstr ""
+"<p dir=\"ltr\"><a href=\"https://youtu.be/m4Rfc79C3Sc\">Baru di 4.4</a></p>\n"
+"<p dir=\"ltr\">Jika Anda melewatkan webinar, Anda dapat menonton rekamannya "
+"di YouTube di atas, atau mendownloadnya melalui link di bawah "
+"ini.&nbsp;<br></p>\n"
+"<div class=\"editor-indent\" style=\"margin-left: 30px;\">\n"
+"    <p dir=\"ltr\"><i class=\"fa fa-file-video-o\" aria-hidden=\"true\""
+"></i>&nbsp;<a href=\"https://moodle.academy/pluginfile .php/300763/mod_page/"
+"content/5/WhatsNewInMoodle44.mp4\" title=\"Unduh rekaman webinar\">Unduh "
+"rekaman webinar</a>* (58MB)<br><br></p>\n"
+"\n"
+"\n"
+"    <p dir=\"ltr\"><i class=\"fa fa-file-pdf-o\" aria-hidden=\"true\""
+"></i>&nbsp;<a href=\"https://moodle.academy/pluginfile .php/300763/mod_page/"
+"content/5/WhatsNewinMoodle44.pdf\" title=\"Unduh slide dari webinar\">Unduh "
+"slide dari webinar</a> (.pdf)<br><br></p>\n"
+"\n"
+"    <p dir=\"ltr\"><i class=\"fa fa-file-text-o\" aria-hidden=\"true\""
+"></i>&nbsp;Unduh transkrip webinar* (<a href=\"https:// moodle.academy/"
+"pluginfile.php/300763/mod_page/content/5/WhatsNewInMoodle44.srt\" title=\"."
+"srt\">.srt</a>) | (<a href=\"https://moodle.academy/pluginfile.php/300763/"
+"mod_page/content/5/WhatsNewInMoodle44.txt\" title=\".txt\">.txt</a>)"
+"<br><span class =\"moodle-orange bold larger\">›&nbsp;</span><a href=\"https"
+"://moodle.academy/mod/glossary/showentry.php?eid=279\">bagaimana cara "
+"melihat subtitle pada video file?</a></p>\n"
+"\n"
+"\n"
+"</div>\n"
+"<div id=\"urlintro\">\n"
+"    <div><br>* Untuk mengunduh, klik kanan pada tautan dan pilih&nbsp;"
+"<strong>Simpan tautan sebagai...</strong>&nbsp;/&nbsp;<strong>Unduh file "
+"tertaut</strong><br>< /div>\n"
+"</div>\n"
+"\n"
 
 # {"targetlanguage": "id", "contextid": "262751", "md5key":
 # "1889ddd136bb0aa4e399edf6785d6a37"}
 msgid "Slides from the webinar"
-msgstr ""
+msgstr "Slide dari webinar"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "a9ec307810f75bce1c5f81519f31ad54"}
 msgid "Tutorial: What's new for administrators"
-msgstr ""
+msgstr "Tutorial: Apa yang baru bagi administrator"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "0f9775e5cc861a5bd9e1948c45bc332b"}
 msgid "Browse list of users"
-msgstr ""
+msgstr "Telusuri daftar pengguna"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "db018088fa2dbf09a2863960c5897b08"}
@@ -264,11 +432,18 @@ msgid ""
 "unless selected as identity fields in <strong>Site administration &gt; User "
 "policies &gt; Show user identity</strong>.</p>"
 msgstr ""
+"<p>Laman Telusuri daftar pengguna kini mendapat manfaat dari filter yang "
+"menggunakan fungsi pembuat Laporan. Admin dapat memfilter, memilih, dan "
+"melakukan tindakan massal langsung dari halaman ini tanpa perlu membuka "
+"halaman Tindakan pengguna massal.<br><br>Perhatikan bahwa kolom kota dan "
+"negara tidak ditampilkan di halaman kecuali dipilih sebagai kolom identitas "
+"di < strong>Administrasi situs &gt; Kebijakan pengguna &gt; Tampilkan "
+"identitas pengguna</strong>.</p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "0a3e0a17124f333501067faf27ba8056"}
 msgid "Config changes"
-msgstr ""
+msgstr "Perubahan konfigurasi"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "15ccb9bbb7f94e1749297065b669730e"}
@@ -278,6 +453,11 @@ msgid ""
 "src=\"https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4262/configchangesplugin.png\""
 " alt=\"\" width=\"800\" height=\"645\"></p>"
 msgstr ""
+"<p>Laporan perubahan Konfigurasi memiliki opsi baru untuk memfilter "
+"berdasarkan plugin.<br><img class=\"img-fluid atto_image_button_text-bottom\""
+" role=\"presentation\" src=\"https://moodle.academy/pluginfile.php /262753/"
+"mod_book/chapter/4262/configchangesplugin.png\" alt=\"\" width=\"800\" "
+"height=\"645\"></p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "ff5627f178b47dbd65d0cc229a956c4e"}
@@ -293,11 +473,20 @@ msgid ""
 "<h5>Course badges</h5>\n"
 "<p>Teachers and students in courses now benefit from the filter options previously added to site badges for administrators.</p>"
 msgstr ""
+"<h5>Lencana situs</h5>\n"
+"<p>Administrator dapat memfilter lencana situs berdasarkan versi dan tanggal "
+"kedaluwarsa.</p>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4263/"
+"sitebadgesfilter.png\" alt=\" \" lebar=\"800\" tinggi=\"536\"></p>\n"
+"<h5>Lencana kursus</h5>\n"
+"<p>Pengajar dan siswa dalam kursus kini mendapatkan manfaat dari opsi filter "
+"yang sebelumnya ditambahkan ke lencana situs untuk administrator.</p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "fc54360bbc274ea97d127f535837ce38"}
 msgid "Theme usage"
-msgstr ""
+msgstr "Penggunaan tema"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "a758bd1294655ead9ce4523de2245b91"}
@@ -311,11 +500,21 @@ msgid ""
 "</ul>\n"
 "<p>This is particularly useful for sites which use several contributed themes in different contexts.</p>"
 msgstr ""
+"<p>Laporan penggunaan Tema baru memungkinkan administrator melihat tema mana "
+"yang digunakan dalam konteks berikut:</p>\n"
+"<ul>\n"
+"<li>Kursus</li>\n"
+"<li>Kategori</li>\n"
+"<li>Kelompok</li>\n"
+"<li>Pengguna.</li>\n"
+"</ul>\n"
+"<p>Ini sangat berguna untuk situs yang menggunakan beberapa tema kontribusi "
+"dalam konteks berbeda.</p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "4b22c212f490587f28c203e433e847ea"}
 msgid "Theme settings changes"
-msgstr ""
+msgstr "Pengaturan tema berubah"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "87af2c564c7c708bf123eaf4b54d9b94"}
@@ -329,6 +528,20 @@ msgid ""
 "</ul>\n"
 "<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation\" src=\"https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4265/themepage44.png\" alt=\"\" width=\"615\" height=\"418\"></p>"
 msgstr ""
+"<p>Ada beberapa perubahan pengaturan tema di 4.4 dibandingkan dengan versi "
+"sebelumnya.</p>\n"
+"<ul>\n"
+"<li>Bagian Tema dari Administrasi Situs &gt; Penampilan &gt; Tema tidak "
+"muncul bila hanya tema standar (Boost dan Classic) yang digunakan.</li>\n"
+"<li>Sebaliknya, untuk mengakses setelan Tema sebelumnya, klik "
+"<strong>Setelan tema lanjutan</strong>.</li>\n"
+"<li>Untuk pemilih Tema sebelumnya, pilih <strong>Tema</strong>.</li>\n"
+"<li>Untuk mengakses halaman tema Boost/Classic, klik ikon roda gigi di dalam "
+"bingkainya.</li>\n"
+"</ul>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4265/"
+"themepage44.png\" alt=\" \" lebar=\"615\" tinggi=\"418\"></p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "9fe7670f278c5e2001f65c4aecd61622"}
@@ -341,6 +554,16 @@ msgid ""
 "<p>Although the BigBlueButton free version remains unchanged, from 22 April 2024 onwards, administrators wishing to benefit from it will have to register with the BigBlueButton portal via <strong>Site administration &gt; Plugins &gt; BigBlueButton &gt; General settings</strong>.</p>\n"
 "<p>This is very quick to do and allows users to use or continue to use the basic free features of the <a href=\"https://moodle.com/certified-integrations/bigbluebutton/\">BigBlueButton Moodle certified integration.</a><br><br>Note: This applies to <strong>all Moodle versions where the free tier BBB is available</strong>; not just Moodle 4.4.</p>"
 msgstr ""
+"<p>Meskipun versi gratis BigBlueButton tetap tidak berubah, mulai 22 April "
+"2024 dan seterusnya, administrator yang ingin memanfaatkannya harus "
+"mendaftar ke portal BigBlueButton melalui <strong>Administrasi situs &gt; "
+"Plugin &gt; BigBlueButton &gt; Setelan umum</strong>.</p>\n"
+"<p>Ini sangat cepat dilakukan dan memungkinkan pengguna untuk menggunakan "
+"atau terus menggunakan fitur dasar gratis dari <a href=\"https://moodle.com/"
+"certified-integrations/bigbluebutton/\">integrasi bersertifikasi "
+"BigBlueButton Moodle. </a><br><br>Catatan: Ini berlaku untuk <strong>semua "
+"versi Moodle yang menyediakan BBB tingkat gratis</strong>; bukan hanya "
+"Moodle 4.4.</p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "c75f7811d70d17dbcd88e9d03752cbed"}
@@ -356,6 +579,18 @@ msgid ""
 "<p>A new setting <strong>Site administration &gt; Authentication &gt; Manage authentication &gt; Password visibility toggle </strong>allows the administrator to let users click to show (and then hide) their password on the login page.</p>\n"
 "<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation\" src=\"https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4268/passwordvis.png\" alt=\"\" width=\"482\" height=\"498\"></p>"
 msgstr ""
+"<h5>Autentikasi multi-faktor (MFA)</h5>\n"
+"<p>Diperkenalkan di Moodle 4.3, MFA kini ditingkatkan dengan penambahan "
+"faktor SMS, memungkinkan pengguna untuk mengautentikasi melalui kode yang "
+"dikirimkan kepada mereka di ponsel cerdas mereka.</p>\n"
+"<h5>Visibilitas sandi</h5>\n"
+"<p>Pengaturan baru <strong>Administrasi situs &gt; Autentikasi &gt; Kelola "
+"autentikasi &gt; Tombol visibilitas sandi </strong>memungkinkan "
+"administrator mengizinkan pengguna mengeklik untuk menampilkan (lalu "
+"menyembunyikan) sandi mereka di laman masuk.</p>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4268/"
+"passwordvis.png\" alt=\" \" lebar=\"482\" tinggi=\"498\"></p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "fe509c38c1edb3e42923dfb261ac5403"}
@@ -373,11 +608,18 @@ msgid ""
 "src=\"https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4269/h5pcustomcss.png\""
 " alt=\"\" width=\"745\" height=\"546\"></p>"
 msgstr ""
+"<p>Administrator yang memahami CSS atau bekerja dengan mereka yang memahami "
+"CSS kini dapat menambahkan CSS khusus untuk diterapkan pada konten H5P di "
+"seluruh situs dari <strong>Administrasi situs &gt; Umum &gt; Setelan "
+"H5P</strong>.<strong><br></strong><br><img class=\"img-fluid "
+"atto_image_button_text-bottom\" role=\"presentation\" src=\"https://moodle."
+"academy/pluginfile. php/262753/mod_book/chapter/4269/h5pcustomcss.png\" alt="
+"\"\" width=\"745\" height=\"546\"></p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "ab8c7f0ad80eca483dee5f141e059faa"}
 msgid "Disabled activities"
-msgstr ""
+msgstr "Aktivitas yang dinonaktifkan"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "6aecd8d8e84b3fb5fff71509d00a37fd"}
@@ -385,11 +627,18 @@ msgid ""
 "<p>Chat and Survey are due to be removed from standard Moodle LMS in a future version. In preparation for this, both activities are disabled by default in new installations of Moodle 4.4.</p>\n"
 "<p>If you're upgrading to 4.4, you may want to go to <strong>Site administration &gt; Plugins &gt; Activity modules &gt; Manage activities </strong>and check if either activity is being used, and if not, disable them.</p>"
 msgstr ""
+"<p>Obrolan dan Survei akan dihapus dari LMS Moodle standar di versi "
+"mendatang. Sebagai persiapan untuk hal ini, kedua aktivitas tersebut "
+"dinonaktifkan secara default pada instalasi baru Moodle 4.4.</p>\n"
+"<p>Jika Anda mengupgrade ke 4.4, Anda mungkin ingin membuka "
+"<strong>Administrasi situs &gt; Plugin &gt; Modul aktivitas &gt; Mengelola "
+"aktivitas </strong>dan memeriksa apakah salah satu aktivitas sedang "
+"digunakan, dan jika tidak, nonaktifkan mereka.</p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "b51a55bf56bc1287983c6632493b5026"}
 msgid "CLI improvements"
-msgstr ""
+msgstr "Peningkatan CLI"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "ee845ae70eb3c9c0243795cdeeef8787"}
@@ -400,6 +649,12 @@ msgid ""
 "<li>CLI script for restoring into an existing course.</li>\n"
 "</ul>"
 msgstr ""
+"<p>Bagi administrator yang terbiasa dengan baris perintah, dua skrip baru "
+"akan diterima:</p>\n"
+"<ul>\n"
+"<li>Skrip CLI untuk mengimpor kursus.</li>\n"
+"<li>Skrip CLI untuk memulihkan ke kursus yang sudah ada.</li>\n"
+"</ul>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "82ec2cd6fda87713f588da75c3b1d0ed"}
@@ -416,6 +671,16 @@ msgid ""
 "<li>Use upload course tool (<em>tool/uploadcourse:use</em>) - allowed for the default Manager role</li>\n"
 "</ul>"
 msgstr ""
+"<p>Seperti yang disorot di bagian awal tutorial ini, kemampuan berikut ini "
+"baru di Moodle 4.4:</p>\n"
+"<ul>\n"
+"<li>Lihat semua laporan khusus (<em>moodle/reportbuilder:viewall</em>) - "
+"tidak ditetapkan untuk peran standar</li>\n"
+"<li>Akses fitur TinyMCE Premium (<em>tiny/premium:accesspremium</em>) - "
+"diizinkan untuk peran pengguna yang terautentikasi bawaan</li>\n"
+"<li>Gunakan alat unggah kursus (<em>alat/uploadcourse:use</em>) - diizinkan "
+"untuk peran Manajer bawaan</li>\n"
+"</ul>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "c5562ce2e22a86c247849904ecef3dc8"}
@@ -434,6 +699,14 @@ msgid ""
 "and transcripts for download</a>.<br><br><a "
 "href=\"https://youtu.be/kuiSL53z4hQ\">Reporting in 4.4</a></p>"
 msgstr ""
+"<p>Berkat penerapan fungsi pembuat Laporan dari Moodle Workplace™, "
+"peningkatan dalam pelaporan di versi 4.4 mencakup fitur tambahan untuk "
+"laporan khusus dan juga peningkatan pemfilteran di area lain, ditambah satu "
+"laporan yang benar-benar baru. <br><br>Video berikut memberikan ikhtisar "
+"penyempurnaan pelaporan. Download video dan transkrip dari bagian <a href="
+"\"https://moodle.academy/course/view.php?id=143#section-2\">Video dan "
+"transkrip untuk diunduh</a>.<br>< br><a href=\"https://youtu.be/kuiSL53z4hQ\""
+">Pelaporan dalam versi 4.4</a></p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "a4efbe04cec5625242e1dba579fd204a"}
@@ -442,11 +715,16 @@ msgid ""
 " you can try as often as you like.<br><span data-"
 "translationhash=\"e0ec9c626b9d97e505a5b8d53979aae3\">{Q{1988/19882|b8bd9b7b025781a1469f891b5836fb58ff1f43a5e89c4ab89236243bb5aadc7c}Q}<br></span>"
 msgstr ""
+"Uji pemahaman Anda dengan pemeriksaan cepat ini. Nilai tidak disimpan, jadi "
+"Anda dapat mencobanya sesering yang Anda mau.<br><span data-translationhash="
+"\"e0ec9c626b9d97e505a5b8d53979aae3\">{Q{1988/19882|"
+"b8bd9b7b025781a1469f891b5836fb58ff1f43a5e89c4ab89 "
+"236243bb5aadc7c}Q<br></span>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "4d5b4db2bddb6b43268ee0394dcc8334"}
 msgid "New question type"
-msgstr ""
+msgstr "Jenis pertanyaan baru"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "4c15cf0b50370bfcd395fa88c5df369f"}
@@ -454,6 +732,14 @@ msgid ""
 "<p>The <strong>Ordering question type</strong>, a well-established community plugin originally developed by Gordon Bateson, is now in standard Moodle thanks to sponsoring by the MUA.</p>\n"
 "<p>The following video gives an overview of the Ordering question type. Download the video and transcript from the <a href=\"https://moodle.academy/course/view.php?id=143#section-5\">Videos and transcripts for download</a> section.<br><br><a href=\"https://youtu.be/r-P2IZp-ysg\">Ordering question type</a></p>"
 msgstr ""
+"<p><strong>Jenis pertanyaan pengurutan</strong>, sebuah plugin komunitas "
+"mapan yang awalnya dikembangkan oleh Gordon Bateson, kini tersedia dalam "
+"Moodle standar berkat sponsor dari MUA.</p>\n"
+"<p>Video berikut memberikan gambaran umum tentang jenis pertanyaan "
+"Pengurutan. Download video dan transkrip dari bagian <a href=\"https://moodle"
+".academy/course/view.php?id=143#section-5\">Video dan transkrip untuk "
+"diunduh</a>.<br>< br><a href=\"https://youtu.be/r-P2IZp-ysg\">Jenis "
+"pertanyaan pengurutan</a></p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "324003a4dfcaf85c9e0824eef031764b"}
@@ -472,11 +758,20 @@ msgid ""
 "charging is done on \"per request\" basis (number of editor loads). The "
 "capability is allowed for the default Authenticated user role.</p>"
 msgstr ""
+"<p><strong>TinyMCE </strong>kini menjadi editor bawaan di semua situs "
+"Moodle, sebagai persiapan untuk penghapusan Atto di Moodle "
+"4.5.<br><br>Seiring dengan perbaikan pada UI pengunggahan gambar, "
+"administrator juga harus mengetahui kemampuan baru 'Akses fitur Premium "
+"TinyMCE' <em>(tiny/premium:accesspremium) </em>yang memungkinkan Anda "
+"mengontrol pengguna mana yang dapat menggunakan fitur premium dan dalam "
+"konteks apa. Untuk fitur premium TinyMCE, pembiayaan dilakukan berdasarkan "
+"\"per permintaan\" (jumlah pemuatan editor). Kemampuan ini diperbolehkan "
+"untuk peran bawaan pengguna Terautentikasi.</p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "2b15ae62f4a39ccfbc527094760a4e37"}
 msgid "Upload courses"
-msgstr ""
+msgstr "Unggah kursus"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "a127069992847cd0aa205616a19e60e2"}
@@ -490,11 +785,20 @@ msgid ""
 "also the capabilities <em>moodle/course:create, moodle/course:update</em> "
 "and <em>moodle/course:delete</em> (potentially).</p>"
 msgstr ""
+"<p>Sampai saat ini, hanya administrator yang dapat mengunggah file csv "
+"berisi informasi kursus melalui <strong>Administrasi situs &gt; Kursus &gt; "
+"Unggah kursus</strong>.<strong><br></strong><br>Kemampuan baru, Gunakan alat "
+"unggah kursus (<em>tool/uploadcourse:use</em>) dapat diberikan misalnya "
+"kepada Manajer untuk izinkan mereka mengunggah file csv. Kemampuan ini "
+"diperbolehkan secara bawaan untuk peran Manajer dan jika diberikan kepada "
+"pengguna lain, kemampuan ini juga (berpotensi) memerlukan kemampuan <em>"
+"moodle/course:create, moodle/course:update</em> dan <em>moodle/course:delete "
+"</em>.</p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "017a4fd83f7c76959cb63d8af7d8a330"}
 msgid "User tours"
-msgstr ""
+msgstr "Tur pengguna"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "f89832d0234799f53a03b96d3bfb25b6"}
@@ -510,6 +814,16 @@ msgid ""
 " alt=\"\" width=\"658\" height=\"188\" role=\"presentation\" class=\"img-"
 "fluid atto_image_button_text-bottom\"><br>"
 msgstr ""
+"Dalam versi Moodle yang lebih lama, setelah tur pengguna selesai, pengguna "
+"harus mengatur ulang tur tersebut dari tautan di bagian bawah layar agar "
+"dapat melihatnya lagi, atau administrator harus mengatur ulang tur untuk "
+"semua orang yang berkepentingan.<br ><br>Pengaturan baru di 4.4 memungkinkan "
+"pembuat tur membuat tur selalu ditampilkan -&nbsp; fitur berguna untuk area "
+"di mana pengguna perlu diingatkan secara rutin tentang pengaturan atau "
+"tindakan tertentu yang harus diambil.<br><br><img src=\"https://moodle."
+"academy/pluginfile.php/262753/mod_book/chapter/ 4266/usertouralwaysshow.png\""
+" alt=\"\" width=\"658\" height=\"188\" role=\"presentation\" class=\"img-"
+"fluid atto_image_button_text-bottom\"><br>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "b8648bc109b0c0c621108e5f02417c89"}
@@ -518,6 +832,9 @@ msgid ""
 " you can try as often as you "
 "like.<br><br>{Q{1988/19881|89d46b254f469ae51a11fb387a04e35fccda46102ea6c147cfb53cdc6dce37dc}Q}<br>"
 msgstr ""
+"Uji pemahaman Anda dengan pemeriksaan cepat ini. Nilai tidak disimpan, jadi "
+"Anda dapat mencobanya sesering yang Anda mau.<br><br>{Q{1988/"
+"19881|89d46b254f469ae51a11fb387a04e35fccda46102ea6c147cfb53cdc6dce37dc}Q<br>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "f307ecb6d91dd572962016556985a4ef"}
@@ -528,6 +845,16 @@ msgid ""
 "<li>other changes administrators of 4.4 sites should be aware of.</li>\n"
 "</ul>"
 msgstr ""
+"<p>Dalam tutorial ini kami akan membahas fitur-fitur baru dan peningkatan "
+"yang paling signifikan dan menarik di Moodle 4.4. Untuk daftar lengkap semua "
+"yang baru, lihat <a href=\"https://moodledev.io/general/releases/4.4\""
+">dokumentasi rilis Moodle 4.4</a>.<br><br>Dalam tutorial ini kita "
+"menjelajahi:</p>\n"
+"<ul>\n"
+"<li>fitur baru dan peningkatan yang memengaruhi administrator situs 4.4.</li>"
+"\n"
+"<li>perubahan lain yang harus diketahui oleh administrator situs 4.4.</li>\n"
+"</ul>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "6bb6d58b728200b4db7d63055275a07d"}
@@ -546,11 +873,27 @@ msgid ""
 "<p>In courses teachers have easier access to the 'Post all groups' checkbox. </p>\n"
 "<p>The following video gives an overview of both of these community-contributed forum improvements in Moodle 4.4 for admins and teachers. Download the video and transcript from the section <a href=\"https://moodle.academy/course/view.php?id=143#section-2\">Videos and transcripts for download</a>.<br><br><a href=\"https://youtu.be/3kLaQUM16Hc\">4.4 Forum</a></p>"
 msgstr ""
+"<p>Bagian baru di <strong>Administrasi situs &gt; Plugin &gt; Modul "
+"aktivitas &gt; Forum &gt; Setelan pengumuman bawaan forum </"
+"strong>memungkinkan administrator menentukan bawaan</p>\n"
+"<ul>\n"
+"<li>Jumlah maksimum lampiran per post;</li>\n"
+"<li>Mode berlangganan.</li>\n"
+"</ul>\n"
+"<p>Hal ini, misalnya, akan menguntungkan situs yang menganggap 'Langganan "
+"paksa' yang biasa tidak sesuai untuk kursus.</p>\n"
+"<p>Dalam kursus, pengajar memiliki akses yang lebih mudah ke kotak centang "
+"'Post ke semua grup'. </p>\n"
+"<p>Video berikut memberikan ikhtisar mengenai peningkatan forum kontribusi "
+"komunitas di Moodle 4.4 untuk admin dan pengajar. Download video dan "
+"transkrip dari bagian <a href=\"https://moodle.academy/course/view."
+"php?id=143#section-2\">Video dan transkrip untuk diunduh</a>.<br>< br><a "
+"href=\"https://youtu.be/3kLaQUM16Hc\">Forum 4.4</a></p>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "de22152e845f0e40758a8ee570c964f6"}
 msgid "Changes for teachers"
-msgstr ""
+msgstr "Perubahan untuk pengajar"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "27ae968088090533f745af72dcb8aeab"}
@@ -566,6 +909,22 @@ msgid ""
 "<li>Easier location of course backup/restore/import/reset.</li>\n"
 "</ul>"
 msgstr ""
+"<h5><span style=\"color: rgb(73, 80, 87); font-size: 1rem; font-weight: 400;"
+"\">Meskipun tutorial ini berfokus pada perubahan di 4.4 untuk administrator, "
+"perubahan dalam kursus juga penting untuk diketahui oleh para administrator. "
+"Oleh karena itu, kami menyarankan Anda menjelajahi Tutorial: Apa yang baru "
+"bagi pendidik untuk mendukung staf pengajar Anda dengan lebih baik. Yang "
+"paling penting adalah:</span><br></h5>\n"
+"<ul>\n"
+"<li>Jenis pertanyaan Pengurutan baru</li>\n"
+"<li>Tata letak halaman kursus yang ditingkatkan</li>\n"
+"<li>Ikon aktivitas baru yang lebih mudah diakses dan ikon jenis MIME "
+"baru</li>\n"
+"<li>Penyempurnaan tata letak 'satu bagian per halaman'</li>\n"
+"<li>Halaman bagian baru</li>\n"
+"<li>Format topik diganti namanya menjadi Bagian khusus</li>\n"
+"<li>Lokasi lebih untuk backup/restore/import/reset kursus.</li>\n"
+"</ul>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "a274f4d4670213a9045ce258c6c56b80"}
@@ -582,11 +941,24 @@ msgid ""
 "<li>When students are manually enrolled, they receive a welcome message. By default this message comes from the course contact (first teacher of the course) but administrators can set it to the Keyholder role or no-reply address from <strong>Site administration &gt; Plugins &gt;  Enrolments &gt; Manual enrolments &gt; Send course welcome message</strong>.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"<li>Dalam Moodle 4.4,<strong> notifikasi web</strong> <strong>diaktifkan "
+"secara bawaan</strong>.</li>\n"
+"<li>Administrator menerima notifikasi <strong>Tugas gagal </strong>.</li>\n"
+"<li>Siswa diberitahu bahwa mereka akan segera dibatalkan dari pendaftaran "
+"kursus jika mereka belum mengaksesnya selama jangka waktu tertentu.</li>\n"
+"<li>Saat siswa mendaftar secara manual, mereka menerima pesan selamat "
+"datang. Secara bawaan, pesan ini berasal dari kontak kursus (pengajar "
+"pertama kursus) namun administrator dapat menyetelnya ke peran Pemegang "
+"Kunci atau alamat tidak ada balasan dari <strong>Administrasi situs &gt; "
+"Plugin &gt;  Pendaftaran &gt; Pendaftaran manual &gt; Kirim pesan selamat "
+"datang kursus</strong>.</li>\n"
+"</ul>"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "9c72b82a4b8ba3bee7f0cec586220850"}
 msgid "Custom reports"
-msgstr ""
+msgstr "Laporan khusus"
 
 # {"targetlanguage": "id", "contextid": "262753", "md5key":
 # "90db5041996574843398c3857b11909b"}
@@ -602,11 +974,27 @@ msgid ""
 "<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation\" src=\"https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4260/categoryteachers.png\" alt=\"\" width=\"761\" height=\"366\"></p>\n"
 "<p>The new capability allows a user to view all custom reports regardless of the audience. This will be particularly useful for those using tenants in Moodle Workplace™.</p>"
 msgstr ""
+"<p>Peningkatan pada laporan khusus meliputi:</p>\n"
+"<ul>\n"
+"<li>Sumber laporan Peran baru;</li>\n"
+"<li>Kemampuan untuk memfilter berdasarkan ukuran file dan jenis file;</li>\n"
+"<li>Penandaan laporan khusus;</li>\n"
+"<li>Kemampuan baru 'Lihat semua laporan khusus' "
+"(<em>reportbuilder:viewall</em>)</li>\n"
+"</ul>\n"
+"<p>Sumber laporan Peran memungkinkan Anda membuat laporan yang menunjukkan "
+"peran pengajar dalam berbagai kategori kursus kepada pengguna.</p>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262753/mod_book/chapter/4260/"
+"categoryteachers.png\" alt=\" \" lebar=\"761\" tinggi=\"366\"></p>\n"
+"<p>Kemampuan baru ini memungkinkan pengguna melihat semua laporan khusus, "
+"apa pun audiensnya. Hal ini akan sangat berguna bagi mereka yang menggunakan "
+"sistem penyewaan di Moodle Workplace™.</p>"
 
 # {"targetlanguage": "id", "contextid": "262754", "md5key":
 # "49b4a308cfe85135bea8e58df7e6a6da"}
 msgid "Try out the admin improvements and new features"
-msgstr ""
+msgstr "Cobalah peningkatan admin dan fitur baru"
 
 # {"targetlanguage": "id", "contextid": "262754", "md5key":
 # "ab1556bc23b397b8681de67aa5ec055e"}
@@ -629,16 +1017,40 @@ msgid ""
 "<h5>Optionally (but highly recommended)</h5>\n"
 "<p>Explore the new settings for course teachers by going through the tasks: Try out the educator improvements and new features.</p>"
 msgstr ""
+"<p>Silakan lihat halaman Tempat mencoba Moodle 4.4 jika Anda tidak memiliki "
+"akses ke situs pengujian Moodle 4.4.</p>\n"
+"<ol>\n"
+"<li>Masuk ke <a href=\"https://school.moodledemo.net\">situs demo Mount "
+"Orange School</a> dengan nama pengguna manager/kata sandi moodle. </li>\n"
+"<li>Jelajahi dua laporan khusus baru yang berkaitan dengan Peran serta jenis "
+"dan ukuran file.</li>\n"
+"<li>Jelajahi halaman Telusuri daftar pengguna dengan pemfilteran yang "
+"ditingkatkan dan tindakan massal. </li>\n"
+"<li>Unggah satu atau dua lencana situs dan jelajahi filter baru berdasarkan "
+"versi dan tanggal kedaluwarsa.</li>\n"
+"<li>Jelajahi opsi format jawaban bawaan untuk jenis pertanyaan Pengurutan "
+"yang baru.</li>\n"
+"<li>Jika Anda memiliki situs pengujian sendiri...<br>\n"
+"<ul>\n"
+"<li>Jelajahi laporan penggunaan Tema baru.</li>\n"
+"<li>Jelajahi pengumuman bawaan forum baru.</li>\n"
+"<li>Pastikan Anda terdaftar di BBB jika menggunakan paket gratis.</li>\n"
+"</ul>\n"
+"</li>\n"
+"</ol>\n"
+"<h5>Opsional (tetapi sangat disarankan)</h5>\n"
+"<p>Jelajahi setelan baru untuk pengajar kursus dengan melakukan tugas: "
+"Mencoba penyempurnaan pendidik dan fitur baru.</p>"
 
 # {"targetlanguage": "id", "contextid": "262755", "md5key":
 # "423ff781e029951e8a9b8b00f2838f3b"}
 msgid "Checklist: 4.4 administration"
-msgstr ""
+msgstr "Daftar periksa: 4.4 administrasi"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "0561fb45652736ff53f4efa8ee4fe055"}
 msgid "Tutorial: What's new for educators"
-msgstr ""
+msgstr "Tutorial: Apa yang baru bagi pendidik"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "3c1ec9bf8db7ebef679ae6c2c78cff71"}
@@ -647,11 +1059,14 @@ msgid ""
 " you can try as often as you "
 "like.<br><br>{Q{1988/19884|14a5e06be12774b40f366089acea8f59b52bec022891d20de7d8218a0a1ff9a1}Q}<br>"
 msgstr ""
+"Uji pemahaman Anda dengan pemeriksaan cepat ini. Nilai tidak disimpan, jadi "
+"Anda dapat mencobanya sesering yang Anda mau.<br><br>{Q{1988/"
+"19884|14a5e06be12774b40f366089acea8f59b52bec022891d20de7d8218a0a1ff9a1}Q<br>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "5172d212fcce0a352bcd9a245901f5e9"}
 msgid "Matrix groups"
-msgstr ""
+msgstr "Kelompok matriks"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "88445b5ba569872e0b66f2f5c7ca1bf3"}
@@ -659,6 +1074,13 @@ msgid ""
 "<p>If your 4.4 site is linked with a Matrix server and in your course from <strong>Course navigation &gt; More &gt; Communication</strong>, Matrix is enabled, then if you have set up groups in the course, Matrix will create dedicated group rooms for you and the students in that group.</p>\n"
 "<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4282/acadmatrixgroups.png\" alt=\"\" width=\"795\" height=\"415\"></p>"
 msgstr ""
+"<p>Jika situs 4.4 Anda terhubung dengan server Matrix dan dalam kursus Anda "
+"dari <strong>Navigasi kursus &gt; Lainnya &gt; Komunikasi</strong>, Matrix "
+"diaktifkan, lalu jika Anda telah menyiapkan grup dalam kursus, Matrix akan "
+"membuat ruang grup khusus untuk Anda dan siswa dalam grup tersebut.</p>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4282/"
+"acadmatrixgroups.png\" alt=\" \" lebar=\"795\" tinggi=\"415\"></p>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "5270cd3b7ad7a8109cba7080f3c9c21c"}
@@ -667,6 +1089,9 @@ msgid ""
 " you can try as often as you "
 "like.<br><br>{Q{1988/18883|d16037f295a1e0d3a5569852dc64cbf5130b16d2eae231fae924eedab18fcdbe}Q}<br>"
 msgstr ""
+"Uji pemahaman Anda dengan pemeriksaan cepat ini. Nilai tidak disimpan, jadi "
+"Anda dapat mencobanya sesering yang Anda mau.<br><br>{Q{1988/"
+"18883|d16037f295a1e0d3a5569852dc64cbf5130b16d2eae231fae924eedab18fcdbe}Q<br>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "81b3c877e93338d2c15c19a8e7284e64"}
@@ -683,7 +1108,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "12389408aa49ca6a1125a89de91cb768"}
 msgid "Activity icons"
-msgstr ""
+msgstr "Ikon aktivitas"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "62afbe477a3b7304efb83a504ba7bd4b"}
@@ -703,7 +1128,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "e6adbda71ec5154792c56e41456e264f"}
 msgid "Video: Ordering question"
-msgstr ""
+msgstr "Video: Pertanyaan pengurutan"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "c009c2f99972386476c88882db3c89d0"}
@@ -716,7 +1141,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "af85e416fca8eed73ac26cc4500124e6"}
 msgid "New section page"
-msgstr ""
+msgstr "Halaman bagian baru"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "0f91d7f83fc921e258e74071a3158ac2"}
@@ -728,7 +1153,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "1e3ecc437f07026299b029e0dfd68729"}
 msgid "MIME type icons"
-msgstr ""
+msgstr "Ikon jenis MIME"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "a04956f6c67016fc6a610c902d96a8e0"}
@@ -768,7 +1193,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "e6986dac12736e6c2290952d757ffe8d"}
 msgid "Video: Quiz improvements"
-msgstr ""
+msgstr "Video: Peningkatan kuis"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "1ebab3cca92bb4eb753c67833e3af4b7"}
@@ -790,7 +1215,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "db3e13b4d5ac0e09a9d1dcfc06d3f247"}
 msgid "Course page"
-msgstr ""
+msgstr "Halaman kursus"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "fc2d4f4ed51920a14e95824c0648be96"}
@@ -811,7 +1236,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "e908e8acfd2fd94a8ba15152a5104c5b"}
 msgid "Video: New icons"
-msgstr ""
+msgstr "Video: Ikon baru"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "f2f8af5f1361a59bcb1ee0ebccd666a3"}
@@ -823,7 +1248,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "27fd26494a6da3c65cdd91f683b7231e"}
 msgid "Video: Course page"
-msgstr ""
+msgstr "Video: Halaman kursus"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "c9ababe15da22bfd6d54f8fe179c7c43"}
@@ -835,7 +1260,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "6dffdc66cc311cd20bca7aa0b492239e"}
 msgid "Course management"
-msgstr ""
+msgstr "Manajemen kursus"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "07ff3f83af2698fb2965989d845d6420"}
@@ -858,7 +1283,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "1500b6bbde21de6a8ca2f738ff0a7e79"}
 msgid "Quiz and Question bank"
-msgstr ""
+msgstr "Kuis dan Bank Soal"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "77473bf6a7da5e8367faf9d0689e300b"}
@@ -894,7 +1319,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262757", "md5key":
 # "1fb9b9b66406679c0f942ca971864df1"}
 msgid "Try out the educator improvements and new features"
-msgstr ""
+msgstr "Cobalah peningkatan pendidik dan fitur baru"
 
 # {"targetlanguage": "id", "contextid": "262757", "md5key":
 # "fb2864ba2a16aefc6464842186731625"}
@@ -913,7 +1338,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "262758", "md5key":
 # "e230ef73dc08d33724886edb4f626bac"}
 msgid "Checklist: Teaching with 4.4"
-msgstr ""
+msgstr "Daftar Periksa: Mengajar dengan 4.4"
 
 # {"targetlanguage": "id", "contextid": "317847", "md5key":
 # "a4f8080c8f27d2c127150cc3db4cce03"}
@@ -957,7 +1382,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "3436111b00a984f5c4c3b3dd3d15fb9a"}
 msgid "Forum improvements"
-msgstr ""
+msgstr "Perbaikan forum"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "96874e769052041e8d7cb82faed6fb3f"}
@@ -967,7 +1392,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "19b4b8902a7a0a09c0af22da6c70c7de"}
 msgid "Ordering question type"
-msgstr ""
+msgstr "Jenis pertanyaan pengurutan"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "f19b7456cdaf5b134ee2e73c71bb9f8a"}
@@ -977,7 +1402,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "c4f43a3cad577b25ac9e1a4ecf41110a"}
 msgid "Quiz grade items"
-msgstr ""
+msgstr "Item nilai kuis"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "fad02b3b487341f155e0a341e5eb08ad"}
@@ -987,12 +1412,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "a94a32a6ffa84b5b0c99f618959cdf10"}
 msgid "That's one, yes!"
-msgstr ""
+msgstr "Itu salah satunya, ya!"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "775a5f8e0b8c9d196e75b77594e6bf90"}
 msgid "Which of the following statements are correct? Select all that apply."
-msgstr ""
+msgstr "Manakah dari pernyataan berikut yang benar? Pilih semua yang berlaku."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "a57e7fbb8fd0235b6aefc791867fcb42"}
@@ -1013,12 +1438,12 @@ msgstr ""
 # "6695a41e36c121e69c26d154c47040eb"}
 msgid ""
 "Web notifications are enabled by default in new installations of Moodle 4.4."
-msgstr ""
+msgstr "Notifikasi web diaktifkan secara bawaan pada instalasi baru Moodle 4.4."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "55a1b3fad5cc927138e5c223439dd3d4"}
 msgid "Yes that is true.<br>"
-msgstr ""
+msgstr "Ya itu benar.<br>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "007d86174481b1314ec1988a0fcbf6cb"}
@@ -1026,11 +1451,13 @@ msgid ""
 "The new capability&nbsp;<em>tool/uploadcourse:use </em>is not set for any of"
 " the standard roles<em>.</em>"
 msgstr ""
+"Kemampuan baru&nbsp;<em>tool/uploadcourse:use </em>tidak disetel untuk peran "
+"standar apa pun<em>.</em>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "cf992e82a58702110adaae53fb50d7cd"}
 msgid "Are you sure?"
-msgstr ""
+msgstr "Apa Anda yakin?"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "f1d181ba67c5469b82bdba1688e4c707"}
@@ -1038,11 +1465,13 @@ msgid ""
 "From Moodle 4.4 onwards you must register to use the free tier of "
 "BigBlueButton.<br>"
 msgstr ""
+"Mulai Moodle 4.4 dan seterusnya Anda harus mendaftar untuk menggunakan "
+"layanan gratis BigBlueButton.<br>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "eb6188b0eacd23a2a31102a7f471fb61"}
 msgid "<strong><em>Only </em></strong>4.4?<br>"
-msgstr ""
+msgstr "<strong><em>Hanya </em></strong>4.4?<br>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "bbaa357e904fa8974fde3b95eeb7cb68"}
@@ -1050,6 +1479,8 @@ msgid ""
 "In new installations of Moodle 4.4 the Survey module and the Chat module are"
 " disabled."
 msgstr ""
+"Dalam instalasi baru Moodle 4.4, modul Survei dan modul Obrolan "
+"dinonaktifkan."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "07167e6684fc728f96656c1dc131ccf0"}
@@ -1062,6 +1493,8 @@ msgid ""
 "Which of the following are completely new features in Moodle 4.4? Select all"
 " that apply."
 msgstr ""
+"Manakah dari berikut ini yang merupakan fitur-fitur yang benar-benar baru di "
+"Moodle 4.4? Pilih semua yang berlaku."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "3701cb58791a662ef5e6f180124f2023"}
@@ -1081,7 +1514,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "2783e0c77f46b6a1398a8556a82558e6"}
 msgid "Admin setting the default announcement forum subscription.<br>"
-msgstr ""
+msgstr "Admin menyetel pengumuman bawaan langganan forum.<br>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "212800a180ecd9b4523f364d89bc11f2"}
@@ -1093,31 +1526,33 @@ msgstr ""
 msgid ""
 "Admins forcing user tours to be shown each time a user accesses the area."
 msgstr ""
+"Admin memaksa tur pengguna untuk ditampilkan setiap kali pengguna mengakses "
+"area tersebut."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "7e3e35003719eb914359286f015b9734"}
 msgid "That is one, yes!"
-msgstr ""
+msgstr "Itu salah satunya, ya!"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "f2386b46b9f0c59e36703dcf940cfaa5"}
 msgid "Admins being able to filter the config changes report."
-msgstr ""
+msgstr "Admin dapat memfilter laporan perubahan konfigurasi."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "d63779c5eb6df0de906bf4b3651e5f70"}
 msgid "Well no - they could filter it previously. So what's new?<br>"
-msgstr ""
+msgstr "Tidak - mereka dapat memfilternya sebelumnya. Jadi apa yang baru?<br>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "3e30e9673d88a1d57cdf5ff8c77e81cd"}
 msgid "A new 'Files' custom report source."
-msgstr ""
+msgstr "Sumber laporan khusus 'Berkas' baru."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "b30d04d7640acc8b3c04541f493484e7"}
 msgid "That was available previously. Check again."
-msgstr ""
+msgstr "Itu sudah tersedia sebelumnya. Periksa lagi."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "d449f47b604085af19b4bbccf97892a4"}
@@ -1125,6 +1560,8 @@ msgid ""
 "Which of the following statements about courses in Moodle 4.4 are true? "
 "Select all that apply."
 msgstr ""
+"Manakah pernyataan berikut mengenai kursus di Moodle 4.4 yang benar? Pilih "
+"semua yang berlaku."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "5f40c881733b1fdbd7a7a05005c367a7"}
@@ -1144,12 +1581,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "f6d54ad2c30d221f17842e289a5684d0"}
 msgid "Teachers can now tick a box to post a message to all groups."
-msgstr ""
+msgstr "Guru kini dapat mencentang kotak untuk mengirim pesan ke semua grup."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "588db1b75393fa6eb41d60a9569abdf8"}
 msgid "But they could do that before, so what's new?"
-msgstr ""
+msgstr "Tapi mereka bisa melakukan itu sebelumnya, jadi apa yang baru?"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "656b70a660eb824e018e1cf924a2b077"}
@@ -1157,21 +1594,23 @@ msgid ""
 "A new section page now allows students to focus on just one section at a "
 "time."
 msgstr ""
+"Halaman bagian baru kini memungkinkan siswa untuk fokus hanya pada satu "
+"bagian dalam satu waktu."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "c7052dd633ccc1249af10f30abce2307"}
 msgid "That's true, yes"
-msgstr ""
+msgstr "Itu benar, ya"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "b5299d8bfe1f4937d19e9aacfd11bb9c"}
 msgid "Topics are no longer numbered."
-msgstr ""
+msgstr "Topik tidak lagi diberi nomor."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "20a1f182b78bd9893e14a77fadf0e701"}
 msgid "Indeed - and what is Topics format now called?"
-msgstr ""
+msgstr "Memang - dan apa nama format Topik sekarang?"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "57493d94f52b5a95187fb0da2ca13cb9"}
@@ -1179,11 +1618,13 @@ msgid ""
 "Teachers can now create questions where students have to put items in a "
 "specified sequence."
 msgstr ""
+"Pengajar sekarang dapat membuat pertanyaan di mana siswa harus meletakkan "
+"item dalam urutan tertentu."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "f1a5379702aad45e8c5ba8d1f8d00f64"}
 msgid "What new feature does this relate to?<br>"
-msgstr ""
+msgstr "Fitur baru apa yang terkait dengan hal ini?<br>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "68e4c3885dd5ed1f06c7415e4e04df20"}
@@ -1210,17 +1651,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "2a42f08c8de71e3b8d2c6ff318c36cc2"}
 msgid "Filter by expiry date"
-msgstr ""
+msgstr "Filter berdasarkan tanggal kedaluwarsa"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "5c75905a558dfb91e833a892d433a829"}
 msgid "Filter by version"
-msgstr ""
+msgstr "Filter berdasarkan versi"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "2caaaac5082b9a1c63e724fd4d86a44e"}
 msgid "What is new in the Browse list of users page?"
-msgstr ""
+msgstr "Apa yang baru di halaman Telusuri daftar pengguna?"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "2156923256ea7c5ccb4c2d40bd78a90a"}
@@ -1240,22 +1681,24 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "42ff97b7becc8399d3d8b601c63f8ead"}
 msgid "You can now filter users and perform bulk actions."
-msgstr ""
+msgstr "Anda kini dapat memfilter pengguna dan melakukan tindakan massal."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "b6f5111a270750294a472833d74d2c92"}
 msgid "You now have improved filtering and can perform bulk actions."
 msgstr ""
+"Anda kini memiliki pemfilteran yang lebih baik dan dapat melakukan tindakan "
+"massal."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "364c2c1876ae4c8ca92bfb77ec6248bb"}
 msgid "You have improved filtering."
-msgstr ""
+msgstr "Anda telah meningkatkan pemfilteran."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "53723176f4c0ba80b4c55fc5c84afb32"}
 msgid "You can perform bulk actions."
-msgstr ""
+msgstr "Anda dapat melakukan tindakan massal."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "752d28f289315e00b836a29602350667"}
@@ -1263,6 +1706,8 @@ msgid ""
 "Which of the following are new capabilities in Moodle 4.4? Select all that "
 "apply."
 msgstr ""
+"Manakah dari berikut ini yang merupakan kemampuan baru dalam Moodle 4.4? "
+"Pilih semua yang berlaku."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "1615ff01f6c3c92a40af9e3e513b651d"}
@@ -1326,17 +1771,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "fc4e4890be1c0efcaea02ad188be7f32"}
 msgid "New activity icons"
-msgstr ""
+msgstr "Ikon aktivitas baru"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "a432ced62dcbac9f0742e53a601a2c7c"}
 msgid "A new section page"
-msgstr ""
+msgstr "Halaman bagian baru"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "23210285715d4ae454b02da407e3a76c"}
 msgid "Easier access to backup/restore/import/reset"
-msgstr ""
+msgstr "Akses yang lebih mudah untuk melakukan backup/restore/import/reset"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "09602badb2e11ee181fff7150ae02c61"}
@@ -1363,18 +1808,20 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "7701b9d0c06f4c1a0349469477adca8f"}
 msgid "Site administration &gt; Security &gt; Site security settings"
-msgstr ""
+msgstr "Administrasi situs &gt; Keamanan &gt; Pengaturan keamanan situs"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "f7c1c9ac68fc9932fbb1bf20d4a8417e"}
 msgid "Site administration &gt; Users &gt; User policies"
-msgstr ""
+msgstr "Administrasi situs &gt; Pengguna &gt; Kebijakan pengguna"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "b6deb474a273a812996eaa09226bf302"}
 msgid ""
 "Which of the following is a new custom report source in Moodle 4.4?<br>"
 msgstr ""
+"Manakah dari berikut ini yang merupakan sumber laporan khusus baru di Moodle "
+"4.4?<br>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "918b8e3ab2429e3c862c192e649d7116"}
@@ -1399,22 +1846,22 @@ msgstr "Peran"
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "eef72a5734593c4e545c1ac89233ec40"}
 msgid "File types"
-msgstr ""
+msgstr "Jenis berkas"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "74b3f2b9ca3672ed89dd99f08a9fa778"}
 msgid "Category teachers"
-msgstr ""
+msgstr "Kategori guru"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "8f474aa8feed5e6bfe5a6426c47ff7c9"}
 msgid "File size"
-msgstr ""
+msgstr "Ukuran berkas"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "704f001b5cab750c7dfa5fd71e1721f5"}
 msgid "In Moodle 4.4 where do you go to select a theme?"
-msgstr ""
+msgstr "Di Moodle 4.4, ke mana Anda pergi untuk memilih tema?"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "fc9772807150d6c28e3eb0dbd5c2f2f4"}
@@ -1434,22 +1881,22 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "a289222fcb121da09f8dd59f376d2661"}
 msgid "Site administration &gt; Appearance &gt; Themes &gt; Theme selector"
-msgstr ""
+msgstr "Administrasi situs &gt; Penampilan &gt; Tema &gt; Pemilih tema"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "312191c8f3633f0fbcba2e70169ecbcd"}
 msgid "Site administration &gt; Appearance &gt; Themes"
-msgstr ""
+msgstr "Administrasi situs &gt; Penampilan &gt; Tema"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "10df9b5c1af2bb92e4c96a7c19d9f27d"}
 msgid "Site administration &gt; Themes"
-msgstr ""
+msgstr "Administrasi situs &gt; Tema"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "332aa751a410684e4206838e6bb27475"}
 msgid "Site administration &gt; Appearance &gt; Advanced theme settings"
-msgstr ""
+msgstr "Administrasi situs &gt; Penampilan &gt; Pengaturan tema lanjutan"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "2ed739b49ced0590adfcb493feb41c94"}
@@ -1536,17 +1983,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "f411d7ace2f11eb2d0aa2626585cf33b"}
 msgid "Does your site use the Chat module?"
-msgstr ""
+msgstr "Apakah situs Anda menggunakan modul Obrolan?"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "ea75c0c9aaa50b4a4bea1543e3437212"}
 msgid "Does your site use the Survey module?"
-msgstr ""
+msgstr "Apakah situs Anda menggunakan modul Survei?"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "6f5d700b41634b73c5a6a2852ee94ce9"}
 msgid "Do your teachers use groups in Forums?"
-msgstr ""
+msgstr "Apakah pengajar Anda menggunakan grup di Forum?"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "1d3edaa99bbaadcb8fe7d0c564c447f8"}
@@ -1554,6 +2001,8 @@ msgid ""
 "Which of the following are standard 4.4 course formats? Select all that "
 "apply."
 msgstr ""
+"Manakah dari berikut ini yang merupakan format kursus standar 4.4? Pilih "
+"semua yang berlaku."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "44355fcb3b6e35c2cc3b66c3ec17efe6"}
@@ -1573,22 +2022,22 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "197fd08c9406500ca969532c5ef0fbd6"}
 msgid "Topics"
-msgstr ""
+msgstr "Topik"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "dc820e9fbea91cef009de40d85cb8e46"}
 msgid "Weekly"
-msgstr ""
+msgstr "Mingguan"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "7b93a6f682437d2701e77875876975c9"}
 msgid "Single activity"
-msgstr ""
+msgstr "Aktivitas tunggal"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "93852f2e0f4d1866659dceb7176e1f8a"}
 msgid "Custom sections"
-msgstr ""
+msgstr "Bagian khusus"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "223e65749c3b14fba8224f14c810fb8d"}
@@ -1617,6 +2066,8 @@ msgstr ""
 msgid ""
 "Which of these icon colour categories is correct? Select all that apply.<br>"
 msgstr ""
+"Manakah dari kategori warna ikon berikut yang benar? Pilih semua yang "
+"sesuai.<br>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "8fe64f857c81901ead2ddd912205993d"}
@@ -1657,7 +2108,7 @@ msgstr ""
 # "f49554332e4c60c26687e68fcba39dd8"}
 msgid ""
 "Which of these notifications are new in Moodle 4.4? Select all that apply."
-msgstr ""
+msgstr "Notifikasi manakah yang baru di Moodle 4.4? Pilih semua yang berlaku."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "0613b04ae58096b44bd187c44e9595e7"}
@@ -1682,7 +2133,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "0e4281c8a81771248ba150618a71713e"}
 msgid "Course welcome when manually enrolled."
-msgstr ""
+msgstr "Kursus diterima jika didaftarkan secara manual."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "5cde5617c31ebaa115e3b6af4ecd5af3"}
@@ -1692,7 +2143,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "07a0456e0d8bfc1484dca3b56ea430b6"}
 msgid "Content change notification"
-msgstr ""
+msgstr "Pemberitahuan perubahan konten"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "242642a8e632e2702c7a0212bbe05d54"}
@@ -1719,7 +2170,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "0148654be0f48729b64c98456e81d2c6"}
 msgid "Students can click to see just one section."
-msgstr ""
+msgstr "Peserta didik dapat mengklik untuk melihat satu bagian saja."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "5fcc129bc47fa971e0a6530f70ae26ba"}
@@ -1727,12 +2178,15 @@ msgid ""
 "The top 'General' section is no longer visible when viewing only one "
 "section."
 msgstr ""
+"Bagian 'Umum' di atas tidak lagi terlihat ketika hanya melihat satu bagian."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "3bb46367f0272999d19f03fec53d4314"}
 msgid ""
 "Students can see their progress for each section from the main course page."
 msgstr ""
+"Siswa dapat melihat kemajuan mereka untuk setiap bagian dari halaman kursus "
+"utama."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "359158d0293641a38e3b88a5158807e3"}
@@ -1740,6 +2194,8 @@ msgid ""
 "Students can see which sections have more activities than others from the "
 "main course page."
 msgstr ""
+"Siswa dapat melihat bagian mana yang memiliki aktivitas lebih banyak "
+"daripada bagian lainnya dari halaman kursus utama."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "7e4e1ef527b81c80c5b639ded0c709a1"}
@@ -1766,7 +2222,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "fb96d3857fafcd995e99053d9b30e043"}
 msgid "You can display items vertically or horizontally."
-msgstr ""
+msgstr "Anda dapat menampilkan item secara vertikal atau horizontal."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "7700379b672da5205718e6d6b79598a3"}
@@ -1776,12 +2232,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "7d62061db2894a2349fb2c99acb3e277"}
 msgid "You can use phrases of no more than three words"
-msgstr ""
+msgstr "Anda dapat menggunakan frasa yang tidak lebih dari tiga kata"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "f208a5fcb9073ad1f486b3092ea7a29f"}
 msgid "You can use individual words in foreign languages."
-msgstr ""
+msgstr "Anda dapat menggunakan kata-kata individual dalam bahasa asing."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "a512904aafa4fc3e79e3edad8903fe72"}
@@ -1830,7 +2286,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "3e66230e7c7df59f32ae2913e7f18692"}
 msgid "Grade items can only be assigned if sections are used in the quiz."
-msgstr ""
+msgstr "Item nilai hanya dapat diberikan jika bagian digunakan dalam kuis."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "b6ab25d44fe7fc9bb26d184ea0a9570a"}
@@ -1849,17 +2305,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "51f3ac449cc53dc961941cbc5896ab4a"}
 msgid "<p>Your answer is correct.</p>"
-msgstr ""
+msgstr "<p>Jawaban Anda benar.</p>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "d70a13ac45c55854f0d42fbfcdcd7ba0"}
 msgid "<p>Your answer is partially correct.</p>"
-msgstr ""
+msgstr "<p>Jawaban Anda benar sebagian.</p>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "cd4814f8b81d8fc6b88e152c83bda44e"}
 msgid "<p>Your answer is incorrect.</p>"
-msgstr ""
+msgstr "<p>Jawaban Anda salah.</p>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "a0ed73075c23aab29fb14993ab0dd5d5"}
@@ -1873,24 +2329,24 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "6c3853704171b917947c4235ff785572"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "f4dc7dcbddded797b046ee2236dd5e6c"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "a0f1bb7d43db8e4871ac691c7330ed2c"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "589fc03f2eeb8d3f307f2ab369cd58bd"}
 msgid "Click the actions menu (three dots) and then View."
-msgstr ""
+msgstr "Klik menu tindakan (tiga titik) lalu Lihat."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "da8f6b3bf061d4e05f53e60daaf29c23"}
 msgid "Cick the section title in the course index.<br>"
-msgstr ""
+msgstr "Klik bagian judul dalam indeks kursus.<br>"
