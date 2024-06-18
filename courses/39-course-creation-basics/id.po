@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-12 06:35+0000\n"
+"PO-Revision-Date: 2024-06-19 08:23+0000\n"
 "Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
 "Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
 "39-course-creation-basics/id/>\n"
@@ -990,7 +990,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5913", "md5key":
 # "7ad5df400809910c03075a80daafae08"}
 msgid "<p>Go and check!</p>"
-msgstr "<p>Pergi dan periksa!</p>"
+msgstr "<p>Lanjut dan periksa!</p>"
 
 # {"targetlanguage": "id", "contextid": "5913", "md5key":
 # "a682aec06ea13a3e0edc970ce66739e6"}
