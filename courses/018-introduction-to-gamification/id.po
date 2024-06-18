@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-17 12:48+0000\n"
+"PO-Revision-Date: 2024-06-19 08:23+0000\n"
 "Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
 "Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
 "018-introduction-to-gamification/id/>\n"
@@ -197,7 +197,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "2993", "md5key":
 # "1889ddd136bb0aa4e399edf6785d6a37"}
 msgid "Slides from the webinar"
-msgstr ""
+msgstr "Slide dari webinar"
 
 # {"targetlanguage": "id", "contextid": "3119", "md5key":
 # "064b9031bb9a658a3a35618f97751d04"}
@@ -688,7 +688,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5270", "md5key":
 # "bddaae1368c4b6e4443e0ca3e45d9824"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Think again!</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Pikirkan lagi!</p>"
 
 # {"targetlanguage": "id", "contextid": "6432", "md5key":
 # "e79d3e129f30cb4a1dee46120e0c243d"}
@@ -1743,17 +1743,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "0baeff35b0ab9bca4af351096199fe7c"}
 msgid "<p>Your answer is correct.</p>"
-msgstr ""
+msgstr "<p>Jawaban Anda benar.</p>"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "ae69b7ab5f5c9164deb1c829e44b7445"}
 msgid "<p>Your answer is partially correct.</p>"
-msgstr ""
+msgstr "<p>Jawaban Anda benar sebagian.</p>"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "3bbd7a7ad6494909c193ffbc0c6fd085"}
 msgid "<p>Your answer is incorrect.</p>"
-msgstr ""
+msgstr "<p>Jawaban Anda salah.</p>"
 
 # {"targetlanguage": "id", "contextid": "2981", "md5key":
 # "087e33b60cc37fd0fd3539eec5d8afb7"}
