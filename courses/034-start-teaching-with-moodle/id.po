@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-17 12:48+0000\n"
+"PO-Revision-Date: 2024-06-19 08:23+0000\n"
 "Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
 "Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
 "034-start-teaching-with-moodle/id/>\n"
@@ -21,6 +21,14 @@ msgid ""
 "<p>3.1 Teaching</p><br>\n"
 "<p></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pahami cara menavigasi Moodle, "
+"atur ruang pengajaran Anda dan berikan akses kepada peserta didik Anda dalam "
+"kursus mandiri gratis ini, bagian dari program Dasar-Dasar Pengajaran Moodle "
+".</p>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"></p>\n"
+"<p>Kursus ini berkaitan dengan kompetensi berikut:</p>\n"
+"<p>3.1 Mengajar</p><br>\n"
+"<p></p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "e32f06356e93bb7621471330bf05e63f"}
@@ -29,6 +37,14 @@ msgid ""
 "<h5>Please note</h5>\n"
 "To get maximum benefit, we strongly advise you to take this course first and then complete the <a href=\"https://moodle.academy/course/view.php?id=57\">Moodle Teaching Basics Program</a>."
 msgstr ""
+"<p>Kursus tingkat pemula ini membahas beberapa dasar-dasar pengajaran dengan "
+"Moodle. Ini secara khusus mencakup cara menavigasi di Moodle, mengatur ruang "
+"pengajaran Anda dan memberikan akses kepada peserta didik Anda.</p>\n"
+"<h5>Harap diperhatikan</h5>\n"
+"Untuk mendapatkan manfaat maksimal, kami sangat menyarankan Anda untuk "
+"mengikuti kursus ini terlebih dahulu dan kemudian menyelesaikan <a href="
+"\"https://moodle.academy/course/view.php?id=57\">Program Dasar-Dasar "
+"Pengajaran Moodle</a>."
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "8a541300a547078a46c838980b2d75c9"}
@@ -258,7 +274,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5815", "md5key":
 # "731467b931ebf1969f01cda1e824424e"}
 msgid "Get a practice course"
-msgstr ""
+msgstr "Dapatkan kursus latihan"
 
 # {"targetlanguage": "id", "contextid": "5815", "md5key":
 # "7c2d6dc7e5191b200ff18b342ca66f17"}
@@ -274,7 +290,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5817", "md5key":
 # "24e0aa00655d1853ef9fa9cdf05174b1"}
 msgid "Tutorial: Start exploring Moodle"
-msgstr ""
+msgstr "Tutorial: Mulai menjelajahi Moodle"
 
 # {"targetlanguage": "id", "contextid": "5817", "md5key":
 # "d8f4bcb9ef967f8a5a5690c29c0f32c4"}
@@ -303,7 +319,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5817", "md5key":
 # "09ae06c4a9abc6ffa6f8442600aa4975"}
 msgid "Add and edit text"
-msgstr ""
+msgstr "Tambahkan dan edit teks"
 
 # {"targetlanguage": "id", "contextid": "5817", "md5key":
 # "47bad54b1b7fbbe032206054da0acd05"}
@@ -378,7 +394,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5817", "md5key":
 # "b8144fb2edc632254b961115f0c03870"}
 msgid "What is a course?"
-msgstr ""
+msgstr "Apa itu kursus?"
 
 # {"targetlanguage": "id", "contextid": "5817", "md5key":
 # "6e94386a5b2d31b0e47645264cb31a03"}
@@ -394,7 +410,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5874", "md5key":
 # "00b615f9fd3f51916cb9b23c69309c90"}
 msgid "Tutorial: Start setting up your course"
-msgstr ""
+msgstr "Tutorial: Mulailah menyiapkan kursus Anda"
 
 # {"targetlanguage": "id", "contextid": "5874", "md5key":
 # "0e907ffb8e0d35ed40e68d9ab089d509"}
@@ -482,7 +498,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5874", "md5key":
 # "d2d04deb8a8a7102eb3b358278fe3785"}
 msgid "Lay out your course"
-msgstr ""
+msgstr "Susun kursus Anda"
 
 # {"targetlanguage": "id", "contextid": "5874", "md5key":
 # "deb19cea4577f7b3db029f7a3f37a29e"}
@@ -505,7 +521,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5874", "md5key":
 # "9dda8d12683d36de4dff5d7e61ffd1af"}
 msgid "Add and edit course content"
-msgstr ""
+msgstr "Tambahkan dan edit konten kursus"
 
 # {"targetlanguage": "id", "contextid": "5874", "md5key":
 # "5f18c13836baffa0213fdab504154c7f"}
@@ -560,7 +576,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5874", "md5key":
 # "44f6ecf58d7527ebedbd2c4f18264e29"}
 msgid "Give learners course access"
-msgstr ""
+msgstr "Memberikan akses kursus kepada peserta didik"
 
 # {"targetlanguage": "id", "contextid": "5874", "md5key":
 # "ff13d9deaeea35d5d39847d2bb27b4ed"}
@@ -579,7 +595,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5818", "md5key":
 # "e8d9c926d171d9532856282ce48d426a"}
 msgid "Tasks: Start teaching with Moodle"
-msgstr ""
+msgstr "Tugas: Mulai mengajar dengan Moodle"
 
 # {"targetlanguage": "id", "contextid": "5818", "md5key":
 # "498e75f419e8362bf62f98d58f42a492"}
@@ -598,7 +614,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5819", "md5key":
 # "ebd40a95f176109bee904512e5fb70ba"}
 msgid "Checklist: Start Teaching with Moodle"
-msgstr ""
+msgstr "Daftar Periksa: Mulai Mengajar dengan Moodle"
 
 # {"targetlanguage": "id", "contextid": "316149", "md5key":
 # "08ae429734fe822d8613ed84d8de1cc0"}
@@ -662,12 +678,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "2cd9e2bcd86cfd24ae9351b3b1c226ff"}
 msgid "<p>As admin, delete the course and create a new one.</p>"
-msgstr ""
+msgstr "<p>Sebagai admin, hapus kursus dan buat kursus baru.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "110c94170e3637d6797a994bf57ceea8"}
 msgid "<p>You are not an admin and you don't need to do this!</p>"
-msgstr ""
+msgstr "<p>Anda bukan admin dan Anda tidak perlu melakukan ini!</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "6509ea8ecdfeb60271e18171551f46fe"}
@@ -679,19 +695,19 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "bc3ca30d1c17cf318a5035a3495ea574"}
 msgid "<p>This will not change your course name.</p>"
-msgstr ""
+msgstr "<p>Ini tidak akan mengubah nama kursus Anda.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "dc5cdce97af08706f0a6153cba9d7e20"}
 msgid ""
 "<p>Click 'Settings' in the Course navigation and change the name from "
 "there.</p>"
-msgstr ""
+msgstr "<p>Klik 'Pengaturan' di navigasi Kursus dan ubah namanya dari sana.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "84487a1525fb8da56c9f0f273fd3a69e"}
 msgid "<p>That's the way to do it!</p>"
-msgstr ""
+msgstr "<p>Itulah cara melakukannya!</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "2df0c07a843c07f953f4513c43e9be5c"}
@@ -702,6 +718,7 @@ msgstr "<p>Aktifkan mode Edit</p>"
 # "0c56d36c5284914e96ad2365dc750171"}
 msgid "<p>You don't need to enable edit mode to change the course name.</p>"
 msgstr ""
+"<p>Anda tidak perlu mengaktifkan mode edit untuk mengubah nama kursus.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "7f05b54b3edb871044472d9d8533035f"}
@@ -730,12 +747,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "81161ce25ac1b2696b0fdc6ea3e94221"}
 msgid "<p>They are part of the standard Boost theme.</p>"
-msgstr ""
+msgstr "<p>Itu adalah bagian dari tema Boost standar.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "be74cdb2cb68d8dfa6d122cfcc09ece2"}
 msgid "<p>No - these images do not depend on the Boost theme.</p>"
-msgstr ""
+msgstr "<p>Tidak - gambar ini tidak bergantung pada tema Boost.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "d4feb9f09cd0a539aaa28136aa93ceb3"}
@@ -743,16 +760,18 @@ msgid ""
 "<p>The administrator adds them from Site administration &gt; Courses &gt; "
 "Course default settings.</p>"
 msgstr ""
+"<p>Administrator menambahkannya dari Administrasi situs &gt; Kursus &gt; "
+"Pengaturan bawaan kursus.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "6496d632b95daa3fbb64aef57d5de079"}
 msgid "<p>Go and check!</p>"
-msgstr ""
+msgstr "<p>Lanjut dan periksa!</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "d1b0ed80706f9984616ca6212929e3cb"}
 msgid "They are added from the course settings within each course."
-msgstr ""
+msgstr "Mereka ditambahkan dari pengaturan kursus dalam setiap kursus."
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "2cdb9fa1dfd9b48974bb84b85331c0f6"}
@@ -764,12 +783,13 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "eb67041e2a590158a4349abd2d4674b1"}
 msgid "<p>They are part of a course template.</p>"
-msgstr ""
+msgstr "<p>Mereka adalah bagian dari templat kursus.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "c7975a7402afc423299117bd0c087d34"}
 msgid "<p>No. No template is needed to add the various images.</p>"
 msgstr ""
+"<p>Tidak. Tidak diperlukan templat untuk menambahkan berbagai gambar.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "6c1659a4ac161ab9d4e832587074f073"}
@@ -803,7 +823,7 @@ msgstr "<p>Format topik</p>"
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "6f422f256f35dbaa0a98676df1acc638"}
 msgid "<p>This would be the most appropriate, yes.</p>"
-msgstr ""
+msgstr "<p>Ini yang paling tepat ya.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "0ac9ba9cd7a3848214863aaa7bf106b4"}
@@ -813,7 +833,7 @@ msgstr "<p>Format mingguan</p>"
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "c81e48f53f4d5ddeedbb3dc798f9e83a"}
 msgid "<p>You don't need the course divided into weeks.</p>"
-msgstr ""
+msgstr "<p>Anda tidak memerlukan kursus dibagi menjadi beberapa minggu.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "d58c2bbb27c9706e2454d1c72f68756d"}
@@ -823,7 +843,7 @@ msgstr "<p>Format sosial</p>"
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "2f4e4d62ba9c81844d49e94eb24a3947"}
 msgid "<p>This is more for discussions only.</p>"
-msgstr ""
+msgstr "<p>Ini lebih untuk diskusi saja.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "d10277192aab5107b5761fb06ae7afc4"}
@@ -834,6 +854,7 @@ msgstr "<p>Format aktivitas tunggal</p>"
 # "aff5dfb35d7567dc3214a30ebda37526"}
 msgid "<p>This would only allow you to create one activity in her course.</p>"
 msgstr ""
+"<p>Ini hanya memungkinkan Anda membuat satu aktivitas dalam kursusnya.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "cea018cdf14bc74e01424b6761faa9a3"}
@@ -870,11 +891,12 @@ msgstr ""
 # "2d8a417de43b918b64bba05904274afc"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Use manual enrolment.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Gunakan pendaftaran manual.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "15ab19d1d97498988bfe1ff4ad862cb9"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">That is the way.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Itulah jalannya.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "7e0146254181a82c1f5b3ca8b6c3ac9f"}
@@ -882,6 +904,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Delete the enrolment method "
 "'Self-enrolment' from your course settings.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Hapus metode pendaftaran "
+"'Pendaftaran mandiri' dari pengaturan kursus Anda.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "ade9cb4d34505a6ca2a9c68c54b74914"}
@@ -900,12 +924,14 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "62bbcda1bb5f8358e40e045d8a6c7006"}
 msgid "Do you really need the admin's help?"
-msgstr ""
+msgstr "Apakah Anda benar-benar membutuhkan bantuan admin?"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "2c19c7cbd38d5963ca534bc9387be588"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Use the 'Cohort sync' method.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Gunakan metode 'Sinkronisasi "
+"kelompok'.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "d63c1518184cf6ff99575addef041935"}
@@ -966,12 +992,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "06e9237a1350b44792e38882ee80e047"}
 msgid "<p>Enable edit mode, click 'Add an activity' and then 'Users'.</p>"
-msgstr ""
+msgstr "<p>Aktifkan mode edit, klik 'Tambahkan aktivitas', lalu 'Pengguna'.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "ada1c8c95a4ac30816c6df38ad4d1589"}
 msgid "<p>No. Such a setting does not exist.</p>"
-msgstr ""
+msgstr "<p>Tidak. Pengaturan seperti itu tidak ada.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "2a479302b47009498d9a527b104d5202"}
@@ -998,12 +1024,12 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "14565f092bdbe6de5839ad9d65ada235"}
 msgid "<p>A Creative Commons licensing block</p>"
-msgstr ""
+msgstr "<p>Blok lisensi Creative Commons</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "058531211aaff887c29117350e3e10d2"}
 msgid "<p>That is not a standard block.</p>"
-msgstr ""
+msgstr "<p>Itu bukan blok standar.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "75c8544dc41421d7ae8dc73ed052b944"}
@@ -1025,12 +1051,12 @@ msgstr "<p>Blok RSS</p>"
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "c71b5e1f12046d074a87eca99556f7f1"}
 msgid "<p>No. Make sure you explore what an RSS block is.</p>"
-msgstr ""
+msgstr "<p>Tidak. Pastikan Anda menjelajahi apa itu blok RSS.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "cc157d85bea11f9ab0b436362df8343f"}
 msgid "<p>A non-standard block not available on your site</p>"
-msgstr ""
+msgstr "<p>Blok non-standar tidak tersedia di situs Anda</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "15e62b89e728dd9ac67253c644f815d4"}
@@ -1049,7 +1075,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "9a0c327fbb3060ce12b7d4b9dd68f3c5"}
 msgid "Review the Book Start exploring Moodle for more information."
-msgstr ""
+msgstr "Tinjau Buku Mulai jelajahi Moodle untuk informasi lebih lanjut."
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "90297597be9bc64d650b832d6ebc3739"}
@@ -1083,7 +1109,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "bf4bf331e79e72a01eaebfec9b41998d"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Check again!</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Periksa lagi!</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "7cc8d62610c51d07c530c83240acf540"}
@@ -1096,7 +1122,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "8e8aa56054aeebf36ce90608ee0477f5"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Think again!</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Pikirkan lagi!</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "f5471b183345858d6684255c66e5a306"}
@@ -1110,6 +1136,7 @@ msgstr ""
 msgid ""
 "Think again and do please review the Tutorial: Start exploring&nbsp; Moodle."
 msgstr ""
+"Pikirkan lagi dan silakan tinjau Tutorial: Mulai menjelajah&nbsp; Moodle."
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "9d25c3168c1aa55b6a0ee1585c59d5f2"}
@@ -1139,6 +1166,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">TinyMCE is Moodle's default "
 "editor for adding text.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">TinyMCE adalah editor bawaan "
+"Moodle untuk menambahkan teks.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "fbe4e629a558642f74dd4ea98368beec"}
@@ -1158,11 +1187,13 @@ msgstr ""
 # "67484eff2df059f78217b32158acb904"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Yes. Have you explored blocks?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya. Sudahkah Anda menjelajahi "
+"blok?</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "44e8c87979002eef251d3400dda2bf6c"}
 msgid "Courses must contain more than one item."
-msgstr ""
+msgstr "Kursus harus berisi lebih dari satu item."
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "1dbcc6238865d26dfcbee5036a0c2a6b"}
@@ -1210,7 +1241,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "a24f262bd0f51ee9ebe6f5fc2f60f81c"}
 msgid "<p>Record short audio or video clips.</p>"
-msgstr ""
+msgstr "<p>Rekam audio atau klip video pendek.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "78e5bccb7fe8a61edc0d6dfdb499922e"}
@@ -1222,7 +1253,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "ca1fae682bb54341d0b8ef98714fda23"}
 msgid "<p>Check your text for accessibility.</p>"
-msgstr ""
+msgstr "<p>Periksa teks Anda untuk aksesibilitas.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "cb86026c612e8990716fb145a8fd731a"}
@@ -1230,11 +1261,13 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Yes! And it is a good practice to"
 " adopt.&nbsp;<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya! Dan ini merupakan praktik "
+"yang baik untuk diterapkan.&nbsp;<br></p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "82d837bd48a0aa01536663a74e87b57c"}
 msgid "<p>Drag and drop images into the text editor.</p>"
-msgstr ""
+msgstr "<p>Seret dan lepas gambar ke editor teks.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "e5b1e9474286f5f8be294f8755810107"}
@@ -1242,11 +1275,13 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Yes! This is also possible "
 "now.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya! Hal ini juga dimungkinkan "
+"sekarang.<br></p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "b90ad0efd4f061bcfb761b55e0c30bcf"}
 msgid "<p>Use a wide variety of different colours.</p>"
-msgstr ""
+msgstr "<p>Gunakan berbagai macam warna berbeda.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "023ae3dddaef9b06f3b9bfe0f6818574"}
@@ -1321,6 +1356,7 @@ msgstr ""
 # "3ecd1dfe2fe6ea2a8d14a1433abfc318"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">That's one way, yes.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Itu salah satu caranya ya.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "258a20aa250f18d01f76b4e2d9c60163"}
@@ -1375,11 +1411,13 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">He has not set a course end "
 "date.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dia belum menetapkan tanggal "
+"akhir kursus.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "7cb332c234da80725def82b5a3612c87"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">That is not relevant.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Itu tidak relevan.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "e74aa897aff0fc8b4a267035db03c537"}
@@ -1387,11 +1425,15 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">He has not enabled self-"
 "enrolment.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dia belum mengaktifkan "
+"pendaftaran mandiri.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "f875a092ada20289a7d3137c9c1f7947"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">That is the most likely reason.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Itulah alasan yang paling "
+"mungkin.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "9421fd439b533e5d6f5040fff3f24c1f"}
@@ -1406,6 +1448,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">That is unlikely. There is a more"
 " likely reason.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Itu tidak mungkin. Ada alasan "
+"yang lebih mungkin.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "90bc390df30f6b65a1dbaaba1bb3f432"}
@@ -1413,6 +1457,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">The administrator must enrol them"
 " for John.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Administrator harus "
+"mendaftarkannya untuk John.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "cb54620481c3e8124aa0755670c90445"}
@@ -1434,6 +1480,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Do check the links in your site "
 "too!</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Periksa juga tautan di situs "
+"Anda!</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "c2b628a5dee9fc906cdabf98e1d2a29a"}
@@ -1456,6 +1504,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">&nbsp;From the<strong>&nbsp;User "
 "menu</strong>&nbsp;you can edit your profile.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">&nbsp;Dari<strong>&nbsp;menu "
+"Pengguna</strong>&nbsp;Anda dapat mengedit profil Anda.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "fecb108ddf1744e3578790422accdc18"}
@@ -1470,6 +1520,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">From <span>the</span><strong> "
 "Dashboard</strong>&nbsp;you can see recently accessed items.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dari <span>Dasbor "
+"</span><strong></strong>&nbsp;Anda dapat melihat item yang baru-baru ini "
+"diakses.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "dc29dcfaa302fdd72e5bd55d31ba4911"}
@@ -1530,6 +1583,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">To alert learners when an "
 "assignment is due.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Untuk memperingatkan peserta "
+"didik saat tugas sudah jatuh tempo.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "f16911e17f887e7d12a7134447a1a116"}
@@ -1544,6 +1599,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">To alert learners when the course"
 " will close.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Untuk memperingatkan peserta "
+"didik kapan kursus akan ditutup.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "3deb12a94362a3583fce628c876589c5"}
@@ -1551,6 +1608,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Think again - and look at the "
 "tutorial.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pikirkan lagi - dan lihat "
+"tutorialnya.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "20204c4f0aa4a589c7d79920ffe714e6"}
@@ -1591,6 +1650,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Ask your admin to change your "
 "editor for you.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Minta admin Anda untuk mengubah "
+"editor Anda.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "889d24791ff33e680077445d3b6806ae"}
@@ -1598,11 +1659,14 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">No need to -&nbsp; you can do "
 "this yourself.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tidak perlu -&nbsp; Anda bisa "
+"melakukannya sendiri.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "a1770760fc43decb611dd617b32b1c78"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">From the User menu &gt; Profile</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dari menu Pengguna &gt; Profil</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "30d486cb71c990beb23338fb934bbd46"}
@@ -1617,11 +1681,13 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">From the User menu &gt; "
 "Preferences &gt; Editor preferences.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dari menu Pengguna &gt; "
+"Preferensi &gt; Preferensi editor.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "5896e31185f0b50186a2123be90c7910"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Well remembered!</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Ingat sekali!</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "8fc131607cf595b518f8f0fbb61e1114"}
@@ -1634,6 +1700,7 @@ msgstr ""
 # "3a130a5caee52f6c2ab3b79d4a833a6b"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">There is no such button.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tidak ada tombol seperti itu.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "f775f070bd31f352a2f237ac2d2bb31d"}
@@ -1653,17 +1720,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "4f7ea46c406473348110271a7fd8fe7e"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "ba6421e39e4063ce7bbe7724dc6eccb5"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "bcaf504b66f20d4ac95072f219c0b55b"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "3f4efe8ccb310b7905d7ddb93979bb78"}
@@ -1676,6 +1743,7 @@ msgstr ""
 # "02290858e5f37d74582bdd1a69c5cce1"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">That is a good description.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Itu deskripsi yang bagus.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "9c8c39976b27a9769a9c8d016b566094"}
@@ -1690,6 +1758,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Are you sure about that? Read the"
 " information again.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Apakah Anda yakin tentang itu? "
+"Baca kembali informasinya.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "9972c3aa5390f94ce30249b52effe336"}
@@ -1697,6 +1767,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">A course can be in weekly or "
 "topic sections.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Kursus bisa dalam bagian mingguan "
+"atau topik.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "f5687cbfec36a4d11b7c3a02485647cd"}
@@ -1704,6 +1776,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Yes, and other course formats are"
 " available as well.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya, dan format kursus lainnya "
+"juga tersedia.</p>"
 
 # {"targetlanguage": "id", "contextid": "5809", "md5key":
 # "42bd93dcc5d0cfc2f5a37374ca94c10c"}
