@@ -456,7 +456,7 @@ ab1556bc23b397b8681de67aa5ec055e,"<p>Please see the page Where to try out Moodle
 <p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4282/acadmatrixgroups.png"" alt="""" width=""795"" height=""415""></p>","<p>Jika situs 4.4 Anda terhubung dengan server Matrix dan dalam kursus Anda dari <strong>Navigasi kursus &gt; Lainnya &gt; Komunikasi</strong>, Matrix diaktifkan, lalu jika Anda telah menyiapkan grup dalam kursus, Matrix akan membuat ruang grup khusus untuk Anda dan siswa dalam grup tersebut.</p>
 <p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4282/acadmatrixgroups.png"" alt="" "" lebar=""795"" tinggi=""415""></p>",id,262756
 5270cd3b7ad7a8109cba7080f3c9c21c,"Test your understanding with this quick check. The grades are not stored, so you can try as often as you like.<br><br>{Q{1988/18883|d16037f295a1e0d3a5569852dc64cbf5130b16d2eae231fae924eedab18fcdbe}Q}<br>","Uji pemahaman Anda dengan pemeriksaan cepat ini. Nilai tidak disimpan, jadi Anda dapat mencobanya sesering yang Anda mau.<br><br>{Q{1988/18883|d16037f295a1e0d3a5569852dc64cbf5130b16d2eae231fae924eedab18fcdbe}Q<br>",id,262756
-81b3c877e93338d2c15c19a8e7284e64,Ordering question type,,id,262756
+81b3c877e93338d2c15c19a8e7284e64,Ordering question type,Jenis pertanyaan pengurutan,id,262756
 9a844a890b4146149ff05d3532528114,"<p>The long-established and popular <strong>Ordering question type</strong>, originally developed by community Moodler Gordon Bateson, is now part of standard Moodle 4.4 and available for teachers to create sequencing questions for students. These questions may involve individual words, phrases, or (with the HTML format selected) media such as images. The questions can be displayed vertically or horizontally - although the horizontal display will vary depending on image size and your site theme.</p>
 <p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4279/orderingdial.png"" alt="""" width=""635"" height=""491""></p>","<p><strong>Jenis pertanyaan Pengurutan</strong> yang sudah lama ada dan populer, awalnya dikembangkan oleh komunitas Moodler Gordon Bateson, kini menjadi bagian dari standar Moodle 4.4 dan tersedia bagi pengajar untuk membuat pertanyaan pengurutan bagi siswa. Pertanyaan-pertanyaan ini mungkin melibatkan setiap kata, frasa, atau (dengan format HTML yang dipilih) media seperti gambar. Pertanyaan dapat ditampilkan secara vertikal atau horizontal - meskipun tampilan horizontal akan bervariasi tergantung pada ukuran gambar dan tema situs Anda.</p>
 <p><img class=""img-fluid atto_image_button_text-bottom"" role=""presentation"" src=""https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4279/orderingdial.png"" alt="""" lebar=""635"" tinggi=""491""></p>",id,262756
@@ -632,20 +632,20 @@ a4f8080c8f27d2c127150cc3db4cce03,"<div class=""no-overflow""><h4><i class=""fa f
 
 </div>",id,317847
 141901ab29548303219c08fa3548dc0c,"With each release, new features and improvements are contributed by our global community of Moodlers. Which of the following Moodle 4.4 course improvements and new features were contributed by community developers?<br>","Dengan setiap rilis, fitur-fitur baru dan peningkatan dikontribusikan oleh komunitas global Moodlers kami. Manakah dari perbaikan kursus dan fitur baru Moodle 4.4 berikut yang merupakan kontribusi dari pengembang komunitas?<br>",id,261026
-dc60946137baff4949b7f521f7a8be9b,Your answer is correct.,,id,261026
-78dab67f9d9c09c402c725fc93daaa7c,Your answer is partially correct.,,id,261026
-d83f01519914cf1109b04c5a707fa42c,Your answer is incorrect.,,id,261026
+dc60946137baff4949b7f521f7a8be9b,Your answer is correct.,Jawaban Anda benar.,id,261026
+78dab67f9d9c09c402c725fc93daaa7c,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+d83f01519914cf1109b04c5a707fa42c,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 3436111b00a984f5c4c3b3dd3d15fb9a,Forum improvements,Perbaikan forum,id,261026
-96874e769052041e8d7cb82faed6fb3f,"That's one, yes!",,id,261026
+96874e769052041e8d7cb82faed6fb3f,"That's one, yes!","Itu salah satunya, ya!",id,261026
 19b4b8902a7a0a09c0af22da6c70c7de,Ordering question type,Jenis pertanyaan pengurutan,id,261026
-f19b7456cdaf5b134ee2e73c71bb9f8a,"That's one, yes!",,id,261026
+f19b7456cdaf5b134ee2e73c71bb9f8a,"That's one, yes!","Itu salah satunya, ya!",id,261026
 c4f43a3cad577b25ac9e1a4ecf41110a,Quiz grade items,Item nilai kuis,id,261026
-fad02b3b487341f155e0a341e5eb08ad,"That's one, yes!",,id,261026
+fad02b3b487341f155e0a341e5eb08ad,"That's one, yes!","Itu salah satunya, ya!",id,261026
 a94a32a6ffa84b5b0c99f618959cdf10,"That's one, yes!","Itu salah satunya, ya!",id,261026
 775a5f8e0b8c9d196e75b77594e6bf90,Which of the following statements are correct? Select all that apply.,Manakah dari pernyataan berikut yang benar? Pilih semua yang berlaku.,id,261026
-a57e7fbb8fd0235b6aefc791867fcb42,Your answer is correct.,,id,261026
-4db7c582eab9f0d16bf89c3534534791,Your answer is partially correct.,,id,261026
-5b98118322ff29627d6201f29629e3f3,Your answer is incorrect.,,id,261026
+a57e7fbb8fd0235b6aefc791867fcb42,Your answer is correct.,Jawaban Anda benar.,id,261026
+4db7c582eab9f0d16bf89c3534534791,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+5b98118322ff29627d6201f29629e3f3,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 6695a41e36c121e69c26d154c47040eb,Web notifications are enabled by default in new installations of Moodle 4.4.,Notifikasi web diaktifkan secara bawaan pada instalasi baru Moodle 4.4.,id,261026
 55a1b3fad5cc927138e5c223439dd3d4,Yes that is true.<br>,Ya itu benar.<br>,id,261026
 007d86174481b1314ec1988a0fcbf6cb,The new capability&nbsp;<em>tool/uploadcourse:use </em>is not set for any of the standard roles<em>.</em>,Kemampuan baru&nbsp;<em>tool/uploadcourse:use </em>tidak disetel untuk peran standar apa pun<em>.</em>,id,261026
@@ -655,9 +655,9 @@ eb6188b0eacd23a2a31102a7f471fb61,<strong><em>Only </em></strong>4.4?<br>,<strong
 bbaa357e904fa8974fde3b95eeb7cb68,In new installations of Moodle 4.4 the Survey module and the Chat module are disabled.,"Dalam instalasi baru Moodle 4.4, modul Survei dan modul Obrolan dinonaktifkan.",id,261026
 07167e6684fc728f96656c1dc131ccf0,Yes. Do you remember why?,Ya. Apakah Anda ingat alasannya?,id,261026
 c21308583551b7b2b4bdde28c785249a,Which of the following are completely new features in Moodle 4.4? Select all that apply.,Manakah dari berikut ini yang merupakan fitur-fitur yang benar-benar baru di Moodle 4.4? Pilih semua yang berlaku.,id,261026
-3701cb58791a662ef5e6f180124f2023,Your answer is correct.,,id,261026
-42a5666ceddfe192524372d6805a8356,Your answer is partially correct.,,id,261026
-34df91e02a35aa6c89c339cf59e18ea6,Your answer is incorrect.,,id,261026
+3701cb58791a662ef5e6f180124f2023,Your answer is correct.,Jawaban Anda benar.,id,261026
+42a5666ceddfe192524372d6805a8356,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+34df91e02a35aa6c89c339cf59e18ea6,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 2783e0c77f46b6a1398a8556a82558e6,Admin setting the default announcement forum subscription.<br>,Admin menyetel pengumuman bawaan langganan forum.<br>,id,261026
 212800a180ecd9b4523f364d89bc11f2,"That is one, yes!",,id,261026
 b279af2767d63b67ac52091cc00fef09,Admins forcing user tours to be shown each time a user accesses the area.,Admin memaksa tur pengguna untuk ditampilkan setiap kali pengguna mengakses area tersebut.,id,261026
@@ -667,9 +667,9 @@ d63779c5eb6df0de906bf4b3651e5f70,Well no - they could filter it previously. So w
 3e30e9673d88a1d57cdf5ff8c77e81cd,A new 'Files' custom report source.,Sumber laporan khusus 'Berkas' baru.,id,261026
 b30d04d7640acc8b3c04541f493484e7,That was available previously. Check again.,Itu sudah tersedia sebelumnya. Periksa lagi.,id,261026
 d449f47b604085af19b4bbccf97892a4,Which of the following statements about courses in Moodle 4.4 are true? Select all that apply.,Manakah pernyataan berikut mengenai kursus di Moodle 4.4 yang benar? Pilih semua yang berlaku.,id,261026
-5f40c881733b1fdbd7a7a05005c367a7,Your answer is correct.,,id,261026
-efc2fe198bd9f5c0de6ad702ad5da01d,Your answer is partially correct.,,id,261026
-5e569bd2df7f6a9521188873ec2dbc25,Your answer is incorrect.,,id,261026
+5f40c881733b1fdbd7a7a05005c367a7,Your answer is correct.,Jawaban Anda benar.,id,261026
+efc2fe198bd9f5c0de6ad702ad5da01d,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+5e569bd2df7f6a9521188873ec2dbc25,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 f6d54ad2c30d221f17842e289a5684d0,Teachers can now tick a box to post a message to all groups.,Guru kini dapat mencentang kotak untuk mengirim pesan ke semua grup.,id,261026
 588db1b75393fa6eb41d60a9569abdf8,"But they could do that before, so what's new?","Tapi mereka bisa melakukan itu sebelumnya, jadi apa yang baru?",id,261026
 656b70a660eb824e018e1cf924a2b077,A new section page now allows students to focus on just one section at a time.,Halaman bagian baru kini memungkinkan siswa untuk fokus hanya pada satu bagian dalam satu waktu.,id,261026
@@ -679,126 +679,126 @@ b5299d8bfe1f4937d19e9aacfd11bb9c,Topics are no longer numbered.,Topik tidak lagi
 57493d94f52b5a95187fb0da2ca13cb9,Teachers can now create questions where students have to put items in a specified sequence.,Pengajar sekarang dapat membuat pertanyaan di mana siswa harus meletakkan item dalam urutan tertentu.,id,261026
 f1a5379702aad45e8c5ba8d1f8d00f64,What new feature does this relate to?<br>,Fitur baru apa yang terkait dengan hal ini?<br>,id,261026
 68e4c3885dd5ed1f06c7415e4e04df20,Which of the following features are new for adminstrators managing site badges? Select all that apply.,Manakah dari fitur berikut yang baru bagi administrator yang mengelola lencana situs? Pilih semua yang berlaku.,id,261026
-ca419b0e0964614efe9f5876025b9fe2,Your answer is correct.,,id,261026
-4c0737b2cdd282e7ca600ea6b36d541a,Your answer is partially correct.,,id,261026
-10c5e74099cc23efcaa5180b191895d6,Your answer is incorrect.,,id,261026
+ca419b0e0964614efe9f5876025b9fe2,Your answer is correct.,Jawaban Anda benar.,id,261026
+4c0737b2cdd282e7ca600ea6b36d541a,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+10c5e74099cc23efcaa5180b191895d6,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 2a42f08c8de71e3b8d2c6ff318c36cc2,Filter by expiry date,Filter berdasarkan tanggal kedaluwarsa,id,261026
 5c75905a558dfb91e833a892d433a829,Filter by version,Filter berdasarkan versi,id,261026
 2caaaac5082b9a1c63e724fd4d86a44e,What is new in the Browse list of users page?,Apa yang baru di halaman Telusuri daftar pengguna?,id,261026
-2156923256ea7c5ccb4c2d40bd78a90a,Your answer is correct.,,id,261026
-531a2d598d97f4e0ee29752ddfb8e3c6,Your answer is partially correct.,,id,261026
-aa5779b231c5fc498ca3c245b91344a6,Your answer is incorrect.,,id,261026
+2156923256ea7c5ccb4c2d40bd78a90a,Your answer is correct.,Jawaban Anda benar.,id,261026
+531a2d598d97f4e0ee29752ddfb8e3c6,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+aa5779b231c5fc498ca3c245b91344a6,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 42ff97b7becc8399d3d8b601c63f8ead,You can now filter users and perform bulk actions.,Anda kini dapat memfilter pengguna dan melakukan tindakan massal.,id,261026
 b6f5111a270750294a472833d74d2c92,You now have improved filtering and can perform bulk actions.,Anda kini memiliki pemfilteran yang lebih baik dan dapat melakukan tindakan massal.,id,261026
 364c2c1876ae4c8ca92bfb77ec6248bb,You have improved filtering.,Anda telah meningkatkan pemfilteran.,id,261026
 53723176f4c0ba80b4c55fc5c84afb32,You can perform bulk actions.,Anda dapat melakukan tindakan massal.,id,261026
 752d28f289315e00b836a29602350667,Which of the following are new capabilities in Moodle 4.4? Select all that apply.,Manakah dari berikut ini yang merupakan kemampuan baru dalam Moodle 4.4? Pilih semua yang berlaku.,id,261026
-1615ff01f6c3c92a40af9e3e513b651d,Your answer is correct.,,id,261026
-71b9e216a1b47ecd1e7e4a24ee6625c5,Your answer is partially correct.,,id,261026
-bf0d992d0dcb78c1cecc0f9338c75835,Your answer is incorrect.,,id,261026
+1615ff01f6c3c92a40af9e3e513b651d,Your answer is correct.,Jawaban Anda benar.,id,261026
+71b9e216a1b47ecd1e7e4a24ee6625c5,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+bf0d992d0dcb78c1cecc0f9338c75835,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 9249b0357adbb12a85adc208820963cd,tool/uploadcourse:use,tool/uploadcourse:use,id,261026
 730211716af5247200e9a1ca91b8ab65,moodle/course:update,moodle/course:update,id,261026
 ff42c2001798b5bb11fa71081450ce57,moodle/reportbuilder:viewall,moodle/reportbuilder:viewall,id,261026
 1f490b33f1fa96fc3477664c346fe501,moodle/reportbuilder:view,moodle/reportbuilder:view,id,261026
 5cf49b9e1fc9df4c4894a7f8beec6603,"Although as admin you need to be aware of the main changes for site administrators, it is important also to have an overview of what is new for your teaching staff. Which of the following are new features and improvements for course teachers and students? Select all that apply.","Meskipun sebagai admin Anda perlu mengetahui perubahan utama bagi administrator situs, penting juga untuk memiliki gambaran umum tentang apa yang baru bagi staf pengajar Anda. Manakah dari berikut ini yang merupakan fitur baru dan peningkatan bagi pengajar dan siswa kursus? Pilih semua yang berlaku.",id,261026
-e6eb3abacfeac45e18e4b3712f596c45,Your answer is correct.,,id,261026
-29c8c1013e47116151b7c5b1739a01d0,Your answer is partially correct.,,id,261026
-9f801934e6755ce23384368a483c1540,Your answer is incorrect.,,id,261026
+e6eb3abacfeac45e18e4b3712f596c45,Your answer is correct.,Jawaban Anda benar.,id,261026
+29c8c1013e47116151b7c5b1739a01d0,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+9f801934e6755ce23384368a483c1540,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 fc4e4890be1c0efcaea02ad188be7f32,New activity icons,Ikon aktivitas baru,id,261026
 a432ced62dcbac9f0742e53a601a2c7c,A new section page,Halaman bagian baru,id,261026
 23210285715d4ae454b02da407e3a76c,Easier access to backup/restore/import/reset,Akses yang lebih mudah untuk melakukan backup/restore/import/reset,id,261026
 09602badb2e11ee181fff7150ae02c61,"As admin, where do you go in 4.4 to allow users to view their login password in plain text?","Sebagai admin, di mana Anda pergi di 4.4 untuk memungkinkan pengguna melihat sandi login mereka dalam teks biasa?",id,261026
-6826e6871f4ae7771314c3d5abe8923d,Your answer is correct.,,id,261026
-7e946340092125649c847d17a5e3ae62,Your answer is partially correct.,,id,261026
-2292b7f7e40b846c6fe0b42ae157756d,Your answer is incorrect.,,id,261026
+6826e6871f4ae7771314c3d5abe8923d,Your answer is correct.,Jawaban Anda benar.,id,261026
+7e946340092125649c847d17a5e3ae62,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+2292b7f7e40b846c6fe0b42ae157756d,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 7701b9d0c06f4c1a0349469477adca8f,Site administration &gt; Security &gt; Site security settings,Administrasi situs &gt; Keamanan &gt; Pengaturan keamanan situs,id,261026
 f7c1c9ac68fc9932fbb1bf20d4a8417e,Site administration &gt; Users &gt; User policies,Administrasi situs &gt; Pengguna &gt; Kebijakan pengguna,id,261026
 b6deb474a273a812996eaa09226bf302,Which of the following is a new custom report source in Moodle 4.4?<br>,Manakah dari berikut ini yang merupakan sumber laporan khusus baru di Moodle 4.4?<br>,id,261026
-918b8e3ab2429e3c862c192e649d7116,Your answer is correct.,,id,261026
-8d395e68b2f1eb57aa32b0418b17fa7d,Your answer is partially correct.,,id,261026
-8154d2c24805a0f99a2562dfbdc2aa01,Your answer is incorrect.,,id,261026
+918b8e3ab2429e3c862c192e649d7116,Your answer is correct.,Jawaban Anda benar.,id,261026
+8d395e68b2f1eb57aa32b0418b17fa7d,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+8154d2c24805a0f99a2562dfbdc2aa01,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 4bd2b40b0dd5610cb1d0620ff6c6c817,Roles,Peran,id,261026
 eef72a5734593c4e545c1ac89233ec40,File types,Jenis berkas,id,261026
 74b3f2b9ca3672ed89dd99f08a9fa778,Category teachers,Kategori guru,id,261026
 8f474aa8feed5e6bfe5a6426c47ff7c9,File size,Ukuran berkas,id,261026
 704f001b5cab750c7dfa5fd71e1721f5,In Moodle 4.4 where do you go to select a theme?,"Di Moodle 4.4, ke mana Anda pergi untuk memilih tema?",id,261026
-fc9772807150d6c28e3eb0dbd5c2f2f4,Your answer is correct.,,id,261026
-bf00bd7c1b02bac37923409d10b65218,Your answer is partially correct.,,id,261026
-514e8a007b7bf12f5bcff2ae6312e1e2,Your answer is incorrect.,,id,261026
+fc9772807150d6c28e3eb0dbd5c2f2f4,Your answer is correct.,Jawaban Anda benar.,id,261026
+bf00bd7c1b02bac37923409d10b65218,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+514e8a007b7bf12f5bcff2ae6312e1e2,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 a289222fcb121da09f8dd59f376d2661,Site administration &gt; Appearance &gt; Themes &gt; Theme selector,Administrasi situs &gt; Penampilan &gt; Tema &gt; Pemilih tema,id,261026
 312191c8f3633f0fbcba2e70169ecbcd,Site administration &gt; Appearance &gt; Themes,Administrasi situs &gt; Penampilan &gt; Tema,id,261026
 10df9b5c1af2bb92e4c96a7c19d9f27d,Site administration &gt; Themes,Administrasi situs &gt; Tema,id,261026
 332aa751a410684e4206838e6bb27475,Site administration &gt; Appearance &gt; Advanced theme settings,Administrasi situs &gt; Penampilan &gt; Pengaturan tema lanjutan,id,261026
 2ed739b49ced0590adfcb493feb41c94,Which of the following contexts can you select in the new Theme usage report? Select all that apply.,Manakah dari konteks berikut yang dapat Anda pilih di laporan penggunaan Tema baru? Pilih semua yang berlaku.,id,261026
-6959186ede8618c64f59028cbde3b3dd,Your answer is correct.,,id,261026
-c05ddbf83a970b0227457447eb005a53,Your answer is partially correct.,,id,261026
-560e8205a845ac17d3d2bb9cf84a1ef6,Your answer is incorrect.,,id,261026
+6959186ede8618c64f59028cbde3b3dd,Your answer is correct.,Jawaban Anda benar.,id,261026
+c05ddbf83a970b0227457447eb005a53,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+560e8205a845ac17d3d2bb9cf84a1ef6,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 d16253ccc2cb68b7699907297c97fa6e,Course,Kursus,id,261026
 a6467084411e3e5123f5e3a5a2648a07,Category,Kategori,id,261026
 bc79bd444db2ae5792255cb09ad94b0b,Cohort,Kelompok,id,261026
 08a76b3fc99bc449dd4631151002c70b,"<p>For TinyMCE premium features charging is done on ""per request"" basis (number of editor loads). How can you ensure only specified users can access the premium features?</p>","<p>Untuk fitur premium TinyMCE, pembiayaan dilakukan berdasarkan ""per permintaan"" (jumlah pemuatan editor). Bagaimana Anda bisa memastikan hanya pengguna tertentu yang dapat mengakses fitur premium?</p>",id,261026
-e644c7dff2b26434b23d04e97dc3c597,<p>Your answer is correct.</p>,,id,261026
-e87920d81aa6ee040f2222f7cbf1de95,<p>Your answer is partially correct.</p>,,id,261026
-d41623e6a8b334d7013961381c064908,<p>Your answer is incorrect.</p>,,id,261026
+e644c7dff2b26434b23d04e97dc3c597,<p>Your answer is correct.</p>,<p>Jawaban Anda benar.</p>,id,261026
+e87920d81aa6ee040f2222f7cbf1de95,<p>Your answer is partially correct.</p>,<p>Jawaban Anda benar sebagian.</p>,id,261026
+d41623e6a8b334d7013961381c064908,<p>Your answer is incorrect.</p>,<p>Jawaban Anda salah.</p>,id,261026
 856299b7ca9af551924e0752ac75e9a0,"If you are upgrading your site to Moodle 4.4, which of the following is it worth paying particular attention to (in addition to all other checks)?","Jika Anda mengupgrade situs Anda ke Moodle 4.4, manakah dari berikut ini yang perlu Anda perhatikan secara khusus (selain semua pemeriksaan lainnya)?",id,261026
-bf49ff3fd3fe958588ba08e7c49bd706,Your answer is correct.,,id,261026
-6c48565251340b712a805f43652b717f,Your answer is partially correct.,,id,261026
-5cec75f0b167bb338c0ebf214b1b1fdb,Your answer is incorrect.,,id,261026
+bf49ff3fd3fe958588ba08e7c49bd706,Your answer is correct.,Jawaban Anda benar.,id,261026
+6c48565251340b712a805f43652b717f,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+5cec75f0b167bb338c0ebf214b1b1fdb,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 f411d7ace2f11eb2d0aa2626585cf33b,Does your site use the Chat module?,Apakah situs Anda menggunakan modul Obrolan?,id,261026
 ea75c0c9aaa50b4a4bea1543e3437212,Does your site use the Survey module?,Apakah situs Anda menggunakan modul Survei?,id,261026
 6f5d700b41634b73c5a6a2852ee94ce9,Do your teachers use groups in Forums?,Apakah pengajar Anda menggunakan grup di Forum?,id,261026
 1d3edaa99bbaadcb8fe7d0c564c447f8,Which of the following are standard 4.4 course formats? Select all that apply.,Manakah dari berikut ini yang merupakan format kursus standar 4.4? Pilih semua yang berlaku.,id,261026
-44355fcb3b6e35c2cc3b66c3ec17efe6,Your answer is correct.,,id,261026
-f3ad8762104e1e31a594fab4f399218d,Your answer is partially correct.,,id,261026
-513799600a3fa7b41b28d2b0d04d5557,Your answer is incorrect.,,id,261026
+44355fcb3b6e35c2cc3b66c3ec17efe6,Your answer is correct.,Jawaban Anda benar.,id,261026
+f3ad8762104e1e31a594fab4f399218d,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+513799600a3fa7b41b28d2b0d04d5557,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 197fd08c9406500ca969532c5ef0fbd6,Topics,Topik,id,261026
 dc820e9fbea91cef009de40d85cb8e46,Weekly,Mingguan,id,261026
 7b93a6f682437d2701e77875876975c9,Single activity,Aktivitas tunggal,id,261026
 93852f2e0f4d1866659dceb7176e1f8a,Custom sections,Bagian khusus,id,261026
 223e65749c3b14fba8224f14c810fb8d,<p>You are a Moodle-using language teacher. Which of the following could you create with the new Ordering question type? Select all that apply.</p>,<p>Anda adalah pengajar bahasa yang menggunakan Moodle. Manakah dari berikut ini yang dapat Anda buat dengan jenis pertanyaan Pengurutan yang baru? Pilih semua yang sesuai.</p>,id,261026
-62b5c69e334b7165daa95700d0c8f895,<p>Your answer is correct.</p>,,id,261026
-680285fa7c942c9b151e3f1e8a92009e,<p>Your answer is partially correct.</p>,,id,261026
-2eff91a2ba8e04e420f2000d2ef3c88a,<p>Your answer is incorrect.</p>,,id,261026
+62b5c69e334b7165daa95700d0c8f895,<p>Your answer is correct.</p>,<p>Jawaban Anda benar.</p>,id,261026
+680285fa7c942c9b151e3f1e8a92009e,<p>Your answer is partially correct.</p>,<p>Jawaban Anda benar sebagian.</p>,id,261026
+2eff91a2ba8e04e420f2000d2ef3c88a,<p>Your answer is incorrect.</p>,<p>Jawaban Anda salah.</p>,id,261026
 38f47e840e128e9599e5b7d2a31cdca9,Which of these icon colour categories is correct? Select all that apply.<br>,Manakah dari kategori warna ikon berikut yang benar? Pilih semua yang sesuai.<br>,id,261026
-8fe64f857c81901ead2ddd912205993d,Your answer is correct.,,id,261026
-cf91ad213376602852e80f8d5b69ad79,Your answer is partially correct.,,id,261026
-ba4308fa316fe49bf0e78edf6b21db76,Your answer is incorrect.,,id,261026
+8fe64f857c81901ead2ddd912205993d,Your answer is correct.,Jawaban Anda benar.,id,261026
+cf91ad213376602852e80f8d5b69ad79,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+ba4308fa316fe49bf0e78edf6b21db76,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 c8c1f34d7e8cff91678a1f082ea79336,Orange - collaboration,Oranye - kolaborasi,id,261026
 e5727c04d0f52102cc3bbbd3e1a76140,Pink - assessment,Merah muda - penilaian,id,261026
 82d3ee4f7722f1a9b27cb3fa7b6f970b,Purple - communication,Ungu - komunikasi,id,261026
 a8af4be556568b9d4798565edc6c972a,Brown - interactive content,Coklat - konten interaktif,id,261026
 f49554332e4c60c26687e68fcba39dd8,Which of these notifications are new in Moodle 4.4? Select all that apply.,Notifikasi manakah yang baru di Moodle 4.4? Pilih semua yang berlaku.,id,261026
-0613b04ae58096b44bd187c44e9595e7,Your answer is correct.,,id,261026
-c3afb442faaed3e8ce9b7f1a27a10e35,Your answer is partially correct.,,id,261026
-182315e5fd2f922decf35764c75146c5,Your answer is incorrect.,,id,261026
+0613b04ae58096b44bd187c44e9595e7,Your answer is correct.,Jawaban Anda benar.,id,261026
+c3afb442faaed3e8ce9b7f1a27a10e35,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+182315e5fd2f922decf35764c75146c5,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 7bcfb3863c1a98527cb01be5a1ec8ea4,Unenrolment due to inactivity,Pembatalan pendaftaran karena tidak aktif,id,261026
 0e4281c8a81771248ba150618a71713e,Course welcome when manually enrolled.,Kursus diterima jika didaftarkan secara manual.,id,261026
 5cde5617c31ebaa115e3b6af4ecd5af3,Course welcome when self-enrolled,Kursus diterima ketika mendaftar mandiri,id,261026
 07a0456e0d8bfc1484dca3b56ea430b6,Content change notification,Pemberitahuan perubahan konten,id,261026
 242642a8e632e2702c7a0212bbe05d54,What is the main benefit of the improvements to the Show one section per page course setting in Moodle 4.4?&nbsp;<br>,Apa manfaat utama dari perbaikan pengaturan kursus Tampilkan satu bagian per halaman di Moodle 4.4?&nbsp;<br>,id,261026
-866f26e83b673d04910f670c8ed1f69a,Your answer is correct.,,id,261026
-44095e6f4920ca5ec326c3055b69e736,Your answer is partially correct.,,id,261026
-c21a4b98ad3828619e8b516f1de2a63a,Your answer is incorrect.,,id,261026
+866f26e83b673d04910f670c8ed1f69a,Your answer is correct.,Jawaban Anda benar.,id,261026
+44095e6f4920ca5ec326c3055b69e736,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+c21a4b98ad3828619e8b516f1de2a63a,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 0148654be0f48729b64c98456e81d2c6,Students can click to see just one section.,Peserta didik dapat mengklik untuk melihat satu bagian saja.,id,261026
 5fcc129bc47fa971e0a6530f70ae26ba,The top 'General' section is no longer visible when viewing only one section.,Bagian 'Umum' di atas tidak lagi terlihat ketika hanya melihat satu bagian.,id,261026
 3bb46367f0272999d19f03fec53d4314,Students can see their progress for each section from the main course page.,Siswa dapat melihat kemajuan mereka untuk setiap bagian dari halaman kursus utama.,id,261026
 359158d0293641a38e3b88a5158807e3,Students can see which sections have more activities than others from the main course page.,Siswa dapat melihat bagian mana yang memiliki aktivitas lebih banyak daripada bagian lainnya dari halaman kursus utama.,id,261026
 7e4e1ef527b81c80c5b639ded0c709a1,Which of the following statements about the new Ordering question type are correct? Select all that apply.,Manakah dari pernyataan berikut tentang jenis pertanyaan Pengurutan baru yang benar? Pilih semua yang berlaku.,id,261026
-4f46344ecef165ef7af9c72defa61d69,Your answer is correct.,,id,261026
-5fb229ff3e460067f77b928e28806c03,Your answer is partially correct.,,id,261026
-56b70fb5de8d2460d01cd88cac0481a0,Your answer is incorrect.,,id,261026
+4f46344ecef165ef7af9c72defa61d69,Your answer is correct.,Jawaban Anda benar.,id,261026
+5fb229ff3e460067f77b928e28806c03,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+56b70fb5de8d2460d01cd88cac0481a0,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 fb96d3857fafcd995e99053d9b30e043,You can display items vertically or horizontally.,Anda dapat menampilkan item secara vertikal atau horizontal.,id,261026
 7700379b672da5205718e6d6b79598a3,You can use images.,Anda dapat menggunakan gambar.,id,261026
 7d62061db2894a2349fb2c99acb3e277,You can use phrases of no more than three words,Anda dapat menggunakan frasa yang tidak lebih dari tiga kata,id,261026
 f208a5fcb9073ad1f486b3092ea7a29f,You can use individual words in foreign languages.,Anda dapat menggunakan kata-kata individual dalam bahasa asing.,id,261026
 a512904aafa4fc3e79e3edad8903fe72,<p>You are using separate groups in your Moodle 4.4 course. How do you post in the forum to ensure each group gets the post and is able to reply?</p>,<p>Anda menggunakan grup terpisah dalam kursus Moodle 4.4 Anda. Bagaimana cara Anda mempost di forum untuk memastikan setiap grup mendapatkan post tersebut dan dapat membalas?</p>,id,261026
-b3b147d0f2ca340cc990af610c945a73,<p>Your answer is correct.</p>,,id,261026
-2fe100df110004128b2d5bf474eda184,<p>Your answer is partially correct.</p>,,id,261026
-2ebe5119bea201f8f998372c78ca12e4,<p>Your answer is incorrect.</p>,,id,261026
+b3b147d0f2ca340cc990af610c945a73,<p>Your answer is correct.</p>,<p>Jawaban Anda benar.</p>,id,261026
+2fe100df110004128b2d5bf474eda184,<p>Your answer is partially correct.</p>,<p>Jawaban Anda benar sebagian.</p>,id,261026
+2ebe5119bea201f8f998372c78ca12e4,<p>Your answer is incorrect.</p>,<p>Jawaban Anda salah.</p>,id,261026
 cefb31e61ce554cc7ea7c82255bdf611,Which of the following statements about the new quiz grade item feature are correct? Select all that apply.,Manakah dari pernyataan berikut tentang fitur item nilai kuis baru yang benar? Pilih semua yang berlaku.,id,261026
-eb445c716fe86b0a804fe15bc905af4c,Your answer is correct.,,id,261026
-1ed9616b00ecd63f1f481837b33e4c68,Your answer is partially correct.,,id,261026
-c469db6b8c17568c97cff845cb1070ca,Your answer is incorrect.,,id,261026
+eb445c716fe86b0a804fe15bc905af4c,Your answer is correct.,Jawaban Anda benar.,id,261026
+1ed9616b00ecd63f1f481837b33e4c68,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,261026
+c469db6b8c17568c97cff845cb1070ca,Your answer is incorrect.,Jawaban Anda salah.,id,261026
 3e66230e7c7df59f32ae2913e7f18692,Grade items can only be assigned if sections are used in the quiz.,Item nilai hanya dapat diberikan jika bagian digunakan dalam kuis.,id,261026
 b6ab25d44fe7fc9bb26d184ea0a9570a,Grade items can be created either from an existing quiz or directly in the question bank.,Item nilai dapat dibuat baik dari kuis yang ada atau langsung di bank soal.,id,261026
 03728d9fbdb466161369b801501ad4d4,<p>Sam wants to add grade items to individual questions in the Question bank but cannot find where to do this.<br>Can you advise?</p>,"<p>Sam ingin menambahkan item nilai ke setiap pertanyaan di Bank Soal, tetapi tidak dapat menemukan tempat untuk melakukannya.<br>Dapatkah Anda memberikan saran?</p>",id,261026
