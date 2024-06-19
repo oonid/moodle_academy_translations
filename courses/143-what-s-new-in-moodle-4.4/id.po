@@ -1793,7 +1793,7 @@ msgstr "Admin menyetel pengumuman bawaan langganan forum.<br>"
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "212800a180ecd9b4523f364d89bc11f2"}
 msgid "That is one, yes!"
-msgstr ""
+msgstr "Itu salah satunya, ya!"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "b279af2767d63b67ac52091cc00fef09"}
