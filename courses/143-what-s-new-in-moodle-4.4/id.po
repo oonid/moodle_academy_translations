@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-19 08:23+0000\n"
+"PO-Revision-Date: 2024-06-19 13:22+0000\n"
 "Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
 "Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
 "143-what-s-new-in-moodle-4-4/id/>\n"
@@ -277,6 +277,54 @@ msgid ""
 "<p>You are then most welcome to complete the remaining activities and obtain the second badge🙂</p>\n"
 "<p></p>"
 msgstr ""
+"<p dir=\"ltr\">Untuk menyelesaikan kursus, Anda harus menyelesaikan&nbsp; "
+"aktivitas berikut:</p>\n"
+"<p dir=\"ltr\"> </p>\n"
+"<ul>\n"
+"    <li>Lihat buku 'Tentang kursus ini'.</li>\n"
+"    <li>Lakukan Kuis 'Periksa awal kursus: Apa yang sudah Anda ketahui?'</li>"
+"\n"
+"</ul>\n"
+"<p>lalu <strong> BAIK...</strong></p>\n"
+"<p> </p>\n"
+"<ul>\n"
+"    <li>Lihat 'Tutorial: Apa yang baru untuk administrator'</li>\n"
+"    <li>Selesaikan 'Coba peningkatan admin dan fitur baru'</li>\n"
+"    <li>Lakukan Pilihan 'Daftar periksa: administrasi 4.4'</li><li>Lakukan "
+"Kuis: 4.4 untuk Admin: Periksa pemahaman Anda.</li>\n"
+"</ul>\n"
+"<p><strong>...ATAU...</strong></p>\n"
+"<p> </p>\n"
+"<ul>\n"
+"    <li>Lihat 'Tutorial: Apa yang baru bagi pendidik'</li>\n"
+"    <li>Selesaikan 'Coba peningkatan pendidik dan fitur baru'</li>\n"
+"    <li>Lakukan Pilihan 'Daftar periksa: Mengajar dengan 4.4'</"
+"li><li>Lakukan Kuis: 4.4 untuk Pendidik: Periksa pemahaman Anda.</li>\n"
+"</ul>\n"
+"<h4>Menyelesaikan aktivitas</h4>\n"
+"<ul>\n"
+"    <li>Beberapa aktivitas secara otomatis ditandai sebagai selesai "
+"berdasarkan kriteria tertentu.</li>\n"
+"    <li>Beberapa aktivitas mengharuskan Anda menandainya secara manual "
+"sebagai selesai.</li>\n"
+"</ul>\n"
+"<p>Pastikan Anda menyelesaikan aktivitas sesuai dengan kondisi "
+"penyelesaiannya.</p>\n"
+"<p> </p>\n"
+"<ul>\n"
+"</ul>\n"
+"<h4>Lencana kursus</h4>\n"
+"<p>Ada dua lencana yang bisa Anda peroleh dalam kursus ini: 4.4 untuk Admin "
+"dan 4.4 untuk Pendidik.</p>\n"
+"<p>Untuk menyelesaikan kursus, Anda perlu melakukan aktivitas yang "
+"diperlukan ditambah <strong>BAIK</strong> aktivitas untuk administrator "
+"<strong>ATAU</strong> aktivitas untuk pendidik.&nbsp;</p>\n"
+"<p>Setelah berhasil menyelesaikan, Anda akan secara otomatis diberikan "
+"lencana yang relevan untuk menunjukkan keterampilan dan pengetahuan yang "
+"telah Anda peroleh.</p>\n"
+"<p>Anda dipersilakan untuk menyelesaikan aktivitas yang tersisa dan "
+"mendapatkan lencana kedua🙂</p>\n"
+"<p> </p>"
 
 # {"targetlanguage": "id", "contextid": "262746", "md5key":
 # "785630bb4e6ccbdb881e57ec046aedfa"}
@@ -1104,6 +1152,17 @@ msgid ""
 "<p>The long-established and popular <strong>Ordering question type</strong>, originally developed by community Moodler Gordon Bateson, is now part of standard Moodle 4.4 and available for teachers to create sequencing questions for students. These questions may involve individual words, phrases, or (with the HTML format selected) media such as images. The questions can be displayed vertically or horizontally - although the horizontal display will vary depending on image size and your site theme.</p>\n"
 "<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4279/orderingdial.png\" alt=\"\" width=\"635\" height=\"491\"></p>"
 msgstr ""
+"<p><strong>Jenis pertanyaan Pengurutan</strong> yang sudah lama ada dan "
+"populer, awalnya dikembangkan oleh komunitas Moodler Gordon Bateson, kini "
+"menjadi bagian dari standar Moodle 4.4 dan tersedia bagi pengajar untuk "
+"membuat pertanyaan pengurutan bagi siswa. Pertanyaan-pertanyaan ini mungkin "
+"melibatkan setiap kata, frasa, atau (dengan format HTML yang dipilih) media "
+"seperti gambar. Pertanyaan dapat ditampilkan secara vertikal atau horizontal "
+"- meskipun tampilan horizontal akan bervariasi tergantung pada ukuran gambar "
+"dan tema situs Anda.</p>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4279/"
+"orderingdial.png\" alt=\"\" lebar=\"635\" tinggi=\"491\"></p>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "12389408aa49ca6a1125a89de91cb768"}
@@ -1124,6 +1183,20 @@ msgid ""
 "<li>Teal - Resources.</li>\n"
 "</ul>"
 msgstr ""
+"<p>Ikon aktivitas di Moodle 4.4 berukuran sedikit lebih kecil (24x24), "
+"diberi garis tepi dengan latar belakang transparan, dan menggunakan palet "
+"warna yang mudah diakses.</p>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4275/"
+"academyactivityicons.png\" alt=\"\" lebar=\"764\" tinggi=\"531\"></p>\n"
+"<p>Kategori aktivitas diwarnai sebagai berikut: </p>\n"
+"<ul>\n"
+"<li>Merah Muda - Penilaian </li>\n"
+"<li>Ungu - Komunikasi</li>\n"
+"<li>Oranye - Kolaborasi</li>\n"
+"<li>Coklat - Konten interaktif</li>\n"
+"<li>Hijau laut - Sumber Daya.</li>\n"
+"</ul>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "e6adbda71ec5154792c56e41456e264f"}
@@ -1137,6 +1210,15 @@ msgid ""
 "<p>(Note that due to UI improvements being integrated just before release, the interface when the student is taking the quiz has changed slightly since the screencast was filmed.)</p>\n"
 "<p><a href=\"https://youtu.be/r-P2IZp-ysg\">44 Ordering question type</a></p>"
 msgstr ""
+"<p>Video berikut memberikan ikhtisar pertanyaan Pengurutan di Moodle 4.4. "
+"Download video dan transkrip dari bagian <a href=\"https://moodle.academy/"
+"course/view.php?id=143#section-2\">Video dan transkrip untuk diunduh</a>.</p>"
+"\n"
+"<p>(Perhatikan bahwa karena penyempurnaan UI diintegrasikan sebelum rilis, "
+"antarmuka saat siswa mengikuti kuis telah sedikit berubah sejak screencast "
+"difilmkan.)</p>\n"
+"<p><a href=\"https://youtu.be/r-P2IZp-ysg\">Jenis pertanyaan Pengurutan "
+"44</a></p>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "af85e416fca8eed73ac26cc4500124e6"}
@@ -1149,6 +1231,14 @@ msgid ""
 "<p>When a student (or teacher in non-edit mode) clicks a section heading, they are taken to a page for just that section, allowing for better focus. </p>\n"
 "<p>Return to the section by clicking the previous link in the navigation trail and return to the course page by clicking the course name.<br><br><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4274/singlesectionacademy.png\" alt=\"\" width=\"750\" height=\"461\"></p>"
 msgstr ""
+"<p>Saat siswa (atau pengajar dalam mode non-edit) mengklik judul bagian, "
+"mereka akan dibawa ke halaman hanya untuk bagian tersebut, sehingga "
+"memungkinkan fokus yang lebih baik. </p>\n"
+"<p>Kembali ke bagian dengan mengklik link sebelumnya di jalur navigasi dan "
+"kembali ke halaman kursus dengan mengklik nama kursus.<br><br><img class"
+"=\"img-fluid atto_image_button_text-bottom\" role=\"presentation \" src="
+"\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4274/"
+"singlesectionacademy.png\" alt=\"\" width=\"750\" height=\"461\"></p>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "1e3ecc437f07026299b029e0dfd68729"}
@@ -1161,6 +1251,12 @@ msgid ""
 "<p>New icons better displaying file extensions (MIME type) are available in Moodle 4.4, making it easier to see what file was uploaded, for example a PPT™ file or a PDF file.</p>\n"
 "<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4276/academymimetype.png\" alt=\"\" width=\"503\" height=\"411\"></p>"
 msgstr ""
+"<p>Ikon baru yang menampilkan ekstensi file dengan lebih baik (tipe MIME) "
+"tersedia di Moodle 4.4, membuatnya lebih mudah untuk melihat file apa yang "
+"diunggah, misalnya file PPT™ atau file PDF.</p>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4276/"
+"academymimetype.png\" alt=\"\" lebar=\"503\" tinggi=\"411\"></p>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "e6a7f8a2f42cc35979973da8dfb10720"}
@@ -1175,6 +1271,19 @@ msgid ""
 "<h5>Faster ‘Post a copy to all groups’</h5>\n"
 "<p>The 'Post a copy to all groups' checkbox is shown in the quick discussion creation form so it can be ticked just before sending a message out to all groups, rather than previously when the teacher had to click the 'Advanced' link.<br><br>The following video gives an overview of these community-contributed forum improvements in Moodle 4.4 for admins and teachers. Download the video and transcript from the section <a href=\"https://moodle.academy/course/view.php?id=143#section-2\">Videos and transcripts for download</a>.<br><br><a href=\"https://youtu.be/3kLaQUM16Hc\">44 Forum</a></p>"
 msgstr ""
+"<h5>Pengumuman bawaan forum</h5>\n"
+"<p>Untuk forum standar, administrator dapat menyetel Pengumuman bawaan forum "
+"untuk jumlah maksimum lampiran dan mode berlangganan (sehingga pengajar "
+"tidak perlu mengubahnya).</p>\n"
+"<h5>Lebih cepat 'Post salinan ke semua grup'</h5>\n"
+"<p>Kotak centang 'Post salinan ke semua grup' ditampilkan dalam formulir "
+"pembuatan diskusi cepat sehingga dapat dicentang sesaat sebelum mengirim "
+"pesan ke semua grup, bukan sebelumnya ketika pengajar harus mengeklik tautan "
+"'Lanjutan' .<br><br>Video berikut memberikan ikhtisar perbaikan forum "
+"kontribusi komunitas di Moodle 4.4 untuk admin dan pengajar. Download video "
+"dan transkrip dari bagian <a href=\"https://moodle.academy/course/view."
+"php?id=143#section-2\">Video dan transkrip untuk diunduh</a>.<br>< br><a "
+"href=\"https://youtu.be/3kLaQUM16Hc\">Forum 44</a></p>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "324003a4dfcaf85c9e0824eef031764b"}
@@ -1189,6 +1298,20 @@ msgid ""
 "<p>It is also easier to manage the image once uploaded:</p>\n"
 "<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4280/acadebetterimage.png\" alt=\"\" width=\"700\" height=\"544\"></p>"
 msgstr ""
+"<p>TinyMCE sekarang menjadi editor default di Moodle. Jika Anda seorang "
+"pengajar yang saat ini menggunakan editor Atto sebelumnya, Anda dapat "
+"mengubah ke TinyMCE dari <strong>profil pengguna &gt; Preferensi &gt; "
+"Preferensi editor</strong>.</p>\n"
+"<p>Saat mengunggah gambar menggunakan TinyMCE, antarmuka ditingkatkan, "
+"membuatnya lebih mudah untuk menarik/meletakkan, mencari dan mengunggah atau "
+"menautkan ke gambar:<br><br><img class=\"img-fluid atto_image_button_text-"
+"bottom\" role= \"presentation\" src=\"https://moodle.academy/pluginfile.php/"
+"262756/mod_book/chapter/4280/tinymceacad.png\" alt=\"\" width=\"700\" height="
+"\"330\"></p>\n"
+"<p>Mengelola gambar setelah diunggah juga lebih mudah:</p>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4280/"
+"acadebetterimage.png\" alt=\"\" lebar=\"700\" tinggi=\"544\"></p>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "e6986dac12736e6c2290952d757ffe8d"}
@@ -1201,6 +1324,10 @@ msgid ""
 "<p>The following video gives an overview of Quiz improvements in Moodle 4.4. Download the video and transcript from the section <a href=\"https://moodle.academy/course/view.php?id=143#section-2\">Videos and transcripts for download</a>.</p>\n"
 "<p><a href=\"https://youtu.be/AmM5WvEUNy0?feature=shared\">44 Quiz</a></p>"
 msgstr ""
+"<p>Video berikut memberikan ikhtisar perbaikan Kuis di Moodle 4.4. Unduh "
+"video dan transkrip dari bagian <a href=\"https://moodle.academy/course/view."
+"php?id=143#section-2\">Video dan transkrip untuk diunduh</a>.</p>\n"
+"<p><a href=\"https://youtu.be/AmM5WvEUNy0?feature=shared\">Kuis 44</a></p>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "dbfd201617d33e930b0c95dec33bd37c"}
@@ -1211,6 +1338,18 @@ msgid ""
 "<li>other changes teachers in Moodle 4.4 sites should be aware of.</li>\n"
 "</ul>"
 msgstr ""
+"<p>Dalam tutorial ini kami akan membahas fitur-fitur baru yang paling "
+"signifikan dan menarik serta peningkatan bagi mereka yang berperan sebagai "
+"pengajar pengedit dalam kursus Moodle 4.4. Untuk daftar lengkap semua yang "
+"baru, lihat <a href=\"https://moodledev.io/general/releases/4.4\""
+">dokumentasi rilis Moodle 4.4</a>.<br><br>Dalam tutorial ini kita "
+"menjelajahi:</p>\n"
+"<ul>\n"
+"<li>fitur-fitur baru dan perbaikan yang mempengaruhi pengajar di situs "
+"Moodle 4.4.</li>\n"
+"<li>perubahan lain yang harus diperhatikan oleh pengajar di situs Moodle 4."
+"4.</li>\n"
+"</ul>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "db3e13b4d5ac0e09a9d1dcfc06d3f247"}
@@ -1232,6 +1371,18 @@ msgid ""
 "src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4273/44sectioncards.png\""
 " alt=\"4.4 section cards\" width=\"784\" height=\"306\"></p>"
 msgstr ""
+"<p>Halaman kursus di Moodle 4.4 memiliki tampilan yang lebih rapi dengan "
+"aktivitas yang dipisahkan oleh garis dan bagian yang dibingkai dalam kartu. ("
+"Ini kebalikan dari Moodle 4.3.) Hal ini memungkinkan fokus yang lebih "
+"baik.<br><br>Moodle 4.3 menampilkan kartu aktivitas dan garis yang "
+"memisahkan bagian:<br><img class=\"img-fluid atto_image_button_text-bottom\" "
+"src =\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4273/"
+"43%20activity%20cards.png\" alt=\"4.3 kartu aktivitas\" width=\"724\" height="
+"\"276\"><br ><br>Moodle 4.4 menampilkan garis antara aktivitas dan bagian "
+"dalam kartu:<br><img class=\"img-fluid atto_image_button_text-bottom\" src="
+"\"https://moodle.academy/pluginfile.php/262756/mod_book /chapter/4273/"
+"44sectioncards.png\" alt=\"kartu bagian 4.4\" width=\"784\" height=\"306\""
+"></p>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "e908e8acfd2fd94a8ba15152a5104c5b"}
@@ -1244,6 +1395,11 @@ msgid ""
 "<p>The following video gives an overview of the new icons in Moodle 4.4. Download the video and transcript from the section <a href=\"https://moodle.academy/course/view.php?id=143#section-2\">Videos and transcripts for download</a>.</p>\n"
 "<p><a href=\"https://youtu.be/ypAxbEztz50?feature=shared\">Activity icons</a></p>"
 msgstr ""
+"<p>Video berikut memberikan ikhtisar ikon-ikon baru di Moodle 4.4. Unduh "
+"video dan transkrip dari bagian <a href=\"https://moodle.academy/course/view."
+"php?id=143#section-2\">Video dan transkrip untuk diunduh</a>.</p>\n"
+"<p><a href=\"https://youtu.be/ypAxbEztz50?feature=shared\">Ikon "
+"aktivitas</a></p>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "27fd26494a6da3c65cdd91f683b7231e"}
@@ -1256,6 +1412,12 @@ msgid ""
 "<p>The following video gives an overview of course page improvements in Moodle 4.4. Download the video and transcript from the section <a href=\"https://moodle.academy/course/view.php?id=143#section-2\">Videos and transcripts for download</a>.</p>\n"
 "<p><a href=\"https://youtu.be/gxyJ__ij38U?feature=shared\">44 Course page</a></p>"
 msgstr ""
+"<p>Video berikut memberikan ikhtisar perbaikan halaman kursus di Moodle 4.4. "
+"Unduh video dan transkrip dari bagian <a href=\"https://moodle.academy/"
+"course/view.php?id=143#section-2\">Video dan transkrip untuk diunduh</a>.</p>"
+"\n"
+"<p><a href=\"https://youtu.be/gxyJ__ij38U?feature=shared\">Halaman kursus "
+"44</a></p>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "6dffdc66cc311cd20bca7aa0b492239e"}
@@ -1279,6 +1441,33 @@ msgid ""
 "<li>The setting 'Show one section per page' displays the number of activities in a section (rather than the type) and when a student clicks to go to a section, they arrive at the new single section page without the top/general section displaying. This reduces redundancy and once more allows for better focus.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"<li>Dengan mengaktifkan mode edit, pengajar melihat garis putus-putus yang "
+"memisahkan item, memungkinkan mereka mengklik dengan mudah dan menambahkan "
+"aktivitas atau sumber daya baru.</li>\n"
+"<li>Mengakses halaman bagian baru dengan mode edit diaktifkan dilakukan "
+"dengan mengklik namanya di indeks kursus atau dengan mengklik link Lihat "
+"dari menu Edit.</li>\n"
+"</ul>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4277/"
+"viewacademy.png\" alt=\"\" lebar=\"185\" tinggi=\"283\"></p>\n"
+"<ul>\n"
+"<li>Dari <strong>Navigasi kursus &gt; Setelan, </strong>setelan format "
+"Kursus kini menyertakan deskripsi di pemilih.</li>\n"
+"<li>Topik kini berganti nama menjadi <strong>Bagian kursus </strong>(dan "
+"bagian baru tidak lagi diberi nomor).</li>\n"
+"</ul>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4277/"
+"courseformatacademy.png\" alt=\"\" lebar=\"328\" tinggi=\"495\"></p>\n"
+"<ul>\n"
+"<li>Pengaturan 'Tampilkan satu bagian per halaman' menampilkan jumlah "
+"kegiatan dalam suatu bagian (bukan jenisnya) dan ketika siswa mengklik untuk "
+"membuka suatu bagian, mereka tiba di halaman satu bagian baru tanpa bagian "
+"atas/umum bagian ditampilkan. Hal ini mengurangi redundansi dan sekali lagi "
+"memungkinkan fokus yang lebih baik.</li>\n"
+"</ul>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "1500b6bbde21de6a8ca2f738ff0a7e79"}
@@ -1300,6 +1489,37 @@ msgid ""
 "<p>As a student works through a quiz, they can see when their responses were last saved in the Quiz navigation block, reassuring them that auto-save is working.</p>\n"
 "<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4278/quizlastacade.png\" alt=\"\" width=\"288\" height=\"236\"></p>"
 msgstr ""
+"<h5>Kuis beberapa nilai</h5>\n"
+"<p>Peningkatan penilaian kuis yang disumbangkan komunitas ini memungkinkan "
+"pengajar menetapkan item nilai untuk pertanyaan tertentu dalam kuis. Setelah "
+"siswa menyelesaikan kuis, mereka tidak hanya melihat hasil keseluruhannya "
+"tetapi juga hasil untuk setiap kelompok pertanyaan/bagian tertentu.</p>\n"
+"<p>Guru mengakses fitur ini dengan mengeklik <strong>Pertanyaan</strong> "
+"lalu dari tarik-turun memilih <strong>Penyiapan item nilai </strong>(hanya "
+"untuk satu bagian atau semua pertanyaan sekaligus) atau <strong>Penyiapan "
+"nilai untuk setiap bagian</strong> (untuk kuis dengan beberapa bagian).</p>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4278/"
+"quizgradeitemsetup.png\" alt=\"\" lebar=\"493\" tinggi=\"312\"></p>\n"
+"<p>Saat Siapkan nilai untuk setiap bagian digunakan, item nilai secara "
+"otomatis dibuat dan ditetapkan ke pertanyaan di bagian yang sesuai. Jika "
+"tidak ada bagian dalam kuis, item nilai tersedia untuk dipilih pengajar dari "
+"tarik-turun di samping setiap pertanyaan.</p>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4278/"
+"gradedropdown.png\" alt=\"\" lebar=\"798\" tinggi=\"191\"></p>\n"
+"<p>Ketika siswa telah menyelesaikan kuis, mereka akan melihat nilai mereka "
+"untuk setiap item nilai serta nilai keseluruhannya.</p>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4278/"
+"studentmultiplegrades.png\" alt=\"\" lebar=\"543\" tinggi=\"327\"></p>\n"
+"<h5>Info terakhir disimpan</h5>\n"
+"<p>Saat siswa mengerjakan kuis, mereka dapat melihat kapan tanggapan mereka "
+"terakhir disimpan di blok navigasi Kuis, sehingga meyakinkan mereka bahwa "
+"penyimpanan otomatis berfungsi.</p>\n"
+"<p><img class=\"img-fluid atto_image_button_text-bottom\" role=\"presentation"
+"\" src=\"https://moodle.academy/pluginfile.php/262756/mod_book/chapter/4278/"
+"quizlastacade.png\" alt=\"\" lebar=\"288\" tinggi=\"236\"></p>"
 
 # {"targetlanguage": "id", "contextid": "262756", "md5key":
 # "a274f4d4670213a9045ce258c6c56b80"}
@@ -1315,6 +1535,20 @@ msgid ""
 "<h5>Welcome message for manually enrolled students</h5>\n"
 "<p>If you manually enrol students into your course, they will receive a course welcome message (which can be edited by the administrator or manager). An admin setting specifies if the message should be sent from the course contact (i.e. the first course teacher), a keyholder or the No-reply address.</p>"
 msgstr ""
+"<p>Jika Anda seorang pengajar di situs Moodle 4.4 yang baru diinstal, "
+"notifikasi web akan diaktifkan secara bawaan untuk Anda. Untuk mengelola "
+"preferensi notifikasi, klik ikon roda gigi dari ikon notifikasi (lonceng) di "
+"bagian atas layar Anda.</p>\n"
+"<h5>Pembatalan pendaftaran karena tidak aktif</h5>\n"
+"<p>Jika Anda menggunakan pendaftaran mandiri dalam kursus Anda, notifikasi "
+"baru akan memperingatkan siswa bahwa mereka akan dibatalkan pendaftarannya "
+"karena mereka belum mengakses kursus selama jangka waktu tertentu.</p>\n"
+"<h5>Pesan selamat datang untuk siswa yang terdaftar secara manual</h5>\n"
+"<p>Jika Anda mendaftarkan siswa ke kursus Anda secara manual, mereka akan "
+"menerima pesan selamat datang kursus (yang dapat diedit oleh administrator "
+"atau manajer). Pengaturan admin menentukan apakah pesan harus dikirim dari "
+"kontak kursus (yaitu pengajar kursus pertama), pemegang kunci, atau alamat "
+"Tanpa balasan.</p>"
 
 # {"targetlanguage": "id", "contextid": "262757", "md5key":
 # "1fb9b9b66406679c0f942ca971864df1"}
@@ -1334,6 +1568,25 @@ msgid ""
 "<li>View the <a href=\"https://school.moodledemo.net/mod/quiz/view.php?id=1203\">Summative Quiz</a> and explore how the section grades work.</li>\n"
 "</ul>"
 msgstr ""
+"<p>Silakan lihat halaman Tempat mencoba Moodle 4.4 jika Anda tidak memiliki "
+"akses ke situs pengujian Moodle 4.4. (Saran berikut juga dapat dicoba di "
+"situs pengujian 4.4 Anda sendiri jika Anda mau.)</p>\n"
+"<ul>\n"
+"<li>Masuk ke <a href=\"https://school.moodledemo.net\">situs demo Mount "
+"Orange School</a> dengan nama pengguna teacher/kata sandi moodle dan "
+"jelajahi kursus <a href=\"https://school.moodledemo.net/course/view.php?id="
+"73\">Komunikasi Lintas Budaya.</a>.</li>\n"
+"<li>Klik suatu bagian dan lihat bagaimana Anda dibawa ke halaman bagian "
+"baru.</li>\n"
+"<li>Akses pengaturan kursus dan perhatikan tampilan baru format kursus dan "
+"penggantian nama format Topik.</li>\n"
+"<li>Aktifkan mode Edit dan gunakan tautan Lihat untuk mengakses bagian.</li>"
+"\n"
+"<li>Akses bank soal dan buat satu atau dua pertanyaan Pengurutan. (Contoh "
+"sudah tersedia.)</li>\n"
+"<li>Lihat <a href=\"https://school.moodledemo.net/mod/quiz/view.php?id=1203\""
+">Kuis Summatif</a> dan jelajahi cara kerja nilai bagian.</li>\n"
+"</ul>"
 
 # {"targetlanguage": "id", "contextid": "262758", "md5key":
 # "e230ef73dc08d33724886edb4f626bac"}
@@ -1355,6 +1608,24 @@ msgid ""
 "\n"
 "</div>"
 msgstr ""
+"<div class=\"no-overflow\"><h4><i class=\"fa fa-graduation-cap\" aria-hidden="
+"\"true\" style=\"font-size: 1rem;\"></i>&nbsp;Kursus terkait</h4>\n"
+"<p>Anda mungkin juga ingin mempertimbangkan kursus terkait berikut ini di "
+"Moodle Academy:</p>\n"
+"<ul>\n"
+"  <li><a href=\"https://moodle.academy/course/view.php?id=108\">Apa yang "
+"Baru di Moodle 4.3</a>.</li>  \n"
+"  <li><a href=\"https://moodle.academy/course/view.php?id=93\">Apa yang Baru "
+"di Moodle 4.2</a>.</li>\n"
+"    <li><a href=\"https://moodle.academy/course/view.php?id=76\">Apa yang "
+"Baru di Moodle 4.1</a>.</li>\n"
+"    <li><a href=\"https://moodle.academy/course/view.php?id=25\">Moodle 4.0 "
+"untuk Pendidik</a>.</li>\n"
+"    <li><a href=\"https://moodle.academy/course/view.php?id=28\">Moodle 4.0 "
+"untuk Admin</a>.</li>\n"
+"</ul>\n"
+"\n"
+"</div>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "141901ab29548303219c08fa3548dc0c"}
@@ -1363,6 +1634,9 @@ msgid ""
 "global community of Moodlers. Which of the following Moodle 4.4 course "
 "improvements and new features were contributed by community developers?<br>"
 msgstr ""
+"Dengan setiap rilis, fitur-fitur baru dan peningkatan dikontribusikan oleh "
+"komunitas global Moodlers kami. Manakah dari perbaikan kursus dan fitur baru "
+"Moodle 4.4 berikut yang merupakan kontribusi dari pengembang komunitas?<br>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "dc60946137baff4949b7f521f7a8be9b"}
@@ -1485,7 +1759,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "07167e6684fc728f96656c1dc131ccf0"}
 msgid "Yes. Do you remember why?"
-msgstr ""
+msgstr "Ya. Apakah Anda ingat alasannya?"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "c21308583551b7b2b4bdde28c785249a"}
@@ -1632,6 +1906,8 @@ msgid ""
 "Which of the following features are new for adminstrators managing site "
 "badges? Select all that apply."
 msgstr ""
+"Manakah dari fitur berikut yang baru bagi administrator yang mengelola "
+"lencana situs? Pilih semua yang berlaku."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "ca419b0e0964614efe9f5876025b9fe2"}
@@ -1752,6 +2028,11 @@ msgid ""
 "your teaching staff. Which of the following are new features and "
 "improvements for course teachers and students? Select all that apply."
 msgstr ""
+"Meskipun sebagai admin Anda perlu mengetahui perubahan utama bagi "
+"administrator situs, penting juga untuk memiliki gambaran umum tentang apa "
+"yang baru bagi staf pengajar Anda. Manakah dari berikut ini yang merupakan "
+"fitur baru dan peningkatan bagi pengajar dan siswa kursus? Pilih semua yang "
+"berlaku."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "e6eb3abacfeac45e18e4b3712f596c45"}
@@ -1789,6 +2070,8 @@ msgid ""
 "As admin, where do you go in 4.4 to allow users to view their login password"
 " in plain text?"
 msgstr ""
+"Sebagai admin, di mana Anda pergi di 4.4 untuk memungkinkan pengguna melihat "
+"sandi login mereka dalam teks biasa?"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "6826e6871f4ae7771314c3d5abe8923d"}
@@ -1904,6 +2187,8 @@ msgid ""
 "Which of the following contexts can you select in the new Theme usage "
 "report? Select all that apply."
 msgstr ""
+"Manakah dari konteks berikut yang dapat Anda pilih di laporan penggunaan "
+"Tema baru? Pilih semua yang berlaku."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "6959186ede8618c64f59028cbde3b3dd"}
@@ -1933,7 +2218,7 @@ msgstr "Kategori"
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "bc79bd444db2ae5792255cb09ad94b0b"}
 msgid "Cohort"
-msgstr ""
+msgstr "Kelompok"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "08a76b3fc99bc449dd4631151002c70b"}
@@ -1942,6 +2227,9 @@ msgid ""
 "(number of editor loads). How can you ensure only specified users can access"
 " the premium features?</p>"
 msgstr ""
+"<p>Untuk fitur premium TinyMCE, pembiayaan dilakukan berdasarkan \"per "
+"permintaan\" (jumlah pemuatan editor). Bagaimana Anda bisa memastikan hanya "
+"pengguna tertentu yang dapat mengakses fitur premium?</p>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "e644c7dff2b26434b23d04e97dc3c597"}
@@ -1964,6 +2252,8 @@ msgid ""
 "If you are upgrading your site to Moodle 4.4, which of the following is it "
 "worth paying particular attention to (in addition to all other checks)?"
 msgstr ""
+"Jika Anda mengupgrade situs Anda ke Moodle 4.4, manakah dari berikut ini "
+"yang perlu Anda perhatikan secara khusus (selain semua pemeriksaan lainnya)?"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "bf49ff3fd3fe958588ba08e7c49bd706"}
@@ -2045,6 +2335,9 @@ msgid ""
 "<p>You are a Moodle-using language teacher. Which of the following could you"
 " create with the new Ordering question type? Select all that apply.</p>"
 msgstr ""
+"<p>Anda adalah pengajar bahasa yang menggunakan Moodle. Manakah dari berikut "
+"ini yang dapat Anda buat dengan jenis pertanyaan Pengurutan yang baru? Pilih "
+"semua yang sesuai.</p>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "62b5c69e334b7165daa95700d0c8f895"}
@@ -2087,22 +2380,22 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "c8c1f34d7e8cff91678a1f082ea79336"}
 msgid "Orange - collaboration"
-msgstr ""
+msgstr "Oranye - kolaborasi"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "e5727c04d0f52102cc3bbbd3e1a76140"}
 msgid "Pink - assessment"
-msgstr ""
+msgstr "Merah muda - penilaian"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "82d3ee4f7722f1a9b27cb3fa7b6f970b"}
 msgid "Purple - communication"
-msgstr ""
+msgstr "Ungu - komunikasi"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "a8af4be556568b9d4798565edc6c972a"}
 msgid "Brown - interactive content"
-msgstr ""
+msgstr "Coklat - konten interaktif"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "f49554332e4c60c26687e68fcba39dd8"}
@@ -2128,7 +2421,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "7bcfb3863c1a98527cb01be5a1ec8ea4"}
 msgid "Unenrolment due to inactivity"
-msgstr ""
+msgstr "Pembatalan pendaftaran karena tidak aktif"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "0e4281c8a81771248ba150618a71713e"}
@@ -2138,7 +2431,7 @@ msgstr "Kursus diterima jika didaftarkan secara manual."
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "5cde5617c31ebaa115e3b6af4ecd5af3"}
 msgid "Course welcome when self-enrolled"
-msgstr ""
+msgstr "Kursus diterima ketika mendaftar mandiri"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "07a0456e0d8bfc1484dca3b56ea430b6"}
@@ -2151,6 +2444,8 @@ msgid ""
 "What is the main benefit of the improvements to the Show one section per "
 "page course setting in Moodle 4.4?&nbsp;<br>"
 msgstr ""
+"Apa manfaat utama dari perbaikan pengaturan kursus Tampilkan satu bagian per "
+"halaman di Moodle 4.4?&nbsp;<br>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "866f26e83b673d04910f670c8ed1f69a"}
@@ -2203,6 +2498,8 @@ msgid ""
 "Which of the following statements about the new Ordering question type are "
 "correct? Select all that apply."
 msgstr ""
+"Manakah dari pernyataan berikut tentang jenis pertanyaan Pengurutan baru "
+"yang benar? Pilih semua yang berlaku."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "4f46344ecef165ef7af9c72defa61d69"}
@@ -2227,7 +2524,7 @@ msgstr "Anda dapat menampilkan item secara vertikal atau horizontal."
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "7700379b672da5205718e6d6b79598a3"}
 msgid "You can use images."
-msgstr ""
+msgstr "Anda dapat menggunakan gambar."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "7d62061db2894a2349fb2c99acb3e277"}
@@ -2245,6 +2542,9 @@ msgid ""
 "<p>You are using separate groups in your Moodle 4.4 course. How do you post "
 "in the forum to ensure each group gets the post and is able to reply?</p>"
 msgstr ""
+"<p>Anda menggunakan grup terpisah dalam kursus Moodle 4.4 Anda. Bagaimana "
+"cara Anda mempost di forum untuk memastikan setiap grup mendapatkan post "
+"tersebut dan dapat membalas?</p>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "b3b147d0f2ca340cc990af610c945a73"}
@@ -2267,6 +2567,8 @@ msgid ""
 "Which of the following statements about the new quiz grade item feature are "
 "correct? Select all that apply."
 msgstr ""
+"Manakah dari pernyataan berikut tentang fitur item nilai kuis baru yang "
+"benar? Pilih semua yang berlaku."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "eb445c716fe86b0a804fe15bc905af4c"}
@@ -2294,6 +2596,7 @@ msgid ""
 "Grade items can be created either from an existing quiz or directly in the "
 "question bank."
 msgstr ""
+"Item nilai dapat dibuat baik dari kuis yang ada atau langsung di bank soal."
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "03728d9fbdb466161369b801501ad4d4"}
@@ -2301,6 +2604,9 @@ msgid ""
 "<p>Sam wants to add grade items to individual questions in the Question bank"
 " but cannot find where to do this.<br>Can you advise?</p>"
 msgstr ""
+"<p>Sam ingin menambahkan item nilai ke setiap pertanyaan di Bank Soal, "
+"tetapi tidak dapat menemukan tempat untuk melakukannya.<br>Dapatkah Anda "
+"memberikan saran?</p>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "51f3ac449cc53dc961941cbc5896ab4a"}
@@ -2325,6 +2631,10 @@ msgid ""
 "straight to the new page, it only allows you to edit the title.<br>What "
 "should you do? Select all that apply.<br>"
 msgstr ""
+"Anda sedang mencoba perbaikan halaman kursus di Moodle 4.4 dan ingin melihat "
+"halaman bagian baru. Namun, bila Anda mengklik judul bagian untuk langsung "
+"membuka halaman baru, Anda hanya dapat mengedit judulnya saja.<br>Apa yang "
+"harus Anda lakukan? Pilih semua yang sesuai.<br>"
 
 # {"targetlanguage": "id", "contextid": "261026", "md5key":
 # "6c3853704171b917947c4235ff785572"}
