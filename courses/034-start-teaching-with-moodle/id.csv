@@ -627,9 +627,9 @@ aadb0f0f86c8df23baa4330d3b3d7249,"<p style=""text-align: center;"">
 <p style=""text-align: center;""><a href=""https://moodle.academy/mod/book/view.php?id=553&amp;chapterid=827"">Berlisensi CC BY 4.0</ a>.</p>",id,18785
 00b4a3a673139eda218795a671fcce84,"This course launched in April 2022 and is now based on <a href=""https://docs.moodle.org/403/en/Main_page"">Moodle 4.3</a> functionality.","Kursus ini diluncurkan pada bulan April 2022 dan sekarang didasarkan pada fungsionalitas <a href=""https://docs.moodle.org/403/en/Main_page"">Moodle 4.3</a>.",id,6902
 9084a601a3cc7475c9b80092da1bd804,You've been given a course with teacher permissions to practise in. Unfortunately you realise you typed the name of your course wrong. How can you correct it?,Anda telah diberi kursus dengan izin pengajar untuk berlatih. Sayangnya Anda menyadari bahwa Anda salah mengetik nama kursus Anda. Bagaimana cara memperbaikinya?,id,5809
-0cadfa8f011ab51b834a8331984141b9,Your answer is correct.,,id,5809
-240fa1d5730d61108867b5b10fcd2c8f,Your answer is partially correct.,,id,5809
-da0863bac8e950187a39344ad1d5edb0,Your answer is incorrect.,,id,5809
+0cadfa8f011ab51b834a8331984141b9,Your answer is correct.,Jawaban Anda benar.,id,5809
+240fa1d5730d61108867b5b10fcd2c8f,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+da0863bac8e950187a39344ad1d5edb0,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 2cd9e2bcd86cfd24ae9351b3b1c226ff,"<p>As admin, delete the course and create a new one.</p>","<p>Sebagai admin, hapus kursus dan buat kursus baru.</p>",id,5809
 110c94170e3637d6797a994bf57ceea8,<p>You are not an admin and you don't need to do this!</p>,<p>Anda bukan admin dan Anda tidak perlu melakukan ini!</p>,id,5809
 6509ea8ecdfeb60271e18171551f46fe,<p>Enable Edit mode and click the pencil icon next to General on the course page.</p>,<p>Aktifkan mode Edit dan klik ikon pensil di sebelah Umum pada halaman kursus.</p>,id,5809
@@ -639,9 +639,9 @@ dc5cdce97af08706f0a6153cba9d7e20,<p>Click 'Settings' in the Course navigation an
 2df0c07a843c07f953f4513c43e9be5c,<p>Enable Edit mode</p>,<p>Aktifkan mode Edit</p>,id,5809
 0c56d36c5284914e96ad2365dc750171,<p>You don't need to enable edit mode to change the course name.</p>,<p>Anda tidak perlu mengaktifkan mode edit untuk mengubah nama kursus.</p>,id,5809
 7f05b54b3edb871044472d9d8533035f,"<p>This screenshot shows a student's My courses page. How did the course images get there?</p><p><img src=""@@PLUGINFILE@@/StudentMycourses.png"" alt=""My course tab showing course images"" width=""700"" height=""266"" class=""img-fluid atto_image_button_text-bottom""><br></p><p><br></p>","<p>Tangkapan layar ini menunjukkan laman Kursus saya milik siswa. Bagaimana gambar kursus bisa sampai di sana?</p><p><img src=""@@PLUGINFILE@@/StudentMycourses.png"" alt=""Tab Kursus saya menampilkan gambar kursus"" width=""700"" height=""266"" class=""img-fluid atto_image_button_text-bottom""><br></p><p><br></p>",id,5809
-564d0620a6e68dea6bb26f7013672fa2,Your answer is correct.,,id,5809
-c3ddcd75f09561670def7ede2ce3711e,Your answer is partially correct.,,id,5809
-d2eecad1ccfa6258cc4a36635764943f,Your answer is incorrect.,,id,5809
+564d0620a6e68dea6bb26f7013672fa2,Your answer is correct.,Jawaban Anda benar.,id,5809
+c3ddcd75f09561670def7ede2ce3711e,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+d2eecad1ccfa6258cc4a36635764943f,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 81161ce25ac1b2696b0fdc6ea3e94221,<p>They are part of the standard Boost theme.</p>,<p>Itu adalah bagian dari tema Boost standar.</p>,id,5809
 be74cdb2cb68d8dfa6d122cfcc09ece2,<p>No - these images do not depend on the Boost theme.</p>,<p>Tidak - gambar ini tidak bergantung pada tema Boost.</p>,id,5809
 d4feb9f09cd0a539aaa28136aa93ceb3,<p>The administrator adds them from Site administration &gt; Courses &gt; Course default settings.</p>,<p>Administrator menambahkannya dari Administrasi situs &gt; Kursus &gt; Pengaturan bawaan kursus.</p>,id,5809
@@ -651,9 +651,9 @@ d1b0ed80706f9984616ca6212929e3cb,They are added from the course settings within 
 eb67041e2a590158a4349abd2d4674b1,<p>They are part of a course template.</p>,<p>Mereka adalah bagian dari templat kursus.</p>,id,5809
 c7975a7402afc423299117bd0c087d34,<p>No. No template is needed to add the various images.</p>,<p>Tidak. Tidak diperlukan templat untuk menambahkan berbagai gambar.</p>,id,5809
 6c1659a4ac161ab9d4e832587074f073,"<p>A course may be set up in a variety of formats. You are teaching an English language course with four sections, not dependent on weeks in a term. The sections are Reading, Speaking, Listening and Writing. Which course format would be best?</p>","<p>Kursus dapat diatur dalam berbagai format. Anda mengajar kursus bahasa Inggris dengan empat bagian, tidak bergantung pada minggu dalam satu semester. Bagian-bagiannya adalah Membaca, Berbicara, Mendengarkan dan Menulis. Format kursus manakah yang terbaik?</p>",id,5809
-f4e8d5d9226385f84da72db855771cf4,Your answer is correct.,,id,5809
-3a9618531fa66684ad45a63afcfa110c,Your answer is partially correct.,,id,5809
-b14cb7af88c8e069b38b30d237e15afd,Your answer is incorrect.,,id,5809
+f4e8d5d9226385f84da72db855771cf4,Your answer is correct.,Jawaban Anda benar.,id,5809
+3a9618531fa66684ad45a63afcfa110c,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+b14cb7af88c8e069b38b30d237e15afd,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 f77d22f74654f6552c62f1acdfc11fe9,<p>Topics format</p>,<p>Format topik</p>,id,5809
 6f422f256f35dbaa0a98676df1acc638,"<p>This would be the most appropriate, yes.</p>",<p>Ini yang paling tepat ya.</p>,id,5809
 0ac9ba9cd7a3848214863aaa7bf106b4,<p>Weekly format</p>,<p>Format mingguan</p>,id,5809
@@ -664,9 +664,9 @@ d10277192aab5107b5761fb06ae7afc4,<p>Single activity format</p>,<p>Format aktivit
 aff5dfb35d7567dc3214a30ebda37526,<p>This would only allow you to create one activity in her course.</p>,<p>Ini hanya memungkinkan Anda membuat satu aktivitas dalam kursusnya.</p>,id,5809
 cea018cdf14bc74e01424b6761faa9a3,"<p dir=""ltr"" style=""text-align: left;"">You don't want your learners to be able to sign up to your course themselves. You want to specify who can and cannot have access to the course. How do you do that?</p>","<p dir=""ltr"" style=""text-align: left;"">Anda tidak ingin peserta didik Anda dapat mendaftar sendiri ke kursus Anda. Anda ingin menentukan siapa yang dapat dan tidak dapat mengakses kursus. Bagaimana caranya?</p>",id,5809
 3b51e109444b2bcf48d11ac9478a3abb,"<p dir=""ltr"" style=""text-align: left;"">Review the section 'Give learners access to your course' in the Tutorial: Start setting up your course for more informatoin.</p>","<p dir=""ltr"" style=""text-align: left;"">Tinjau bagian 'Beri peserta akses ke kursus Anda' di Tutorial: Mulai siapkan kursus Anda untuk informasi lebih lanjut.</p>",id,5809
-490a6760b579a1607648a3179e92d4d5,Your answer is correct.,,id,5809
-e995d8cd34d1ddbdf12d6b3eca705ca2,Your answer is partially correct.,,id,5809
-4949f36960ae680955ec39ca0760f091,Your answer is incorrect.,,id,5809
+490a6760b579a1607648a3179e92d4d5,Your answer is correct.,Jawaban Anda benar.,id,5809
+e995d8cd34d1ddbdf12d6b3eca705ca2,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+4949f36960ae680955ec39ca0760f091,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 2d8a417de43b918b64bba05904274afc,"<p dir=""ltr"" style=""text-align: left;"">Use manual enrolment.</p>","<p dir=""ltr"" style=""text-align: left;"">Gunakan pendaftaran manual.</p>",id,5809
 15ab19d1d97498988bfe1ff4ad862cb9,"<p dir=""ltr"" style=""text-align: left;"">That is the way.</p>","<p dir=""ltr"" style=""text-align: left;"">Itulah jalannya.</p>",id,5809
 7e0146254181a82c1f5b3ca8b6c3ac9f,"<p dir=""ltr"" style=""text-align: left;"">Delete the enrolment method 'Self-enrolment' from your course settings.</p>","<p dir=""ltr"" style=""text-align: left;"">Hapus metode pendaftaran 'Pendaftaran mandiri' dari pengaturan kursus Anda.</p>",id,5809
@@ -676,9 +676,9 @@ ade9cb4d34505a6ca2a9c68c54b74914,"<p dir=""ltr"" style=""text-align: left;"">Tha
 2c19c7cbd38d5963ca534bc9387be588,"<p dir=""ltr"" style=""text-align: left;"">Use the 'Cohort sync' method.</p>","<p dir=""ltr"" style=""text-align: left;"">Gunakan metode 'Sinkronisasi kelompok'.</p>",id,5809
 d63c1518184cf6ff99575addef041935,"Do you have a cohort? As a teacher, you can't create a cohort. Perhaps there is a simpler way.","Apakah Anda memiliki kelompok? Sebagai pengajar, Anda tidak dapat membuat kelompok. Mungkin ada cara yang lebih sederhana.",id,5809
 498482e7c2fd3eeb2d3998889b2c5538,"You are a teacher in your course, with the standard Boost theme. How can you enrol a student?","Anda adalah pengajar di kursus Anda, dengan tema standar Boost. Bagaimana cara mendaftarkan siswa?",id,5809
-bbc3cc9d5f751bf0fc477803bc180667,Your answer is correct.,,id,5809
-5923f257738387c28f8cc8c64f0d60f9,Your answer is partially correct.,,id,5809
-05e013690a71819033ce1ea5a23b801b,Your answer is incorrect.,,id,5809
+bbc3cc9d5f751bf0fc477803bc180667,Your answer is correct.,Jawaban Anda benar.,id,5809
+5923f257738387c28f8cc8c64f0d60f9,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+05e013690a71819033ce1ea5a23b801b,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 63523b60a9c0513aa35f6e24f2587992,Click the Participants link from the course navigation and then click Enrol users.,"Klik tautan Peserta dari navigasi kursus, lalu klik Daftarkan pengguna.",id,5809
 ff56c7b4a4ba2b04280289b32302f769,<p>Yes! If you are using the Classic theme it is slightly different. Perhaps you could go and try?</p>,<p>Ya! Jika Anda menggunakan tema Classic sedikit berbeda. Mungkin Anda bisa mencobanya?</p>,id,5809
 bfca006bddd3e946eb06445cb354d9d1,"<p>With a CSV file with the required fields 'username, password, firstname, lastname, email'.</p>","<p>Dengan file CSV dengan kolom wajib 'username, password, firstname, lastname, email'.</p>",id,5809
@@ -688,9 +688,9 @@ ada1c8c95a4ac30816c6df38ad4d1589,<p>No. Such a setting does not exist.</p>,<p>Ti
 2a479302b47009498d9a527b104d5202,"<p dir=""ltr"" style=""text-align: left;"">You are exploring the <a href=""http://school.moodledemo.net"">Mount Orange School</a> site and you notice that some courses, such as Psychology in Cinema and Russia in Revolution have blocks on the side giving licensing details for the course. You'd like
     to add such a block to your course. What type of block is this?</p>","<p dir=""ltr"" style=""text-align: left;"">Anda menjelajahi situs <a href=""http://school.moodledemo.net"">Mount Orange School</a> dan Anda melihat bahwa beberapa kursus, seperti Psikologi dalam Sinema dan Rusia dalam Revolusi memiliki blok di samping yang memberikan rincian lisensi untuk kursus tersebut. Anda ingin
     untuk menambahkan blok seperti itu ke kursus Anda. Jenis blok apa ini?</p>",id,5809
-450ca3de333003294e7ad053d6b6d6f8,Your answer is correct.,,id,5809
-2b244d117ac2f696b8fb7805fd5f664f,Your answer is partially correct.,,id,5809
-4ebad206800377e219f7ddcbe78fe1b0,Your answer is incorrect.,,id,5809
+450ca3de333003294e7ad053d6b6d6f8,Your answer is correct.,Jawaban Anda benar.,id,5809
+2b244d117ac2f696b8fb7805fd5f664f,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+4ebad206800377e219f7ddcbe78fe1b0,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 14565f092bdbe6de5839ad9d65ada235,<p>A Creative Commons licensing block</p>,<p>Blok lisensi Creative Commons</p>,id,5809
 058531211aaff887c29117350e3e10d2,<p>That is not a standard block.</p>,<p>Itu bukan blok standar.</p>,id,5809
 75c8544dc41421d7ae8dc73ed052b944,<p>A Text block</p>,<p>Blok teks</p>,id,5809
@@ -701,9 +701,9 @@ cc157d85bea11f9ab0b436362df8343f,<p>A non-standard block not available on your s
 15e62b89e728dd9ac67253c644f815d4,"<p>Not true! Log in to the School demo site with username teacher, password moodle, turn on the editing and discover what the block is.</p>","<p>Tidak benar! Masuk ke situs demo Sekolah dengan nama pengguna teacher, sandi moodle, aktifkan pengeditan dan temukan apa yang diblokir.</p>",id,5809
 978b9012894cea6caf98af6e3349ae3a,Student Anna sees '50% complete' in a course on her My courses tab. What does this mean?,Siswa Anna melihat '50% selesai' dalam kursus di tab Kursus saya. Apa artinya ini?,id,5809
 9a0c327fbb3060ce12b7d4b9dd68f3c5,Review the Book Start exploring Moodle for more information.,Tinjau Buku Mulai jelajahi Moodle untuk informasi lebih lanjut.,id,5809
-90297597be9bc64d650b832d6ebc3739,Your answer is correct.,,id,5809
-7abc191041aab78af7f3cb702dea2820,Your answer is partially correct.,,id,5809
-d6249a4b65e0cdc559153e65f232c509,Your answer is incorrect.,,id,5809
+90297597be9bc64d650b832d6ebc3739,Your answer is correct.,Jawaban Anda benar.,id,5809
+7abc191041aab78af7f3cb702dea2820,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+d6249a4b65e0cdc559153e65f232c509,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 f5bd7894e71ddc4ca9b3c8437cac23cb,"<p dir=""ltr"" style=""text-align: left;"">It is the percentage of required activities that she has completed in that course.</p>","<p dir=""ltr"" style=""text-align: left;"">Ini adalah persentase aktivitas wajib yang telah dia selesaikan dalam kursus tersebut.</p>",id,5809
 7140f03a2691794db35c50020dadfcf4,"<p dir=""ltr"" style=""text-align: left;"">It is the percentage of the course which she still has left to complete before she has finished.</p>","<p dir=""ltr"" style=""text-align: left;"">Ini adalah persentase kursus yang masih harus dia selesaikan sebelum dia menyelesaikannya.</p>",id,5809
 bf4bf331e79e72a01eaebfec9b41998d,"<p dir=""ltr"" style=""text-align: left;"">Check again!</p>","<p dir=""ltr"" style=""text-align: left;"">Periksa lagi!</p>",id,5809
@@ -712,9 +712,9 @@ bf4bf331e79e72a01eaebfec9b41998d,"<p dir=""ltr"" style=""text-align: left;"">Che
 f5471b183345858d6684255c66e5a306,This course is still being prepared by her teacher and it is the percentage of the course that her teacher has completed for the students.,Kursus ini masih dipersiapkan oleh pengajarnya dan merupakan persentase kursus yang telah diselesaikan pengajarnya untuk siswa.,id,5809
 a4be35b1e261a609ecf0cd7c5129492b,Think again and do please review the Tutorial: Start exploring&nbsp; Moodle.,Pikirkan lagi dan silakan tinjau Tutorial: Mulai menjelajah&nbsp; Moodle.,id,5809
 9d25c3168c1aa55b6a0ee1585c59d5f2,"<p dir=""ltr"" style=""text-align: left;"">Which of the following statements is/are true? Select all that apply.</p>","<p dir=""ltr"" style=""text-align: left;"">Manakah pernyataan berikut ini yang benar? Pilih semua yang sesuai.</p>",id,5809
-6137a271e08b1146db287102b9f49592,Your answer is correct.,,id,5809
-138db705ed31cfa14c4e1da1509030a9,Your answer is partially correct.,,id,5809
-3bd36d07785e72618e99181d412c1f0d,Your answer is incorrect.,,id,5809
+6137a271e08b1146db287102b9f49592,Your answer is correct.,Jawaban Anda benar.,id,5809
+138db705ed31cfa14c4e1da1509030a9,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+3bd36d07785e72618e99181d412c1f0d,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 97656708afc59ab6b920545842e0b96e,"<p dir=""ltr"" style=""text-align: left;"">TinyMCE is Moodle's default editor for adding text.</p>","<p dir=""ltr"" style=""text-align: left;"">TinyMCE adalah editor bawaan Moodle untuk menambahkan teks.</p>",id,5809
 fbe4e629a558642f74dd4ea98368beec,"<p dir=""ltr"" style=""text-align: left;"">That's right. There are others if enabled by your administrator.</p>","<p dir=""ltr"" style=""text-align: left;"">Benar. Ada yang lain jika diaktifkan oleh administrator Anda.</p>",id,5809
 28c99a1cc99d338cb867a12bb02fec4f,"<p dir=""ltr"" style=""text-align: left;"">Blocks add extra information to the side of a course.</p>","<p dir=""ltr"" style=""text-align: left;"">Blok menambahkan informasi tambahan ke sisi dari suatu kursus.</p>",id,5809
@@ -724,9 +724,9 @@ fbe4e629a558642f74dd4ea98368beec,"<p dir=""ltr"" style=""text-align: left;"">Tha
 f3c5b031a4f5c2575dc18607635d49cf,"<p dir=""ltr"" style=""text-align: left;"">Extra topic sections must be added from a link at the bottom of the course.</p>","<p dir=""ltr"" style=""text-align: left;"">Bagian topik tambahan harus ditambahkan dari tautan di bagian bawah kursus.</p>",id,5809
 12d9af575f71c3eeef093de38eefef41,"<p dir=""ltr"" style=""text-align: left;"">Are you sure? Review the information and see if you can add them in other places.</p>","<p dir=""ltr"" style=""text-align: left;"">Apakah Anda yakin? Tinjau informasinya dan lihat apakah Anda dapat menambahkannya di tempat lain.</p>",id,5809
 d1bce4d7111b6fa91b40592149dfe5d7,"<p dir=""ltr"" style=""text-align: left;"">Which of these are available in Moodle's standard TinyMCE editor? Select all that apply.</p>","<p dir=""ltr"" style=""text-align: left;"">Manakah dari berikut ini yang tersedia di editor TinyMCE standar Moodle? Pilih semua yang sesuai.</p>",id,5809
-69849fb1a2137ca995f07ef743ced204,Your answer is correct.,,id,5809
-7664f45bc47df19b1b960c1383baa849,Your answer is partially correct.,,id,5809
-5a1f0d6bb62faa329e77d0f9dbf55893,Your answer is incorrect.,,id,5809
+69849fb1a2137ca995f07ef743ced204,Your answer is correct.,Jawaban Anda benar.,id,5809
+7664f45bc47df19b1b960c1383baa849,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+5a1f0d6bb62faa329e77d0f9dbf55893,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 a24f262bd0f51ee9ebe6f5fc2f60f81c,<p>Record short audio or video clips.</p>,<p>Rekam audio atau klip video pendek.</p>,id,5809
 78e5bccb7fe8a61edc0d6dfdb499922e,"<p dir=""ltr"" style=""text-align: left;"">Yes! You may record 2 min video or audio clips directly into the editor.<br></p>","<p dir=""ltr"" style=""text-align: left;"">Ya! Anda dapat merekam klip video atau audio berdurasi 2 menit langsung ke editor.<br></p>",id,5809
 ca1fae682bb54341d0b8ef98714fda23,<p>Check your text for accessibility.</p>,<p>Periksa teks Anda untuk aksesibilitas.</p>,id,5809
@@ -737,22 +737,22 @@ b90ad0efd4f061bcfb761b55e0c30bcf,<p>Use a wide variety of different colours.</p>
 023ae3dddaef9b06f3b9bfe0f6818574,<p>The standard editor doesn't allow you to choose different&nbsp; colours. Some users have problems with different colours.</p>,<p>Editor standar tidak mengizinkan Anda memilih warna&nbsp; yang berbeda. Beberapa pengguna mengalami masalah dengan warna yang berbeda.</p>,id,5809
 b2cc27aa9ae0cbdda2d80ff812605797,"<p dir=""ltr"" style=""text-align: left;"">Which of these methods can you use to move sections on your Moodle 4 course when edit mode is enabled? Select all that apply.</p>","<p dir=""ltr"" style=""text-align: left;"">Manakah dari metode berikut yang dapat Anda gunakan untuk memindahkan bagian pada kursus Moodle 4 Anda ketika mode edit diaktifkan? Pilih semua yang sesuai.</p>",id,5809
 f054fcb6aad4accd4e1c14a1a59dcce3,"<p dir=""ltr"" style=""text-align: left;"">Review the Book Start setting up your course for more information.</p>","<p dir=""ltr"" style=""text-align: left;"">Tinjau Buku Mulai menyiapkan kursus Anda untuk informasi lebih lanjut.</p>",id,5809
-68074f9769093d3a50dcbf858181c93e,Your answer is correct.,,id,5809
-fa1636d45d8db6aea1a16fe468d82318,Your answer is partially correct.,,id,5809
-9b9a486ef07c121ae5e867b38e591f24,Your answer is incorrect.,,id,5809
+68074f9769093d3a50dcbf858181c93e,Your answer is correct.,Jawaban Anda benar.,id,5809
+fa1636d45d8db6aea1a16fe468d82318,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+9b9a486ef07c121ae5e867b38e591f24,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 dce5c5419c8430ba3333a0cffe4b92a2,"<p dir=""ltr"" style=""text-align: left;"">Collapse the section, click on it and drag and drop to the area you want it on the main course page.</p>","<p dir=""ltr"" style=""text-align: left;"">Perkecil bagiannya, klik dan seret dan lepas ke area yang Anda inginkan di halaman kursus utama.</p>",id,5809
-347c986ded28e8130196f6e35f53a399,"<p dir=""ltr"" style=""text-align: left;"">That's one way, yes.</p>",,id,5809
+347c986ded28e8130196f6e35f53a399,"<p dir=""ltr"" style=""text-align: left;"">That's one way, yes.</p>","<p dir=""ltr"" style=""text-align: left;"">Itu salah satu caranya, ya.</p>",id,5809
 3b2b3e360a5fda57f14679998992fffc,"<p dir=""ltr"" style=""text-align: left;"">From the main course page collapse the section, click on it and drag and drop it into the course index in the location you want it.</p>","<p dir=""ltr"" style=""text-align: left;"">Dari halaman kursus utama, tutup bagian tersebut, klik dan seret dan lepas ke dalam indeks kursus di lokasi yang Anda inginkan.</p>",id,5809
-8fd98e2730359d6dc25e88dddf750435,"<p dir=""ltr"" style=""text-align: left;"">That's one way, yes.</p>",,id,5809
+8fd98e2730359d6dc25e88dddf750435,"<p dir=""ltr"" style=""text-align: left;"">That's one way, yes.</p>","<p dir=""ltr"" style=""text-align: left;"">Itu salah satu caranya, ya.</p>",id,5809
 d0a1fbf159750015b2f87d2af5db74db,"<p dir=""ltr"" style=""text-align: left;"">Click the three dots next to the section, click Move and select the location you want to move it to.</p>","<p dir=""ltr"" style=""text-align: left;"">Klik tiga titik di sebelah bagian, klik Pindahkan dan pilih lokasi tujuan pemindahannya.</p>",id,5809
 3ecd1dfe2fe6ea2a8d14a1433abfc318,"<p dir=""ltr"" style=""text-align: left;"">That's one way, yes.</p>","<p dir=""ltr"" style=""text-align: left;"">Itu salah satu caranya ya.</p>",id,5809
 258a20aa250f18d01f76b4e2d9c60163,"<p dir=""ltr"" style=""text-align: left;"">Click the up or down arrow next to the section and move it up or down to the location you want.</p>","<p dir=""ltr"" style=""text-align: left;"">Klik panah atas atau bawah di samping bagian dan gerakkan ke atas atau bawah ke lokasi yang Anda inginkan.</p>",id,5809
 b81ae29ec05deb21e86f608ad9086173,"<p dir=""ltr"" style=""text-align: left;"">Check again. Do you see up and down arrows on a Moodle 4 site?</p>","<p dir=""ltr"" style=""text-align: left;"">Periksa lagi. Apakah Anda melihat panah atas dan bawah di situs Moodle 4?</p>",id,5809
 0e99df030dbdf6b4ae7dffbd0df7c365,"<p dir=""ltr"" style=""text-align: left;"">John has been given editing teacher access to his course so he can prepare materials for his learners. When the course is ready he emails his class to tell them to begin.</p><p dir=""ltr"" style=""text-align: left;"">However, they all reply saying they cannot join the course. What is the most likely reason?</p>","<p dir=""ltr"" style=""text-align: left;"">John telah diberi akses pengajar pengedit ke kursusnya sehingga dia dapat menyiapkan materi untuk pelajarnya. Ketika kursus sudah siap, dia mengirim email ke kelasnya untuk memberitahu mereka untuk memulai.</p><p dir=""ltr"" style=""text-align: left;"">Namun, mereka semua membalas dengan mengatakan bahwa mereka tidak dapat mengikuti kursus. Apa alasan yang paling mungkin?</p>",id,5809
 dc899dfbcb161508975dd405776f3b70,"<p dir=""ltr"" style=""text-align: left;"">Remember that you may always review the section 'Give learners course access' in the Tutorial: Start setting up your course for more information.</p>","<p dir=""ltr"" style=""text-align: left;"">Ingatlah bahwa Anda selalu dapat meninjau bagian 'Beri peserta didik akses kursus' dalam Tutorial: Mulai menyiapkan kursus Anda untuk informasi lebih lanjut.</p>",id,5809
-61226b8e9178fe8bd75d87769f8171e3,Your answer is correct.,,id,5809
-b26079500229a746156a8aea9ad73a1e,Your answer is partially correct.,,id,5809
-56e5322b94482f60a6240c498c01f0d5,Your answer is incorrect.,,id,5809
+61226b8e9178fe8bd75d87769f8171e3,Your answer is correct.,Jawaban Anda benar.,id,5809
+b26079500229a746156a8aea9ad73a1e,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+56e5322b94482f60a6240c498c01f0d5,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 4db1734bd48c1ca68e78fd348214a333,"<p dir=""ltr"" style=""text-align: left;"">He has not set a course end date.</p>","<p dir=""ltr"" style=""text-align: left;"">Dia belum menetapkan tanggal akhir kursus.</p>",id,5809
 7cb332c234da80725def82b5a3612c87,"<p dir=""ltr"" style=""text-align: left;"">That is not relevant.</p>","<p dir=""ltr"" style=""text-align: left;"">Itu tidak relevan.</p>",id,5809
 e74aa897aff0fc8b4a267035db03c537,"<p dir=""ltr"" style=""text-align: left;"">He has not enabled self-enrolment.</p>","<p dir=""ltr"" style=""text-align: left;"">Dia belum mengaktifkan pendaftaran mandiri.</p>",id,5809
@@ -763,18 +763,18 @@ f875a092ada20289a7d3137c9c1f7947,"<p dir=""ltr"" style=""text-align: left;"">Tha
 cb54620481c3e8124aa0755670c90445,"<p dir=""ltr"" style=""text-align: left;"">Let us assume John, as an editing teacher, can give learners access himself.</p>","<p dir=""ltr"" style=""text-align: left;"">Mari kita asumsikan John, sebagai pengajar pengedit, dapat memberikan akses sendiri kepada pelajar.</p>",id,5809
 126ec02ff7eb433d9e993d0f17eb9db5,"<p dir=""ltr"" style=""text-align: left;"">Which of these statements are true? Select all that apply.</p>","<p dir=""ltr"" style=""text-align: left;"">Manakah pernyataan berikut yang benar? Pilih semua yang sesuai.</p>",id,5809
 b90eba8cb398073370de1c8e83be2e9a,"<p dir=""ltr"" style=""text-align: left;"">Do check the links in your site too!</p>","<p dir=""ltr"" style=""text-align: left;"">Periksa juga tautan di situs Anda!</p>",id,5809
-c2b628a5dee9fc906cdabf98e1d2a29a,Your answer is correct.,,id,5809
-a84a6f65df275ba1a60b2a0ac932b76f,Your answer is partially correct.,,id,5809
-1ab049cf356f541ce18f09edc38f705f,Your answer is incorrect.,,id,5809
+c2b628a5dee9fc906cdabf98e1d2a29a,Your answer is correct.,Jawaban Anda benar.,id,5809
+a84a6f65df275ba1a60b2a0ac932b76f,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+1ab049cf356f541ce18f09edc38f705f,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 e1d55af6ac1f1d1afad4af40c9d4b365,"<p dir=""ltr"" style=""text-align: left;"">&nbsp;From the<strong>&nbsp;User menu</strong>&nbsp;you can edit your profile.</p>","<p dir=""ltr"" style=""text-align: left;"">&nbsp;Dari<strong>&nbsp;menu Pengguna</strong>&nbsp;Anda dapat mengedit profil Anda.</p>",id,5809
 fecb108ddf1744e3578790422accdc18,"<p dir=""ltr"" style=""text-align: left;"">From the <strong>Dashboard </strong>you can see a timeline of important deadlines.</p>","<p dir=""ltr"" style=""text-align: left;"">Dari <strong>Dasbor </strong>Anda dapat melihat garis waktu tenggat waktu penting.</p>",id,5809
 319f6f886aaee200f06c6c941969b356,"<p dir=""ltr"" style=""text-align: left;"">From <span>the</span><strong> Dashboard</strong>&nbsp;you can see recently accessed items.</p>","<p dir=""ltr"" style=""text-align: left;"">Dari <span>Dasbor </span><strong></strong>&nbsp;Anda dapat melihat item yang baru-baru ini diakses.</p>",id,5809
 dc29dcfaa302fdd72e5bd55d31ba4911,"<p dir=""ltr"" style=""text-align: left;"">From <strong>Home</strong> you can go to the front page of your Moodle site.</p>","<p dir=""ltr"" style=""text-align: left;"">Dari <strong>Beranda</strong> Anda dapat menuju ke halaman depan situs Moodle Anda.</p>",id,5809
 b54fa17e6aabdc7622a196c6bcc6fed6,"<p dir=""ltr"" style=""text-align: left;"">Why would you check the box 'Send content change notification' at the bottom of an activity or resource settings page? Select all that apply.</p>","<p dir=""ltr"" style=""text-align: left;"">Mengapa Anda mencentang kotak 'Kirim pemberitahuan perubahan konten' di bagian bawah laman setelan aktivitas atau sumber daya? Pilih semua yang sesuai.</p>",id,5809
 98e6119114edaf16efe9235a4f465a4c,"<p dir=""ltr"" style=""text-align: left;"">Remember that you may always review the section 'Add and edit course content' from the Tutorial: Start setting up your course for more information - and why not test this in your own practice course?</p>","<p dir=""ltr"" style=""text-align: left;"">Ingatlah bahwa Anda selalu dapat meninjau bagian 'Tambahkan dan edit konten kursus' dari Tutorial: Mulai menyiapkan kursus Anda untuk informasi lebih lanjut - dan mengapa tidak mengujinya di kursus latihan Anda sendiri?</p>",id,5809
-7205c80799cc0a4f50a86e08de144e8f,Your answer is correct.,,id,5809
-f099aae8c31d258de6d3be61b38ea405,Your answer is partially correct.,,id,5809
-6fc6684ebdd80eaf2039daf6b14d11d0,Your answer is incorrect.,,id,5809
+7205c80799cc0a4f50a86e08de144e8f,Your answer is correct.,Jawaban Anda benar.,id,5809
+f099aae8c31d258de6d3be61b38ea405,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+6fc6684ebdd80eaf2039daf6b14d11d0,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 3c55f576bc4574c5d6a1c89088283c53,"<p dir=""ltr"" style=""text-align: left;"">To alert learners when you add a new activity or resource.</p>","<p dir=""ltr"" style=""text-align: left;"">Untuk memperingatkan peserta didik ketika Anda menambahkan aktivitas atau sumber daya baru.</p>",id,5809
 fb32b1cc2f463ac8d1998cd946f260e3,"<p dir=""ltr"" style=""text-align: left;"">To alert learners when you make a change to an activity or resource.</p>","<p dir=""ltr"" style=""text-align: left;"">Untuk mengingatkan peserta didik ketika Anda melakukan perubahan pada aktivitas atau sumber daya.</p>",id,5809
 4a508fc57ab94769a99bf4a9a6bd76ca,"<p dir=""ltr"" style=""text-align: left;"">To alert learners when an assignment is due.</p>","<p dir=""ltr"" style=""text-align: left;"">Untuk memperingatkan peserta didik saat tugas sudah jatuh tempo.</p>",id,5809
@@ -783,9 +783,9 @@ e44d43e2c0cb7d5e73780958fa35fc13,"<p dir=""ltr"" style=""text-align: left;"">To 
 3deb12a94362a3583fce628c876589c5,"<p dir=""ltr"" style=""text-align: left;"">Think again - and look at the tutorial.</p>","<p dir=""ltr"" style=""text-align: left;"">Pikirkan lagi - dan lihat tutorialnya.</p>",id,5809
 20204c4f0aa4a589c7d79920ffe714e6,"<p dir=""ltr"" style=""text-align: left;"">TinyMCE is Moodle's default text editor and is optimised for accessiblity, with icons for accesiblity checking and useful support for keyboard navigation. However, some people prefer to use other editors or plain text for example. How could you change your editor?</p>","<p dir=""ltr"" style=""text-align: left;"">TinyMCE adalah editor teks default Moodle dan dioptimalkan untuk aksesibilitas, dengan ikon untuk pemeriksaan aksesibilitas dan dukungan berguna untuk navigasi keyboard. Namun, beberapa orang lebih suka menggunakan editor lain atau teks biasa misalnya. Bagaimana Anda bisa mengubah editor Anda?</p>",id,5809
 0986b7f22518e4e1be431cfb193c9f3a,"<p dir=""ltr"" style=""text-align: left;"">Remember that you may always review the section 'Adding and editing text' in the Tutorial: Start exploring Moodle for more information.&nbsp;</p>","<p dir=""ltr"" style=""text-align: left;"">Ingatlah bahwa Anda selalu dapat meninjau bagian 'Menambahkan dan mengedit teks' dalam Tutorial: Mulai jelajahi Moodle untuk informasi lebih lanjut.&nbsp;</p>",id,5809
-0ee778ac317c712d7ece7dcb04ba2523,Your answer is correct.,,id,5809
-030f015b2cb7aa5436391be59d489b7b,Your answer is partially correct.,,id,5809
-eb92a033c12f50b350050c7a75470ec2,Your answer is incorrect.,,id,5809
+0ee778ac317c712d7ece7dcb04ba2523,Your answer is correct.,Jawaban Anda benar.,id,5809
+030f015b2cb7aa5436391be59d489b7b,Your answer is partially correct.,Jawaban Anda sebagian benar.,id,5809
+eb92a033c12f50b350050c7a75470ec2,Your answer is incorrect.,Jawaban Anda salah.,id,5809
 94e54e7330e80a06ffed24d80aa87f77,"<p dir=""ltr"" style=""text-align: left;"">Ask your admin to change your editor for you.</p>","<p dir=""ltr"" style=""text-align: left;"">Minta admin Anda untuk mengubah editor Anda.</p>",id,5809
 889d24791ff33e680077445d3b6806ae,"<p dir=""ltr"" style=""text-align: left;"">No need to -&nbsp; you can do this yourself.</p>","<p dir=""ltr"" style=""text-align: left;"">Tidak perlu -&nbsp; Anda bisa melakukannya sendiri.</p>",id,5809
 a1770760fc43decb611dd617b32b1c78,"<p dir=""ltr"" style=""text-align: left;"">From the User menu &gt; Profile</p>","<p dir=""ltr"" style=""text-align: left;"">Dari menu Pengguna &gt; Profil</p>",id,5809
