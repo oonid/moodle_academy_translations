@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-19 08:23+0000\n"
+"PO-Revision-Date: 2024-06-21 09:36+0000\n"
 "Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
 "Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
 "39-course-creation-basics/id/>\n"
@@ -1004,7 +1004,7 @@ msgid ""
 "can add them.</p>"
 msgstr ""
 "<p>Ya. Siapa pun yang dapat mengedit pengaturan kursus seperti admin atau "
-"guru dapat menambahkannya.</p>"
+"pengajar dapat menambahkannya.</p>"
 
 # {"targetlanguage": "id", "contextid": "5913", "md5key":
 # "f9e502a3bd01349f2e3c44dd5ec37c8f"}
