@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-21 09:36+0000\n"
+"Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
+"Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
+"035-moodle-course-content/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "e8b057fb5a308c2724d56d39cd2b88ee"}
@@ -244,7 +251,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "510f9751cfac74b8aa055723cf891afa"}
 msgid "Tutorial: Add content to your Moodle course"
-msgstr ""
+msgstr "Tutorial: Tambahkan konten ke kursus Moodle Anda"
 
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "23b35126dfba35afaf23639b7207cc8e"}
@@ -258,7 +265,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "40ab54c65bd489fa96fc6442238385dc"}
 msgid "Your Private files area"
-msgstr ""
+msgstr "Area Berkas Pribadi Anda"
 
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "2f048d4ce03427d2cf6cf44b811532c7"}
@@ -308,7 +315,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "4ee343815c49d5f6d56dd8b9bbafdcb2"}
 msgid "Display connected pages"
-msgstr ""
+msgstr "Tampilkan halaman yang terhubung"
 
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "da548bc5d8fd84cd02ec4d409330798b"}
@@ -326,7 +333,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "1556a2e259088459fd1de425733d248d"}
 msgid "Display sound and video"
-msgstr ""
+msgstr "Menampilkan suara dan video"
 
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "d2bcdc797637d20044212805d676fa38"}
@@ -343,7 +350,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "171134984e8d38a9a64173aafe4d2ab5"}
 msgid "Drag and drop files"
-msgstr ""
+msgstr "Seret dan lepas berkas"
 
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "3d31d0361db1576a43bb6a47231bb732"}
@@ -370,7 +377,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "c7de86f69db264c3950d8ae46ed2e33f"}
 msgid "Upload files"
-msgstr ""
+msgstr "Unggah berkas"
 
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "67a40b16cc487f53b629b3c3e73ea826"}
@@ -384,7 +391,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "907313572218ce4077b38b405bb1dcce"}
 msgid "The File picker"
-msgstr ""
+msgstr "Pemilih File"
 
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "070fa67cb87703dcebd5a0120cd7d171"}
@@ -412,7 +419,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "5030fa503314c8a520eaec11762be967"}
 msgid "Display weblinks"
-msgstr ""
+msgstr "Tampilkan tautan web"
 
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "5c12d3d82df3ee537ae0bc783b661e74"}
@@ -427,7 +434,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "959485bd1014cd6d96ed0482b52dd43e"}
 msgid "Add images"
-msgstr ""
+msgstr "Tambahkan gambar"
 
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "df826a22f74b18a56c24110d42932cf4"}
@@ -445,7 +452,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "1156117a01c0cc73691003539547fde9"}
 msgid "Display information"
-msgstr ""
+msgstr "Menampilkan informasi"
 
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "9ff35416a0e2a53d00a01520cc1c8e66"}
@@ -460,7 +467,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "f196e7d777ee3f45cbed8cf7262cdf70"}
 msgid "Track progress"
-msgstr ""
+msgstr "Lacak progres"
 
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "2a75a064d7f6f9d44fff0ff515dfd296"}
@@ -480,7 +487,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "3328b34a8f3e4b8deba543ee910aa6a7"}
 msgid "The Activity chooser"
-msgstr ""
+msgstr "Pemilih Aktivitas"
 
 # {"targetlanguage": "id", "contextid": "5854", "md5key":
 # "17366b17105110075951c1f6c92cbd71"}
@@ -511,7 +518,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5847", "md5key":
 # "e6c083e2505c6f3b6218321c070aafd8"}
 msgid "Tasks: Add content to your Moodle course"
-msgstr ""
+msgstr "Tugas: Menambahkan konten ke kursus Moodle Anda"
 
 # {"targetlanguage": "id", "contextid": "5847", "md5key":
 # "ffecc06536680f014c9636cccc0a35cc"}
@@ -530,7 +537,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5848", "md5key":
 # "255c205fd74d99dda16cfd8baf3c01a5"}
 msgid "Checklist: Add content to your Moodle course"
-msgstr ""
+msgstr "Daftar Periksa: Tambahkan konten ke kursus Moodle Anda"
 
 # {"targetlanguage": "id", "contextid": "5841", "md5key":
 # "886efc941a572be35aca45e0946877a4"}
@@ -636,6 +643,8 @@ msgstr ""
 # "2b2c40188bfa09a956723b144cc587de"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">It is her reponsiblity; indeed.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Itu adalah tanggung jawabnya; "
+"memang.</p>"
 
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "f18ef108cb7f2d418bfa55918f6e27cd"}
@@ -778,7 +787,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "a5404a21eb5f877491a011931fa2aefe"}
 msgid "She is using the wrong image type."
-msgstr ""
+msgstr "Dia menggunakan jenis gambar yang salah."
 
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "7af9607f5422fe2ef2cea886102bad64"}
@@ -797,7 +806,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "b480bb2579ba2b0deacdcb62fecfe165"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Very unlikely.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Sangat tidak mungkin.</p>"
 
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "ff5edc2f0a1adfda5a4e2772fc0053e4"}
@@ -888,7 +897,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "ece6fd8a3640fd1c3238a58d46503620"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Really? Look again!</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Benarkah? Lihat lagi!</p>"
 
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "999e1a6fc1c027f5269fdfbed77c8823"}
@@ -1314,7 +1323,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "99082d33f274713333c4105b2605603b"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Are you sure?</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Apakah Anda yakin?</p>"
 
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "f9e5eadea2133272ea517ec246968939"}
@@ -1535,17 +1544,17 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "9deadd61b2d229afaf5b654d4ac1cebe"}
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "11b1abfeb6ff58bc89a661a811c2b226"}
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "9bb9daa73bee1e56b13030a48e634d40"}
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "b1d06bd25d06edb1abd1453992765759"}
@@ -1571,7 +1580,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "feac037c5eb638404c51b756b28900a0"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Very true.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Sangat benar.</p>"
 
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "e8a255080a18f741b104cfb8600fb317"}
@@ -1583,7 +1592,7 @@ msgstr ""
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "d2d3402147e6a09391480c3f4adc40d1"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">That is true.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Itu benar.</p>"
 
 # {"targetlanguage": "id", "contextid": "5838", "md5key":
 # "9402143f8cd97a9ec580707360d5fefa"}
@@ -1596,3 +1605,5 @@ msgstr ""
 # "c21b7e3f3a43268490ed5e3432dcf66f"}
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Books display well too.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Buku juga ditampilkan dengan "
+"baik.</p>"
