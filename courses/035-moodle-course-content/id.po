@@ -1,0 +1,1598 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "e8b057fb5a308c2724d56d39cd2b88ee"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Discover the best ways to display"
+" teaching materials and track learner progress with this free, self-paced "
+"course,&nbsp; part of the Moodle Teaching Basics program.<br></p><p "
+"dir=\"ltr\" style=\"text-align: left;\"></p><p>This course relates to the "
+"following competence(s):</p><p>3.1 Teaching</p><br><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "18295d5af6067056c68e9d427c178565"}
+msgid ""
+"<p>This beginner level&nbsp;course addresses the best ways to display teaching materials and track learner progress.&nbsp;</p>\n"
+"<h5>Please note</h5>\n"
+"To get maximum benefit, we strongly advise you take the course <a href=\"https://moodle.academy/course/view.php?id=34\">Start teaching with Moodle</a> before taking this course, and then complete the <a href=\"https://moodle.academy/course/view.php?id=57\">Moodle Teaching Basics Program.</a>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "6c68ba34d8508d957a4f4179e581acdc"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">When you have completed all the "
+"required activities, the Course check will appear for you to check your "
+"understanding.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5843", "md5key":
+# "e7e69b24ba75e632cd742100b30293b6"}
+msgid ""
+"<p></p>\"Being digitally competent means\n"
+"using digital technologies\n"
+"in a confident and safe way\" (DigComp 2.0). <br><br>Moodle Academy courses in the Educator learning pathway use a Moodle specific version of the Digital Competence Framework for Educators&nbsp;(DigCompEdu). This is the same framework used by the advanced Moodle Educator Certification (MEC).<br><br>This course relates to the following competence(s):<br><br>\n"
+"3.1 Teaching<br>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5843", "md5key":
+# "4d23c58f62b3183788886a544e2e5ef2"}
+msgid ""
+"<h4 style=\"text-align: left;\">Aim</h4>\n"
+"<p>In this course you will&nbsp;</p><p></p><ul><ul><li>Explore how to upload your presentations, documents and other files;</li><li>Investigate optimum ways to display information;</li><li>Learn how to add images and links to websites;</li><li>Learn how to embed media such as sound and video files;</li><li>Discover how to use progress tracking.</li></ul>\n"
+"\n"
+"    </ul><ul>\n"
+"</ul>\n"
+"<p></p>\n"
+"<p></p>\n"
+"<h4>Format</h4>\n"
+"<p dir=\"ltr\">This is a self-paced course without active moderation.</p>\n"
+"<h4 style=\"text-align: left;\">Estimated time</h4>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\">The estimated time to complete this course is 3 hours.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5843", "md5key":
+# "1250e54863651a103b19a8629bd20fcd"}
+msgid ""
+"<ul>\n"
+"    <li>This is a free, self-paced course provided by Moodle Academy.</li>\n"
+"    <li>You must have an editing teacher role in a Moodle course in a Moodle site. If your organisation cannot offer you a course, then follow the instructions in the page Get a practice course.</li>\n"
+"    <li>Although this course is not facilitated, you are welcome to ask any questions in the General discussion forum.</li>\n"
+"    <li>We would love to hear what you think of the course, if anything is unclear, or you have any ideas for improvements. Please provide feedback so we can improve the course for everyone.</li>\n"
+"</ul>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"></p>\n"
+"<h4>Welcome</h4>\n"
+"<p>Find out how the course works, confirm that this course is right for you, get a practice course and join in an optional general discussion.</p>\n"
+"<h4>Review, learn and practise</h4>\n"
+"<p>Explore the interactive book and use the tasks provided to practise yourselves.&nbsp;</p>\n"
+"<p></p>\n"
+"<h4>Course check</h4>Test your understanding in the final quiz.<br>\n"
+"<p></p>\n"
+"<p><span style=\"color: rgb(0, 61, 89); font-size: 1.5rem;\">Feedback</span><br></p>\n"
+"<p></p>\n"
+"<p>Answer few questions to help us improve this course.</p>\n"
+"<p><span style=\"color: rgb(0, 61, 89); font-size: 1.5rem;\">Videos and transcripts for download</span></p>\n"
+"<p></p>\n"
+"<p></p>Find the videos and their transcripts used in this course in a downloadable format.<br><br><br>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5843", "md5key":
+# "838bee4fe4585a1b4bce1a6f17c3430f"}
+msgid ""
+"<p dir=\"ltr\">To complete the course you need to complete the following activities:</p>\n"
+"<p dir=\"ltr\"></p>\n"
+"<ul>\n"
+"    <li><span style=\"font-size: 1rem;\">View&nbsp; 'About this course', reading all sections.</span><br></li>\n"
+"    <li>View 'Get a practice course'.</li>\n"
+"    <li>View the 'Tutorial: Add content to your Moodle course', reading all sections.</li>\n"
+"    <li>View the 'Tasks: Add content to your Moodle course', trying out the suggestions.</li>\n"
+"    <li>Complete the 'Checklist: Add content to your Moodle course' , confirming your understanding.</li>\n"
+"    <li>Achieve 80% or more in&nbsp; the 'Moodle Course Content: Check your understanding' quiz.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<h4>Completing the activities</h4>\n"
+"<ul>\n"
+"    <li>Some activities are automatically marked as completed based on specific criteria.</li>\n"
+"    <li>Some activities require you to manually mark them as done.</li>\n"
+"</ul>\n"
+"<p>Make sure you complete the activities according to their completion conditions.</p>\n"
+"<p></p>\n"
+"<h4>Course badge</h4>\n"
+"<p>Upon successful completion of this course you will be automatically awarded with a badge to showcase the skills and knowledge you have obtained.</p>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5843", "md5key":
+# "8ba31c3b6c4aef47f94ce6dabcaf674d"}
+msgid ""
+"<p>This course is designed to help you find the best ways to display teaching materials and track learner progress.&nbsp;</p>\n"
+"<p>You will need to have a Moodle course with an editing-teacher account. If your organisation is unable to give you a Moodle course with a teacher account then look at the page Get a practice course.</p>\n"
+"<h5>This course IS...</h5>\n"
+"<ul>\n"
+"    <li>For anyone interested in teaching with Moodle, whatever your background.</li>\n"
+"</ul>\n"
+"<h5>This course IS NOT...</h5>\n"
+"<ul>\n"
+"    <li>For people who want to manage a whole Moodle site as an administrator.</li>\n"
+"    <li>For people looking for advanced Moodle training.</li></ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5843", "md5key":
+# "fecff5ec3b16fadc68ed248e4f6ecf45"}
+msgid ""
+"<p>If you complete this course successfully, why not take the other courses in the Moodle Teaching Basics program and optionally purchase a certificate? </p>\n"
+"<ul>\n"
+"    <li>\n"
+"\n"
+"        Start teaching with Moodle.<ul>\n"
+"            <li>Understand how to navigate Moodle, set up your teaching space and give access to your learners.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"\n"
+"\n"
+"\n"
+"    <li>Moodle Course Activities.<ul>\n"
+"            <li>Encourage discussion, collaboration and other interactivity. Explore automatic and manual grading in Moodle, including quizzes and assignments.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"    <li>\n"
+"        Moodle Course Management.<ul>\n"
+"            <li>Learn how to reuse your courses and explore some advanced features you'll learn with further training.\n"
+"            </li>\n"
+"        </ul>\n"
+"    </li>\n"
+"    <li>Accessible Teaching Basics.<ul>\n"
+"            <li>Learn basic accessiblity so no learner is disadvantaged in your course.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5843", "md5key":
+# "2588466a5f47925805a8536e6c46e0f4"}
+msgid ""
+"<h4 style=\"text-align: left;\"><span style=\"color: rgb(73, 80, 87); font-"
+"size: 1rem;\">By the end of this course, you will be able "
+"to:</span><br></h4><p dir=\"ltr\"></p><ul><li>Use a number of methods to add"
+" files to your Moodle course;</li><li>Display information in your course in "
+"an accessible and inclusive way;</li><li>Add images;</li><li>Embed sound and"
+" video;</li><li>Enable progress tracking for you and your "
+"learners.</li></ul><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5843", "md5key":
+# "6ceea8b499316053b1e334d8b49f3e3c"}
+msgid ""
+"<p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img src=\"https://moodle.academy/pluginfile.php/5843/mod_book/chapter/826/ccby.png\" alt=\"Creative Commons Licence\" width=\"120\" height=\"42\" style=\"float:left\" class=\"img-fluid atto_image_button_middle\"></a>\n"
+"    This course by Moodle Academy (Moodle Pty Ltd) is licensed under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>. Original resources available at&nbsp;<a href=\"https://moodle.academy/\">https://moodle.academy</a>.<br></p>\n"
+"<p>\n"
+"    <span class=\"moodle-orange bold larger\">›</span>\n"
+"\n"
+"    <a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=272\">Read more about how you should attribute this work.</a><br>\n"
+"</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5843", "md5key":
+# "8e620eab45b2971934448a7da5499cdd"}
+msgid ""
+"\n"
+"<p>All notable changes to this course will be documented in this page.</p>\n"
+"<hr>\n"
+"<p>Date: December 12 2023<br>Changed by:&nbsp; Mary Cooch<br>Changes:</p><p></p><ul><li>In the Page Get a practice course, updated the embedded video to 4.3</li><li>In the Book Tutorial: Moodle course content, replaced all the embedded videos <strong>except </strong>What are private files? and What is the file picker? with 4.3 versions.</li><li>In the Videos for download folder, replaced the videos mentioned in the bullet point above with the 4.3 versions.<br></li><li>In the Transcripts for download folder, replaced the transcripts Track progress and Display sound and video with the 4.3 versions.</li><li>In this book, updated the Moodle versions page to reflect 4.3.</li><li>Updated the side block to reflect that this course is based on 4.3.</li></ul><p></p>\n"
+"<p>\n"
+"</p><hr>\n"
+"<p>Date: June 09 2023<br>Changed by:&nbsp; Mary Cooch<br>Changes:</p>\n"
+"<p>\n"
+"</p>\n"
+"<ul>\n"
+"    <li>Removed reference to MoodleCloud sites not being on 4.2 in Get a practice course.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<hr>\n"
+"<p>Date: May 24 2023<br>\n"
+"    Changed by: Mary Cooch<br>\n"
+"    Changes:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>About this course book&nbsp; - changed Moodle versions to include 4.2 and added this Changelog section.</li>\n"
+"    <li>Get a practice course -added mention that MoodleCloud doesn't yet use version 4.2.</li>\n"
+"    <li>Tutorial: Add content to your Moodle course - updated all the video links to the 4.2 versions&nbsp;<span>except Private files.</span></li>\n"
+"    <li><a href=\"https://moodle.academy/mod/quiz/view.php?id=572\">Check your understanding quiz</a> - changed wording of&nbsp; question starting&nbsp;<em>Yulia wants to upload an image, a .png file</em>&nbsp; and replaced image with TinyMCE icon.</li>\n"
+"    <li>Videos for download - replaced all videos with their 4.2 versions&nbsp;<span>except Private files and Set up your practice course<em>.</em></span></li>\n"
+"    <li>Transcripts for download - replaced some transcripts with their updated 4.2 version. Note: most of these changes are fairly minor.</li>\n"
+"    <li>Changed the side block to say the course is now based on version 4.2.</li>\n"
+"</ul>\n"
+"<hr>\n"
+"<p>Date: December 2022<br>Changed by:&nbsp; Mary Cooch<br>Changes:</p>\n"
+"<ul>\n"
+"    <li>Added versions page and changed text block to say 4.1</li>\n"
+"    <li>Replaced references to Label with Text and media</li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5843", "md5key":
+# "13c977f7a14826b1c6e3ce0769074dc8"}
+msgid ""
+"The activities and screenshots in this course are based on the standard Boost theme and the latest version of Moodle LMS, currently 4.3.&nbsp;See <a href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3 documentation overview</a> and&nbsp;<a href=\"https://docs.moodle.org/403/New_features\">New Features 4.3 documentation.</a><br>&nbsp;If your Moodle site looks different, ask your Moodle support staff about the theme and version being used.\n"
+"<br><br>&nbsp;You can access documentation about earlier, supported versions of Moodle LMS below. This documentation includes the videos related to each version.<br>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/402/en/Main_pagehttps://docs.moodle.org/402/en/New_features\" title=\"https://docs.moodle.org/402/en/Main_pagehttps://docs.moodle.org/402/en/New_features\">Moodle 4.2 documentation overview</a> and <a href=\"https://docs.moodle.org/402/en/New_features\">New Features 4.2 documentation.</a></li>\n"
+"    <li><a href=\"https://docs.moodle.org/401/en/Main_page\">Moodle 4.1 documentation overview</a> and&nbsp;<a href=\"https://docs.moodle.org/401/en/New_features\">New Features 4.1 documentation.</a></li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5844", "md5key":
+# "b0fe7a5c542de6289097f11caa9df3eb"}
+msgid ""
+"\n"
+"<p>To benefit most from this course, you should have an empty Moodle course in which you have the role of editing teacher. It is very useful also to have a sample student account which you can use to test your activities.</p>\n"
+"<p>Ideally, your organisation will provide you with a course with teacher access and offer you a test student account.</p>\n"
+"<p>If that is not possible you can use our <a href=\"https://sandbox.moodledemo.net\" target=\"_blank\">Moodle sandbox demo</a> with the teacher login (username = teacher/password= sandbox) but be aware that this site is reset every hour so you won't be able to save your work.</p>\n"
+"<hr>\n"
+"<p>Alternatively,&nbsp;<a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=576\">explore and sign up to MoodleCloud,</a>&nbsp;create a teacher login and a course and try out the activities there.&nbsp;<br></p>\n"
+"<p>The video below demonstrates how to get a MoodleCloud site. The transcript and MP4 file may be downloaded from the section Videos and transcripts for download.</p>\n"
+"<p><a href=\"https://youtu.be/VzYQq4C2T7c?si=zDgYHcfU17189zWt\">Get a practice course</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "510f9751cfac74b8aa055723cf891afa"}
+msgid "Tutorial: Add content to your Moodle course"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "23b35126dfba35afaf23639b7207cc8e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Test your understanding with this"
+" quick check. The grades are not stored, so you can try as often as you "
+"like.<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed1|c40d9e3ad98bce58f71b73c688f2570c23e3acdeafbea959848889895f223a22}Q}<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "40ab54c65bd489fa96fc6442238385dc"}
+msgid "Your Private files area"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "2f048d4ce03427d2cf6cf44b811532c7"}
+msgid ""
+"<ul>\n"
+"    <li>Everyone in Moodle has their own personal file storage area, Private files.</li><li><strong>Private files</strong> are accessed from the <strong>User menu</strong> top right (next to your profile photo.)</li>\n"
+"    <li>You can upload and organise files here and use them later in your course.</li>\n"
+"    <li>You can link to files from here in your course (as a shortcut or alias) and when you change them in your Private files they are changed in the courses where they are displayed.</li>\n"
+"    <li>You will see Private files in the File picker (explained later in this tutorial) but you can only retrieve files from there; you cannot upload to them.</li>\n"
+"    <li>If enabled by your admin, you can email files to your private files.</li>\n"
+"    <li>You can send files such as images to your private files from the Moodle mobile app.</li>\n"
+"</ul>\n"
+"<p>The following video explains Private files. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=35#section-4\">Videos and transcripts for download</a>.</p><p><a href=\"https://youtu.be/QNOcTCIuw3o\">https://youtu.be/QNOcTCIuw3o</a><br></p><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "19d6ea2a2da91761b882aca495443d61"}
+msgid ""
+"<p>In this tutorial we explore:</p>\n"
+"<ul>\n"
+"    <li>How to add your documents and presentations to your course;</li>\n"
+"    <li>How best to display information for learners to read;</li>\n"
+"    <li>How to add links to websites;</li>\n"
+"    <li>How best to display media such as sound and video;</li>\n"
+"    <li>How you and your learners can monitor progress through the course.</li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "e6d05d3d933690d4662bf9aa00d06368"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Test your understanding with this"
+" quick check. The grades are not stored, so you can try as often as you "
+"like.<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed3|bd3c6697b7cdfd554ef34e9be40c7b5f379527c90f0ecd44e5d9e4f644f9921b}Q}<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "fcebbe8b167eb09f9f2689e4b6ba6e7b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Test your understanding with this"
+" quick check. The grades are not stored, so you can try as often as you "
+"like.<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed11|0f5be79bd648eaa882a8025c2b68ebe4bf021d160f5059dbf9e3577aaf63d38b}Q}<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "4ee343815c49d5f6d56dd8b9bbafdcb2"}
+msgid "Display connected pages"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "da548bc5d8fd84cd02ec4d409330798b"}
+msgid ""
+"<br>\n"
+"<ul>\n"
+"    <li>A Book is a series of connected pages (called here 'chapters').</li>\n"
+"    <li>It is like a mini-website and is useful for displaying a sequence of information.</li>\n"
+"    <li>Books are preferable to uploading word-processed documents because they display well on smaller screens and the Moodle app. Learners can access them immediately; no need to download a file.</li>\n"
+"    <li>You can include images, URLs and easily embed media such as video and sound.</li>\n"
+"    <li>Books may be printed as PDF files or onto paper.</li>\n"
+"</ul><p>Note: We are using Books in this course for our Tutorials.</p><p></p><p>&nbsp;The following video explains the Book resource. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=35#section-4\">Videos and transcripts for download</a>.<br><br><a href=\"https://youtu.be/cXmOaS0B1lg?si=G8yFLV5urUnIEs3y\">Book</a></p><br><p></p><p><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "1556a2e259088459fd1de425733d248d"}
+msgid "Display sound and video"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "d2bcdc797637d20044212805d676fa38"}
+msgid ""
+"<ul>\n"
+"    <li>Sound files such as mp3 and video files such as mp4 may be dragged and dropped onto the course page.</li>\n"
+"    <li>Check your <strong>Multimedia filter</strong> is enabled from the <strong>Actions menu</strong> &gt; <strong>Filters</strong>.</li>\n"
+"    <li>Sound and video files may be embedded from the media icon in your chosen text editor.</li>\n"
+"    <li>With the Multimedia filter enabled, you can paste a YouTube URL directly into your chosen text editor and it will display in a player.</li>\n"
+"    <li>Remember that if YouTube videos are banned in your organisation they will not show in your organisation (but may show at home if YouTube is allowed in your country.)</li>\n"
+"</ul><p>&nbsp;The following video explains the how to display sound and video. The transcript and MP4 file may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=35#section-4\">Videos and transcripts for download</a>.<br><br><a href=\"https://youtu.be/jMdcpGmJiKo?si=Aj9W2zOoC1PNkGCU\">Display sound and video</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "171134984e8d38a9a64173aafe4d2ab5"}
+msgid "Drag and drop files"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "3d31d0361db1576a43bb6a47231bb732"}
+msgid ""
+"<ul><li>You can easily drag and drop documents into your "
+"course.</li><li>Enable edit mode, click and drag the file you want onto the "
+"course page.</li><li>If you don't see a message saying you can drag and drop"
+" files, then you need to use the alternative method described in the next "
+"section, Uploading files.</li><li>To drag and drop whole folders into your "
+"Moodle course, you must zip them/compress them first.</li></ul><p>Note: if "
+"you want to display presentations such as Powerpoints™, these will not play "
+"on your course page in the same way as slideshow mode in class. Learners can"
+" only download them. If you want your presentations to play inline, think "
+"about uploading them to a site such as&nbsp;<a "
+"href=\"http://www.slideshare.net/\">Slideshare.</a></p><p>The following "
+"video explains dragging and dropping files. The transcript and MP4 "
+"file&nbsp; may be downloaded from the section&nbsp;<a "
+"href=\"https://moodle.academy/course/view.php?id=35#section-4\">Videos and "
+"transcripts for download</a>.</p><a "
+"href=\"https://youtu.be/B0AHCAvivYg?si=ZAg20fdXNGlxOnq_\">Drag and drop "
+"files</a><br><p style=\"font-size:small; text-align:center\"><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "c7de86f69db264c3950d8ae46ed2e33f"}
+msgid "Upload files"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "67a40b16cc487f53b629b3c3e73ea826"}
+msgid ""
+"<p>Many teachers like to use Moodle to display class notes, lecture presentations, revision sheets and other documents. This is very useful although Moodle can do much more than just show your files and folders!</p>\n"
+"<p>With <strong>Edit mode on</strong>, you can either drag and drop files as we saw in the previous section, or use this method to upload them from the <strong>Activity chooser</strong> &gt; <strong>File</strong>.</p>\n"
+"<p>The following video explains how to upload files.&nbsp;The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=35#section-4\">Videos and transcripts for download</a>.</p><p><a href=\"https://youtu.be/4gL_lctlfsY\">Upload files</a></p><br>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "907313572218ce4077b38b405bb1dcce"}
+msgid "The File picker"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "070fa67cb87703dcebd5a0120cd7d171"}
+msgid ""
+"<ul>\n"
+"    <li>You'll see Moodle's <strong>File picker</strong> when uploading a file from the <strong>Activity chooser</strong> or in other areas where you can upload files, images or media.</li>\n"
+"    <li>From the <strong>Upload box</strong> a button top left (<strong>Add</strong>) allows you to access the file picker.</li>\n"
+"    <li>The links on the left are known as repositories and they store files which teachers can use in their course.</li>\n"
+"    <li>Standard repositories are:</li>\n"
+"    <ul>\n"
+"        <li>Upload a file</li>\n"
+"        <li>Recent files</li>\n"
+"        <li>Private files</li>\n"
+"        <li>Server files</li>\n"
+"        <li>URL downloader</li>\n"
+"        <li>Wikimedia</li>\n"
+"        <li>Content bank</li>\n"
+"    </ul>\n"
+"    <li>Other repositories may be enabled by your admin, such as Google Drive, One Drive or similar.</li>\n"
+"    <li>Repositories are context-sensitive so if you click the image icon in the text editor then you will only see repositories which offer you images, for instance.</li>\n"
+"</ul>\n"
+"<p>&nbsp;The following video explains the File picker. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=35#section-4\">Videos and transcripts for download</a>.<br><br><a href=\"https://youtu.be/jYQF7d9o2dI\">File picker</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "5030fa503314c8a520eaec11762be967"}
+msgid "Display weblinks"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "5c12d3d82df3ee537ae0bc783b661e74"}
+msgid ""
+"<ul>\n"
+"    <li>There are many websites which could help our learners.</li>\n"
+"    <li>There are also many online files they could usefully access.</li>\n"
+"    <li>The URL resource allows teachers to make a direct link to a site or online file. This saves your class time searching and ensure they stay on task.</li>\n"
+"</ul><p></p><p>&nbsp;The following video explains the URL resource The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=35#section-4\">Videos and transcripts for download</a>.</p><p><a href=\"https://youtu.be/EN_LjaymLiw?si=urgtnErKueyS-EOH\">URL</a></p><br><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "959485bd1014cd6d96ed0482b52dd43e"}
+msgid "Add images"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "df826a22f74b18a56c24110d42932cf4"}
+msgid ""
+"<ul>\n"
+"    <li>The most suitable images for use online&nbsp; end in&nbsp; .jpg or .png or .gif.&nbsp;</li><li>Image files can be uploaded (with Edit mode on) either by dragging and dropping if your browser and admin settings allow it or by clicking the image icon (like a picture frame with a sun and&nbsp; mountain) in the text editor.</li>\n"
+"    <li>If you don't see a message saying you can drag and drop, you need to add images using the image icon.</li>\n"
+"    <li>Make sure you own the images or they are reusable under a&nbsp; Creative Commons licence or in the Public domain before you upload them however.</li>\n"
+"    <li>It is also helpful to have them at the size you want <em>before</em> you display them on Moodle.</li>\n"
+"</ul><span style=\"font-size: 1rem;\">The following video explains how to add images. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;</span><a href=\"https://moodle.academy/course/view.php?id=35#section-4\">Videos and transcripts for download</a><span style=\"font-size: 1rem;\">.<br></span><br><a href=\"https://youtu.be/Dw28f6XpIl4?si=EqYAT_XOOHz1D0Jk\">Add images</a><br>\n"
+"<ul>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "1156117a01c0cc73691003539547fde9"}
+msgid "Display information"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "9ff35416a0e2a53d00a01520cc1c8e66"}
+msgid ""
+"<ul>\n"
+"    <li>If you have information to share and it is primarily in text format, a Page is preferable to an uploaded word-processed document. Learners can open it immediately; no need to download it.</li>\n"
+"    <li>Pages display well on smaller screens and the Moodle app.</li>\n"
+"    <li>You can include images, URLs and easily embed media such as video and sound.</li>\n"
+"</ul><p></p><p>&nbsp;The following video explains the Page resource. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=35#section-4\">Videos and transcripts for download</a>.</p><p><br><a href=\"https://youtu.be/8FPKOIiXwNU?si=VG1rjeh69_LJiyty\">Page</a></p><br><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "f196e7d777ee3f45cbed8cf7262cdf70"}
+msgid "Track progress"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "2a75a064d7f6f9d44fff0ff515dfd296"}
+msgid ""
+"<ul>\n"
+"    <li>Buttons with completion information show what your learners need to do for each activity.</li>\n"
+"    <li>This is know as Activity completion or Completion tracking.</li>\n"
+"    <li>It is also needed to display completion percentages and activity deadlines on the dashboard.</li><img src=\"https://moodle.academy/pluginfile.php/5854/mod_book/chapter/341/completionindicators.png?time=1650286720748\" alt=\"\" width=\"200\" height=\"183\" role=\"presentation\" class=\"atto_image_button_right\">\n"
+"    <li>If enabled, each course item will have a section Activity completion where teachers can specify the conditions upon which the activity will be marked complete.</li>\n"
+"\n"
+"    <li>These conditions vary according to the item. A Page for example can only be viewed, whereas the completion of other activities can depend upon grades or specific learner interaction.</li>\n"
+"    <li>Students see the requirements to the right of the item, when they click the item and also as circles&nbsp;('completion indicators') in the course index.</li>\n"
+"</ul>\n"
+"<p>&nbsp;The following video explains activity completion settings. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=35#section-4\">Videos and transcripts for download</a>.<br><br><a href=\"https://youtu.be/oj_c9ykCPgI?si=kVLMuuljhayelEjT\">Track progress</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "3328b34a8f3e4b8deba543ee910aa6a7"}
+msgid "The Activity chooser"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5854", "md5key":
+# "17366b17105110075951c1f6c92cbd71"}
+msgid ""
+"<ul>\n"
+"    <li>With <strong>Edit mode on</strong>, you access the activity chooser from&nbsp;<strong> Add an activity or resource</strong>.</li>\n"
+"    <li>The tabs you see depend on your administrator's settings. You might see one or all of:</li>\n"
+"    <ul>\n"
+"        <li><strong>All</strong> - this tab displays all activities and resources available to you to add.</li>\n"
+"        <li><strong>Activities</strong> - students interact with these, for example posting in forums or submitting assignments.</li>\n"
+"        <li><strong>Resources</strong> - students read, watch or listen to these.</li>\n"
+"        <li><strong>Recommended</strong> - if your admin has suggested useful items, they will display here.</li>\n"
+"    </ul>\n"
+"    <li>You can favourite an item by clicking the star icon and it will then display in a <strong>Starred tab</strong>.</li>\n"
+"    <li>Click on an activity or resource to go straight to the setup page, or click the information icon to find out more and then click the <strong>Add</strong> button bottom right.</li>\n"
+"    <li>The colours of the standard Moodle activity icons represent their functions:<ul>\n"
+"            <li>Blue = content;</li>\n"
+"            <li>Green = communication;</li>\n"
+"            <li>Pink/Purple = assessment;</li>\n"
+"            <li>Red = collaboration.</li>\n"
+"        </ul>\n"
+"    </li><li>You might see a link to <a href=\"https://moodle.net\">MoodleNet</a> at the bottom of the activity chooser. It is Moodle's platform for finding, sharing and curating open educational resources.</li>\n"
+"</ul>\n"
+"<h5></h5>The following video explains the Activity chooser. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=35#section-4\">Videos and transcripts for download</a>.<br><br><b><a href=\"https://youtu.be/cIJZ8ZpuXXo\">Activity chooser</a></b><br>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5847", "md5key":
+# "e6c083e2505c6f3b6218321c070aafd8"}
+msgid "Tasks: Add content to your Moodle course"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5847", "md5key":
+# "ffecc06536680f014c9636cccc0a35cc"}
+msgid ""
+"<p>Try these tasks to practise what you have learned in the tutorial:</p>\n"
+"\n"
+"<ol>\n"
+"    <li>Locate a document on your computer, such as a pdf file. Drag and drop it into the first section of your course and then try moving it to a different section.</li>\n"
+"    <li>Upload a small image into one of your course sections using the File resource in the Activity chooser.</li>\n"
+"    <li>Create a Book with three chapters. Practise adding text and images to two chapters.</li>\n"
+"    <li>Log in to our demonstration site <a href=\"http://school.moodledemo.net/\">Mount Orange School</a> (username teacher, password moodle) and access the Digital Literacy course. Explore the book 'One Approach to Digital Literacy' and note how the images and YouTube video work.</li>\n"
+"    <li>From the Mount Orange School site, access the Celebrating Cultures course and with the editing turned on, explore how the 'I have a dream' video works.</li>\n"
+"</ol>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5848", "md5key":
+# "255c205fd74d99dda16cfd8baf3c01a5"}
+msgid "Checklist: Add content to your Moodle course"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5841", "md5key":
+# "886efc941a572be35aca45e0946877a4"}
+msgid ""
+"<p style=\"text-align: center;\"><a href=\"https://moodle.academy/course/view.php?id=4\" style=\"font-size: 0.9375rem;\"><img src=\"https://moodle.academy/pluginfile.php/5841/block_html/content/AllIcons_forWebsite-22.png\" style=\"border-width:0\" alt=\"\" width=\"100\" height=\"100\">\n"
+"    </a></p>\n"
+"<p style=\"text-align: center;\">&nbsp;<span style=\"font-size: 0.9375rem;\">&nbsp;<a href=\"https://moodle.academy/course/view.php?id=4\" style=\"font-size: 1rem;\">Get Involved!</a>&nbsp;</span>&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "18868", "md5key":
+# "1b900e3c7ae1a29a8fe0f84dfcbbe778"}
+msgid ""
+"\n"
+"<p style=\"text-align: center;\">\n"
+"    <a href=\"https://moodle.academy/mod/book/view.php?id=5&amp;chapterid=624\">\n"
+"        <img src=\"https://moodle.academy/pluginfile.php/18868/block_html/content/ccby.png\" alt=\"Creative Commons Licence\" width=\"120\" height=\"42\" style=\"border-width:0\" class=\"img-fluid atto_image_button_text-bottom\"></a>\n"
+"</p>\n"
+"<p style=\"text-align: center;\"><span style=\" font-size: 1rem;\"><a href=\"https://moodle.academy/mod/book/view.php?id=566&amp;chapterid=826\">Licensed under CC BY 4.0</a></span><span style=\"font-size: 1rem;\">.</span><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "18866", "md5key":
+# "de47b6b5deaa078fa93808a750e93432"}
+msgid ""
+"<p><br></p>\n"
+"<a href=\"https://moodle.academy/mod/page/view.php?id=313\">\n"
+"    <p style=\"text-align: center;\"><img src=\"https://moodle.academy/pluginfile.php/23/user/icon/workplace/f1?rev=4357\" class=\"userpicture defaultuserpic\" width=\"100\" height=\"100\" alt=\"\"></p>\n"
+"</a>\n"
+"<p style=\"text-align: center;\"><a href=\"https://moodle.academy/mod/page/view.php?id=313\">Moodle Academy</a><br><span>Moodle Pty Ltd</span></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "6901", "md5key":
+# "ff58c202b91a51aa28016d4584d56852"}
+msgid ""
+"This course launched in April 2022 and is now&nbsp; based on <a "
+"href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3</a> "
+"functionality."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "c3ef20ba75e818c061f9cc2fda7ae51f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Siobhan is disappointed to see "
+"that she does not have any 'starred' activities in her Activity chooser. Why"
+" is this?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "361e9ed0fd51fd640d1658089adb3b07"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"revisit the section 'Activity chooser' from the Tutorial: Add content to "
+"your Moodle course for more information - or better, try for yourself in "
+"your practice course!</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "b82e2d921a3b5ff56e2265727da620c7"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "fae21b3f51b1777c96db3f4e0d40ae52"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "339264f9444cc19868ef2fe5f905829c"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "3ff332262a6f9b4c1add50183dab0f73"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The administrator hasn't starred "
+"any yet.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "40258f0b1470b81309a8d53aeb29049b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The administrator can recommend, "
+"but not star.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "cabd4ab0fc819a5d024aac1f94b95bb7"}
+msgid "Only content she has used at least three times will become 'starred'."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "8606e3863a46d817c00ab093aca5285e"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Not true. It is not automatic.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "e5d03977648efa5e7b5915f9501b098d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">She needs to star her chosen "
+"items herself.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "2b2c40188bfa09a956723b144cc587de"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">It is her reponsiblity; indeed.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "f18ef108cb7f2d418bfa55918f6e27cd"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">She can only star activities, not"
+" resources, and so far she has only explored resources.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "26ca453c3e598294374076ebd226d856"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Simply not true - have you "
+"tried?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "ed1bc77f342e5033e0a4d3ac2d72c71d"}
+msgid ""
+"Alex, Victoria, Ed and Matthew&nbsp; are discussing how to display videos in"
+" Moodle. Who do you think has the most suitable approach?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "1b406fd1972ded0712cd1b07e974f1fd"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "5d93b3db104665e988d944e2db006b2f"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "0628bb24244152346b02a32a18371929"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "ec90813f179a12b8574df45c69e0b819"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Alex: \"I drag and drop the video"
+" (a Flash, .flv file) onto the course page.\"</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "997847ab597542e0934116c4148d4958"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Flash is outdated and insecure.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "a3b86abaaf8f85b720ea5270c12e9663"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Victoria: \"I have six videos and"
+" I embed them into Text and media areas on the course page.\"</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "0eace53470d99dc0b32036ba5373d434"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">One Text and media area embedded "
+"might be a good idea, but six might slow down the loading of the page.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "37ee3a59e98395aa34b7218d3f3a8f99"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ed: \"I embed them into Pages and"
+" offer them for download with the subtitles too.\"</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "4b50d4d9a3082c2ec93a581c053189e6"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">That sounds like a good plan.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "1787541e00b8af34f310ce7749f5b572"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Matthew \" I upload all my videos"
+" to YouTube and link them with the URL resource. I have students all over "
+"the world so this is convenient.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "bdfc2df78ba80a24f07ae0ce3fbf3621"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">What about students in countries "
+"where YouTube is banned?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "12f648317429e7dfb5d58471340b447a"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yulia wants to upload an image, a"
+" .png file, into a Text and media area. However, when she clicks the "
+"multimedia icon in the text editor&nbsp;<img "
+"src=\"@@PLUGINFILE@@/1multimediaicon.png\" alt=\"The multimedia icon  in the"
+" TinyMCE editor. \" width=\"36\" height=\"29\" class=\"img-fluid "
+"atto_image_button_middle\">she is unable to locate her image. What might be "
+"the problem?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "7c31ae1d357cf1487a332d86cdf2cfbb"}
+msgid ""
+"Remember that you may always revisit the sections 'Add images' and 'the File"
+" picker' in the Tutorial: Add content to your Moodle course - and be sure to"
+" try this for yourself in your practice course!"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "9e6c5091e360d2b1309b01e18454bee1"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "8c883c3f6225ac80e909213cac848645"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "2bc89f96305df0ff04fc311a3a10db44"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "93363b7aca0b2da4cfc032ed44a55007"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">She is using the wrong icon to "
+"upload her image.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "c19913aaa8992f66e796bc69e76827d7"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Indeed. The File picker is "
+"context sensitive. The media icon is for video and audio only.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "a5404a21eb5f877491a011931fa2aefe"}
+msgid "She is using the wrong image type."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "7af9607f5422fe2ef2cea886102bad64"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Are you sure? Check the best "
+"image file types for uploading to Moodle.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "7b34c5d8dd9c7018c9333ab2381baa93"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">She doesn't have permissions to "
+"upload into a Text and media area.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "b480bb2579ba2b0deacdcb62fecfe165"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Very unlikely.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "ff5edc2f0a1adfda5a4e2772fc0053e4"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">She can only link to images in "
+"a&nbsp; Page resource. She cannot upload them.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "2ffb1d4539b65ea4db37fbd32669659c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not true!&nbsp; And anyway she is"
+" trying to upload into a Text and media area.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "e40237c205ac770b6b347f77aa1e2fe9"}
+msgid ""
+"With Edit mode on, you see a message saying you can drag and drop files into"
+" your course. But when you try to drag and drop a folder it does not work. "
+"Why does this not work?"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "622149fb23654ef67c733be58f7b0c29"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "09b2f8f3101c5b7e757ee914e0b299d6"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "be928d8ea38fe656c4dfae631f29a9be"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "1ca6fcfda19135d2b9a5f1fcd23518f1"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You have forgotten to turn "
+"editing on.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "85c36440736185aa5cef72f332222ba3"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You have not forgotten - the "
+"question begins 'With the editing turned on...'</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "bc5ab9789aead9f05bb72fb5fcc20277"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You need to compress/zip your "
+"folder first.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "15829a70c0668f3c48e91975743fd64f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes. You must do this before "
+"dragging it.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "74f2da7fc61eb86867a095ec7aec8340"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Your browser does not allow you "
+"to drag and drop files or folders.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "655d4e13cb7a3f6a1802f09db59cbea1"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It does! Because it displayed the"
+" message saying you can.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "2aa5064678312ffb37270e8c75a25003"}
+msgid ""
+"Editing teachers cannot drag and drop folders. This is only for admins and "
+"managers."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "ece6fd8a3640fd1c3238a58d46503620"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Really? Look again!</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "999e1a6fc1c027f5269fdfbed77c8823"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which of these statements is/are "
+"correct? Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "ea1fab1e2fabc9ff4cb614ef5bbe6e92"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"review the section 'The Filepicker' in the Tutorial: Add content to your "
+"Moodle course for more information.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "bfaee3ca99a3ad20f297ab0d6c6a2203"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "836655739898a69f1ff3cf0ee28afb75"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "0f1eee36fdbf4cf42175d2afb69ede8e"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "9e201e8ed01723146e673e1e3e8f3f0f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><strong>Server files </strong>are"
+" for teachers to locate files in other courses where they teach.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "23fae1c4c71eac4207026d7fbb9be70d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The <strong>Content bank</strong>"
+" is where teachers can create and find H5P activities.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "7e5711335ecf7a39f8e65f1c026e0d14"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><strong>Wikimedia </strong>allows"
+" teachers to find images to use in their courses.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "c5466ce731ed00b1a941e692459c55a1"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes, although they should still "
+"check the licences.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "01e5333bb4207dcec70c9d7239b0cce4"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><strong>URL downloader "
+"</strong>allows teachers to search the internet for useful websites.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "06b2141ffecb68c5070364f7a17e888d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not really. Read the <a "
+"href=\"https://docs.moodle.org/en/URL_downloader_repository\">URL downloader"
+" repository documentation.</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "79d0f2b4e7821dbbfe44dd1d6261eb40"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Teacher Jonas wants to display "
+"the white and green circles in the course index which he has seen in courses"
+" that his colleagues are teaching. How can he do this?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "0ed1a64133773cc257bc4cbafed34a54"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Review the section 'Track "
+"progress' in the Tutorial: Add content to your Moodle course for more "
+"information. The circles are called 'completion indicators'.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "22954102c5ba943bab2c7e59c46efb91"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "9794054bb8aec65b2f718094b3f64936"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "f8aa5f23d98e89bd1d10d7ce543e0f0e"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "eb01482b7507ede5e18b6e96a8dd1dc8"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Jonas must ask the admin to "
+"enable these circles in the course index.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "051e2fdd12cef545a4a34d4714c3e2b5"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It is not dependent on the "
+"admin.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "71118fa09aa3ce1d44f07d0b82abf0b3"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Jonas must ensure activity "
+"completion is enabled in his course and for each of his desired activities "
+"and resources.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "1c609da196ddbeeda5af6218cde0d91e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's correct. They will then "
+"appear for his learners automatically.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "2219f4e163783f649810ee99fc007d77"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Jonas is not using any "
+"activities, only resources such as Files and Pages, and these circles do not"
+" appear for them.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "bfe75a1691cfd2e1abe907a42d43af11"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not true. They are called "
+"'completion indicators' by the way.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "18760f6232d11e23b519ec5ddf7400bb"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Jonas has not defined any dates "
+"so that is why they are not displaying.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "6575f51d9540da8fab4eec92d88c0184"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">They are not dependent on "
+"dates.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "12425be768d8980c225159abff70fe1c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You have a short piece of text "
+"you want your learners to read. Which would be the best way to display this "
+"to them?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "8e7de177a6214c06a42964edc4a5aa70"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "18e78a75bb03e72666a92812902a8c49"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "54c9d780fb2d1022492e66471837c5fa"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "4a8b0d159362936d9d67b6e61791eda0"}
+msgid "Type the text as an HTML webpage and upload it as a URL resource."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "60ad9328674b116c7514295b185c433d"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Too complex and not necessary.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "779e91a199991b4c4382dddecc94a8cf"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Type the text into a word-"
+"processed document and drag and drop it onto your course page.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "148de7ee2097a5173c85833d69bf6061"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It would work but is not the best"
+" way for all learners and all devices.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "8b62d3036872e704369cd3c23baf5310"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Type the text into a Moodle "
+"Page.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "96959e87b333006473f275c6685fe488"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is the most accessible way, "
+"yes. Depending on the length and context, you could even use a Text and "
+"media area.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "2d734bffc06f02c2813fe00d2a3d09ca"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You want to upload your "
+"PowerPoint™ presentation from your computer so your learners can view it "
+"again. Your browser is Google Chrome. Which of these methods can you use? "
+"Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "5485ce8c329b59df2e1e8ef9c36e2840"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "2248a1a083a1c8dc6a554e3ccf393e49"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "2a54bb59a537fd7898cf0b887eecd70f"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "64d76be5c2823908215851193feb17e3"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You can drag and drop it onto the"
+" course page.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "2d8a43560b3c1f382c59152fba206b8e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct! Google Chrome allows you"
+" to do this.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "390155945994dfbd553039885fe8b07d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You can select File from the "
+"Activity chooser and upload it like that.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "52f2a06c4cced2ab97b813782a724dab"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct! That is one way to do "
+"it.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "c4d3d60617147ffd81efc46add5f480c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You can copy and paste it into a "
+"Moodle Page.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "62d80e64707b2994282e4d40150c9342"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That is both too complex and too "
+"risky.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "8622365ef5b2b9b7199f104a8bc3cdf4"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You have a problem with "
+"completion tracking. You are sure it is enabled but your students can only "
+"see the requirements when they click into an activity; they don't see them "
+"on the main course page or in the course indicators. What might be the "
+"cause?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "728f9197f89f50d1a7efed1b2d530d77"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Review the section Track progress"
+" in the Tutorial: Add content to your Moodle course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "7f88c73aa53a55366fa371a6ff5be7ca"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "f9ce2afe0d58fcfca5f460dc7434a32f"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "e9d88f36feca116429d42d86de248281"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "985ae8a527e0c1579364ef8c0b1e6246"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You made a mistake and did not "
+"enable completion tracking.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "20c1257d6405be55aac9f91219ea349d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">But students say they can see "
+"completion conditions&nbsp; when they access activities and resources?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "7bd306315aacedd9ee80399f44989746"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The course setting 'Show activity"
+" completion conditions' is set to 'No'.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "16f583f39c370f6c4dedad34aae6599b"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's right - perhaps you did "
+"this by mistake?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "22f18de8dfc227dd9a84278bf87b3a31"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The completion indicators in the "
+"course index have not been turned on by the admin.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "2f0d8b90dfbc68d99cb2eac26f924225"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">There is no such setting.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "61cc12cea5c71fbbcb6ce80bad3ecd37"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">There are no activities with "
+"completion tracking set in your course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "a0c436e975423a12bf036be44f2edc4c"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">But students say they can see "
+"completion conditions when they click into activities and resources?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "b45987411bee72db59d030ea536a86e5"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You want to add a YouTube video "
+"to your course but your establishment doesn't allow YouTube. Your colleague "
+"says this is OK, because if you add a YouTube video in Moodle, learners can "
+"still watch it. Is this correct?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "2d07edc638d6348e0d7027a4f35d7329"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "433bc61332f8acbcf48ddb2ff17425da"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "074c216ca6cc269687f0d684bebb7ac9"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "eafdb11064911b61eeb1958614b9fb6e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Partly. They will probably be "
+"able to watch it at home but not at your establishment.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "e2368a4207191af1311d27d504b1874e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Would that be useful to you? Or "
+"would you prefer to use a different video source?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "d423a0acfe03beae550e3b9a70c6ec25"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes. Moodle's Text and media "
+"resource will display YouTube videos anywhere.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "99082d33f274713333c4105b2605603b"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Are you sure?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "f9e5eadea2133272ea517ec246968939"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">No. Learners will have no access "
+"to this YouTube video.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "504a8d479b458eb517b4238966f7162e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not when they are in your "
+"establishment, sure, but what about elsewhere?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "2db2ee869537a8bb21ee8d3c652ce678"}
+msgid ""
+"Partly. They cannot watch it on YouTube so you must download the video "
+"and&nbsp; upload it into your course."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "c7a5134b0669c7f6be04a135794f58ef"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Is that wise? What about "
+"copyright?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "f06ac19af10f0b76d993826ff351a760"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Jeanne's trainees are complaining"
+" that she is not being clear enough about what they must do to complete the "
+"course. What is the <strong>best</strong> way to help them track their "
+"progress better?&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "9f7189f3f3edc570563d8bc590b8e657"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"revisit the Tutorial: Add content to your Moodle course, in particular the "
+"section 'Track progress'.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "a18d1f08b2153c761cb75a24163ed7bd"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "983f747e7f93be8216dd8086f4d666b4"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "b9dda51f705ba216a8ae7c8ae67f05b3"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "c5410a0bd39f94fa953d6ffa7d0f7360"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Use the activity completion "
+"feature so they see what they need to do.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "11ab89ee3131ee9e6060aa1b95577967"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is the best way. Have you "
+"tried using it yet? What type of conditions have you explored?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "bb31d4155323bc35a3b19fd265f6d666"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Add a Page or Book resource with "
+"information about the required activities in the course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "ee4914604a410a50fe9bf1101ad6abfc"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is not wrong - we do it in "
+"this course! But it is not the best way to help them track their "
+"progress.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "127edeeb9edbb4a6ed1f9030c1bbc30f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Send out regular emails with "
+"reminders about their required tasks.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "beda23a3d84b99d3855d24e7d9304bf7"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">A tedious manual job - there is a"
+" better way.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "4b169b29969ccf80286168b4f0caf5f4"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">In the description of each "
+"resource, explain what is required of them.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "02e61831b25b96b71b87d29708754811"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Not wrong, but not the best way "
+".</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "3a6b98e8801689b543f5a185ad5b76bc"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Your teacher friend Marcus is "
+"unable to drag and drop an image file to a topic section summary. What might"
+" he be doing wrong? Select all that might apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "dc6efac3f4334568b2ddc6ded511112d"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"revisit the section 'Add images' in the Tutorial: Add content to your Moodle"
+" course for more information.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "8cb30b485376a5796ea983d8c569b9ff"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "619870e32fcf0c7431361a686dedc22c"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "acea4ec58808a04e2f7bc6a94ee4f21a"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "41f8c295268fbf10d4a6db6a20f08338"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">His image file is in a Word™ "
+"document.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "326c407c3bc19c6deea345c90b0ff7f2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Possibly. You have to use an "
+"actual image, not a word-processed document with an image in it.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "aeb92a9e0fdac51919aa5b750da95b13"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">His image file is copyrighted.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "d63bf42e0972829f7eb3a12e0940384f"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">We hope not! But that will not "
+"prevent him being able to upload the image.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "e678b32d4bf031ac0c6bff38e3c2fec9"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">He forgot to enable Edit mode.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "84d5d01ea5331734a5b89d1458707a1e"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Indeed. He needs edit mode on to "
+"be able to edit his course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "226d5aba5f5ab5657e6c39608ca53808"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">He is trying to upload a .bmp "
+"image file instead of the recommended image file types for online "
+"spaces.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "270fe21987f51482ba56b121efe7a159"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Actually that would still work. "
+"Images of the .bmp type can still be uploaded, but they are not ideal.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "9178ebf8fd88f3413e7e38dbc39df9c2"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Page, Book or both? Which of the "
+"following sentences are correct? Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "448a2788d719981bed9c0887ebe59721"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"revisit the sections 'Display information' and 'Display connected pages' in "
+"the Tutorial: Add content to your Moodle course for more information.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "9deadd61b2d229afaf5b654d4ac1cebe"}
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "11b1abfeb6ff58bc89a661a811c2b226"}
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "9bb9daa73bee1e56b13030a48e634d40"}
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "b1d06bd25d06edb1abd1453992765759"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Both Pages and Books will print "
+"nicely as PDF.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "f51066455ea155b3789cb8535ecf9bab"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Only one of these - can you "
+"remember which one?</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "a4923ef6eeeddac72b619d2352c73992"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Both Pages and Books allow you to"
+" add media as well as text.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "feac037c5eb638404c51b756b28900a0"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Very true.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "e8a255080a18f741b104cfb8600fb317"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Only Books have a Table of "
+"Contents.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "d2d3402147e6a09391480c3f4adc40d1"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">That is true.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "9402143f8cd97a9ec580707360d5fefa"}
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Only Pages display well on the "
+"Moodle (mobile) app.</p>"
+msgstr ""
+
+# {"targetlanguage": "id", "contextid": "5838", "md5key":
+# "c21b7e3f3a43268490ed5e3432dcf66f"}
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Books display well too.</p>"
+msgstr ""
