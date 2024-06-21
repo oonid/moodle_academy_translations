@@ -1,19 +1,12 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-19 08:23+0000\n"
-"Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
-"Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
-"018-introduction-to-gamification/id/>\n"
-"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.5.5\n"
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "cf581b5e96cfaaa52d86c01965aa043e"}
+# {"targetlanguage": "id"}
+#: cf581b5e96cfaaa52d86c01965aa043e:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">An introduction to the theory, "
 "set up and practice of gamification in Moodle.</p><p dir=\"ltr\">This course"
@@ -23,53 +16,44 @@ msgid ""
 " 1rem;\">3.4 Self-regulated learning</span><br></p><p dir=\"ltr\"><span "
 "style=\"font-size: 1rem;\">5.3 Actively engaging learners</span><br></p>"
 msgstr ""
-"<p dir=\"ltr\" style=\"text-align: left;\">Pengantar teori, pengaturan dan "
-"praktik gamifikasi di Moodle.</p><p dir=\"ltr\">Kursus ini berkaitan dengan "
-"kompetensi berikut:</p><p dir=\"ltr\">3.1 Mengajar</p><p dir=\"ltr\"><span "
-"style=\"font-size: 1rem;\">3.3 Pembelajaran kolaboratif</ span><br></p><p "
-"dir=\"ltr\"><span style=\"font-size: 1rem;\">3.4 Pembelajaran "
-"mandiri</span><br></p><p dir= \"ltr\"><span style=\"font-size: 1rem;\">5.3 "
-"Melibatkan peserta didik secara aktif</span><br></p>"
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "22fc9e9c6bdc77f83a7bdbaf52851111"}
+# {"targetlanguage": "id"}
+#: 22fc9e9c6bdc77f83a7bdbaf52851111:2981
 msgid ""
 "This intermediate level course covers how to create a gamified course in "
 "Moodle."
 msgstr ""
-"Kursus tingkat menengah ini mencakup cara membuat kursus dengan gamifikasi "
-"di Moodle."
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "3186bd28f19c7fd8bd7b57cfbae15ca0"}
+# {"targetlanguage": "id"}
+#: 3186bd28f19c7fd8bd7b57cfbae15ca0:2981
 msgid "Live sessions"
-msgstr "Sesi siaran langsung"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "7177c8436621e0024d6e1bf5f5db1fd0"}
+# {"targetlanguage": "id"}
+#: 7177c8436621e0024d6e1bf5f5db1fd0:2981
 msgid "What is gamification?"
-msgstr "Apa itu gamifikasi?"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "e3c1e749e631e134a565531fd4c3e5a0"}
+# {"targetlanguage": "id"}
+#: e3c1e749e631e134a565531fd4c3e5a0:2981
 msgid "How to gamify your Moodle course? A gamified topic"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "80ffa4ac651d27c013627583a9515c8d"}
+# {"targetlanguage": "id"}
+#: 80ffa4ac651d27c013627583a9515c8d:2981
 msgid "Gamification case studies"
-msgstr "Studi kasus gamifikasi"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2986", "md5key":
-# "07ce09edf9d9f4790b503a5c66aea8ec"}
+# {"targetlanguage": "id"}
+#: 07ce09edf9d9f4790b503a5c66aea8ec:2986
 msgid ""
 "<div class=\"no-overflow\">Before you begin, review the Course overview, "
 "Learning outcomes,  Course structure and Completion and assessment "
 "information.</div>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2986", "md5key":
-# "723beccd0a3ae22dceb98e6832fad4ae"}
+# {"targetlanguage": "id"}
+#: 723beccd0a3ae22dceb98e6832fad4ae:2986
 msgid ""
 "<h4 style=\"text-align: left;\">Aim</h4>\n"
 "<p>In this course you will learn:</p>\n"
@@ -80,8 +64,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">The estimated time to complete this course is two hours.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2986", "md5key":
-# "c0beef70cee995a03cc60d5bafba9897"}
+# {"targetlanguage": "id"}
+#: c0beef70cee995a03cc60d5bafba9897:2986
 msgid ""
 "The activities and screenshots in this course are based on the standard Boost theme and the latest version of Moodle LMS, currently 4.3.&nbsp;See <a href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3 documentation overview</a> and&nbsp;<a href=\"https://docs.moodle.org/403/New_features\">New Features 4.3 documentation.</a><br>&nbsp;If your Moodle site looks different, ask your Moodle support staff about the theme and version being used.\n"
 "<br><br>&nbsp;You can access documentation about earlier, supported versions of Moodle LMS below. This documentation includes the videos related to each version.<br>\n"
@@ -91,8 +75,8 @@ msgid ""
 "</ul>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2986", "md5key":
-# "7295351f188f13c5e1bd5e9de5d33901"}
+# {"targetlanguage": "id"}
+#: 7295351f188f13c5e1bd5e9de5d33901:2986
 msgid ""
 "<h4 style=\"text-align: left;\"><span style=\"color: rgb(73, 80, 87); font-"
 "size: 1rem;\">By the end of this course, participants will be able "
@@ -103,8 +87,8 @@ msgid ""
 "gamification in Moodle.</li></ul><p></p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2986", "md5key":
-# "d674728606a82d660c65582d163fd33f"}
+# {"targetlanguage": "id"}
+#: d674728606a82d660c65582d163fd33f:2986
 msgid ""
 "<p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img src=\"https://moodle.academy/pluginfile.php/2986/mod_book/chapter/630/ccby.png\" alt=\"Creative Commons Licence\" width=\"120\" height=\"42\" style=\"float:left\" class=\"img-fluid atto_image_button_middle\"></a>\n"
 "    This course by&nbsp;Vasilis Palilis (<span style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">WIDE Services),&nbsp;</span>Mark Glynn (<span style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">DCU) and&nbsp;</span><span style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">Moodle Academy (Moodle Pty Ltd) is licensed under&nbsp;</span><a href=\"https://creativecommons.org/licenses/by/4.0/\" style=\"\">CC BY 4.0</a><span style=\"font-size: 1rem; font-family: &quot;Open Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;\">. Original resources available at&nbsp;</span><a href=\"https://moodle.academy/\" style=\"\">https://moodle.academy</a>.</p>\n"
@@ -112,8 +96,8 @@ msgid ""
 "<a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=272\">Read more about how you should attribute this work.</a>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2986", "md5key":
-# "fa2b4a2863e1aad40cc841ecdd809d69"}
+# {"targetlanguage": "id"}
+#: fa2b4a2863e1aad40cc841ecdd809d69:2986
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\"></p>\n"
 "<h4>Welcome</h4>\n"
@@ -128,8 +112,8 @@ msgid ""
 "<p>Find out how others are using gamification in their organisations and take away useful tips for your own practice.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2986", "md5key":
-# "2b0c2ac22bb5824a83e6c66ab44dda66"}
+# {"targetlanguage": "id"}
+#: 2b0c2ac22bb5824a83e6c66ab44dda66:2986
 msgid ""
 "Our Moodle Educator Certification (MEC)is based on the Digital Competence Framework for Educators.&nbsp;<a href=\"https://ec.europa.eu/jrc/en/digcompedu\"> (DigCompEdu).</a> This course relates to the following competence(s):\n"
 "    <p>3.1 Teaching</p>\n"
@@ -144,8 +128,8 @@ msgid ""
 "</dl>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2986", "md5key":
-# "8bde18b8a9b780b9701d644acef2d9da"}
+# {"targetlanguage": "id"}
+#: 8bde18b8a9b780b9701d644acef2d9da:2986
 msgid ""
 "<p dir=\"ltr\"><span style=\"font-size: 1rem;\">To complete the course you "
 "need to have all required activities marked as complete. Some are "
@@ -171,8 +155,8 @@ msgid ""
 "obtained.</p><p></p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2986", "md5key":
-# "8f293c2ac2eef2e7ced855ddfd7c2d10"}
+# {"targetlanguage": "id"}
+#: 8f293c2ac2eef2e7ced855ddfd7c2d10:2986
 msgid ""
 "\n"
 "\n"
@@ -189,28 +173,28 @@ msgid ""
 "<hr>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2991", "md5key":
-# "43a89dcf1d266dea1646c22b4f210904"}
+# {"targetlanguage": "id"}
+#: 43a89dcf1d266dea1646c22b4f210904:2991
 msgid "Webinar recording: Introduction to gamification"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2993", "md5key":
-# "1889ddd136bb0aa4e399edf6785d6a37"}
+# {"targetlanguage": "id"}
+#: 1889ddd136bb0aa4e399edf6785d6a37:2993
 msgid "Slides from the webinar"
-msgstr "Slide dari webinar"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "064b9031bb9a658a3a35618f97751d04"}
+# {"targetlanguage": "id"}
+#: 064b9031bb9a658a3a35618f97751d04:3119
 msgid "Background to gamification"
-msgstr "Latar belakang gamifikasi"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "a0f962bdb137fd1ea6794fc80bccf0ff"}
+# {"targetlanguage": "id"}
+#: a0f962bdb137fd1ea6794fc80bccf0ff:3119
 msgid "Know your learners"
-msgstr "Kenali peserta didik Anda"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "415f854e78f451889d879183df3a62b1"}
+# {"targetlanguage": "id"}
+#: 415f854e78f451889d879183df3a62b1:3119
 msgid ""
 "<span style=\"font-size: 1rem;\">One reason - perhaps the main reason - to consider gamifying your course is to motivate your learners to be more engaged, to study harder.</span><br>\n"
 "<p dir=\"ltr\" style=\"text-align: left;\">It is not enough, however, just to add gamification elements such as badges, a complex restrict access scenario, and then expect your course to immediately become more successful.</p>\n"
@@ -220,13 +204,13 @@ msgid ""
 "<p>How motivated are they to learn?</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "865ec7f3853edcf7b040fd8285f71104"}
+# {"targetlanguage": "id"}
+#: 865ec7f3853edcf7b040fd8285f71104:3119
 msgid "Moodle elements"
-msgstr "Elemen Moodle"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "9249bc87f36af3a82977f14cc39af9d5"}
+# {"targetlanguage": "id"}
+#: 9249bc87f36af3a82977f14cc39af9d5:3119
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Gamifying your Moodle course "
 "involves adding Moodle features and activities which can replicate those "
@@ -248,13 +232,13 @@ msgid ""
 "features.</li></ul><br><p></p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "8370ca68fe89f32459176c88f5bc124e"}
+# {"targetlanguage": "id"}
+#: 8370ca68fe89f32459176c88f5bc124e:3119
 msgid "Game elements"
-msgstr "Elemen permainan"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "82cf827cce518c2624da7103dd890b39"}
+# {"targetlanguage": "id"}
+#: 82cf827cce518c2624da7103dd890b39:3119
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">People who play games online (and"
 " offline!) are motivated by certain factors built into the games. Popular "
@@ -276,13 +260,13 @@ msgid ""
 "elements.)</li></ul><p></p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "a77105ec75579f0ef159bcdf03d79ddf"}
+# {"targetlanguage": "id"}
+#: a77105ec75579f0ef159bcdf03d79ddf:3119
 msgid "Defining gamification"
-msgstr "Mendefinisikan gamifikasi"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "777bd0a7439341b9eb3d613ada435cd9"}
+# {"targetlanguage": "id"}
+#: 777bd0a7439341b9eb3d613ada435cd9:3119
 msgid ""
 "Before defining what gamification is, let us say what it is not.<img "
 "src=\"https://moodle.academy/pluginfile.php/3119/mod_book/chapter/50/gamification.png\""
@@ -300,25 +284,25 @@ msgid ""
 "actually means.</span></p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "e14ab946c1469491f93166082ab9e1de"}
+# {"targetlanguage": "id"}
+#: e14ab946c1469491f93166082ab9e1de:3119
 msgid "Happy hour"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "de03131f17d9791ef5e10da23117334b"}
+# {"targetlanguage": "id"}
+#: de03131f17d9791ef5e10da23117334b:3119
 msgid ""
 "<p>Have you ever been in a bar when there is 'Happy hour' and you can have drinks at half price? Have you ever been tempted by the 'Buy<img src=\"https://moodle.academy/pluginfile.php/3119/mod_book/chapter/55/HappyHourMan.png\" alt=\"\" width=\"150\" height=\"199\" role=\"presentation\" class=\"img-fluid atto_image_button_right\"> one, get one free' advertisements? Do you have a loyalty card for your favourite store? Do you (or did you before COVID) collect Airmiles when flying? Do you use a language learning app where you accumulate tokens for reaching different levels? </p>\n"
 "<p>All of these are examples of gamification in business and marketing. Although we are looking at gamification in an education and training setting, it is worth remembering that gamification has a much broader reach and is probably part of your every day life without you realising it!</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "c076e4fd1559721e171432e66b70a487"}
+# {"targetlanguage": "id"}
+#: c076e4fd1559721e171432e66b70a487:3119
 msgid "Motivation"
-msgstr "Motivasi"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3119", "md5key":
-# "74d918509a3f7744bc2525df84fa35c1"}
+# {"targetlanguage": "id"}
+#: 74d918509a3f7744bc2525df84fa35c1:3119
 msgid ""
 "<p>Of course, we want our learners to be motivated! If gamification will help motivate them, it is worth doing.<img src=\"https://moodle.academy/pluginfile.php/3119/mod_book/chapter/54/MotivatedMan.png\" alt=\"\" width=\"138\" height=\"118\" role=\"presentation\" class=\"img-fluid atto_image_button_right\"></p>\n"
 "<p>However.. we must carefully consider how our learners are motivated, and ensure our gamified course does not have the opposite effect from what we wish.Here are two types of motivation:</p>\n"
@@ -328,45 +312,45 @@ msgid ""
 "<p>This means that the desire to learn comes from inside - the learner does not necessarily have an end goal in mind such as a promotion; they are simply learning for the pleasure or mental challenge of it. Be careful when gamifying your course when you know your learners are instrinsically motivated. For some intrinsically motivated learners badges, points, leaderboards can in fact appear patronising if the learner was planning to do the tasks anyway. Research shows that in some cases, gamification can have a negative effect on intrinsically motivated learners.</p><p>Bear in mind that it is possible for a learner to be both extrinsically and intrinsically motivated.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5122", "md5key":
-# "569497068e331c0bbef7794256bcd862"}
+# {"targetlanguage": "id"}
+#: 569497068e331c0bbef7794256bcd862:5122
 msgid ""
 "Gamifying education: what is known, what is believed and what remains "
 "uncertain"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5122", "md5key":
-# "12af15717c62c4b63edab39554002015"}
+# {"targetlanguage": "id"}
+#: 12af15717c62c4b63edab39554002015:5122
 msgid ""
 "<div class=\"no-overflow\">A critical review by Dichev, C. and Dicheva, D in"
 " the International Journal of Educational Technology in Higher "
 "Education,</div>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5128", "md5key":
-# "52d0825580134be7f8a9f3429013ba58"}
+# {"targetlanguage": "id"}
+#: 52d0825580134be7f8a9f3429013ba58:5128
 msgid "Assessing the effects of gamification in the classroom"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5128", "md5key":
-# "abc613d827ba161a4a4af9a113eac1b2"}
+# {"targetlanguage": "id"}
+#: abc613d827ba161a4a4af9a113eac1b2:5128
 msgid ""
 "<div class=\"no-overflow\">Research by Hanus, M.D. and Fox, J highlighting "
 "less positive effects of gamification.</div>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "31f4ac279c142773597c1dddf2ff3314"}
+# {"targetlanguage": "id"}
+#: 31f4ac279c142773597c1dddf2ff3314:5270
 msgid "Know your student participant types"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "966a17e78d61b6fc298721f9dde3baf1"}
+# {"targetlanguage": "id"}
+#: 966a17e78d61b6fc298721f9dde3baf1:5270
 msgid "Thinkers - Socialisers - Achievers - Disruptors"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "021dd224c5345278839ddd5bb4764e35"}
+# {"targetlanguage": "id"}
+#: 021dd224c5345278839ddd5bb4764e35:5270
 msgid ""
 "<p>How would you call those who...</p><p><ol><li>Spend time working on a "
 "solution.</li><li>Value teamwork.</li><li>Want to get the best "
@@ -374,26 +358,26 @@ msgid ""
 "activities.</li></ol></p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "9f3d676ea630367ba5f07889648903e0"}
+# {"targetlanguage": "id"}
+#: 9f3d676ea630367ba5f07889648903e0:5270
 msgid "Bending the rules"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "884f7d547b27b965a47d8f4f808a07f2"}
+# {"targetlanguage": "id"}
+#: 884f7d547b27b965a47d8f4f808a07f2:5270
 msgid ""
 "<p>Jon doesn't like playing by the rules! His fellow students say he is "
 "cheating, but he sees this as a challenge. What type of participant is he? "
 "</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "951cea62977fa4004f1cca88cb196393"}
+# {"targetlanguage": "id"}
+#: 951cea62977fa4004f1cca88cb196393:5270
 msgid "The six types"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "e8ad490c9d6fa4b7b2447278c64be8ef"}
+# {"targetlanguage": "id"}
+#: e8ad490c9d6fa4b7b2447278c64be8ef:5270
 msgid ""
 "<p>The six classifications are listed here. To keep it simple, we will look at each one in order. You can always go back to check something if you need to.</p>\n"
 "<ol>\n"
@@ -405,52 +389,52 @@ msgid ""
 "  <li>Disruptors</li> </ol>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "a66fcf267ac270f40606317837249c99"}
+# {"targetlanguage": "id"}
+#: a66fcf267ac270f40606317837249c99:5270
 msgid "Explorers"
-msgstr "Penjelajah"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "c569743bd20085372626fe3531363ade"}
+# {"targetlanguage": "id"}
+#: c569743bd20085372626fe3531363ade:5270
 msgid ""
 "Explorers enjoy seeing what happens as they try out various different "
 "strategies available in a gamified environment. They enjoy role-playing in "
 "fictitious scenarios."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "ed6e9bcadb9ee80f34aa0b6acc407365"}
+# {"targetlanguage": "id"}
+#: ed6e9bcadb9ee80f34aa0b6acc407365:5270
 msgid "Socialisers"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "2453f0cb28b42ac9caf834a350c0623e"}
+# {"targetlanguage": "id"}
+#: 2453f0cb28b42ac9caf834a350c0623e:5270
 msgid ""
 "Socializers place more value on interaction and teamwork than on solo "
 "efforts and will view the fostering of good relationships as a measure of "
 "success"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "bd0ceef5293733eab63f722c49a29cfc"}
+# {"targetlanguage": "id"}
+#: bd0ceef5293733eab63f722c49a29cfc:5270
 msgid "Achievers"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "f86264968475cd634033588880290f03"}
+# {"targetlanguage": "id"}
+#: f86264968475cd634033588880290f03:5270
 msgid ""
 "Achievers like to win.  They prepare for and tackle challenges methodically,"
 " and focus their efforts into whatever actions will secure them the best "
 "scores."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "073e2b7f7ab53da55117cc7e559a9340"}
+# {"targetlanguage": "id"}
+#: 073e2b7f7ab53da55117cc7e559a9340:5270
 msgid "About this lesson"
-msgstr "Tentang pelajaran ini"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "1f332b4bb9d925d14c4e433d29133110"}
+# {"targetlanguage": "id"}
+#: 1f332b4bb9d925d14c4e433d29133110:5270
 msgid ""
 "<p>Before setting out to select a combination of game elements to implement in a given course, it is worth thinking about how the target population is likely to respond. The Observatory of Educational Innovation (Tecnologica de Monterrey) identifies six classifications of participant.</p>\n"
 "<p>It's not possible for every aspect of a gamified environment to cater equally for all these different motivations, and the goal of a particular module might have a bias in favour of one over all others. Nevertheless, recognising that this sort of diversity is likely to be present in a given student population will be helpful in designing, implementing, and evaluating a gamification strategy.\n"
@@ -460,51 +444,51 @@ msgid ""
 "<p>Note: This Lesson is inspired by<a href=\"http://dcuh5p.com/gamification/\" target=\"_blank\"> Gamification in Higher Education: An Overview </a>(opens in a new window), available as Creative Commons with attribution.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "21f4e3216ea9dff5e89a995b0eab7b7d"}
+# {"targetlanguage": "id"}
+#: 21f4e3216ea9dff5e89a995b0eab7b7d:5270
 msgid "Battle re-enactions"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "c26bcda5bb6e2f12c0ceff035ca03408"}
+# {"targetlanguage": "id"}
+#: c26bcda5bb6e2f12c0ceff035ca03408:5270
 msgid ""
 "<p>Aline is a member of a society that re-enacts Medieaval battles. She "
 "loves planning the campaigns and testing different strategies. What type of "
 "participant is Aline? </p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "2557c805424805da1bc1c5192bf739c4"}
+# {"targetlanguage": "id"}
+#: 2557c805424805da1bc1c5192bf739c4:5270
 msgid "Philanthropists"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "604f1a971aee78172253d44a0fb4e9b5"}
+# {"targetlanguage": "id"}
+#: 604f1a971aee78172253d44a0fb4e9b5:5270
 msgid ""
 "Philantropists get the most satisfaction from helping others, or the "
 "collective, to be successful."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "0e869d3e2d101e23ce7b632363276ea6"}
+# {"targetlanguage": "id"}
+#: 0e869d3e2d101e23ce7b632363276ea6:5270
 msgid "Thinkers"
-msgstr "Pemikir"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "0d944c18f9df3982b9d72c4b97479f06"}
+# {"targetlanguage": "id"}
+#: 0d944c18f9df3982b9d72c4b97479f06:5270
 msgid ""
 "Thinkers like to solve puzzles. They can spend more time and gain greater "
 "satisfaction from finding a creative solution to a difficult problem than "
 "simply achieving the highest score."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "6effa204eae4b87a77d3051d503bfef7"}
+# {"targetlanguage": "id"}
+#: 6effa204eae4b87a77d3051d503bfef7:5270
 msgid "Disruptors"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "2281f15660fefea52c1e8a68e5e8d602"}
+# {"targetlanguage": "id"}
+#: 2281f15660fefea52c1e8a68e5e8d602:5270
 msgid ""
 "Disruptors are less focused on winning than on beating the system.  They "
 "like to see how far the rules can be bent or reinterpreted to their benefit,"
@@ -512,191 +496,163 @@ msgid ""
 "replaced in pursuit of variety, innovation, and challenge."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "4431b42e150a7e90b31bd7df3939bc62"}
+# {"targetlanguage": "id"}
+#: 4431b42e150a7e90b31bd7df3939bc62:5270
 msgid ""
 "1. Thinkers;&nbsp; 2. Socialisers;&nbsp; 3. Achievers;&nbsp; 4. Disruptors."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "a8b252aee7a9c7cbd8807e2a390ad6d9"}
+# {"targetlanguage": "id"}
+#: a8b252aee7a9c7cbd8807e2a390ad6d9:5270
 msgid "Well done!"
-msgstr "Bagus sekali!"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "fddd555b1e126c8e2d7062e1d9cb46bf"}
+# {"targetlanguage": "id"}
+#: fddd555b1e126c8e2d7062e1d9cb46bf:5270
 msgid ""
 "1. Thinkers;&nbsp; 2. Disruptors;&nbsp; 3. Achievers;&nbsp; "
 "4.&nbsp;Socialisers."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "acef12c43c48009d045ccc4af8aa0d63"}
+# {"targetlanguage": "id"}
+#: acef12c43c48009d045ccc4af8aa0d63:5270 7828821d463755c5006f34c53592c997:5270
+#: 40518070714c753738198cdec815d9e3:5270
 msgid "Not quite. Think again."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "b29985b4e3935277e2c0c5420faa12d4"}
+# {"targetlanguage": "id"}
+#: b29985b4e3935277e2c0c5420faa12d4:5270
 msgid ""
 "1. Achievers;&nbsp; 2. Socialisers;&nbsp; 3. Thinkers;&nbsp; 4. Disruptors."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "7828821d463755c5006f34c53592c997"}
-msgid "Not quite. Think again."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "5d8c16f4a7d086ac8fd2d7a8cdc47a5b"}
+# {"targetlanguage": "id"}
+#: 5d8c16f4a7d086ac8fd2d7a8cdc47a5b:5270
 msgid ""
 "1. Socialisers;&nbsp; 2.&nbsp;Thinkers;&nbsp; 3. Achievers;&nbsp; 4. "
 "Disruptors."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "40518070714c753738198cdec815d9e3"}
-msgid "Not quite. Think again."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "803cb9bc99abdfb61666193b3071ae67"}
+# {"targetlanguage": "id"}
+#: 803cb9bc99abdfb61666193b3071ae67:5270
 msgid "Go to Explorers"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "f11d1d4b12ac3bdf153d9dae0c908dfa"}
+# {"targetlanguage": "id"}
+#: f11d1d4b12ac3bdf153d9dae0c908dfa:5270
 msgid "Get started."
-msgstr "Memulai."
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "6c002307ae31e328ac37ff0d6687bacb"}
+# {"targetlanguage": "id"}
+#: 6c002307ae31e328ac37ff0d6687bacb:5270
 msgid "Go to the Quick Check."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "480cf4fd344b9fdf18f450395be77e40"}
+# {"targetlanguage": "id"}
+#: 480cf4fd344b9fdf18f450395be77e40:5270
 msgid "Go to Socialisers"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "d45c1063bdb60004fd20b822a666f1ec"}
+# {"targetlanguage": "id"}
+#: d45c1063bdb60004fd20b822a666f1ec:5270
 msgid "Go back to the previous page"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "eb03b681ca98cce0905c39eed57bef95"}
+# {"targetlanguage": "id"}
+#: eb03b681ca98cce0905c39eed57bef95:5270 e8c9d069d3af4293eaea1a5653a3bdd3:5270
+#: 109bab4f5a2c7004bc860be23d213e9c:5270 03d7f1886d37db81647225ae87b36202:5270
 msgid "Go back to the previous page."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "828a2a7d3feaa8e9b4885efdd9e49df0"}
+# {"targetlanguage": "id"}
+#: 828a2a7d3feaa8e9b4885efdd9e49df0:5270
 msgid "Go to Philanthropists."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "4be60031bd067070150d951b040033f2"}
+# {"targetlanguage": "id"}
+#: 4be60031bd067070150d951b040033f2:5270
 msgid "Go to Thinkers."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "2afa72f3bdc7925efcac16e0fe786e31"}
+# {"targetlanguage": "id"}
+#: 2afa72f3bdc7925efcac16e0fe786e31:5270
 msgid "Go to the previous page."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "8f835843df39783f6ec2e523bbc3116d"}
+# {"targetlanguage": "id"}
+#: 8f835843df39783f6ec2e523bbc3116d:5270
 msgid "Go to Achievers."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "ec596c9df7bbf72d7b47af86a438a045"}
+# {"targetlanguage": "id"}
+#: ec596c9df7bbf72d7b47af86a438a045:5270
 msgid "Go to Disruptors."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "f66f947161121e72afe3a8e8565a1b88"}
+# {"targetlanguage": "id"}
+#: f66f947161121e72afe3a8e8565a1b88:5270
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">A Disruptor</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "8d613d4379addbd1057a8947f3b4b699"}
+# {"targetlanguage": "id"}
+#: 8d613d4379addbd1057a8947f3b4b699:5270
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">That's Jon!</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "18c270192f8581957d6a80bb5cc47fca"}
+# {"targetlanguage": "id"}
+#: 18c270192f8581957d6a80bb5cc47fca:5270
 msgid "An Achiever"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "a318cdda3912feab6adc75a967bda9ca"}
+# {"targetlanguage": "id"}
+#: a318cdda3912feab6adc75a967bda9ca:5270
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Think again.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "99afa267b29379fc1340414b162fc4de"}
+# {"targetlanguage": "id"}
+#: 99afa267b29379fc1340414b162fc4de:5270
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">An Explorer</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "bb29be8a6e7cf2c27e7e4e968740ba55"}
+# {"targetlanguage": "id"}
+#: bb29be8a6e7cf2c27e7e4e968740ba55:5270
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">That's Aline!</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "2981e36005b0086829e0d48e8b08bf5f"}
+# {"targetlanguage": "id"}
+#: 2981e36005b0086829e0d48e8b08bf5f:5270
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">A Thinker</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "8a40d63a0bdae06bde600328486ea60a"}
+# {"targetlanguage": "id"}
+#: 8a40d63a0bdae06bde600328486ea60a:5270
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Jon is not a thinker - think "
 "again!</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "e8c9d069d3af4293eaea1a5653a3bdd3"}
-msgid "Go back to the previous page."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "109bab4f5a2c7004bc860be23d213e9c"}
-msgid "Go back to the previous page."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "03d7f1886d37db81647225ae87b36202"}
-msgid "Go back to the previous page."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "5e6966e0d8eaccd47f454dd1450fa261"}
+# {"targetlanguage": "id"}
+#: 5e6966e0d8eaccd47f454dd1450fa261:5270
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">A Philanthropist</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "0edcfec3be658d8ab680b89f3b6b2eca"}
+# {"targetlanguage": "id"}
+#: 0edcfec3be658d8ab680b89f3b6b2eca:5270 bddaae1368c4b6e4443e0ca3e45d9824:5270
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Think again!</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "682a3787db877bbf37dcf5aa7b26f175"}
+# {"targetlanguage": "id"}
+#: 682a3787db877bbf37dcf5aa7b26f175:5270
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">A Socialiser</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5270", "md5key":
-# "bddaae1368c4b6e4443e0ca3e45d9824"}
-msgid "<p dir=\"ltr\" style=\"text-align: left;\">Think again!</p>"
-msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Pikirkan lagi!</p>"
-
-# {"targetlanguage": "id", "contextid": "6432", "md5key":
-# "e79d3e129f30cb4a1dee46120e0c243d"}
+# {"targetlanguage": "id"}
+#: e79d3e129f30cb4a1dee46120e0c243d:6432
 msgid "Does Gamification work?"
-msgstr "Apakah Gamifikasi berfungsi?"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "6432", "md5key":
-# "8a9d47d3d71bd870e4b514f2e68e5547"}
+# {"targetlanguage": "id"}
+#: 8a9d47d3d71bd870e4b514f2e68e5547:6432
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: "
 "left;\">https://www.youtube.com/watch?v=aW96KaAwlD0<br></p><p dir=\"ltr\" "
@@ -713,28 +669,28 @@ msgid ""
 "level</a>. Issues and Trends in Educational Technology.&nbsp;<br></p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5380", "md5key":
-# "2fbbdcc0090a817a442332bc94676799"}
+# {"targetlanguage": "id"}
+#: 2fbbdcc0090a817a442332bc94676799:5380
 msgid "History of Gamification"
-msgstr "Sejarah Gamifikasi"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5555", "md5key":
-# "4c23ae328748165142843091ea89dca2"}
+# {"targetlanguage": "id"}
+#: 4c23ae328748165142843091ea89dca2:5555
 msgid "What kind of \"Doing\" activates you?"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5387", "md5key":
-# "a2b0e5f9bb50628829ee3376083c9ca1"}
+# {"targetlanguage": "id"}
+#: a2b0e5f9bb50628829ee3376083c9ca1:5387
 msgid "Glossary on Gamification"
-msgstr "Glosarium tentang Gamifikasi"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "7000", "md5key":
-# "2bdcc69be3444641a0f9cbfdd5e63f65"}
+# {"targetlanguage": "id"}
+#: 2bdcc69be3444641a0f9cbfdd5e63f65:7000
 msgid "Before starting to gamify"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "7000", "md5key":
-# "599d21252818e02feda5c9cf266f5c9e"}
+# {"targetlanguage": "id"}
+#: 599d21252818e02feda5c9cf266f5c9e:7000
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\"></p><p>On the occasion of this course, \n"
 "Vassilis has published the following articles, under the general title \n"
@@ -743,42 +699,42 @@ msgid ""
 " useful.</p><ol><li><a href=\"https://cpduk.co.uk/news/gamified-education-training-and-the-frameworks-of-ai-ar-vr-and-blockchain-part-i\">Part I: Well-structured e-learning process</a>. We discuss the components of a well-structured e-learning process and the added value of gamification for it.</li><li><a href=\"https://cpduk.co.uk/news/part-2-about-gamified-education-training\">Part II- About gamified education training</a>.&nbsp; We explore the \"WHAT - WHY - HOW\" of a gamified e-learning process.</li></ol><br><p></p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "6431", "md5key":
-# "7d1b437a578251128d5073f7d72186cb"}
+# {"targetlanguage": "id"}
+#: 7d1b437a578251128d5073f7d72186cb:6431
 msgid "6 Steps to help gamify your course"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "6431", "md5key":
-# "18f115ec44a4e80fc457de372ad6c3b0"}
+# {"targetlanguage": "id"}
+#: 18f115ec44a4e80fc457de372ad6c3b0:6431
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: "
 "left;\">https://youtu.be/zmQ8KVmOe8k<br></p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5129", "md5key":
-# "7455a3e48362120cfabfc11f76618f77"}
+# {"targetlanguage": "id"}
+#: 7455a3e48362120cfabfc11f76618f77:5129
 msgid "A true story of students and Zombies!"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5129", "md5key":
-# "1c739b2b161d283e07ba521ff1710311"}
+# {"targetlanguage": "id"}
+#: 1c739b2b161d283e07ba521ff1710311:5129
 msgid ""
 "<div class=\"no-overflow\"><p dir=\"ltr\" style=\"text-align: left;\">A blog"
 " post /case study on gamifying undergraduate teaching.</p></div>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "6bf3c46f856e978f25d4205b47ba05dc"}
+# {"targetlanguage": "id"}
+#: 6bf3c46f856e978f25d4205b47ba05dc:5269
 msgid "Real world examples of gamification"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "bad165b4de012caed273a92c6a65e52a"}
+# {"targetlanguage": "id"}
+#: bad165b4de012caed273a92c6a65e52a:5269
 msgid "Original source"
-msgstr "Sumber asli"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "b9de8f4589cd643cac5ca440034d5f07"}
+# {"targetlanguage": "id"}
+#: b9de8f4589cd643cac5ca440034d5f07:5269
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">These real world examples are "
 "taken from the resource <a href=\"http://dcuh5p.com/gamification/\" "
@@ -787,92 +743,91 @@ msgid ""
 "attribution.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "fce94f0cdec33c6d6b95e4a38d6ed446"}
+# {"targetlanguage": "id"}
+#: fce94f0cdec33c6d6b95e4a38d6ed446:5269
 msgid "Lublin University of Technology"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "09565baeb2d067689555e42809817801"}
+# {"targetlanguage": "id"}
+#: 09565baeb2d067689555e42809817801:5269
 msgid ""
 "<h5>Gamified grading: 3rd year Software Engineering</h5>\n"
 "<p>In addition to three core exams and a project, the class was given five extra assignments which could earn them additional points. Points were subtracted for failed exams. A points leaderboard was visible to all students. Students competed for a pre-defined set of grades with the highest score getting the highest grade, then the next two highest scores receiving half a point less on their grade; the next three, one point less, and so on.</p>\n"
 "<p>The class achieved a higher attendance level, greater participation in additional activities, and improved project completion times, compared with other groups in the same course. However students with lower scores reported being less motivated. (Laskowski, 2015).</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "b78c048ec603357110df519c3d072f52"}
+# {"targetlanguage": "id"}
+#: b78c048ec603357110df519c3d072f52:5269
 msgid "Delft University of Technology"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "d03c24c556c4eb55ee9f142c193c78d8"}
+# {"targetlanguage": "id"}
+#: d03c24c556c4eb55ee9f142c193c78d8:5269
 msgid ""
 "<h5>Gamifying for student types</h5>\n"
 "<p>Gamification was implemented in undergraduate Computer Organization and graduate Cloud Computing courses in response to the growing number of exam failures. Class activities were designed to engage in different ways the student types: explorers, achievers, socializers and winners. The explorers had multiple paths to explore, achievers had different progress options, socializers benefit from participating in teams, and winners compete in challenges presented by laboratory work and in-class discussions. In addition a points-scale was set that requires 10,000 points for a top grade, with tokens are available for unlocking different rewards levels. In addition to these gamification elements, game analytics were deployed to monitor student progress and engagement based on quizzes, and results used to target guidance resources where most necessary.</p>\n"
 "<p>An increase in student participation levels and numbers of students passing exams was observed following this gamification initiative. (Losup and Epema, 2014).</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "71e361ce06578f7603ae51aa71dfaccc"}
-#, fuzzy
+# {"targetlanguage": "id"}
+#: 71e361ce06578f7603ae51aa71dfaccc:5269
 msgid "Tecnológico de Monterrey."
-msgstr "Tecnológico de Monterrey."
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "ecd0b3aa61693d70dad8ad70f75fee06"}
+# {"targetlanguage": "id"}
+#: ecd0b3aa61693d70dad8ad70f75fee06:5269
 msgid ""
 "<h5>Rewards and Teamwork: Machine Design and Development</h5>\n"
 "<p>Four medals were awarded during the course for quality of contribution, fulfilment of assignments, willingness and collaboration, and attendance and punctuality. A listing of awarded medals (represented by icons) was published mid-term, and at the end of the semester. Students achieving all four medals get an outstanding performance certificate attached to their student record. Another strategy deployed were team-based quizzes using the Kahoot! and Socrative apps, with grade points on offer to the top three scorers.</p>\n"
 "<p>Teachers reported that having been a little wary at first, students responded positively as they realised the gamified activities involved some team competition, fun, and the possibility of extra grade points.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "cc40378bfc9614a14500fbd6db90869f"}
+# {"targetlanguage": "id"}
+#: cc40378bfc9614a14500fbd6db90869f:5269
 msgid "University of Michigan"
-msgstr "University of Michigan"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "6af4a113be2df2f2eab0dfdd3869c958"}
+# {"targetlanguage": "id"}
+#: 6af4a113be2df2f2eab0dfdd3869c958:5269
 msgid ""
 "<h5>Freedom of Choice: Undergraduate Program in Informatics</h5>\n"
 "<p>Professor Cliff Lampe has become regarded as a leading innovator in higher level education gamification. He teaches an introductory course to 200 students, and has successfully integrated gamification strategies to engage and expand student’s interest in the course. Perhaps most notably, he has designed a means whereby students have autonomy in how they navigate assignments and assessments. For example, students can choose to complete an assessment by creating an infographic on a particular topic rather than sit a more conventional test. In addition, teamwork and role-play are facilitated though the establishment of ‘guilds’ and his class is supported by teaching assistants who maintain progress scoreboards.</p><p>\n"
 "</p><p>Lampe has received testimonies from his former students pointing out that they have a better recollection of the class experience and the course content compared to others classes. (Weng Mak, 2103)</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "a501fafce49693a0afc861058e4cba24"}
+# {"targetlanguage": "id"}
+#: a501fafce49693a0afc861058e4cba24:5269
 msgid "University of Hawaii"
-msgstr "University of Hawaii"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5269", "md5key":
-# "2e86da74cccf3eee39dc0441262656c6"}
+# {"targetlanguage": "id"}
+#: 2e86da74cccf3eee39dc0441262656c6:5269
 msgid ""
 "<h5>Scenarios and Role-play: Social Psychology (online version)</h5>\n"
 "<p>Professor Alex Nagurney in Hawaii engaged Texas-based instructional designer Patrick Smith to create a series of videos in which he described behavioural problems he was experiencing at his college in Texas, on the pretext that he was looking for help from his friend’s the class in Hawaii.  In fact all the problems were based on experiences in the Hawaii campus, with local ethnic dynamics being transposed and disguised as Texan-Californian tensions. Nagurney arranged students into teams who would propose interventions, following which he cast the students as individual consultants to examine and comment on the various proposals.</p>\n"
 "<p>Aligning this exercise with other game elements such as a rewards system that took into account different student types, Nagurney reports that student participation in online forums increased by 143% following this gamification initiative.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5268", "md5key":
-# "0667db0d8a5b5946139921ed6324cb87"}
+# {"targetlanguage": "id"}
+#: 0667db0d8a5b5946139921ed6324cb87:5268
 msgid "Useful gamification resources collated by Dr Mark Glynn"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2994", "md5key":
-# "e1f45dbf62defe57f69c68622206ab42"}
+# {"targetlanguage": "id"}
+#: e1f45dbf62defe57f69c68622206ab42:2994
 msgid "Gamification: Check your understanding"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2982", "md5key":
-# "406ba888b0c936868aacd43ea4f355f7"}
+# {"targetlanguage": "id"}
+#: 406ba888b0c936868aacd43ea4f355f7:2982
 msgid ""
 "<p style=\"text-align: center;\"><a href=\"https://moodle.academy/course/view.php?id=4\" style=\"font-size: 0.9375rem;\"><img src=\"https://moodle.academy/pluginfile.php/2982/block_html/content/AllIcons_forWebsite-22.png\" style=\"border-width:0\" alt=\"\" width=\"100\" height=\"100\">\n"
 "    </a></p>\n"
 "<p style=\"text-align: center;\">&nbsp;<span style=\"font-size: 0.9375rem;\">&nbsp;<a href=\"https://moodle.academy/course/view.php?id=4\" style=\"font-size: 1rem;\">Get Involved!</a>&nbsp;</span>&nbsp;</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "3872", "md5key":
-# "a7139716b671808bb71a599eea1ae2c4"}
+# {"targetlanguage": "id"}
+#: a7139716b671808bb71a599eea1ae2c4:3872
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: center;\"><em style=\"font-size: 1rem;\"><a href=\"https://moodle.academy/user/view.php?id=183&amp;course=18\"><img src=\"https://moodle.academy/pluginfile.php/543/user/icon/workplace/f1?rev=19989\" class=\"userpicture\"></a></em><br></p>\n"
 "<p dir=\"ltr\" style=\"text-align: center;\"><span><a href=\"https://moodle.academy/user/view.php?id=183&amp;course=18\" style=\"\"><strong>Vasilis Palilis</strong></a><br></span><span style=\"font-size: 1rem;\"><span style=\"\">Director of&nbsp;<a href=\"https://widetraining.gr/\" data-saferedirecturl=\"https://www.google.com/url?q=https://widetraining.gr/&amp;source=gmail&amp;ust=1637828126302000&amp;usg=AOvVaw3gUp-aNKmi4nCnq13l_oUz\" style=\"\">WIDE Training Academy</a>,&nbsp;<a href=\"https://wideservices.gr/en/\" data-saferedirecturl=\"https://www.google.com/url?q=https://wideservices.gr/en/&amp;source=gmail&amp;ust=1637828126302000&amp;usg=AOvVaw2dm0BeY9s1uC1ZKQ3eei1_\" style=\"\">WIDE Services</a>, Premium Moodle Partner in Greece and Cyprus.</span></span></p>\n"
@@ -888,8 +843,8 @@ msgid ""
 "<p></p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2984", "md5key":
-# "0f11a4225351a1eafe59fe58bbd71c76"}
+# {"targetlanguage": "id"}
+#: 0f11a4225351a1eafe59fe58bbd71c76:2984
 msgid ""
 "<p style=\"text-align: center;\">\n"
 "    <a href=\"https://moodle.academy/mod/book/view.php?id=245&amp;chapterid=630\">\n"
@@ -898,16 +853,16 @@ msgid ""
 "<p style=\"text-align: center;\"><a href=\"https://moodle.academy/mod/book/view.php?id=245&amp;chapterid=630\">Licensed under CC BY 4.0</a>.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "5528", "md5key":
-# "33bc3191d38db0f0827b7f32ffa6b315"}
+# {"targetlanguage": "id"}
+#: 33bc3191d38db0f0827b7f32ffa6b315:5528
 msgid ""
 "This course launched in November 2021 and is now based on <a "
 "href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3</a> "
 "functionality."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "e143e1b5c9f48fa37c449fcc3be0c4e4"}
+# {"targetlanguage": "id"}
+#: e143e1b5c9f48fa37c449fcc3be0c4e4:2981
 msgid ""
 "<p>Gamification is often defined as 'the use of game [[1]] and game "
 "techniques in [[2]] game contexts.' Gamification can increase learner [[3]] "
@@ -915,444 +870,337 @@ msgid ""
 "if learners are already [[4]] motivated.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "fc4461e876f48339b00c29f3fed86619"}
+# {"targetlanguage": "id"}
+#: fc4461e876f48339b00c29f3fed86619:2981
 msgid "elements"
-msgstr "elemen"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "8cccaad6593a7e311a744d322d46ba10"}
+# {"targetlanguage": "id"}
+#: 8cccaad6593a7e311a744d322d46ba10:2981 e3c1480cb7ef70dd23d14db1e1f7b10e:2981
+#: 0e8ceacd1ffb49573756627e4d30ae5e:2981 b710174057166b379d9db4cce132da68:2981
+#: b0715a01db040499ff57539abb387177:2981 6a82b5f0353ef177d516bd00213ef916:2981
 msgid "1"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "d77885ccd2196458dcc5530392910640"}
+# {"targetlanguage": "id"}
+#: d77885ccd2196458dcc5530392910640:2981
 msgid "non"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "e3c1480cb7ef70dd23d14db1e1f7b10e"}
-msgid "1"
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "606105ad0232a9da723c8726a063e2d0"}
+# {"targetlanguage": "id"}
+#: 606105ad0232a9da723c8726a063e2d0:2981
 msgid "motivation"
-msgstr "motivasi"
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0e8ceacd1ffb49573756627e4d30ae5e"}
-msgid "1"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "88469895fa6a5c696228e78a3afafd60"}
+# {"targetlanguage": "id"}
+#: 88469895fa6a5c696228e78a3afafd60:2981
 msgid "intrinsically"
-msgstr "secara intrinsik"
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "b710174057166b379d9db4cce132da68"}
-msgid "1"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "db115b9b3347bed1efe772bab3396ae4"}
+# {"targetlanguage": "id"}
+#: db115b9b3347bed1efe772bab3396ae4:2981
 msgid "extrinsically"
-msgstr "secara ekstrinsik"
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "b0715a01db040499ff57539abb387177"}
-msgid "1"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "4ab89bdbfdfc3c48e0acd90942f2ba53"}
+# {"targetlanguage": "id"}
+#: 4ab89bdbfdfc3c48e0acd90942f2ba53:2981
 msgid "challenge"
-msgstr "tantangan"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "6a82b5f0353ef177d516bd00213ef916"}
-msgid "1"
-msgstr "1"
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "a7d4189d52f1848422e88c475458e24c"}
+# {"targetlanguage": "id"}
+#: a7d4189d52f1848422e88c475458e24c:2981
 msgid "Match the Moodle tool to its use in gamification."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "cccfcfc08cb68e99454c5b36fc1db195"}
+# {"targetlanguage": "id"}
+#: cccfcfc08cb68e99454c5b36fc1db195:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Find out more about these tools "
 "in the section How to gamify your Moodle course.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "031245c1f39c3b698effc127843fbadb"}
+# {"targetlanguage": "id"}
+#: 031245c1f39c3b698effc127843fbadb:2981 cf83f77d3840cabf69c0e6710e76a9aa:2981
+#: f94527a5c327c6c75738f3a27be8f53c:2981 298814aa82d17bb53b9801db3ba3c169:2981
+#: 6d6cc66ffb6b0ca31c174e5a8c0c5da8:2981 b4b108dd5674605317b7b9a791755575:2981
+#: e59507e6cb074e6535f11305497d662d:2981 e7baa6ad408b73a6c8719b674651dc70:2981
+#: c254a7f0e2fc0896a733b9d7e633d91b:2981 920a6559462abf601b9a740f21180319:2981
+#: af29ce82d74f1a4d85ac6443b1f3deeb:2981 f2d06f9382c9b17de54269453aa06b40:2981
+#: 5dccb3a9887f9ecdaf43dee8bac6d9f3:2981 64fc65b8b4de8153b7ce92d7b2724d6c:2981
+#: 0d30be071ad55989fae1b2cd8390985f:2981 af03241a4f1c0c9bf50590304837cd39:2981
 msgid "Your answer is correct."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "52ded9a4fcac7e595ad4b4ce052d3cb0"}
+# {"targetlanguage": "id"}
+#: 52ded9a4fcac7e595ad4b4ce052d3cb0:2981 6ecfbdad746be49604a7dcc87b0f478c:2981
+#: a82df3bb81a307fa271a5b55503a51db:2981 8923840bdc58cffb88d63ee52fb31b07:2981
+#: 25b04c6ba7d1bb52dae0a4caeb7531f3:2981 2f681b8cb995e1deff03716a6c97dc5e:2981
+#: c3fcea2ed92151e8201d93674cde800a:2981 15743b09a5e6e2e84f2669dc3320116d:2981
+#: adc56caa71fb64d87e706de0c0dea82e:2981 0c4c43d82a214cde6259fb4beeaf0360:2981
+#: e7f51148c0ade94ae88b6579be96c902:2981 63321c3898a3115dcd9b9f0b0bb7928c:2981
+#: 773a5c1d027a4438e063afeb4b91e38f:2981 b8d4c2c0ddc623ae6a196c6ab6bf7243:2981
+#: 9fe6709af8a4a38ebd9b03deaede8db1:2981 b296f0c14444f11b2517311a7aaa5da1:2981
 msgid "Your answer is partially correct."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "96f8fb94135ba1d3230c85072525c064"}
+# {"targetlanguage": "id"}
+#: 96f8fb94135ba1d3230c85072525c064:2981 c8c7a702c2e9941ae07ab34c2885347f:2981
+#: adff7e56fb97e017cef2dda841c2e8bc:2981 32e6579627345f9bbcc7277d1a5625da:2981
+#: 50c49b080ef1c35078ab1eb6922d57dd:2981 d33a417837d53a65e67b53edd6a791f4:2981
+#: dcc64fc5990c568c99af42f49dba7476:2981 d1f0d6400e0b38b0b1171c368f80ebfc:2981
+#: 83f0b0d7f632c29ba9cffecbe0f21d81:2981 1765161d8f8751f43a393fc24a677495:2981
+#: c66ee13f1d1732213d7d4e08d912d61b:2981 8785c2fc23c5f0384919da6567bb73f8:2981
+#: 8d9275ef6abe3d84ab117a5428459f28:2981 6ad05c5346b3a5359add4bac8b03df07:2981
+#: b89f43b06a318bfa8f0b976daaf746b5:2981 53185b299e77a8a9997cc0e645a743ba:2981
 msgid "Your answer is incorrect."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "be1a78ff080b9af5dd2c41b2952a8f3a"}
+# {"targetlanguage": "id"}
+#: be1a78ff080b9af5dd2c41b2952a8f3a:2981
 msgid "Match the student participation types to their descriptions."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "cf83f77d3840cabf69c0e6710e76a9aa"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "6ecfbdad746be49604a7dcc87b0f478c"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "c8c7a702c2e9941ae07ab34c2885347f"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "68d0af1e41f42d9907c7fc4758c1858e"}
+# {"targetlanguage": "id"}
+#: 68d0af1e41f42d9907c7fc4758c1858e:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">According to research by Hanus "
 "and Fox.. (Select all true statements)</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "76eb89be27b749056ba6597daec9a5f3"}
+# {"targetlanguage": "id"}
+#: 76eb89be27b749056ba6597daec9a5f3:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Look at the report highlights for"
 " more information.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "f94527a5c327c6c75738f3a27be8f53c"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "a82df3bb81a307fa271a5b55503a51db"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "adff7e56fb97e017cef2dda841c2e8bc"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "d834ba60178225bd7cf351ac8f05bddb"}
+# {"targetlanguage": "id"}
+#: d834ba60178225bd7cf351ac8f05bddb:2981
 msgid "Gamified systems strongly featuring rewards may have negative effects"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "011cb01a56cec4351a63fb2d0d3dc103"}
+# {"targetlanguage": "id"}
+#: 011cb01a56cec4351a63fb2d0d3dc103:2981
 msgid ""
 "Over time, gamified students were less motivated, empowered, and satisfied."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "51344e3c7929217789e06fd8e206f710"}
+# {"targetlanguage": "id"}
+#: 51344e3c7929217789e06fd8e206f710:2981
 msgid "71 students surveyed were very negative about gamification"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "c0b0b9346f5c55877d214f87c7e69d8a"}
+# {"targetlanguage": "id"}
+#: c0b0b9346f5c55877d214f87c7e69d8a:2981
 msgid "The research does not tell us this, so we cannot assume it."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "c6f91933c9730546bfc124e363832d66"}
+# {"targetlanguage": "id"}
+#: c6f91933c9730546bfc124e363832d66:2981
 msgid ""
 "A gamified course negatively affected final exam grades through extrinsic "
 "motivation."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "8bb1b5214dc5da1100a96ac0922f932f"}
+# {"targetlanguage": "id"}
+#: 8bb1b5214dc5da1100a96ac0922f932f:2981
 msgid "Please look again at the report highlights."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "6093600d3dd67af85cbb3486a5b37436"}
+# {"targetlanguage": "id"}
+#: 6093600d3dd67af85cbb3486a5b37436:2981
 msgid ""
 "According to the University of Hawaii, student participation in online "
 "forums increased by how much when gamification was implemented?"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "d636c652c467f27a6588948a261b9ff2"}
+# {"targetlanguage": "id"}
+#: d636c652c467f27a6588948a261b9ff2:2981
 msgid ""
 "The information is available in the section on Gamification case studies."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "298814aa82d17bb53b9801db3ba3c169"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "8923840bdc58cffb88d63ee52fb31b07"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "32e6579627345f9bbcc7277d1a5625da"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "2589cdd0a527d00a4cd2aea00f40453a"}
+# {"targetlanguage": "id"}
+#: 2589cdd0a527d00a4cd2aea00f40453a:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">50%</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "fa11219ecf6f92b12087cadc863e18b0"}
+# {"targetlanguage": "id"}
+#: fa11219ecf6f92b12087cadc863e18b0:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">143%</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "6bb447e3548aca5b6f21137272b42a43"}
+# {"targetlanguage": "id"}
+#: 6bb447e3548aca5b6f21137272b42a43:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">116%</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "c9a5215a48963fe7626771280289414c"}
+# {"targetlanguage": "id"}
+#: c9a5215a48963fe7626771280289414c:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">134%</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "56dd04159ea21308102d89e5ea77374a"}
+# {"targetlanguage": "id"}
+#: 56dd04159ea21308102d89e5ea77374a:2981
 msgid "In student participation types, what are disruptors?"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "6d6cc66ffb6b0ca31c174e5a8c0c5da8"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "25b04c6ba7d1bb52dae0a4caeb7531f3"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "50c49b080ef1c35078ab1eb6922d57dd"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "01d4c68ef9fce2ce407e89701da140c2"}
+# {"targetlanguage": "id"}
+#: 01d4c68ef9fce2ce407e89701da140c2:2981
 msgid "They like to try out different strategies."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "fbb492ee6050a63e8eecf75027ee54fd"}
+# {"targetlanguage": "id"}
+#: fbb492ee6050a63e8eecf75027ee54fd:2981
 msgid "They feel successful when they have good relationships."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "7550a798a04f1e6c80f3f6e3e2cf0079"}
+# {"targetlanguage": "id"}
+#: 7550a798a04f1e6c80f3f6e3e2cf0079:2981
 msgid ""
 "They are more interested in solving problems than in the gamified course."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "f67898cfb1cc350fdbb872d833a3b037"}
+# {"targetlanguage": "id"}
+#: f67898cfb1cc350fdbb872d833a3b037:2981
 msgid "They will try to break your course."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "94fbac9918d7d9b9647abcaa132439e4"}
+# {"targetlanguage": "id"}
+#: 94fbac9918d7d9b9647abcaa132439e4:2981
 msgid ""
 "Which of the following definitions is the popular definition of "
 "gamification?"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "b4b108dd5674605317b7b9a791755575"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "2f681b8cb995e1deff03716a6c97dc5e"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "d33a417837d53a65e67b53edd6a791f4"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "b89580d8118b058aed0758ff548f1ffc"}
+# {"targetlanguage": "id"}
+#: b89580d8118b058aed0758ff548f1ffc:2981
 msgid "The use of game elements and game techniques in non -game contexts."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "f3163c4c88af0b447d157c19769c96e8"}
+# {"targetlanguage": "id"}
+#: f3163c4c88af0b447d157c19769c96e8:2981
 msgid "The use of game-based learning in non-educational contexts"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "a9ed8f5f00497f0367065a0f8bff9c6e"}
+# {"targetlanguage": "id"}
+#: a9ed8f5f00497f0367065a0f8bff9c6e:2981
 msgid "The use of game and game design in a learning environment.<br>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "ce5f83568a0f1218d74e3a83066b8836"}
+# {"targetlanguage": "id"}
+#: ce5f83568a0f1218d74e3a83066b8836:2981
 msgid "The use of games in non-game contexts."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "2b69d9bc0258d7f2da67d1ce5bc37258"}
+# {"targetlanguage": "id"}
+#: 2b69d9bc0258d7f2da67d1ce5bc37258:2981 18fd270ea087d2b3b42058f7262fb03c:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\"><br></p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0a316a6a15ae3c5cc8b32414fcaac633"}
+# {"targetlanguage": "id"}
+#: 0a316a6a15ae3c5cc8b32414fcaac633:2981
 msgid ""
 "Joost wants to add a competitive element to his course. His learners are "
 "happy to be put into teams but they don't want to be individually "
 "identified. What strategy could he use?"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "e59507e6cb074e6535f11305497d662d"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "c3fcea2ed92151e8201d93674cde800a"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "dcc64fc5990c568c99af42f49dba7476"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "bef00acd49815fa8474fe492822ff854"}
+# {"targetlanguage": "id"}
+#: bef00acd49815fa8474fe492822ff854:2981
 msgid ""
 "He could add an Activity results block and set it to display group results."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "30de010c0b555112a3313972317794aa"}
+# {"targetlanguage": "id"}
+#: 30de010c0b555112a3313972317794aa:2981
 msgid ""
 "This would work as the group names would display but not the individual "
 "members."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "ed30be0c157e551ec2282d3ce44282f5"}
+# {"targetlanguage": "id"}
+#: ed30be0c157e551ec2282d3ce44282f5:2981
 msgid ""
 "He could create a Forum in separate groups for the learners to post in."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "9ab8f4f09368b89a638a9512cc552ada"}
+# {"targetlanguage": "id"}
+#: 9ab8f4f09368b89a638a9512cc552ada:2981
 msgid ""
 "There is no competitive element here, as learners in separate groups would "
 "not be able to see each other."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "e650a408f0dc7e4ed48f83b00320e70d"}
+# {"targetlanguage": "id"}
+#: e650a408f0dc7e4ed48f83b00320e70d:2981
 msgid ""
 "He could set up a Workshop activity in groups and the groups submit together"
 " as a team."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "f4a4bba6e096a01f08105b316660ab85"}
+# {"targetlanguage": "id"}
+#: f4a4bba6e096a01f08105b316660ab85:2981
 msgid ""
 "Unfortunately it is not possible with a Workshop activity for groups to "
 "submit together as a team."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "1cccb9fc289984663c5486301de0992b"}
+# {"targetlanguage": "id"}
+#: 1cccb9fc289984663c5486301de0992b:2981
 msgid "He could set up a Group Choice activity for learners to choose a team."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "5ca6162139f43eaa065b8397b968bbf4"}
+# {"targetlanguage": "id"}
+#: 5ca6162139f43eaa065b8397b968bbf4:2981
 msgid ""
 "He could do this at the start of the course, but this does not necessarily "
 "add a competitive element."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "cb25aac6bb6b874e51c1fb4df6a718a7"}
+# {"targetlanguage": "id"}
+#: cb25aac6bb6b874e51c1fb4df6a718a7:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Lublin University of Technology "
 "gamified grading in their Software Engineering course and included a "
 "Leaderboard. What can we learn from their experience?</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "e7baa6ad408b73a6c8719b674651dc70"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "15743b09a5e6e2e84f2669dc3320116d"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "d1f0d6400e0b38b0b1171c368f80ebfc"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "736ea14bb3ab2913519b6ea61ae70e24"}
+# {"targetlanguage": "id"}
+#: 736ea14bb3ab2913519b6ea61ae70e24:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">More students attended class and "
 "the motivation of all students increased.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0724e47b07f5b97271671bde6b512d65"}
+# {"targetlanguage": "id"}
+#: 0724e47b07f5b97271671bde6b512d65:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">More students participated but "
 "not all students became more motivated.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "6579fba379321dffe05195e308322d31"}
+# {"targetlanguage": "id"}
+#: 6579fba379321dffe05195e308322d31:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Those students who had lower "
 "scores were inspired to participate more.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "cddbf4c93d1ec7b5585dc79d2eb27271"}
+# {"targetlanguage": "id"}
+#: cddbf4c93d1ec7b5585dc79d2eb27271:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Those students who had higher "
 "scores were motivated to help those with lower scores.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "17b96a2c17040a3027b2f8f67225f76b"}
+# {"targetlanguage": "id"}
+#: 17b96a2c17040a3027b2f8f67225f76b:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">We don't know that.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "2d8bbe2c25c3d90dea33c556598fae96"}
+# {"targetlanguage": "id"}
+#: 2d8bbe2c25c3d90dea33c556598fae96:2981
 msgid ""
 "<p>Marlene runs a training business and sells online courses. Her manager "
 "wants her to improve sales and reputation. As Moodle admin, she organises "
@@ -1362,169 +1210,119 @@ msgid ""
 " used gamification? </p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "232c170d5d8bb33754f8f3655417d533"}
+# {"targetlanguage": "id"}
+#: 232c170d5d8bb33754f8f3655417d533:2981
 msgid "<p>Look at 'Happy hour' in the Background to gamification section.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "c254a7f0e2fc0896a733b9d7e633d91b"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "adc56caa71fb64d87e706de0c0dea82e"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "83f0b0d7f632c29ba9cffecbe0f21d81"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "44c2e11edf3f8d46b151d1afb20099ca"}
+# {"targetlanguage": "id"}
+#: 44c2e11edf3f8d46b151d1afb20099ca:2981
 msgid ""
 "Yes! Clients are motivated to sign up because of the promise of a (free) "
 "reward."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "b2c265f6e51cf744d1e569d1471b01fb"}
+# {"targetlanguage": "id"}
+#: b2c265f6e51cf744d1e569d1471b01fb:2981
 msgid ""
 "No! Gamification only applies once clients are inside a course, not before "
 "they join."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "e5a3632aed9c433707eb74f1513f2d56"}
+# {"targetlanguage": "id"}
+#: e5a3632aed9c433707eb74f1513f2d56:2981
 msgid ""
 "Possibly! It depends on how she has set up the activities in her course."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "26661d7a63a4e83223baf4741cac4003"}
+# {"targetlanguage": "id"}
+#: 26661d7a63a4e83223baf4741cac4003:2981
 msgid ""
 "<p>Olga is running an online course for a group of lawyers who need specialised training in a new software product. They are experienced professionals, independent learners comfortable with online training and are very keen to understand the new software. Olga gamifies the course by awarding badges for profile completion, assignment submission and viewing the suggested URLs.</p>\n"
 "<p>Despite a positive start, the lawyers very quickly lose interest in Olga's training. Why do you think this is? You may choose more than one reason. </p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "20360df449dd0487c0c8566bfbaa66cc"}
+# {"targetlanguage": "id"}
+#: 20360df449dd0487c0c8566bfbaa66cc:2981
 msgid "For more information, explore the section What is gamification?"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "920a6559462abf601b9a740f21180319"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0c4c43d82a214cde6259fb4beeaf0360"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "1765161d8f8751f43a393fc24a677495"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "25087cd85d8f24caf8a59aeef6a3afe6"}
+# {"targetlanguage": "id"}
+#: 25087cd85d8f24caf8a59aeef6a3afe6:2981
 msgid "They feel insulted by being awarded badges for such simple actions."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "c8a063b55e1b774ff4545e4083324197"}
+# {"targetlanguage": "id"}
+#: c8a063b55e1b774ff4545e4083324197:2981
 msgid ""
 "As intrinsically motivated learners, they didn't need or want gamification."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0e39598fad45b192a1c0068c1ada10e5"}
+# {"targetlanguage": "id"}
+#: 0e39598fad45b192a1c0068c1ada10e5:2981
 msgid "They are too old for gamification"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "51dfe34f27288f0b0f9e9ceee154d6f3"}
+# {"targetlanguage": "id"}
+#: 51dfe34f27288f0b0f9e9ceee154d6f3:2981
 msgid ""
 "Nobody is too old for gamification! We cannot be sure this is the case with "
 "Olga's group of lawyers."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "8c984ebfdfb11e78b3c8b52277b4b57a"}
+# {"targetlanguage": "id"}
+#: 8c984ebfdfb11e78b3c8b52277b4b57a:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Olga did not include enough "
 "gamification activities to maintain the lawyers' interest.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "18fd270ea087d2b3b42058f7262fb03c"}
-msgid "<p dir=\"ltr\" style=\"text-align: left;\"><br></p>"
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "936ddf4dfb342c11290d4cd5cb48f472"}
+# {"targetlanguage": "id"}
+#: 936ddf4dfb342c11290d4cd5cb48f472:2981
 msgid ""
 "Which of the following gamification tools are available in a standard Moodle"
 " site (ie, they are *not* contributed plugins?) Select all that apply."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "af29ce82d74f1a4d85ac6443b1f3deeb"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "e7f51148c0ade94ae88b6579be96c902"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "c66ee13f1d1732213d7d4e08d912d61b"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "463e3246b9fedb469aa0670b0b7285bd"}
+# {"targetlanguage": "id"}
+#: 463e3246b9fedb469aa0670b0b7285bd:2981
 msgid "Group choice"
-msgstr "Pilihan kelompok"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "f3d7aa8ca548306f744c0eb3622b1f3e"}
+# {"targetlanguage": "id"}
+#: f3d7aa8ca548306f744c0eb3622b1f3e:2981
 msgid "Choice is standard but Group choice is a plugin."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "5f62c06d7254a74b62aca363c28002cb"}
+# {"targetlanguage": "id"}
+#: 5f62c06d7254a74b62aca363c28002cb:2981
 msgid "Badges"
-msgstr "Lencana"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "e26faa7b4d38d320e4cde4ee49d5cd01"}
+# {"targetlanguage": "id"}
+#: e26faa7b4d38d320e4cde4ee49d5cd01:2981
 msgid "Activity results block"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "e280787c08dd3771288c31f4a73cbb39"}
+# {"targetlanguage": "id"}
+#: e280787c08dd3771288c31f4a73cbb39:2981
 msgid "Experience (XP) points"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "266b9718fd9715c17488b7763ac8e9d8"}
+# {"targetlanguage": "id"}
+#: 266b9718fd9715c17488b7763ac8e9d8:2981
 msgid "This is a contributed block"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0d911bea3261a5872f7693dbdb430b87"}
+# {"targetlanguage": "id"}
+#: 0d911bea3261a5872f7693dbdb430b87:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">When gamifying your course, which"
 " of the following should be your first step?</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "45529c7fdad87dc8e5fc33b826c7aff4"}
+# {"targetlanguage": "id"}
+#: 45529c7fdad87dc8e5fc33b826c7aff4:2981
 msgid ""
 "It is important to plan out a gamified course just as you would plan out a "
 "traditional course. It does not have to be a detailed plan but should "
@@ -1533,365 +1331,290 @@ msgid ""
 "href=\"https://youtu.be/zmQ8KVmOe8k\">https://youtu.be/zmQ8KVmOe8k</a><br>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "f2d06f9382c9b17de54269453aa06b40"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "63321c3898a3115dcd9b9f0b0bb7928c"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "8785c2fc23c5f0384919da6567bb73f8"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "d57b142283c5c3d71874cb0c6bc27586"}
+# {"targetlanguage": "id"}
+#: d57b142283c5c3d71874cb0c6bc27586:2981
 msgid "Identify the objectives, the goal of the gamification project."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "95b522e2767a82768c87ee0af6198568"}
+# {"targetlanguage": "id"}
+#: 95b522e2767a82768c87ee0af6198568:2981
 msgid ""
 "Check your Moodle version, to ensure you have the appropriate gamification "
 "features."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "21acd28148a50e3b301e40a9af55acb8"}
+# {"targetlanguage": "id"}
+#: 21acd28148a50e3b301e40a9af55acb8:2981
 msgid "Design your rewards such as badges."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "e12308fe4e53f732dd84ee8ac99fe2b8"}
+# {"targetlanguage": "id"}
+#: e12308fe4e53f732dd84ee8ac99fe2b8:2981
 msgid "Plan the final summative assessment."
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "f89bdf043f6b9ed3f4ec2fa9b4a0bcac"}
+# {"targetlanguage": "id"}
+#: f89bdf043f6b9ed3f4ec2fa9b4a0bcac:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Match the terms to their "
 "definitions.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "ac521daa2154aae70164b535ed8d19d3"}
+# {"targetlanguage": "id"}
+#: ac521daa2154aae70164b535ed8d19d3:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">It is important to understand "
 "what motivates your learners before you design your gamified Moodle "
 "course.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "5dccb3a9887f9ecdaf43dee8bac6d9f3"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "773a5c1d027a4438e063afeb4b91e38f"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "8d9275ef6abe3d84ab117a5428459f28"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "b892ce9b43fbeb72e6269fc5101a09fd"}
+# {"targetlanguage": "id"}
+#: b892ce9b43fbeb72e6269fc5101a09fd:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Which of the following are "
 "examples of gamification? You may select more than one.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "578ef6d61db7567d8f38375e12498103"}
+# {"targetlanguage": "id"}
+#: 578ef6d61db7567d8f38375e12498103:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Gamification is widely used in "
 "many contexts. Can you spot it in your everyday life?</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "64fc65b8b4de8153b7ce92d7b2724d6c"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "b8d4c2c0ddc623ae6a196c6ab6bf7243"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "6ad05c5346b3a5359add4bac8b03df07"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "f24432add767f0e0b81aea39e39e050e"}
+# {"targetlanguage": "id"}
+#: f24432add767f0e0b81aea39e39e050e:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">\"Buy one, get one free!\"</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "a351a8a94da6f7a6b223bc159a91f463"}
+# {"targetlanguage": "id"}
+#: a351a8a94da6f7a6b223bc159a91f463:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">A very early example!</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "60ae3c1ee46bf6c4ff862e92b6566496"}
+# {"targetlanguage": "id"}
+#: 60ae3c1ee46bf6c4ff862e92b6566496:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">\"Happy hour at the bar\"</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "c113ee82a2f5c3932672e7d764b111ee"}
+# {"targetlanguage": "id"}
+#: c113ee82a2f5c3932672e7d764b111ee:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">And it works, doesn't it?</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "6d54239cff2db7d70fb273e241546524"}
+# {"targetlanguage": "id"}
+#: 6d54239cff2db7d70fb273e241546524:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">\"Points win prizes!\"</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0b9725b3efa3923872270aa475a2c071"}
+# {"targetlanguage": "id"}
+#: 0b9725b3efa3923872270aa475a2c071:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">An example which works both in an"
 " educational and business context. Think of store loyalty cards.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "780baf3d58f3fd166d92dc41bf41834b"}
+# {"targetlanguage": "id"}
+#: 780baf3d58f3fd166d92dc41bf41834b:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Classroom league table</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "6d6487a998ec5ad3b62f1b0f0593eccf"}
+# {"targetlanguage": "id"}
+#: 6d6487a998ec5ad3b62f1b0f0593eccf:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">This can be very powerful -but "
 "you have to be sure your students will respond positively.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "a6932b3d2b4032b8fa563d2b88684a1b"}
+# {"targetlanguage": "id"}
+#: a6932b3d2b4032b8fa563d2b88684a1b:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">For how long have teachers been "
 "gamifying learning?</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "25ab02902935c02f904558181650f5e7"}
+# {"targetlanguage": "id"}
+#: 25ab02902935c02f904558181650f5e7:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Adding an element of competition "
 "or fun to learning is nothing new, even though the internet is relatively "
 "modern.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0d30be071ad55989fae1b2cd8390985f"}
-msgid "Your answer is correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "9fe6709af8a4a38ebd9b03deaede8db1"}
-msgid "Your answer is partially correct."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "b89f43b06a318bfa8f0b976daaf746b5"}
-msgid "Your answer is incorrect."
-msgstr ""
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "a9051f274d118811e1f4990b5c7ec32a"}
+# {"targetlanguage": "id"}
+#: a9051f274d118811e1f4990b5c7ec32a:2981
 msgid "For about five years"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "8f0062c81957bb675334129b6bdd1356"}
+# {"targetlanguage": "id"}
+#: 8f0062c81957bb675334129b6bdd1356:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">For between five and ten years</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "9f99e4635a4e898b81e52ce8ff4b19c6"}
+# {"targetlanguage": "id"}
+#: 9f99e4635a4e898b81e52ce8ff4b19c6:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">For between ten and fifteen "
 "years</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "4988548350059bdd9b3fb457d1d8faca"}
+# {"targetlanguage": "id"}
+#: 4988548350059bdd9b3fb457d1d8faca:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">For a very long time</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "15fcee409891ed96282d23ce160f0bf5"}
+# {"targetlanguage": "id"}
+#: 15fcee409891ed96282d23ce160f0bf5:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Which of the following statements"
 " about gamification are true? You may select more than one.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "b3bd58910180716a930755aef1bb22b9"}
+# {"targetlanguage": "id"}
+#: b3bd58910180716a930755aef1bb22b9:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">There are many aspects to "
 "gamification. Watch the webinar and work through the activities to find out "
 "more.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0baeff35b0ab9bca4af351096199fe7c"}
+# {"targetlanguage": "id"}
+#: 0baeff35b0ab9bca4af351096199fe7c:2981
 msgid "<p>Your answer is correct.</p>"
-msgstr "<p>Jawaban Anda benar.</p>"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "ae69b7ab5f5c9164deb1c829e44b7445"}
+# {"targetlanguage": "id"}
+#: ae69b7ab5f5c9164deb1c829e44b7445:2981
 msgid "<p>Your answer is partially correct.</p>"
-msgstr "<p>Jawaban Anda benar sebagian.</p>"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "3bbd7a7ad6494909c193ffbc0c6fd085"}
+# {"targetlanguage": "id"}
+#: 3bbd7a7ad6494909c193ffbc0c6fd085:2981
 msgid "<p>Your answer is incorrect.</p>"
-msgstr "<p>Jawaban Anda salah.</p>"
+msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "087e33b60cc37fd0fd3539eec5d8afb7"}
+# {"targetlanguage": "id"}
+#: 087e33b60cc37fd0fd3539eec5d8afb7:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Gamified courses only work when "
 "the course has a group of learners.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0b722c09bfc75002dfa72246f248ff59"}
+# {"targetlanguage": "id"}
+#: 0b722c09bfc75002dfa72246f248ff59:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Actually you can enjoy a gamified"
 " course as an individual learner.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "61f48c3de3071b5812a082f6b603aba7"}
+# {"targetlanguage": "id"}
+#: 61f48c3de3071b5812a082f6b603aba7:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Gamified courses work for all "
 "kinds of learners.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0494eab63d16c6c93d62afcf77bfdcf8"}
+# {"targetlanguage": "id"}
+#: 0494eab63d16c6c93d62afcf77bfdcf8:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">It might not suit some learners. "
 "Know your learners!</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0bcc9451443184ddd1d9ffffc628c97e"}
+# {"targetlanguage": "id"}
+#: 0bcc9451443184ddd1d9ffffc628c97e:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Gamified courses must always "
 "include a game.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "1e62f845d38f0238818738d5bfdd604a"}
+# {"targetlanguage": "id"}
+#: 1e62f845d38f0238818738d5bfdd604a:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Gamification does not mean "
 "playing games.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "dc2fe41cbfb70eed02128fe78e73bde5"}
+# {"targetlanguage": "id"}
+#: dc2fe41cbfb70eed02128fe78e73bde5:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Gamified courses can have regular"
 " small rewards.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "6c3e753a01b408c93d053bfd730991ea"}
+# {"targetlanguage": "id"}
+#: 6c3e753a01b408c93d053bfd730991ea:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Regular small rewards can "
 "increase motivation.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "f7033723173f9e0769bc91282883052e"}
+# {"targetlanguage": "id"}
+#: f7033723173f9e0769bc91282883052e:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Gamified courses do not need any "
 "extra Moodle plugins.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "dc816261788905316fcb9322146aaad8"}
+# {"targetlanguage": "id"}
+#: dc816261788905316fcb9322146aaad8:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">You can gamify a Moodle course "
 "using standard features.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "0ad6039310421acf9d091e2daeea86fe"}
+# {"targetlanguage": "id"}
+#: 0ad6039310421acf9d091e2daeea86fe:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">In which of these spheres could "
 "you use gamification? You may select more than one.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "af03241a4f1c0c9bf50590304837cd39"}
-msgid "Your answer is correct."
-msgstr "Jawaban Anda benar."
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "b296f0c14444f11b2517311a7aaa5da1"}
-msgid "Your answer is partially correct."
-msgstr "Jawaban Anda sebagian benar."
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "53185b299e77a8a9997cc0e645a743ba"}
-msgid "Your answer is incorrect."
-msgstr "Jawaban Anda salah."
-
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "85a5e881fcd199c3131a40836457ebac"}
+# {"targetlanguage": "id"}
+#: 85a5e881fcd199c3131a40836457ebac:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">General education</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "18397dd9688a6aa2053e4779e98d65da"}
+# {"targetlanguage": "id"}
+#: 18397dd9688a6aa2053e4779e98d65da:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Hopefully you selected this "
 "one!</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "ebfeb48fc09bf365faf5cf8aa3def5cc"}
+# {"targetlanguage": "id"}
+#: ebfeb48fc09bf365faf5cf8aa3def5cc:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Marketing</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "e92ee0754ed9ca165d6fa47fc0e61c4e"}
+# {"targetlanguage": "id"}
+#: e92ee0754ed9ca165d6fa47fc0e61c4e:2981
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">\"Buy one, get one free\"</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "ac9c65754d5e6d3e0c6339dbdd22fc8b"}
+# {"targetlanguage": "id"}
+#: ac9c65754d5e6d3e0c6339dbdd22fc8b:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Continuous Professional "
 "Development</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "800bef0b00b4d004cd2cdff7d3584cd7"}
+# {"targetlanguage": "id"}
+#: 800bef0b00b4d004cd2cdff7d3584cd7:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Learn more in our webinar and "
 "course activities.</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "42357f73ef132e06de2bbf484e6fb53d"}
+# {"targetlanguage": "id"}
+#: 42357f73ef132e06de2bbf484e6fb53d:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Onboarding (Induction) of new "
 "team members</p>"
 msgstr ""
 
-# {"targetlanguage": "id", "contextid": "2981", "md5key":
-# "a36977fcb2f10320c8356587eaf8df47"}
+# {"targetlanguage": "id"}
+#: a36977fcb2f10320c8356587eaf8df47:2981
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">This might help them feel more "
 "comfortable as they join your organisation.</p>"
