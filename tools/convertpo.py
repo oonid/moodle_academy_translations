@@ -8,6 +8,12 @@ from sys import exit
 from json import dumps, loads
 from polib import POFile, POEntry, pofile
 
+def search_entry_in_po(entry, po):
+    for _entry in po:
+        if _entry.msgid == entry.msgid:
+            return _entry
+    return None  # not found at po
+
 parser = ArgumentParser()
 parser.add_argument("src")
 parser.add_argument("dst")
@@ -64,16 +70,31 @@ if _to_po:  # from import/export csv file to po format
  
             json_comment = {
                 'targetlanguage': row['targetlanguage'],
-                'contextid': row['contextid'],
-                'md5key': row['md5key'],
             }
             entry = POEntry(
                 msgid=row['rawtext'],
                 msgstr=row['substitutetext'],
-            #    occurrences=[(row['contextid'], ''), (row['md5key'], '')],
+                occurrences=[(row['md5key'], row['contextid'])],
                 tcomment=dumps(json_comment)
             )
-            po.append(entry)
+
+            existing_entry = search_entry_in_po(entry=entry, po=po)
+            if existing_entry:
+
+                # rework entry with the found one
+                existing_occurrences = existing_entry.occurrences
+                if existing_occurrences:  # not None, not []
+                    # using field md5key as "filename" in occurrences
+                    # using field contextid as "rownumber" in occurrences
+                    existing_occurrences.append((row['md5key'], row['contextid']))
+                else:  # no occurrences, initiate one
+                    existing_occurrences = [(row['md5key'], row['contextid'])]
+
+                # adjust existing_entry with new occurrences
+                existing_entry.occurrences = existing_occurrences
+
+            else:  # entry not found in po, got None
+                po.append(entry)
 
         po.save(target_dst)
 
@@ -84,15 +105,15 @@ else:  # from po format to import/export csv file
         writer_dst.writeheader()
  
         po = pofile(target_src)
-        for entry in po:
-            json_comment = loads(entry.tcomment)
-            row = {}
-            for k in headers_upload:
-                if k == 'rawtext':
-                    row[k] = entry.msgid
-                elif k == 'substitutetext':
-                    row[k] = entry.msgstr
-                else:
-                    row[k] = json_comment[k]
-            writer_dst.writerow(row)
+        for _entry in po:
+            json_comment = loads(_entry.tcomment)
+            # multiple rows defined by occurrences
+            for (md5key, contextid) in _entry.occurrences:
+                writer_dst.writerow({
+                    'rawtext': _entry.msgid,
+                    'substitutetext': _entry.msgstr,
+                    'targetlanguage': json_comment['targetlanguage'],
+                    'md5key': md5key,
+                    'contextid': contextid,
+                })
 
