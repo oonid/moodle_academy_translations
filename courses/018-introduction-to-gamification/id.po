@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-21 09:46+0000\n"
+"Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
+"Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
+"018-introduction-to-gamification/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 # {"targetlanguage": "id"}
 #: cf581b5e96cfaaa52d86c01965aa043e:2981
@@ -929,7 +936,7 @@ msgstr ""
 #: 5dccb3a9887f9ecdaf43dee8bac6d9f3:2981 64fc65b8b4de8153b7ce92d7b2724d6c:2981
 #: 0d30be071ad55989fae1b2cd8390985f:2981 af03241a4f1c0c9bf50590304837cd39:2981
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id"}
 #: 52ded9a4fcac7e595ad4b4ce052d3cb0:2981 6ecfbdad746be49604a7dcc87b0f478c:2981
@@ -941,7 +948,7 @@ msgstr ""
 #: 773a5c1d027a4438e063afeb4b91e38f:2981 b8d4c2c0ddc623ae6a196c6ab6bf7243:2981
 #: 9fe6709af8a4a38ebd9b03deaede8db1:2981 b296f0c14444f11b2517311a7aaa5da1:2981
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id"}
 #: 96f8fb94135ba1d3230c85072525c064:2981 c8c7a702c2e9941ae07ab34c2885347f:2981
@@ -953,7 +960,7 @@ msgstr ""
 #: 8d9275ef6abe3d84ab117a5428459f28:2981 6ad05c5346b3a5359add4bac8b03df07:2981
 #: b89f43b06a318bfa8f0b976daaf746b5:2981 53185b299e77a8a9997cc0e645a743ba:2981
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id"}
 #: be1a78ff080b9af5dd2c41b2952a8f3a:2981
@@ -1481,17 +1488,17 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 0baeff35b0ab9bca4af351096199fe7c:2981
 msgid "<p>Your answer is correct.</p>"
-msgstr ""
+msgstr "<p>Jawaban Anda benar.</p>"
 
 # {"targetlanguage": "id"}
 #: ae69b7ab5f5c9164deb1c829e44b7445:2981
 msgid "<p>Your answer is partially correct.</p>"
-msgstr ""
+msgstr "<p>Jawaban Anda benar sebagian.</p>"
 
 # {"targetlanguage": "id"}
 #: 3bbd7a7ad6494909c193ffbc0c6fd085:2981
 msgid "<p>Your answer is incorrect.</p>"
-msgstr ""
+msgstr "<p>Jawaban Anda salah.</p>"
 
 # {"targetlanguage": "id"}
 #: 087e33b60cc37fd0fd3539eec5d8afb7:2981
