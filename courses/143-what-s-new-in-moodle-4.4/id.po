@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-19 13:22+0000\n"
+"PO-Revision-Date: 2024-06-21 09:36+0000\n"
 "Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
 "Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
 "143-what-s-new-in-moodle-4-4/id/>\n"
