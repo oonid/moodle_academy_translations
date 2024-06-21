@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-22 11:29+0000\n"
+"Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
+"Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
+"035-moodle-course-content/id/>\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 # {"targetlanguage": "id"}
 #: e8b057fb5a308c2724d56d39cd2b88ee:5838
@@ -14,6 +21,12 @@ msgid ""
 "dir=\"ltr\" style=\"text-align: left;\"></p><p>This course relates to the "
 "following competence(s):</p><p>3.1 Teaching</p><br><p></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Temukan cara terbaik untuk "
+"menampilkan materi pengajaran dan melacak kemajuan peserta didik dengan "
+"kursus mandiri dan gratis ini,&nbsp; bagian dari program Dasar-Dasar "
+"Pengajaran dengan Moodle.<br></p><p dir=\"ltr\" style=\"text-align: left;\""
+"></p><p>Kursus ini berkaitan dengan kompetensi berikut :</p><p>3.1 "
+"Mengajar</p><br><p></p>"
 
 # {"targetlanguage": "id"}
 #: 18295d5af6067056c68e9d427c178565:5838
@@ -22,6 +35,14 @@ msgid ""
 "<h5>Please note</h5>\n"
 "To get maximum benefit, we strongly advise you take the course <a href=\"https://moodle.academy/course/view.php?id=34\">Start teaching with Moodle</a> before taking this course, and then complete the <a href=\"https://moodle.academy/course/view.php?id=57\">Moodle Teaching Basics Program.</a>"
 msgstr ""
+"<p>Kursus tingkat pemula&nbsp; ini membahas cara terbaik untuk menampilkan "
+"materi pengajaran dan melacak kemajuan peserta didik.&nbsp;</p>\n"
+"<h5>Harap diperhatikan</h5>\n"
+"Untuk mendapatkan manfaat maksimal, kami sangat menyarankan Anda mengikuti "
+"kursus <a href=\"https://moodle.academy/course/view.php?id=34\">Mulai "
+"mengajar dengan Moodle</a> sebelum mengikuti kursus ini, dan kemudian "
+"menyelesaikan <a href=\"https://moodle.academy/course/view.php?id=57\""
+">Program Dasar-Dasar Pengajaran dengan Moodle.</a>"
 
 # {"targetlanguage": "id"}
 #: 6c68ba34d8508d957a4f4179e581acdc:5838
@@ -30,6 +51,9 @@ msgid ""
 "required activities, the Course check will appear for you to check your "
 "understanding.<br></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Setelah Anda menyelesaikan semua "
+"aktivitas yang diperlukan, pemeriksaan Kursus akan muncul untuk memeriksa "
+"pemahaman Anda.<br></p>"
 
 # {"targetlanguage": "id"}
 #: e7e69b24ba75e632cd742100b30293b6:5843
@@ -39,6 +63,15 @@ msgid ""
 "in a confident and safe way\" (DigComp 2.0). <br><br>Moodle Academy courses in the Educator learning pathway use a Moodle specific version of the Digital Competence Framework for Educators&nbsp;(DigCompEdu). This is the same framework used by the advanced Moodle Educator Certification (MEC).<br><br>This course relates to the following competence(s):<br><br>\n"
 "3.1 Teaching<br>"
 msgstr ""
+"<p></p>\"Menjadi kompeten secara digital berarti\n"
+"menggunakan teknologi digital\n"
+"dengan cara yang percaya diri dan aman\" (DigComp 2.0). <br><br>Kursus "
+"Moodle Academy di jalur pembelajaran Pendidik menggunakan versi khusus "
+"Moodle dari Kerangka Kompetensi Digital untuk Pendidik (DigCompEdu). Ini "
+"adalah kerangka kerja yang sama yang digunakan oleh Sertifikasi Pendidik "
+"Moodle (MEC) tingkat lanjut.<br><br>Kursus ini berkaitan dengan kompetensi "
+"berikut:<br><br>\n"
+"3.1 Mengajar<br>"
 
 # {"targetlanguage": "id"}
 #: 4d23c58f62b3183788886a544e2e5ef2:5843
@@ -55,6 +88,23 @@ msgid ""
 "<h4 style=\"text-align: left;\">Estimated time</h4>\n"
 "<p dir=\"ltr\" style=\"text-align: left;\">The estimated time to complete this course is 3 hours.</p>"
 msgstr ""
+"<h4 style=\"text-align: left;\">Bidik</h4>\n"
+"<p>Dalam kursus ini Anda akan&nbsp;</p><p></p><ul><ul><li>Menjelajahi cara "
+"mengunggah presentasi, dokumen, dan berkas lainnya;</li><li>Meninvestigasi "
+"cara-cara optimal untuk menampilkan informasi;</li><li>Pelajari cara "
+"menambahkan gambar dan tautan ke situs web;</li><li>Pelajari cara "
+"menyematkan media seperti file suara dan video;</li><li>Temukan cara "
+"menggunakan pelacakan progres .</li></ul>\n"
+"\n"
+"    </ul> <ul>\n"
+"</ul>\n"
+"<p> </p>\n"
+"<p> </p>\n"
+"<h4>Format</h4>\n"
+"<p dir=\"ltr\">Ini adalah kursus mandiri tanpa moderasi aktif.</p>\n"
+"<h4 style=\"text-align: left;\">Perkiraan waktu</h4>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\">Perkiraan waktu untuk "
+"menyelesaikan kursus ini adalah 3 jam.</p>"
 
 # {"targetlanguage": "id"}
 #: 1250e54863651a103b19a8629bd20fcd:5843
@@ -244,7 +294,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 510f9751cfac74b8aa055723cf891afa:5854
 msgid "Tutorial: Add content to your Moodle course"
-msgstr ""
+msgstr "Tutorial: Tambahkan konten ke kursus Moodle Anda"
 
 # {"targetlanguage": "id"}
 #: 23b35126dfba35afaf23639b7207cc8e:5854
@@ -258,7 +308,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 40ab54c65bd489fa96fc6442238385dc:5854
 msgid "Your Private files area"
-msgstr ""
+msgstr "Area Berkas Pribadi Anda"
 
 # {"targetlanguage": "id"}
 #: 2f048d4ce03427d2cf6cf44b811532c7:5854
@@ -308,7 +358,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 4ee343815c49d5f6d56dd8b9bbafdcb2:5854
 msgid "Display connected pages"
-msgstr ""
+msgstr "Tampilkan halaman yang terhubung"
 
 # {"targetlanguage": "id"}
 #: da548bc5d8fd84cd02ec4d409330798b:5854
@@ -326,7 +376,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 1556a2e259088459fd1de425733d248d:5854
 msgid "Display sound and video"
-msgstr ""
+msgstr "Menampilkan suara dan video"
 
 # {"targetlanguage": "id"}
 #: d2bcdc797637d20044212805d676fa38:5854
@@ -343,7 +393,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 171134984e8d38a9a64173aafe4d2ab5:5854
 msgid "Drag and drop files"
-msgstr ""
+msgstr "Seret dan lepas berkas"
 
 # {"targetlanguage": "id"}
 #: 3d31d0361db1576a43bb6a47231bb732:5854
@@ -384,7 +434,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 907313572218ce4077b38b405bb1dcce:5854
 msgid "The File picker"
-msgstr ""
+msgstr "Pemilih Berkas"
 
 # {"targetlanguage": "id"}
 #: 070fa67cb87703dcebd5a0120cd7d171:5854
@@ -445,7 +495,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 1156117a01c0cc73691003539547fde9:5854
 msgid "Display information"
-msgstr ""
+msgstr "Menampilkan informasi"
 
 # {"targetlanguage": "id"}
 #: 9ff35416a0e2a53d00a01520cc1c8e66:5854
@@ -460,7 +510,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: f196e7d777ee3f45cbed8cf7262cdf70:5854
 msgid "Track progress"
-msgstr ""
+msgstr "Lacak progres"
 
 # {"targetlanguage": "id"}
 #: 2a75a064d7f6f9d44fff0ff515dfd296:5854
@@ -480,7 +530,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 3328b34a8f3e4b8deba543ee910aa6a7:5854
 msgid "The Activity chooser"
-msgstr ""
+msgstr "Pemilih Aktivitas"
 
 # {"targetlanguage": "id"}
 #: 17366b17105110075951c1f6c92cbd71:5854
@@ -511,7 +561,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: e6c083e2505c6f3b6218321c070aafd8:5847
 msgid "Tasks: Add content to your Moodle course"
-msgstr ""
+msgstr "Tugas: Tambahkan konten ke kursus Moodle Anda"
 
 # {"targetlanguage": "id"}
 #: ffecc06536680f014c9636cccc0a35cc:5847
@@ -530,7 +580,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 255c205fd74d99dda16cfd8baf3c01a5:5848
 msgid "Checklist: Add content to your Moodle course"
-msgstr ""
+msgstr "Daftar Periksa: Tambahkan konten ke kursus Moodle Anda"
 
 # {"targetlanguage": "id"}
 #: 886efc941a572be35aca45e0946877a4:5841
@@ -595,7 +645,7 @@ msgstr ""
 #: a18d1f08b2153c761cb75a24163ed7bd:5838 8cb30b485376a5796ea983d8c569b9ff:5838
 #: 9deadd61b2d229afaf5b654d4ac1cebe:5838
 msgid "Your answer is correct."
-msgstr ""
+msgstr "Jawaban Anda benar."
 
 # {"targetlanguage": "id"}
 #: fae21b3f51b1777c96db3f4e0d40ae52:5838 5d93b3db104665e988d944e2db006b2f:5838
@@ -606,7 +656,7 @@ msgstr ""
 #: 983f747e7f93be8216dd8086f4d666b4:5838 619870e32fcf0c7431361a686dedc22c:5838
 #: 11b1abfeb6ff58bc89a661a811c2b226:5838
 msgid "Your answer is partially correct."
-msgstr ""
+msgstr "Jawaban Anda sebagian benar."
 
 # {"targetlanguage": "id"}
 #: 339264f9444cc19868ef2fe5f905829c:5838 0628bb24244152346b02a32a18371929:5838
@@ -617,7 +667,7 @@ msgstr ""
 #: b9dda51f705ba216a8ae7c8ae67f05b3:5838 acea4ec58808a04e2f7bc6a94ee4f21a:5838
 #: 9bb9daa73bee1e56b13030a48e634d40:5838
 msgid "Your answer is incorrect."
-msgstr ""
+msgstr "Jawaban Anda salah."
 
 # {"targetlanguage": "id"}
 #: 3ff332262a6f9b4c1add50183dab0f73:5838
@@ -625,6 +675,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">The administrator hasn't starred "
 "any yet.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Administrator belum membintangi "
+"satu pun.</p>"
 
 # {"targetlanguage": "id"}
 #: 40258f0b1470b81309a8d53aeb29049b:5838
@@ -632,16 +684,22 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">The administrator can recommend, "
 "but not star.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Administrator dapat "
+"merekomendasikan, tetapi tidak dapat memberi bintang.</p>"
 
 # {"targetlanguage": "id"}
 #: cabd4ab0fc819a5d024aac1f94b95bb7:5838
 msgid "Only content she has used at least three times will become 'starred'."
 msgstr ""
+"Hanya konten yang telah dia gunakan setidaknya tiga kali yang akan menjadi "
+"'dibintangi'."
 
 # {"targetlanguage": "id"}
 #: 8606e3863a46d817c00ab093aca5285e:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Not true. It is not automatic.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tidak benar. Itu tidak "
+"otomatis.</p>"
 
 # {"targetlanguage": "id"}
 #: e5d03977648efa5e7b5915f9501b098d:5838
@@ -649,11 +707,15 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">She needs to star her chosen "
 "items herself.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dia harus membintangi sendiri "
+"item pilihannya.</p>"
 
 # {"targetlanguage": "id"}
 #: 2b2c40188bfa09a956723b144cc587de:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">It is her reponsiblity; indeed.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Itu adalah tanggung jawabnya; "
+"memang.</p>"
 
 # {"targetlanguage": "id"}
 #: f18ef108cb7f2d418bfa55918f6e27cd:5838
@@ -668,6 +730,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Simply not true - have you "
 "tried?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Sama sekali tidak benar - "
+"sudahkah Anda mencobanya?</p>"
 
 # {"targetlanguage": "id"}
 #: ed1bc77f342e5033e0a4d3ac2d72c71d:5838
@@ -713,6 +777,8 @@ msgstr ""
 #: 4b50d4d9a3082c2ec93a581c053189e6:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">That sounds like a good plan.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Kedengarannya seperti rencana "
+"yang baik.</p>"
 
 # {"targetlanguage": "id"}
 #: 1787541e00b8af34f310ce7749f5b572:5838
@@ -728,6 +794,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">What about students in countries "
 "where YouTube is banned?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Bagaimana dengan pelajar di "
+"negara yang melarang YouTube?</p>"
 
 # {"targetlanguage": "id"}
 #: 12f648317429e7dfb5d58471340b447a:5838
@@ -755,6 +823,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">She is using the wrong icon to "
 "upload her image.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dia menggunakan ikon yang salah "
+"untuk mengunggah gambarnya.</p>"
 
 # {"targetlanguage": "id"}
 #: c19913aaa8992f66e796bc69e76827d7:5838
@@ -766,7 +836,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: a5404a21eb5f877491a011931fa2aefe:5838
 msgid "She is using the wrong image type."
-msgstr ""
+msgstr "Dia menggunakan jenis gambar yang salah."
 
 # {"targetlanguage": "id"}
 #: 7af9607f5422fe2ef2cea886102bad64:5838
@@ -785,7 +855,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: b480bb2579ba2b0deacdcb62fecfe165:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Very unlikely.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Sangat tidak mungkin.</p>"
 
 # {"targetlanguage": "id"}
 #: ff5edc2f0a1adfda5a4e2772fc0053e4:5838
@@ -815,6 +885,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">You have forgotten to turn "
 "editing on.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Anda lupa mengaktifkan "
+"pengeditan.</p>"
 
 # {"targetlanguage": "id"}
 #: 85c36440736185aa5cef72f332222ba3:5838
@@ -829,6 +901,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">You need to compress/zip your "
 "folder first.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Anda perlu mengompres/zip folder "
+"Anda terlebih dahulu.</p>"
 
 # {"targetlanguage": "id"}
 #: 15829a70c0668f3c48e91975743fd64f:5838
@@ -836,6 +910,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Yes. You must do this before "
 "dragging it.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya. Anda harus melakukan ini "
+"sebelum menyeretnya.</p>"
 
 # {"targetlanguage": "id"}
 #: 74f2da7fc61eb86867a095ec7aec8340:5838
@@ -850,6 +926,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">It does! Because it displayed the"
 " message saying you can.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya! Karena itu menampilkan pesan "
+"yang mengatakan Anda bisa.</p>"
 
 # {"targetlanguage": "id"}
 #: 2aa5064678312ffb37270e8c75a25003:5838
@@ -861,7 +939,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: ece6fd8a3640fd1c3238a58d46503620:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Really? Look again!</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Benarkah? Lihat lagi!</p>"
 
 # {"targetlanguage": "id"}
 #: 999e1a6fc1c027f5269fdfbed77c8823:5838
@@ -869,6 +947,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Which of these statements is/are "
 "correct? Select all that apply.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Manakah pernyataan berikut yang "
+"benar? Pilih semua yang sesuai.</p>"
 
 # {"targetlanguage": "id"}
 #: ea1fab1e2fabc9ff4cb614ef5bbe6e92:5838
@@ -905,6 +985,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Yes, although they should still "
 "check the licences.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya, meskipun mereka tetap harus "
+"memeriksa lisensinya.</p>"
 
 # {"targetlanguage": "id"}
 #: 01e5333bb4207dcec70c9d7239b0cce4:5838
@@ -920,6 +1002,9 @@ msgid ""
 "href=\"https://docs.moodle.org/en/URL_downloader_repository\">URL downloader"
 " repository documentation.</a></p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tidak juga. Baca <a href=\"https"
+"://docs.moodle.org/en/URL_downloader_repository\">dokumentasi repositori "
+"pengunduh URL.</a></p>"
 
 # {"targetlanguage": "id"}
 #: 79d0f2b4e7821dbbfe44dd1d6261eb40:5838
@@ -949,7 +1034,7 @@ msgstr ""
 msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">It is not dependent on the "
 "admin.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Tidak tergantung admin.</p>"
 
 # {"targetlanguage": "id"}
 #: 71118fa09aa3ce1d44f07d0b82abf0b3:5838
@@ -965,6 +1050,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">That's correct. They will then "
 "appear for his learners automatically.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar. Itu kemudian akan muncul "
+"untuk peserta didiknya secara otomatis.</p>"
 
 # {"targetlanguage": "id"}
 #: 2219f4e163783f649810ee99fc007d77:5838
@@ -994,6 +1081,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">They are not dependent on "
 "dates.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Mereka tidak bergantung pada "
+"tanggal.</p>"
 
 # {"targetlanguage": "id"}
 #: 12425be768d8980c225159abff70fe1c:5838
@@ -1012,6 +1101,7 @@ msgstr ""
 #: 60ad9328674b116c7514295b185c433d:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Too complex and not necessary.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Terlalu rumit dan tidak perlu.</p>"
 
 # {"targetlanguage": "id"}
 #: 779e91a199991b4c4382dddecc94a8cf:5838
@@ -1033,6 +1123,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Type the text into a Moodle "
 "Page.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ketikkan teks ke dalam Halaman "
+"Moodle.</p>"
 
 # {"targetlanguage": "id"}
 #: 96959e87b333006473f275c6685fe488:5838
@@ -1064,6 +1156,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct! Google Chrome allows you"
 " to do this.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar! Google Chrome memungkinkan "
+"Anda melakukan ini.</p>"
 
 # {"targetlanguage": "id"}
 #: 390155945994dfbd553039885fe8b07d:5838
@@ -1078,6 +1172,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Correct! That is one way to do "
 "it.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar! Itu adalah salah satu cara "
+"untuk melakukannya.</p>"
 
 # {"targetlanguage": "id"}
 #: c4d3d60617147ffd81efc46add5f480c:5838
@@ -1092,6 +1188,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">That is both too complex and too "
 "risky.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Itu semua terlalu rumit dan "
+"terlalu berisiko.</p>"
 
 # {"targetlanguage": "id"}
 #: 8622365ef5b2b9b7199f104a8bc3cdf4:5838
@@ -1137,6 +1235,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">That's right - perhaps you did "
 "this by mistake?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Benar - mungkin Anda melakukan "
+"ini secara tidak sengaja?</p>"
 
 # {"targetlanguage": "id"}
 #: 22f18de8dfc227dd9a84278bf87b3a31:5838
@@ -1149,6 +1249,8 @@ msgstr ""
 #: 2f0d8b90dfbc68d99cb2eac26f924225:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">There is no such setting.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tidak ada pengaturan seperti "
+"itu.</p>"
 
 # {"targetlanguage": "id"}
 #: 61cc12cea5c71fbbcb6ce80bad3ecd37:5838
@@ -1197,7 +1299,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 99082d33f274713333c4105b2605603b:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Are you sure?</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Apakah Anda yakin?</p>"
 
 # {"targetlanguage": "id"}
 #: f9e5eadea2133272ea517ec246968939:5838
@@ -1226,6 +1328,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Is that wise? What about "
 "copyright?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Apakah itu bijaksana? Bagaimana "
+"dengan hak cipta?</p>"
 
 # {"targetlanguage": "id"}
 #: f06ac19af10f0b76d993826ff351a760:5838
@@ -1300,6 +1404,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Not wrong, but not the best way "
 ".</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tidak salah, tapi bukan cara "
+"terbaik .</p>"
 
 # {"targetlanguage": "id"}
 #: 3a6b98e8801689b543f5a185ad5b76bc:5838
@@ -1323,6 +1429,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">His image file is in a Word™ "
 "document.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Berkas gambarnya ada di dokumen "
+"Word™.</p>"
 
 # {"targetlanguage": "id"}
 #: 326c407c3bc19c6deea345c90b0ff7f2:5838
@@ -1335,6 +1443,8 @@ msgstr ""
 #: aeb92a9e0fdac51919aa5b750da95b13:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">His image file is copyrighted.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Berkas gambarnya dilindungi hak "
+"cipta.</p>"
 
 # {"targetlanguage": "id"}
 #: d63bf42e0972829f7eb3a12e0940384f:5838
@@ -1347,6 +1457,8 @@ msgstr ""
 #: e678b32d4bf031ac0c6bff38e3c2fec9:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">He forgot to enable Edit mode.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dia lupa mengaktifkan mode "
+"Edit.</p>"
 
 # {"targetlanguage": "id"}
 #: 84d5d01ea5331734a5b89d1458707a1e:5838
@@ -1391,6 +1503,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Both Pages and Books will print "
 "nicely as PDF.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Halaman dan Buku akan dicetak "
+"dengan baik sebagai PDF.</p>"
 
 # {"targetlanguage": "id"}
 #: f51066455ea155b3789cb8535ecf9bab:5838
@@ -1409,7 +1523,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: feac037c5eb638404c51b756b28900a0:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Very true.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Benar sekali.</p>"
 
 # {"targetlanguage": "id"}
 #: e8a255080a18f741b104cfb8600fb317:5838
@@ -1417,11 +1531,13 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Only Books have a Table of "
 "Contents.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Hanya Buku yang memiliki Daftar "
+"Isi.</p>"
 
 # {"targetlanguage": "id"}
 #: d2d3402147e6a09391480c3f4adc40d1:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">That is true.</p>"
-msgstr ""
+msgstr "<p dir=\"ltr\" style=\"text-align: left;\">Itu benar.</p>"
 
 # {"targetlanguage": "id"}
 #: 9402143f8cd97a9ec580707360d5fefa:5838
@@ -1429,8 +1545,12 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Only Pages display well on the "
 "Moodle (mobile) app.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Hanya Halaman yang ditampilkan "
+"dengan baik di aplikasi Moodle (seluler).</p>"
 
 # {"targetlanguage": "id"}
 #: c21b7e3f3a43268490ed5e3432dcf66f:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Books display well too.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Buku juga ditampilkan dengan "
+"baik.</p>"
