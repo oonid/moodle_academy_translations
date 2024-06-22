@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-22 11:29+0000\n"
+"PO-Revision-Date: 2024-06-23 12:42+0000\n"
 "Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
 "Language-Team: Indonesian <http://webl.oo.or.id/projects/moodleacademy/"
 "035-moodle-course-content/id/>\n"
@@ -420,7 +420,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: c7de86f69db264c3950d8ae46ed2e33f:5854
 msgid "Upload files"
-msgstr ""
+msgstr "Unggah berkas"
 
 # {"targetlanguage": "id"}
 #: 67a40b16cc487f53b629b3c3e73ea826:5854
@@ -462,7 +462,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 5030fa503314c8a520eaec11762be967:5854
 msgid "Display weblinks"
-msgstr ""
+msgstr "Tampilkan tautan web"
 
 # {"targetlanguage": "id"}
 #: 5c12d3d82df3ee537ae0bc783b661e74:5854
@@ -477,7 +477,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 959485bd1014cd6d96ed0482b52dd43e:5854
 msgid "Add images"
-msgstr ""
+msgstr "Tambahkan gambar"
 
 # {"targetlanguage": "id"}
 #: df826a22f74b18a56c24110d42932cf4:5854
@@ -618,6 +618,9 @@ msgid ""
 "href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3</a> "
 "functionality."
 msgstr ""
+"Kursus ini diluncurkan pada bulan April 2022 dan sekarang&nbsp; berdasarkan "
+"fungsionalitas <a href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4."
+"3</a>."
 
 # {"targetlanguage": "id"}
 #: c3ef20ba75e818c061f9cc2fda7ae51f:5838
@@ -723,6 +726,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">She can only star activities, not"
 " resources, and so far she has only explored resources.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dia hanya dapat membintangi "
+"aktivitas, bukan sumber daya, dan sejauh ini dia hanya menjelajahi sumber "
+"daya.</p>"
 
 # {"targetlanguage": "id"}
 #: 26ca453c3e598294374076ebd226d856:5838
@@ -746,11 +752,15 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Alex: \"I drag and drop the video"
 " (a Flash, .flv file) onto the course page.\"</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Alex: \"Saya menarik dan melepas "
+"video (file Flash, .flv) ke halaman kursus.\"</p>"
 
 # {"targetlanguage": "id"}
 #: 997847ab597542e0934116c4148d4958:5838
 msgid "<p dir=\"ltr\" style=\"text-align: left;\">Flash is outdated and insecure.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Flash sudah usang dan tidak "
+"aman.</p>"
 
 # {"targetlanguage": "id"}
 #: a3b86abaaf8f85b720ea5270c12e9663:5838
@@ -772,6 +782,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Ed: \"I embed them into Pages and"
 " offer them for download with the subtitles too.\"</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ed: \"Saya menyematkannya ke "
+"Halaman dan menawarkannya untuk diunduh dengan subtitle juga.\"</p>"
 
 # {"targetlanguage": "id"}
 #: 4b50d4d9a3082c2ec93a581c053189e6:5838
@@ -844,6 +856,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Are you sure? Check the best "
 "image file types for uploading to Moodle.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Apakah kamu yakin? Periksa jenis "
+"berkas gambar terbaik untuk diunggah ke Moodle.</p>"
 
 # {"targetlanguage": "id"}
 #: 7b34c5d8dd9c7018c9333ab2381baa93:5838
@@ -851,6 +865,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">She doesn't have permissions to "
 "upload into a Text and media area.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dia tidak memiliki izin untuk "
+"mengunggah ke area Teks dan media.</p>"
 
 # {"targetlanguage": "id"}
 #: b480bb2579ba2b0deacdcb62fecfe165:5838
@@ -863,6 +879,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">She can only link to images in "
 "a&nbsp; Page resource. She cannot upload them.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dia hanya dapat menautkan ke "
+"gambar di sumber daya Halaman &nbsp;. Dia tidak dapat mengunggahnya.</p>"
 
 # {"targetlanguage": "id"}
 #: 2ffb1d4539b65ea4db37fbd32669659c:5838
@@ -870,6 +888,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Not true!&nbsp; And anyway she is"
 " trying to upload into a Text and media area.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tidak benar!&nbsp; Lagi pula dia "
+"mencoba mengunggah ke area Teks dan media.</p>"
 
 # {"targetlanguage": "id"}
 #: e40237c205ac770b6b347f77aa1e2fe9:5838
@@ -894,6 +914,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">You have not forgotten - the "
 "question begins 'With the editing turned on...'</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Anda tidak lupa - pertanyaannya "
+"dimulai 'Dengan pengeditan diaktifkan...'</p>"
 
 # {"targetlanguage": "id"}
 #: bc5ab9789aead9f05bb72fb5fcc20277:5838
@@ -919,6 +941,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Your browser does not allow you "
 "to drag and drop files or folders.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Browser Anda tidak mengizinkan "
+"Anda menarik dan melepas berkas atau folder.</p>"
 
 # {"targetlanguage": "id"}
 #: 655d4e13cb7a3f6a1802f09db59cbea1:5838
@@ -935,6 +959,8 @@ msgid ""
 "Editing teachers cannot drag and drop folders. This is only for admins and "
 "managers."
 msgstr ""
+"Pengajar pengedit tidak dapat menarik dan melepas folder. Ini hanya untuk "
+"admin dan manajer."
 
 # {"targetlanguage": "id"}
 #: ece6fd8a3640fd1c3238a58d46503620:5838
@@ -964,6 +990,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\"><strong>Server files </strong>are"
 " for teachers to locate files in other courses where they teach.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><strong>Berkas server </"
+"strong>diperuntukkan bagi pengajar untuk menemukan berkas di kursus lain "
+"tempat mereka mengajar.</p>"
 
 # {"targetlanguage": "id"}
 #: 23fae1c4c71eac4207026d7fbb9be70d:5838
@@ -971,6 +1000,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">The <strong>Content bank</strong>"
 " is where teachers can create and find H5P activities.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><strong>Bank konten</strong> "
+"adalah tempat pengajar dapat membuat dan menemukan aktivitas H5P.</p>"
 
 # {"targetlanguage": "id"}
 #: 7e5711335ecf7a39f8e65f1c026e0d14:5838
@@ -978,6 +1009,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\"><strong>Wikimedia </strong>allows"
 " teachers to find images to use in their courses.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><strong>Wikimedia </"
+"strong>memungkinkan pengajar menemukan gambar untuk digunakan dalam kursus "
+"mereka.</p>"
 
 # {"targetlanguage": "id"}
 #: c5466ce731ed00b1a941e692459c55a1:5838
@@ -994,6 +1028,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\"><strong>URL downloader "
 "</strong>allows teachers to search the internet for useful websites.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\"><strong>Pengunduh URL </"
+"strong>memungkinkan pengajar mencari situs web yang bermanfaat di "
+"internet.</p>"
 
 # {"targetlanguage": "id"}
 #: 06b2141ffecb68c5070364f7a17e888d:5838
@@ -1067,6 +1104,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Not true. They are called "
 "'completion indicators' by the way.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tidak benar. Omong-omong, ini "
+"disebut 'indikator penyelesaian'.</p>"
 
 # {"targetlanguage": "id"}
 #: 18760f6232d11e23b519ec5ddf7400bb:5838
@@ -1074,6 +1113,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Jonas has not defined any dates "
 "so that is why they are not displaying.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Jonas belum menentukan tanggal "
+"apa pun sehingga tidak ditampilkan.</p>"
 
 # {"targetlanguage": "id"}
 #: 6575f51d9540da8fab4eec92d88c0184:5838
@@ -1095,7 +1136,7 @@ msgstr ""
 # {"targetlanguage": "id"}
 #: 4a8b0d159362936d9d67b6e61791eda0:5838
 msgid "Type the text as an HTML webpage and upload it as a URL resource."
-msgstr ""
+msgstr "Ketik teks sebagai halaman web HTML dan unggah sebagai sumber daya URL."
 
 # {"targetlanguage": "id"}
 #: 60ad9328674b116c7514295b185c433d:5838
@@ -1149,6 +1190,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">You can drag and drop it onto the"
 " course page.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Anda dapat menarik dan melepasnya "
+"ke halaman kursus.</p>"
 
 # {"targetlanguage": "id"}
 #: 2d8a43560b3c1f382c59152fba206b8e:5838
@@ -1165,6 +1208,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">You can select File from the "
 "Activity chooser and upload it like that.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Anda dapat memilih Berkas dari "
+"Pemilih Aktivitas dan mengunggahnya seperti itu.</p>"
 
 # {"targetlanguage": "id"}
 #: 52f2a06c4cced2ab97b813782a724dab:5838
@@ -1181,6 +1226,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">You can copy and paste it into a "
 "Moodle Page.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Anda dapat menyalin dan "
+"menempelkannya ke Halaman Moodle.</p>"
 
 # {"targetlanguage": "id"}
 #: 62d80e64707b2994282e4d40150c9342:5838
@@ -1207,6 +1254,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Review the section Track progress"
 " in the Tutorial: Add content to your Moodle course.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tinjau bagian Lacak progres dalam "
+"Tutorial: Tambahkan konten ke kursus Moodle Anda.</p>"
 
 # {"targetlanguage": "id"}
 #: 985ae8a527e0c1579364ef8c0b1e6246:5838
@@ -1214,6 +1263,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">You made a mistake and did not "
 "enable completion tracking.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Anda melakukan kesalahan dan "
+"tidak mengaktifkan pelacakan penyelesaian.</p>"
 
 # {"targetlanguage": "id"}
 #: 20c1257d6405be55aac9f91219ea349d:5838
@@ -1221,6 +1272,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">But students say they can see "
 "completion conditions&nbsp; when they access activities and resources?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tetapi siswa mengatakan mereka "
+"dapat melihat kondisi penyelesaian&nbsp; ketika mereka mengakses aktivitas "
+"dan sumber daya?</p>"
 
 # {"targetlanguage": "id"}
 #: 7bd306315aacedd9ee80399f44989746:5838
@@ -1228,6 +1282,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">The course setting 'Show activity"
 " completion conditions' is set to 'No'.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pengaturan kursus 'Tampilkan "
+"kondisi penyelesaian aktivitas' disetel ke 'Tidak'.</p>"
 
 # {"targetlanguage": "id"}
 #: 16f583f39c370f6c4dedad34aae6599b:5838
@@ -1258,6 +1314,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">There are no activities with "
 "completion tracking set in your course.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tidak ada aktivitas dengan "
+"pelacakan penyelesaian yang ditetapkan dalam kursus Anda.</p>"
 
 # {"targetlanguage": "id"}
 #: a0c436e975423a12bf036be44f2edc4c:5838
@@ -1288,6 +1346,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Would that be useful to you? Or "
 "would you prefer to use a different video source?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Apakah itu bermanfaat bagi Anda? "
+"Atau apakah Anda lebih suka menggunakan sumber video lain?</p>"
 
 # {"targetlanguage": "id"}
 #: d423a0acfe03beae550e3b9a70c6ec25:5838
@@ -1295,6 +1355,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Yes. Moodle's Text and media "
 "resource will display YouTube videos anywhere.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ya. Teks dan sumber media Moodle "
+"akan menampilkan video YouTube di mana saja.</p>"
 
 # {"targetlanguage": "id"}
 #: 99082d33f274713333c4105b2605603b:5838
@@ -1307,6 +1369,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">No. Learners will have no access "
 "to this YouTube video.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tidak. Siswa tidak akan memiliki "
+"akses ke video YouTube ini.</p>"
 
 # {"targetlanguage": "id"}
 #: 504a8d479b458eb517b4238966f7162e:5838
@@ -1314,6 +1378,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Not when they are in your "
 "establishment, sure, but what about elsewhere?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tidak saat mereka ada di tempat "
+"Anda, tentu saja, tapi bagaimana dengan di tempat lain?</p>"
 
 # {"targetlanguage": "id"}
 #: 2db2ee869537a8bb21ee8d3c652ce678:5838
@@ -1321,6 +1387,8 @@ msgid ""
 "Partly. They cannot watch it on YouTube so you must download the video "
 "and&nbsp; upload it into your course."
 msgstr ""
+"Sebagian. Mereka tidak dapat menontonnya di YouTube jadi Anda harus "
+"mengunduh videonya dan&nbsp; unggah ke kursus Anda."
 
 # {"targetlanguage": "id"}
 #: c7a5134b0669c7f6be04a135794f58ef:5838
@@ -1339,6 +1407,10 @@ msgid ""
 "course. What is the <strong>best</strong> way to help them track their "
 "progress better?&nbsp;</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Peserta pelatihan Jeanne mengeluh "
+"bahwa dia tidak cukup jelas tentang apa yang harus mereka lakukan untuk "
+"menyelesaikan kursus. Apa cara <strong>terbaik</strong> untuk membantu "
+"mereka melacak kemajuan mereka dengan lebih baik?&nbsp;</p>"
 
 # {"targetlanguage": "id"}
 #: 9f7189f3f3edc570563d8bc590b8e657:5838
@@ -1347,6 +1419,9 @@ msgid ""
 "revisit the Tutorial: Add content to your Moodle course, in particular the "
 "section 'Track progress'.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ingatlah bahwa Anda selalu dapat "
+"mengunjungi kembali Tutorial: Menambahkan konten ke kursus Moodle Anda, "
+"khususnya bagian 'Lacak progres'.</p>"
 
 # {"targetlanguage": "id"}
 #: c5410a0bd39f94fa953d6ffa7d0f7360:5838
@@ -1354,6 +1429,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Use the activity completion "
 "feature so they see what they need to do.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Gunakan fitur penyelesaian "
+"aktivitas sehingga mereka mengetahui apa yang perlu mereka lakukan.</p>"
 
 # {"targetlanguage": "id"}
 #: 11ab89ee3131ee9e6060aa1b95577967:5838
@@ -1361,6 +1438,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">This is the best way. Have you "
 "tried using it yet? What type of conditions have you explored?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ini adalah cara terbaik. Sudahkah "
+"Anda mencoba menggunakannya? Jenis kondisi apa yang telah Anda jelajahi?</p>"
 
 # {"targetlanguage": "id"}
 #: bb31d4155323bc35a3b19fd265f6d666:5838
@@ -1368,6 +1447,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Add a Page or Book resource with "
 "information about the required activities in the course.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Tambahkan sumber daya Halaman "
+"atau Buku dengan informasi tentang aktivitas yang diperlukan dalam "
+"kursus.</p>"
 
 # {"targetlanguage": "id"}
 #: ee4914604a410a50fe9bf1101ad6abfc:5838
@@ -1376,6 +1458,9 @@ msgid ""
 "this course! But it is not the best way to help them track their "
 "progress.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ini tidak salah - kami "
+"melakukannya di kursus ini! Namun ini bukan cara terbaik untuk membantu "
+"mereka melacak progres mereka.</p>"
 
 # {"targetlanguage": "id"}
 #: 127edeeb9edbb4a6ed1f9030c1bbc30f:5838
@@ -1383,6 +1468,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Send out regular emails with "
 "reminders about their required tasks.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Kirim email rutin berisi "
+"pengingat tentang tugas yang harus mereka lakukan.</p>"
 
 # {"targetlanguage": "id"}
 #: beda23a3d84b99d3855d24e7d9304bf7:5838
@@ -1390,6 +1477,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">A tedious manual job - there is a"
 " better way.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Pekerjaan manual yang membosankan "
+"- ada cara yang lebih baik.</p>"
 
 # {"targetlanguage": "id"}
 #: 4b169b29969ccf80286168b4f0caf5f4:5838
@@ -1397,6 +1486,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">In the description of each "
 "resource, explain what is required of them.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dalam deskripsi setiap sumber "
+"daya, jelaskan apa yang diperlukan dari sumber daya tersebut.</p>"
 
 # {"targetlanguage": "id"}
 #: 02e61831b25b96b71b87d29708754811:5838
@@ -1414,6 +1505,9 @@ msgid ""
 "unable to drag and drop an image file to a topic section summary. What might"
 " he be doing wrong? Select all that might apply.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Teman pengajar Anda Marcus tidak "
+"dapat menarik dan melepas berkas gambar ke ringkasan bagian topik. Kesalahan "
+"apa yang mungkin dia lakukan? Pilih semua yang mungkin berlaku.</p>"
 
 # {"targetlanguage": "id"}
 #: dc6efac3f4334568b2ddc6ded511112d:5838
@@ -1422,6 +1516,9 @@ msgid ""
 "revisit the section 'Add images' in the Tutorial: Add content to your Moodle"
 " course for more information.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ingatlah bahwa Anda selalu dapat "
+"mengunjungi kembali bagian 'Tambahkan gambar' dalam Tutorial: Menambahkan "
+"konten ke kursus Moodle Anda untuk informasi lebih lanjut.</p>"
 
 # {"targetlanguage": "id"}
 #: 41f8c295268fbf10d4a6db6a20f08338:5838
@@ -1438,6 +1535,9 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Possibly. You have to use an "
 "actual image, not a word-processed document with an image in it.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Mungkin. Anda harus menggunakan "
+"gambar sebenarnya, bukan dokumen olahan-kata yang berisi gambar di "
+"dalamnya.</p>"
 
 # {"targetlanguage": "id"}
 #: aeb92a9e0fdac51919aa5b750da95b13:5838
@@ -1452,6 +1552,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">We hope not! But that will not "
 "prevent him being able to upload the image.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Kami harap tidak! Namun hal itu "
+"tidak menghalanginya untuk mengunggah gambar tersebut.</p>"
 
 # {"targetlanguage": "id"}
 #: e678b32d4bf031ac0c6bff38e3c2fec9:5838
@@ -1466,6 +1568,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Indeed. He needs edit mode on to "
 "be able to edit his course.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Memang. Dia memerlukan mode edit "
+"untuk dapat mengedit kursusnya.</p>"
 
 # {"targetlanguage": "id"}
 #: 226d5aba5f5ab5657e6c39608ca53808:5838
@@ -1474,6 +1578,9 @@ msgid ""
 "image file instead of the recommended image file types for online "
 "spaces.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Dia mencoba mengunggah file "
+"gambar .bmp alih-alih jenis file gambar yang direkomendasikan untuk ruang "
+"online.</p>"
 
 # {"targetlanguage": "id"}
 #: 270fe21987f51482ba56b121efe7a159:5838
@@ -1481,6 +1588,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Actually that would still work. "
 "Images of the .bmp type can still be uploaded, but they are not ideal.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Sebenarnya itu masih berhasil. "
+"Gambar bertipe .bmp tetap bisa diupload, namun kurang ideal.</p>"
 
 # {"targetlanguage": "id"}
 #: 9178ebf8fd88f3413e7e38dbc39df9c2:5838
@@ -1488,6 +1597,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Page, Book or both? Which of the "
 "following sentences are correct? Select all that apply.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Halaman, Buku, atau keduanya? "
+"Manakah dari kalimat berikut yang benar? Pilih semua yang sesuai.</p>"
 
 # {"targetlanguage": "id"}
 #: 448a2788d719981bed9c0887ebe59721:5838
@@ -1496,6 +1607,10 @@ msgid ""
 "revisit the sections 'Display information' and 'Display connected pages' in "
 "the Tutorial: Add content to your Moodle course for more information.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ingatlah bahwa Anda selalu dapat "
+"mengunjungi kembali bagian 'Menampilkan informasi' dan 'Menampilkan halaman "
+"yang terhubung' dalam Tutorial: Menambahkan konten ke kursus Moodle Anda "
+"untuk informasi lebih lanjut.</p>"
 
 # {"targetlanguage": "id"}
 #: b1d06bd25d06edb1abd1453992765759:5838
@@ -1512,6 +1627,7 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Only one of these - can you "
 "remember which one?</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Hanya satu - ingat yang mana?</p>"
 
 # {"targetlanguage": "id"}
 #: a4923ef6eeeddac72b619d2352c73992:5838
@@ -1519,6 +1635,8 @@ msgid ""
 "<p dir=\"ltr\" style=\"text-align: left;\">Both Pages and Books allow you to"
 " add media as well as text.</p>"
 msgstr ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Halaman dan Buku memungkinkan "
+"Anda menambahkan media serta teks.</p>"
 
 # {"targetlanguage": "id"}
 #: feac037c5eb638404c51b756b28900a0:5838
