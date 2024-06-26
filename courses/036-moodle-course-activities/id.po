@@ -1,0 +1,1523 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# {"targetlanguage": "id"}
+#: 713c1ca3e765bf5789028ed6a492cda2:5855
+msgid ""
+"<p>Encourage discussion, collaboration and other interactivity in your Moodle course. Explore automatic and manual grading in Moodle, including quizzes and assignments in this free, self-paced course, part of the Moodle Teaching Basics program.</p>\n"
+"<p>This course relates to the following competence(s):</p>\n"
+"<p>3.1 Teaching</p><br>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 288690da6d35863332a6c75be2a92c3a:5855
+msgid ""
+"<p>This beginner level&nbsp;course addresses ways to encourage discussion, collaboration and other interactivity in your Moodle course. You will also explore automatic and manual grading in Moodle, including quizzes and assignments.</p>\n"
+"<h5>Please note</h5>\n"
+"To get maximum benefit, we strongly advise you take the course <a href=\"https://moodle.academy/course/view.php?id=34\">Start teaching with Moodle</a> before taking this course, and then complete the <a href=\"https://moodle.academy/course/view.php?id=57\">Moodle Teaching Basics Program.</a>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: dc9c29db92eb61c09d53b1d81afaf554:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">When you have completed all the "
+"required activities, the Course check will appear for you to check your "
+"understanding.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: fc9b349821c2809e361d53caf50979de:5860
+msgid ""
+"<h4 style=\"text-align: left;\">Aim</h4>\n"
+"<p>In this course you will</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <ul>\n"
+"        <li>Learn how to add activities such as Choice, Forum, Glossary and Wiki to your Moodle course.</li>\n"
+"        <li>Investigate how filters work.</li><li>Learn how to set up a live webinar in your course.</li>\n"
+"        <li>Explore the difference between  Survey and Feeback activities.</li>\n"
+"        <li>Learn how to create Quizzes and Assignments.</li>\n"
+"        <li>Discover how to add H5P activities to your course.</li>\n"
+"      <li>Explore Moodle's Gradebook.</li>\n"
+"      <li>Investigate ways of monitoring learner activity and participation. </li>\n"
+"    </ul>\n"
+"\n"
+"</ul>\n"
+"<ul>\n"
+"</ul>\n"
+"<p></p>\n"
+"<p></p>\n"
+"<h4>Format</h4>\n"
+"<p dir=\"ltr\">This is a self-paced course without active moderation.</p>\n"
+"<h4 style=\"text-align: left;\">Estimated time</h4>\n"
+"<p dir=\"ltr\" style=\"text-align: left;\">The estimated time to complete this course is 3 hours.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: abe3b43de82b03ae0b3296118b72ffae:5860
+msgid ""
+"\"Being digitally competent means\n"
+"using digital technologies\n"
+"in a confident and safe way\" (DigComp 2.0). <br><br>Moodle Academy courses in the Educator learning pathway use a Moodle specific version of the Digital Competence Framework for Educators&nbsp;(DigCompEdu). This is the same framework used by the advanced Moodle Educator Certification (MEC).<br><br>This course relates to the following competence(s):<br><br>\n"
+"<p>3.1 Teaching</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 69ca18950080c44a678d39563f45ae38:5860
+msgid ""
+"<h4 style=\"text-align: left;\"><span style=\"color: rgb(73, 80, 87); font-"
+"size: 1rem;\">By the end of this course, you will be able "
+"to:</span><br></h4><p dir=\"ltr\"></p><ul><li>Add a variety of Moodle "
+"activities for engaging and assessing learners.;</li><li>Successfully apply "
+"filters;</li><li>Create Quizzes and Assignments;</li><li>Add H5P activities "
+"to your course;</li><li>Navigate your course Gradebook;</li><li>Monitor your"
+" learners.</li></ul><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 13221f1226f948fbbdb2aec6c97c01c0:5860
+msgid ""
+"<p>If you complete this course successfully, why not take the other courses in the Moodle Teaching Basics program and optionally purchase a certificate? </p>\n"
+"<ul>\n"
+"    <li>\n"
+"\n"
+"        Start teaching with Moodle.<ul>\n"
+"            <li>Understand how to navigate Moodle, set up your teaching space and give access to your learners.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"\n"
+"\n"
+"\n"
+"    <li>Moodle Course Content.<ul>\n"
+"            <li>Discover the best ways to display teaching materials and track learner progress.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"    <li>\n"
+"\n"
+"        Moodle Course Management.<ul>\n"
+"            <li>Learn how to reuse your courses and explore some advanced features you'll learn with further training.\n"
+"            </li>\n"
+"        </ul>\n"
+"    </li>\n"
+"    <li>Accessible Teaching Basics.<ul>\n"
+"            <li>Learn basic accessiblity so no learner is disadvantaged in your course.</li>\n"
+"        </ul>\n"
+"    </li>\n"
+"\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 92946eff5dec90dd59c1f16301f67376:5860
+msgid ""
+"<ul>\n"
+"    <li>This is a free, self-paced course provided by Moodle Academy.</li>\n"
+"    <li>You must have an editing teacher role in a Moodle course in a Moodle site. If your organisation cannot offer you a course, then follow the instructions in the page Get a practice course.</li>\n"
+"    <li>Although this course is not facilitated, you are welcome to ask any questions in the General discussion forum.</li>\n"
+"    <li>We would love to hear what you think of the course, if anything is unclear, or you have any ideas for improvements. Please provide feedback so we can improve the course for everyone.</li>\n"
+"</ul>\n"
+"\n"
+"<p dir=\"ltr\" style=\"text-align: left;\"></p>\n"
+"<h4>Welcome</h4>\n"
+"<p>Find out how the course works, check your prior understanding and join in an optional general discussion.</p>\n"
+"<h4>Review, learn and practise</h4>\n"
+"<p>Explore the interactive book and use the tasks provided to practise yourselves.&nbsp;</p><p></p><h4>Course check</h4>Test your understanding in the final quiz.<br><p></p>\n"
+"<h4>Feedback</h4>\n"
+"<p>Answer few questions to help us improve this course.</p><p><span style=\"color: rgb(0, 61, 89); font-size: 1.5rem;\">Videos and transcripts for download</span><br></p>\n"
+"<p></p><p>Find the videos and their transcripts used in this course in a downloadable format.</p>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: d4fafa90e2a7ae9ab5404822477dbfc0:5860
+msgid ""
+"<p>This course is designed to help you find ways to encourage discussion, collaboration and other interactivity in your Moodle course, you will also explore automatic and manual grading in Moodle, including quizzes and assignments.</p>\n"
+"<p>You will need to have a Moodle course with an editing-teacher account. If your organisation is unable to give you a Moodle course with a teacher account then look at the page Get a practice course.</p>\n"
+"<h5>This course IS...</h5>\n"
+"<ul>\n"
+"    <li>For anyone interested in teaching with Moodle, whatever your background.</li>\n"
+"</ul>\n"
+"<h5>This course IS NOT...</h5>\n"
+"<ul>\n"
+"    <li>For people who want to manage a whole Moodle site as an administrator.</li>\n"
+"    <li>For people looking for advanced Moodle training.</li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 405cd0c1fe15f3388577e00de31f80eb:5860
+msgid ""
+"<p dir=\"ltr\">To complete the course you need to complete the following activities:</p>\n"
+"<p dir=\"ltr\"></p>\n"
+"<ul>\n"
+"    <li><span style=\"font-size: 1rem;\">View 'About this course', reading all sections.</span><br></li>\n"
+"    <li>View 'Get a practice course'.</li>\n"
+"    <li>View the 'Tutorial: Add activities to engage', reading all sections.</li>\n"
+"    <li>View the 'Tutorial: Add activities to assess', reading all sections.</li>\n"
+"    <li>View the 'Tasks: Add activities to your Moodle course', trying out the suggestions.</li>\n"
+"    <li>Complete the 'Checklist: Add activities to your Moodle course' , confirming your understanding.</li>\n"
+"    <li>Achieve 80% or more in the 'Moodle Course Activities: Check your understanding' quiz.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<h4>Completing the activities</h4>\n"
+"<ul>\n"
+"    <li>Some activities are automatically marked as completed based on specific criteria.</li>\n"
+"    <li>Some activities require you to manually mark them as done.</li>\n"
+"</ul>\n"
+"<p>Make sure you complete the activities according to their completion conditions.</p>\n"
+"<p></p>\n"
+"<h4>Course badge</h4>\n"
+"<p>Upon successful completion of this course you will be automatically awarded with a badge to showcase the skills and knowledge you have obtained.</p>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 34ad602e66f8a89d8ffef88b7d1ae8b9:5860
+msgid ""
+"<p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\"><img src=\"https://moodle.academy/pluginfile.php/5860/mod_book/chapter/825/ccby.png\" alt=\"Creative Commons Licence\" width=\"120\" height=\"42\" style=\"float:left\" class=\"img-fluid atto_image_button_middle\"></a>\n"
+"    This course by Moodle Academy (Moodle Pty Ltd) is licensed under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>. Original resources available at&nbsp;<a href=\"https://moodle.academy/\">https://moodle.academy</a>.<br></p>\n"
+"<p>\n"
+"    <span class=\"moodle-orange bold larger\">›</span>\n"
+"\n"
+"    <a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=272\">Read more about how you should attribute this work.</a><br>\n"
+"</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: e55dedc37335deb47d30df899cb1488f:5860
+msgid ""
+"The activities and screenshots in this course are based on the standard Boost theme and the latest version of Moodle LMS, currently 4.3.&nbsp;See <a href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3 documentation overview</a> and&nbsp;<a href=\"https://docs.moodle.org/403/New_features\">New Features 4.3 documentation.</a><br>&nbsp;If your Moodle site looks different, ask your Moodle support staff about the theme and version being used.\n"
+"<br><br>&nbsp;You can access documentation about earlier, supported versions of Moodle LMS below. This documentation includes the videos related to each version.<br>\n"
+"<ul>\n"
+"    <li><a href=\"https://docs.moodle.org/402/en/Main_pagehttps://docs.moodle.org/402/en/New_features\" title=\"https://docs.moodle.org/402/en/Main_pagehttps://docs.moodle.org/402/en/New_features\">Moodle 4.2 documentation overview</a> and <a href=\"https://docs.moodle.org/402/en/New_features\">New Features 4.2 documentation.</a></li>\n"
+"    <li><a href=\"https://docs.moodle.org/401/en/Main_page\">Moodle 4.1 documentation overview</a> and&nbsp;<a href=\"https://docs.moodle.org/401/en/New_features\">New Features 4.1 documentation.</a></li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 459173aaa58f2064b0c79cb268e847e5:5860
+msgid ""
+"\n"
+"<p>All notable changes to this course will be documented in this page.</p>\n"
+"<hr>\n"
+"<p>Date: December 13 2023<br>Changed by:&nbsp; Mary Cooch<br>Changes:</p><p></p><ul><li>Updated the YouTube video in the page Get a practice course.</li><li>Updated the YouTube videos in the Tutorial: Add activities to engage.</li><li>Updated the YouTube videos in the Tutorial: Add activities to assess, <strong>except</strong> <span>Course reports.</span></li><li>Added extra information about BigBlueButton being disabled by default in <a href=\"https://moodle.academy/mod/book/view.php?id=591&amp;chapterid=785\">Set up a webinar.</a></li><li>Replaced the videos with 4.3 versions in the folder Videos for download <strong>except</strong> Course reports.</li><li>Replaced the Quiz transcript with the 4.3 version in the folder Transcripts for download.</li><li>Updated the side block to reflect that this course is now based on 4.3.</li><li>Updated the Moodle versions in this book to reference 4.3.</li></ul><p></p>\n"
+"<hr>\n"
+"<p>Date: June 09 2023<br>Changed by:&nbsp; Mary Cooch<br>Changes:</p>\n"
+"<p>\n"
+"</p>\n"
+"<ul>\n"
+"    <li>Removed reference to MoodleCloud sites not being on 4.2 in Get a practice course.</li>\n"
+"</ul>\n"
+"<p></p>\n"
+"<hr>\n"
+"<p>Date: May 25 2023<br>\n"
+"    Changed by: Mary Cooch<br>\n"
+"    Changes:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>About this course book&nbsp; - changed Moodle versions to include 4.2.</li>\n"
+"    <li>Get a practice course -added mention that MoodleCloud doesn't yet use version 4.2.</li>\n"
+"    <li>Tutorial: Add activities to engage - updated all the video links to the 4.2 videos and removed references to Atto in the <a href=\"https://moodle.academy/mod/book/view.php?id=591&amp;chapterid=381\">Understand filters section.</a></li>\n"
+"    <li>Tutorial: Add activities to assess - updates all the video links to the 4.2 videos<em> </em>except Course reports<em> </em>and removed reference to Atto in the <a href=\"https://moodle.academy/mod/book/view.php?id=590&amp;chapterid=370\">H5P: interactive content section.</a></li>\n"
+"    <li><a href=\"https://moodle.academy/mod/quiz/view.php?id=585\">Check your understanding quiz</a> - removed reference to Atto in the question starting&nbsp;<em>Your colleague is very enthusiastic...</em></li>\n"
+"    <li><span>Videos for download</span><em> - </em>updated all videos to the 4.2 versions except Course reports and Set up your practice course.</li>\n"
+"    <li>Transcripts for download - updated all transcripts to the 4.2 versions except Course reports, Filters and Set up your practice course.</li>\n"
+"    <li>Changed the text in the side block to reflect that this course is now based on Moodle 4.2.</li>\n"
+"</ul>\n"
+"<hr>\n"
+"<p>Date: December 2022<br>Changed by:&nbsp; Mary Cooch<br>Changes:</p>\n"
+"<p></p>\n"
+"<ul>\n"
+"    <li>Added versions page and changed text block to say 4.1</li>\n"
+"    <li>Replaced references to Label with Text and media.</li>\n"
+"</ul>\n"
+"<hr>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: c7fd835bc4065c6f746f7930d8aacd82:5861
+msgid ""
+"\n"
+"<p>To benefit most from this course, you should have an empty Moodle course in which you have the role of editing teacher. It is very useful also to have a sample student account which you can use to test your activities.</p>\n"
+"<p>Ideally, your organisation will provide you with a course with teacher access and offer you a test student account.</p>\n"
+"<p>If that is not possible you can use our <a href=\"https://sandbox.moodledemo.net\" target=\"_blank\">Moodle sandbox demo</a> with the teacher login (username = teacher/password= sandbox) but be aware that this site is reset every hour so you won't be able to save your work.</p>\n"
+"<hr>\n"
+"<p>Alternatively,&nbsp;<a href=\"https://moodle.academy/mod/glossary/showentry.php?eid=576\">explore and sign up to MoodleCloud,</a>&nbsp;create a teacher login and a course and try out the activities there.&nbsp;<br></p>\n"
+"<p>The video below demonstrates how to get a MoodleCloud site. The transcript and MP4 file may be downloaded from the section Videos and transcripts for download.</p>\n"
+"<p><a href=\"https://youtu.be/VzYQq4C2T7c?si=5E0aPELtF9jLxcBS\">Get a practice course</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 645339eb0b5182b801d002e6bec0e7f0:5872
+msgid "Tutorial: Add activities to engage"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 387e9acd8f6bbfcefe3e30952e3a4b05:5872
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Test your understanding with this"
+" quick check. The grades are not stored, so you can try as often as you "
+"like.<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed2|1cdbf5f820e952f039c94ae067cde3c1d24bf9a9b8b7297d77d37f856940da17}Q}<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 6ecc5fa468ab45dd9bc02c265e1240ee:5872
+msgid ""
+"<p>In this tutorial we explore:</p>\n"
+"<ul>\n"
+"    <li>How to poll your students with the Choice activity;</li>\n"
+"    <li>How to engage your students in discussions with the Forum activity;</li><li>How to organise a live webinar with BigBlueButton;</li>\n"
+"    <li>How to create a Glossary to which everyone can contribute;</li>\n"
+"    <li>How Filters affect how your course displays;</li>\n"
+"    <li>How to get students collaborating in a Wiki;</li>\n"
+"    <li>The difference between the Survey and Feedback activities.</li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 401c07b32931a8e90c4aa971d49f500a:5872
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Test your understanding with this"
+" quick check. The grades are not stored, so you can try as often as you "
+"like.<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed1|c40d9e3ad98bce58f71b73c688f2570c23e3acdeafbea959848889895f223a22}Q}<br></p><p"
+" dir=\"ltr\" style=\"text-align: left;\"><br></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 198a50005948787d44cad1a7819f73be:5872
+msgid "Use Surveys and Feedback"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: b790cc058831ce1efb49825777356214:5872
+msgid ""
+"<p>Two activities which allow you to get detailed information from your learners are the Survey activity and the Feedback activity. These are advanced activities and therefore not explained here, but here are some details to help you decide which one meets\n"
+"    your needs.</p>\n"
+"<h5><img src=\"https://moodle.academy/pluginfile.php/5872/mod_book/chapter/379/survey.png\" alt=\"\" width=\"50\" height=\"50\" role=\"presentation\" class=\"img-fluid atto_image_button_text-bottom\">Survey activity</h5>\n"
+"<ul>\n"
+"    <li>The survey activity is non-customisable.</li>\n"
+"    <li>It offers verified survey instruments, such as COLLES (Constructivist On-Line Learning Environment Survey) and ATTLS (Attitudes to Thinking and Learning Survey), which have been found useful in assessing and stimulating learning in online environments.</li>\n"
+"</ul>\n"
+"<h5><img src=\"https://moodle.academy/pluginfile.php/5872/mod_book/chapter/379/feedback4.png\" alt=\"\" width=\"50\" height=\"51\" role=\"presentation\" class=\"img-fluid atto_image_button_text-bottom\">Feedback activity</h5>\n"
+"<ul>\n"
+"    <li>The Feedback activity allows you to create your own questions, (thereby obtaining feedback from your students on your course activities).</li>\n"
+"    <li>The question types range from multiple choice to longer free text responses.</li>\n"
+"    <li>It provides very good reporting. (Note that we have an anonymous Feedback activity at the end of this course.)</li>\n"
+"</ul>\n"
+"<p>Setting up a survey or feedback instance is beyond the scope of this introductory course, but you are more than welcome to read the documentation, explore them and ask questions. Our&nbsp; intermediate course Extend your Moodle Teaching Skills gives more information about these activities.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 24d05a78d2cafac3db54f237edb9e44d:5872
+msgid "Allow voting"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: b9219f77f10e0651cdc92b5f974458d8:5872
+msgid ""
+"<ul>\n"
+"    <li>The Choice activity allows you to set up short polls for your students to vote on.</li>\n"
+"    <li>They can choose one or more option and they can - if you wish - update their choice more than once.</li>\n"
+"    <li>You, the teacher, always see the results but you can decide whether or not students see each others' choices and if yes, whether to show names or simply percentages.</li>\n"
+"    <li>You may restrict the number of choices available.</li>\n"
+"    <li>You can include a column to view those who have not yet made their choice (voted).</li>\n"
+"    <li>You can make choices on behalf of students if necessary.</li>\n"
+"</ul>\n"
+"<p>The following video explains the Choice activity. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=36#section-4\">Videos and transcripts for download</a>.<br></p>\n"
+"<p></p>\n"
+"<p><a href=\"https://youtu.be/Uz7agFvftGQ?si=MLeJGGIwFcK6mDyZ\">Choice</a></p><br>\n"
+"<p></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 47f1d901377f43786bf19fbbf5a5e67c:5872
+msgid "Start discussions"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: ba8ee8366d8203ad311f4c7724ff246f:5872
+msgid ""
+"<ul>\n"
+"    <li>Discussing learning with others and sharing in the building of knowledge helps us progress.</li>\n"
+"    <li>Moodle offers several types of forum a teacher can add to enhance learning.</li>\n"
+"    <li>Announcements is forum but only teachers can post and reply to it, so don't use it for student discussions.</li>\n"
+"    <li>You can 'pin' posts to the top and you can lock discussion threads to prevent new discussions.</li>\n"
+"    <li>You can have more than one forum in your course and more than one type of forum.</li>\n"
+"    <li>Your students can 'star' discussions, attach files, record themselves and (if allowed) rate posts.</li>\n"
+"    <li>You, the teacher, can rate their posts and/or grade them.</li>\n"
+"    <li>Click the<strong> ? </strong>help icon to understand the different types and their uses.</li>\n"
+"  <li>If your course is mainly discussions, consider the Social course format.</li><li>You, the teacher, can send private replies to individual students, which the others cannot see.</li></ul><p>The following video explains the Forum activity. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=36#section-4\">Videos and transcripts for download</a>.<br></p><p><a href=\"https://youtu.be/ztjPPYjdxtI?si=g18X8vS0yTLsPMxx\">Forum</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: aebeab7c21bfd120aafb7bfd865a9c81:5872
+msgid "Set up a webinar"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 9074414312192051af9e2ceb6071572b:5872
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\"></p><p></p><ul><li>BigBlueButton "
+"is an open-source video conferencing system integrated in Moodle. A trial "
+"version with limited features is available in Moodle 4. (However, note that "
+"<strong>BigBlueButton is&nbsp; disabled by default for data protection "
+"reasons,</strong>&nbsp;as, despite being open-source software, it is "
+"supported by a different company and has a different licence from "
+"Moodle.&nbsp;Check with your admin if you don't see it in your course. ) The"
+" free trial version&nbsp; includes:<ul><li>Webinar recordings of up to one "
+"hour;</li><li>Live sessions with up to 25 participants;</li><li>Recordings "
+"saved for seven days;</li><li>Presentation and screen "
+"sharing;</li><li>Shared whiteboard;</li><li>Optional external access (if "
+"enabled by admin);</li><li>Polls and breakout rooms.</li></ul></li><li>Your "
+"admin can choose to set up a full-featured version within your organisation "
+"at no cost, or purchase a full-featured premium "
+"version.</li></ul><p></p><p>The following video explains the BigBlueButton "
+"activity. The transcript and MP4 file&nbsp; may be downloaded from the "
+"section&nbsp;<a "
+"href=\"https://moodle.academy/course/view.php?id=36#section-4\">Videos and "
+"transcripts for download</a>.<br></p><p></p><p></p><a "
+"href=\"https://youtu.be/bHawNjjHGdU?si=dk1zGqmJqV9NtWnu\">BigBlueButton</a><br><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 9deeaaab44b98b3ce940bd40d26dffa6:5872
+msgid "Contribute to a Glossary"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: df16fdbab88318889dddf18f7f798eb3:5872
+msgid ""
+"<ul>\n"
+"    <li>A Glossary typically contains a list of definitions, perhaps of key terms in your subject.</li>\n"
+"    <li>Moodle encourages collaborative learning and so with a glossary, learners can add terms as well as the teacher.</li>\n"
+"    <li>You can have more than one glossary but only one is the 'main' one into which other glossary entries can be imported.</li>\n"
+"    <li>Glossary entries can be moderated before they appear; learners can comment on others' entries and you can choose to allow or prevent duplicate entries. Keywords may be entered, each on a separate line.</li>\n"
+"    <li>If you have enabled the Glossary auto-linking filter, then when glossary terms appear in your course they will be automatically linked to the glossary entry.</li>\n"
+"    <li>The Random glossary block displays entries from a chosen glossary at intervals.</li>\n"
+"</ul><p></p><p>The following video explains the Glossary activity. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=36#section-4\">Videos and transcripts for download</a>.<br></p><p></p><p></p><a href=\"https://youtu.be/Si2HYyxjn04?si=w9JuyZnztCk2Qy-M\">Glossary</a><br><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 27b5bdda93722503148c52a787d9ce2b:5872
+msgid "Understand filters"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 35f9c4b158fe2de2c5807d1fd4911965:5872
+msgid ""
+"<ul>\n"
+"    <li>Filters control how elements of a course are displayed. Some examples are:</li>\n"
+"    <ul>\n"
+"        <li>The H5P filter displays embedded H5P in the editor.</li>\n"
+"        <li>The emoticons filter will display combinations of : and ) as 😊. (Note your admin might have enabled emojis, meaning you can select emojis from the&nbsp; text editor too.)</li>\n"
+"        <li>The glossary auto-linking filter will automatically link key terms in a course to their definitions in a glossary.</li>\n"
+"        <li>The activity names auto- linking filter will automatically link activity names to the activities on your Moodle course page.</li>\n"
+"    </ul>\n"
+"    <li>Although the administrator decides which filters to make available, course teachers can view the list from <strong>More</strong> &gt; <strong>Filters</strong> in the course navigation, and can also change filters for individual activities from the <strong>More</strong> link within each activity.\n"
+"        This is useful if you want to turn off filters in individual activities, such as quizzes.</li>\n"
+"</ul><p></p><p>The following video explains Filters. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=36#section-4\">Videos and transcripts for download</a>.<br></p><p></p><p><a href=\"https://youtu.be/5XUYccij9fs?si=p3_5-3lvAjWR5I8n\">Filters</a></p><br><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 5634e4bd31c1e2fdbbb7882b43a52c0c:5872
+msgid "Collaborate in a wiki"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: b8be7f7c7bb97d6aa76a4e7c24c7ca57:5872
+msgid ""
+"<ul>\n"
+"    <li>A Wiki is a collaborative editing space in your Moodle course.</li>\n"
+"    <li>You set the title and first page and learners can then create and edit their own pages and those of others.</li>\n"
+"    <li>It is possible to give everyone their own individual wiki, for personal notes perhaps, but usually a wiki is a joint effort.</li>\n"
+"    <li>Be aware that there are sometimes issues when several participants are trying to edit the wiki at the same time - they might see a \"locked\" message. As the teacher you are able to override this.</li>\n"
+"    <li>Note too that it's possible to link to any online collaborative doc (Google Doc, Office 365, NextCloud, Etherpad etc) by using a URL resource, if your students are more familiar with them.</li>\n"
+"</ul><p></p><p>The following video explains the Wiki activity. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=36#section-4\">Videos and transcripts for download</a>.</p><p><a href=\"https://youtu.be/6sMH3SabSfw?si=sMwkrFgMk03-Grix\">Wiki</a></p><br><p></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 514ada67f06b77f600dc69b7d0bbfd5c:5871
+msgid "Tutorial: Add activities to assess"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 986a55ac15382c6d78d70152e06d5039:5871
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Test your understanding with this"
+" quick check. The grades are not stored, so you can try as often as you "
+"like.<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed4|ceb98afaa1a09abbe78b4c34b49cfd7ea779eb68473d41f7545250e2e0eecea4}Q}<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 473e4703de5e289d290115403555a753:5871
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Test your understanding with this"
+" quick check. The grades are not stored, so you can try as often as you "
+"like.<br></p><p dir=\"ltr\" style=\"text-align: "
+"left;\">{Q{embed/embed5|5de578f5ea91c702635d81318a35e6b7a4e485b7880e85025ee442fa5c24de74}Q}<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 072031be4c4f41476dc71728a0f93614:5871
+msgid ""
+"<p>In this tutorial we explore:</p>\n"
+"<ul>\n"
+"    <li>How to set up Assignments for students to submit work for you to grade;</li>\n"
+"    <li>How to create Quizzes with automatic grading;</li>\n"
+"    <li>How to use H5P to create engaging and gradeable activities;</li>\n"
+"    <li>How to use the Gradebook;</li>\n"
+"    <li>How to monitor student activity, participation and more.</li>\n"
+"</ul>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: e5c074705f35fd2e4b42352d773b8799:5871
+msgid "Add H5P interactive content"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 2a7bcc32ae40cf46f1ec36cb9d186240:5871
+msgid ""
+"<ul>\n"
+"    <li>H5P is open source software allowing you to add interactive content to Moodle.</li>\n"
+"    <li>Content is created in the <strong>content bank</strong>, accessed from<strong> Course navigation</strong> &gt; <strong>More</strong>, and can be added with the editing turned on from <strong>Add and activity or resource</strong> &gt; <strong>H5P</strong>.</li>\n"
+"    <li>Many activities are gradeable and can have activity tracking set for learners.</li>\n"
+"    <li>Content may also be embedded anywhere there is the <strong>editor</strong> by clicking the<strong> H5P icon</strong> in the toolbar. Note that content added this way does not&nbsp; (automatically or easily) appear in the gradebook.</li>\n"
+"</ul><p>The following video explains the H5P activity. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=36#section-4\">Videos and transcripts for download</a>.<br></p><p><a href=\"https://youtu.be/llt4fqu2oe8?si=GesiASnWu6r3uwrU\">H5P</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: d92bbe028757658080b999d8c95c27ce:5871
+msgid "Monitor course activity"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: f062f55d6a3db9760379e105f5e15856:5871
+msgid ""
+"<ul>\n"
+"    <li>As a teacher, you can monitor course activity from a variety of course reports.</li>\n"
+"    <li>Access course reports from the <strong>More</strong> <strong>link</strong> in the <strong>Actions menu</strong>. Examples of course reports are:</li>\n"
+"    <ul>\n"
+"        <li>Live logs and logs - these show who has been doing what and when.</li>\n"
+"        <li>Course participation - this report displays engagement in for example Forum discussions.</li>\n"
+"        <li>Activity completion - this shows who has completed which activities (and also allows you to complete on learners' behalf.)</li><li>Course completion - this shows who has completed the course and which activities still need to be done.</li>\n"
+"        <li>Competency breakdown - this is an advanced report which if enabled shows who has met which competency in your course.</li>\n"
+"    </ul>\n"
+"</ul><p>The following video explains course reports. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=36#section-4\">Videos and transcripts for download</a>.<br></p><p><a href=\"https://youtu.be/lYsMWtjGa6E\">Course reports</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 403a9d64463cb09f9a830f489aec32b1:5871
+msgid "Explore the Gradebook"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 93667266bb60c357d660826431a3e6d7:5871
+msgid ""
+"<ul>\n"
+"    <li>Each course in Moodle has its own gradebook accessed from <strong>Course navigation</strong> &gt; <strong>Grades</strong>.</li>\n"
+"    <li>Students can see this too but see only their own grades.</li>\n"
+"    <li>Teachers see a list of course participants with their grades for each activity. (Note that students can see all their grades for all courses from the link in the user menu top right.)</li>\n"
+"    <li>You can manually enter and edit grades here and put graded activities into categories with category totals.</li>\n"
+"    <li>You can create your own custom scales instead of the default points.</li>\n"
+"    <li>You can also import and export grades.</li>\n"
+"</ul>\n"
+"<p><strong>Note</strong>: The gradebook shows only student grades by default. If teachers do the graded activities, their grades are not normally shown.</p><p>The following video explains the basics of the Gradebook. The transcript and MP4 file may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=36#section-4\">Videos and transcripts for download</a>.<br></p><p><a href=\"https://youtu.be/-j6OKClPNMM?si=D0xqJliHxtYaSnko\">Gradebook</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: f47a5d3db5de4887674bc8988dde3b64:5871
+msgid "Set up assignments"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: fa810d7406bb5541aab9f293beefaf93:5871
+msgid ""
+"<ul>\n"
+"    <li>Moodle's Assignment activity provides a space into which students can submit work for teachers to grade and give feedback on.</li>\n"
+"    <li>This saves on paper and is better than email because you don't have to find your students' work amongst emails from colleagues or companies; their submissions are together on one screen of your course.</li>\n"
+"    <li>You can require them to submit one or several files and/or to type text essays.</li>\n"
+"    <li>It is possible to have them submit work as a group and you can also choose as a teacher to grade their work 'blind' in other words not to see the identities of those who have submitted assignments.</li>\n"
+"    <li>Assignments can have a deadlines and cut-off dates - which you can also extend if necessary.</li><li>You can set a timed assignment if enabled by admin. Learners can still complete the assignment after the time is up, but it will be shown as submitted after the time limit.</li>\n"
+"    <li>If you as a teacher want to see a reminder to grade, make sure you select a date in the <strong>Remind me to grade by...</strong>&nbsp;setting when creating your assignment.</li>\n"
+"</ul><p>The following video explains the Assignment activity. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=36#section-4\">Videos and transcripts for download</a>.<br></p><p><a href=\"https://youtu.be/Inizsgd3NBI?si=NgW4YOeundfXM_wG\">Assignment</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 079b9cd4212d83c21acbf83c4dbebdb1:5871
+msgid "Add self-marking quizzes"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: f693ef390e640c61e8e8b28e58830449:5871
+msgid ""
+"<ul>\n"
+"    <li>With the Quiz activity you can add many different question types such as multiple choice, true-false, and short answer questions.</li>\n"
+"    <li>Feedback can be given at all stages of the quiz and can be very detailed.</li>\n"
+"    <li>Quizzes are useful for both summative and formative assessment.</li>\n"
+"    <li>Apart from the Essay question type (which must be graded manually), all other question types are automatically graded by Moodle.</li>\n"
+"    <li>The description question type is not a question as such, but an area where you can add text, images or even video for students to read as part of the quiz.</li>\n"
+"    <li>When questions are made they are stored in the <strong>Question bank</strong> (accessible from the <strong>More</strong> link in Course navigation) and can be re-used in different quizzes.</li>\n"
+"</ul><p>The following video explains the Quiz activity. The transcript and MP4 file&nbsp; may be downloaded from the section&nbsp;<a href=\"https://moodle.academy/course/view.php?id=36#section-4\">Videos and transcripts for download</a>.<br></p><p><a href=\"https://youtu.be/9oG94tCyc0E\">Quiz</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 48d282d56a759f8241e180a7c57b7772:5864
+msgid "Tasks: Add activities to your Moodle course"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: fbae8d59be14f862feb618f18aa11139:5864
+msgid ""
+"<p>Try these tasks to practise what you have learned in the tutorial:</p>\n"
+"<ol>\n"
+"    <li>Log in to our demonstration site <a href=\"http://school.moodledemo.net/\">Mount Orange School</a> (username teacher, password moodle) and explore the course English with H5P. Create your own H5P from the Content bank in the course and try\n"
+"        it as a student (username student, password moodle).</li>\n"
+"    <li>With the teacher account as above, access the Celebrating cultures course and explore the Glossary and Assignments. Experiment with disabling and enabling filters.</li>\n"
+"    <li>With the teacher account as in (1) above, access the Digital Literacy course and check the Activity completion report.</li>\n"
+"    <li>In your practice course set up a Standard forum, add three discussion topics and experiment with pinning, locking and starring them.</li>\n"
+"    <li>Create a Quiz with a variety of different question types and view it on the Moodle app and on a small screen. How does it display?</li>\n"
+"</ol>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: b3adcf824f61c47ddbad91f9bb6ab912:5865
+msgid "Checklist: Add activities to your Moodle course"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 24148270e7ffbe0d87045ff8e52084dc:18915
+msgid ""
+"<p style=\"text-align: center;\"><a href=\"https://moodle.academy/course/view.php?id=4\" style=\"font-size: 0.9375rem;\"><img src=\"https://moodle.academy/pluginfile.php/18915/block_html/content/AllIcons_forWebsite-22.png\" style=\"border-width:0\" alt=\"\" width=\"100\" height=\"100\">\n"
+"    </a></p>\n"
+"<p style=\"text-align: center;\">&nbsp;<span style=\"font-size: 0.9375rem;\">&nbsp;<a href=\"https://moodle.academy/course/view.php?id=4\" style=\"font-size: 1rem;\">Get Involved!</a>&nbsp;</span>&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 48db82c1b07b96a908c169a950d37238:18918
+msgid ""
+"<p style=\"text-align: center;\">\n"
+"<a href=\"https://moodle.academy/mod/book/view.php?id=5&amp;chapterid=624\">\n"
+"<img src=\"https://moodle.academy/pluginfile.php/18918/block_html/content/ccby.png\" alt=\"Creative Commons Licence\" width=\"120\" height=\"42\" style=\"border-width:0\" class=\"img-fluid atto_image_button_text-bottom\"></a></p>\n"
+"<p style=\"text-align: center;\"><a href=\"https://moodle.academy/mod/book/view.php?id=579&amp;chapterid=825\">Licensed under CC BY 4.0</a>.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 322ffd02111dbbddce1e9c1655b6d83e:18914
+msgid ""
+"This course launched in April 2022 and is now based on <a "
+"href=\"https://docs.moodle.org/403/en/Main_page\">Moodle 4.3</a> "
+"functionality."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 955e346ecb63d2acfb83b06d1e74534f:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You want to set up an assignment "
+"for your students to submit work to you. Which of the following could they "
+"submit? Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: c73217f0d46edb6a2cb11a65cb9eb366:5855 9e63dc5ae95c7b09a79f500bd2bb450b:5855
+#: b4661a79ff7d1e4f449463116e20353c:5855 9d90a79b9c2f74f9d66782313bcb3424:5855
+#: 6939bdb5a898abef2dbc12d13b42aa88:5855 d690fb143edd3585798ae8a5041bc26a:5855
+#: 177fcf363844a9475930222bda640929:5855 4186643130cfd96e8deafec191fd514a:5855
+#: fea2028824eb3c4b908db09febae91ef:5855 f93ce914acc745d671a7f501a4d68c18:5855
+#: a2f237dfc4dffd68a9fd88920d6416bb:5855 68ac9dab742f4248056187d758fa1165:5855
+#: 6c930bd212b696988409d1c5f82f4ff2:5855 44f998133aa11a624efccf7f6dadc3a8:5855
+msgid "Your answer is correct."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 107fc6c2cec788a640fd4dea7ab3ca99:5855 20bccd19f9e2c24f64884dc37089ee02:5855
+#: 05316bcbf6379d86f6323debf1f3d2e5:5855 833f759a43360d501f0096c4510b1943:5855
+#: 6f9e9c00512a5744de8970b7d8c60544:5855 5e1be306b084b5e48f732b7bd0f10ecd:5855
+#: d7b35165c3dc8d00be1813521204a0e0:5855 880f018a90f37ed62ca3717e4467cb3f:5855
+#: c7882e7e6d0b1eda942d4bdbc85379af:5855 5e45e3989b1be723b00c83a3aad10eb9:5855
+#: bfc37c8579417cacad7630398726c7e7:5855 8f0a53be97d9f43754778f4dfebc3463:5855
+#: 16d2cbc23ace845449440426887a39ba:5855 3c98849d4866e52d212da9224062fe80:5855
+msgid "Your answer is partially correct."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 4a18962fe657c66dc51eb257c284a3c0:5855 1c798c52c41a23edad83125328a06df5:5855
+#: b3f0467f228fee1654d255d08c7c6735:5855 2772282435ac0963f5028a2c4e4e0695:5855
+#: bbbda156970a05f8baf709751d96638f:5855 9d0190494b1d147368eb94957423fc6a:5855
+#: 979956a7750ccebe81b357729ec50c02:5855 901c35bd23abe5e2c4e4300f511834b0:5855
+#: a36825afaf2c1133a530856c75891486:5855 c992994998e27cb7b865644d5b51a2ef:5855
+#: 0f9706447037c0a3abdcc1d376cc92bf:5855 ec910c0670f3ffc445004f43c79cdcc1:5855
+#: a9ec0d6245cedd8439b1558328981743:5855 4a7f9aef7480272fd4cbb64c40cd98e4:5855
+msgid "Your answer is incorrect."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: d97ccef8fc923f641bb5e27fed7cdc1a:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Simply type directly into the "
+"assignment box.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 79d8276e6eb2ce1e62bb816a31b5a130:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Yes if you use \"online text\".</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 28c2a8701dda8e6c3c53ec8678cb2b05:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Upload a word-processed file</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 7f26e3c86712420c5c053ad2c2b89fbf:5855 81571fe2d7de958f453e4209c762e1cc:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes. This is a very common way of"
+" submitting assignments - perhaps you could explore other ways?</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 5ecff789e7614e1e3596496ca10b1f35:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Record themselves speaking</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 53ac84bc10f5012e94965b0d208c6f4c:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes, if they are using the Atto "
+"editor.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 2abb1a5c994f6fc6345d04c4a21267a1:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Upload an image</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: ee42de836509debcf84b474ed6c82f2d:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Yes, that's also possible.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 7818a8e16577330322942db0a73f9570:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Upload a presentation file</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: e3e3ac36f959f98b57ab1288d3b985da:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Vasilis is exploring "
+"BigBlueButton for the first time. These are the conclusions he has made, "
+"using the BBB features offered in his new Moodle 4 site. Are his conclusions"
+" correct?</p><p dir=\"ltr\" style=\"text-align: "
+"left;\"><ul><li>BigBlueButton is an open-source web conferencing "
+"tool.</li><li>I can use it with up to 25 users.</li><li>I can record "
+"sessions of up to 90 minutes.</li><li>We can all use our video cameras, so "
+"that means we can see each other.</li><li>The recordings are stored for "
+"seven days.</li></ul></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 0c09fdccdba666deb4a5cfc3a332ac86:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Review the section 'Set up a "
+"webinar' in the Tutorial: Add activities to engage for more information.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 24a1ab9c7fed531b64f0af32580bfb91:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">They are all correct.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: b76cfc3521a94ca468f34d5675560cb8:5855 6f04edaab83ebfdeed378f274561a325:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Are you sure?</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: fc74b6f8b0de575f73173875679a201f:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">One statement is incorrect.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 97f8fbef6a5ac591ae0703e0640c975e:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">One statement is incorrect and "
+"one is not entirely accurate.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: d9dffadef3b77252dc1bc1620179f5e8:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's true. Everyone can share "
+"their cameras but only Vasilis the teacher sees them all.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 377e7c397549dce1db9333388eef10dd:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Only the first statement is "
+"correct.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 750000eb8ff0792267e32e5f896fedce:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">No - there are more correct than "
+"just the first one.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: b9b885803af3a27a5cbc60d03cddeb9c:5855
+msgid ""
+"You do not have an assignment submission from student Alex but he claims he "
+"submitted it yesterday evening. What is the <em>most effective</em> way to "
+"check this?"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 42b162740a758859fce2c9380d48f97a:5855
+msgid "Check the course logs, selecting Alex from the participant dropdown."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 11ae797970797f51b52b7680949039cc:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This will show you what he "
+"recently did.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: c02c4c9f3c1c06d86984a1fcf2efdcba:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Ask the administrator to check "
+"the site logs to see when Alex last accessed the course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: fbad7f879250d9046b84e02edb87c71c:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You can do this but it is not "
+"necessary, so no points awarded.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 45f58039d7a99b38484defca406e109c:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Check the competency breakdown "
+"report to see if Alex met the assignment competency.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 18be9370f1b84e956b526299508fcdd9:5855
+msgid "Perhaps you are not using competencies?"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 8f150a5839bf9ac52abc4f2a4f2cc876:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Check the activity completion "
+"report.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: e5d46cee9dda88d071403448f7807f77:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This might work if Alex had to "
+"submit the assignment for it to be marked complete - but what if you are not"
+" using activity completion, or if you had a different condition, such as "
+"manually marking complete? It does not prove he submitted.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 1c997f949d56dc75409799ea5fa64215:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Your colleague John has posted in"
+" his course forum to start a discussion but his students complain that they "
+"cannot reply. What is the most likely reason for this problem?</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: b1a9b0c3bc206aa4bcdc1d3fe444614b:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Review the section Start "
+"discussions in the Tutorial: Add activities to engage for more "
+"information.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 8e51a78e82e931858fc01f96d4292777:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">John has used the Announcements "
+"forum. Students cannot reply or post there.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 02f99b9f02965f92cd729c55ed5bd8e2:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Be careful you don't make the "
+"same mistake as John!</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: a59efb9b75780173769d3422e30a74bc:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">John has forgotten to enrol the "
+"students into his course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 5d104ad7e0354070a792fdedabe14607:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That is unlikely. Let us assume "
+"they are enrolled.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: e5c5688df5b6a2841d963bd7fd433741:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">John has forgotten to give the "
+"students permission to view the forum.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 621e37681a90a3a64a511e7ee2cfd3f1:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It seems they can view the forum "
+"- but they cannot reply to his discussion post, so this does not help.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: c854c0962f52d9e4588860ea6fb3290b:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">John has added the forum in the "
+"wrong section of the course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: f770eaff76ec0d4cedb1196f6e8ea87c:5855 8ac92e0397c6e6d745e6171911fc7470:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That should not make a "
+"difference.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 0dd4660ed74a21ccb967709a6142b51d:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You want to give learners a video"
+" to watch and then ask some questions to check their understanding. The "
+"questions must be automatically marked to save you time. Which of the "
+"following could you use? Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 56fd95cda578ba9ae07953b70d90bf24:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">A Quiz activity</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: f975629f0982e7880e0863885e5fbeb7:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes. Put the video in the "
+"Description question type and then add some questions.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 29c35d1305117e8b1e515a0ec6afcc6e:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">An H5P activity</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: a2b52f216a8faaf9317e98a6c5ff4b2f:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes. Try the Interactive video "
+"for example.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 376508559493fc6c7ef0756b22da23fa:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">An Assignment activity</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 89b1e3d1f71e7360bf6805ecab3df1e5:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You can provide a video but any "
+"questions will not be automatically graded.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 0e7b9376e02cb4cda64632afcfcf1103:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">A Wiki activity</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: b06cbcf523e4eeb51b41b5099f6240f1:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This would be a rather complex "
+"use of the Wiki and any questions would not be automatically graded "
+"anyway.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 7be71dabd86c87f30845e6d25378452b:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Your colleague is very "
+"enthusiastic about the activities she has made with H5P so you decide to "
+"make some yourself which you will later use in your course.&nbsp; Where is "
+"the best place to go to create an H5P activity that you can add later?</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 48910c236b96c258569979ce1e3de871:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The Content bank from the More "
+"link in the course navigation.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 7968a0266eee75932fbb3e198ea73a9e:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's right. You create H5P "
+"there to add later to your course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 5a2c4ea1602ab3d9bb05c34467dbc8ff:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Add an activity or resource &gt; "
+"H5P</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 577a0cfab3e3c987f18ace3d44b06d43:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's not the optimum path if "
+"you want to first create H5P.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: f19875eba38e33596ffcacf01bde52a7:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">From the editor, you click the "
+"H5P icon</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: a9ba898e1cb8a8c02282f209017f0ef0:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That is for embedding H5P into a "
+"page but you don't create H5P from there.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 157139dae9dab737d064bd31bd9fe3be:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The site <a "
+"href=\"https://h5p.org\">h5p.org</a></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: e53a26acfa54879a2af0cb180e85571c:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">While you could in theory do "
+"that, it is better to create them in your course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: c38cec5319ab2862254d3236c789ad8c:5855
+msgid ""
+"Some key terms on your course page appear to be linked to their definitions."
+" How has this happened?"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 215baa0cad22cdfd5aa3b0b609b42bec:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">It's Moodle Magic!</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 3cc845eb2b322df692b9751f82fcb875:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Moodle is indeed Magic but this "
+"is not the answer this time ;)</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 9fe11d3b4f34ced39d8d9b97504bf690:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You have Glossary auto-linking "
+"enabled.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: b605c001005ffe8c015b7cc0be3ba9cd:5855
+msgid ""
+"Yes - cool, isn't it? And did you know you can disable it within a quiz so "
+"your learners don't get extra, unintentional help?"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: f7544bd2447d4ebdcf19c1b385272445:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You have manually made those "
+"links.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 70671e91be3677089f86b9c6216a8b42:5855
+msgid ""
+"Hopefully not - there is a better and simpler way of linking to the glossary"
+" definitions!"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 297009ca2a3f8b5d22a3ac2771e5138d:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You want to quickly poll your "
+"learners to find out their prior experience in Moodle - for example whether "
+"they have never used Moodle, use it occasionally or use it all the time. "
+"Which of these would be the most suitable?</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 2c998d1a512d0f80e6091409640efd2e:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Choice</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 33d5b77bcb2a7c32e9d08a41a957b7d1:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct. This is best for quick "
+"voting or polls.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: d6504fc61520b05cca9115d0c8baade2:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Feedback</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 5934fe85b5712ef6d18bfae4c37dbcb9:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is more for longer "
+"questions.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: dc2e7873a85173b119fd444049c2cc54:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Survey</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: d8b776c8af7572a8cd5b42734bf2e100:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You cannot customise the "
+"questions in this activity.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: a09f1235ad2e200a2923dec01593f8fe:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The online poll site Survey "
+"monkey.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 0b89175bab95fe24f8a3b9f5e14381ce:5855
+msgid "Surely it is better to do this in your Moodle course?"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: d9832d0971b6abed3caa86bb23a40a43:5855
+msgid ""
+"You want to add a video or an image with text to your quiz. Students will "
+"look at it and then answer 3  questions on it. What would be the <em>most "
+"efficient</em> way to do this?"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 4a1f8309783fee088c6acaec8299550c:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Use a description question "
+"type.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 6a6b209e6c361ba0fb449d9c467c9e89:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Excellent idea!<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 7a7d4631e87849928900917c77bf379d:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Use a Page resource and link it "
+"to your quiz.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 8de686417113278b430dccf9bbd11c8c:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">It would work but is extra "
+"effort.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 5346d1e060a0bdae02e7a864ee50af7a:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Add the video to each question in"
+" the quiz.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 2ba285ace1c83a352d1e6f85e1c9b1cd:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That would work but is a lot of "
+"effort.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 9d6e7f0ef4a03ac106c693f89f30c0d5:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Link to the video or the image "
+"with a URL resource and then paste the link into your quiz questions.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 78143a320d4e79464d0f28d172966871:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">This is not the most practical "
+"way of doing what you want.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 6857d8a5c93ba6248f768455880bc280:5855
+msgid ""
+"When students 'star' forum discussions, what happens? You can select more "
+"than one answer."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: f1d15d6e04168ebd5f082065a6bf0d98:5855
+msgid ""
+"The starred discussion moves up the list but under any discussions the "
+"teacher has 'pinned'."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 4c347f4f19f40edf4e28c960fb0fb3a7:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes, so they can easily locate "
+"them!<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 5a534c90afd38de354f5a86cf762f144:5855
+msgid ""
+"If the discussion is not already at the top of the list, it moves up the "
+"list of discussions."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 177c68a58d931bd0e74279bd6be8aaac:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Correct, that's the reason to "
+"'star' a discussion.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 4985a992d2ef22ef0e64b887c2041fcb:5855
+msgid "That particular student can no longer reply to that discussion."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 40f40a99bc9199707b06f7adef15939e:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Only teachers can prevent "
+"students from posting into a forum discussion.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 2c15e075943c6f6bba30b18f2727fd1b:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">XY is trying to decide whether to"
+" use an Assignment or Quiz in their course. They've been given some advice "
+"but some of it is incorrect. Which of the following statements is/are "
+"correct - and will help XY decide? Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 13bbfd82a69f79ec98533ec29c4fa8e3:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"revisit the sections 'Set up assignments' and 'Add self-marking quizzes' in "
+"the Tutorial: Add activities to assess. Remember to try these options out "
+"for yourself in your practice course!<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: b99680d848a9a4d9ee2c8f4121474528:5855
+msgid ""
+"With a Quiz Essay question, you can use a template to help learners "
+"formulate their reponse."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 22e87395c66ecfafbab18052320047db:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">That's correct, yes.&nbsp;</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 3fc0a476e3386e2f72ed6ea85d2d8448:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">With an Assignment you can allow "
+"submission in groups.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: cc525dea277c1408fa831f04dd891312:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">True. And you cannot do that with"
+" Quizzes.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 4f77aa2e6da8a452d20225aa5ff35471:5855
+msgid "Both Quiz and Assignment offer automatic grading."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: b0f63838ff24f0d882e52b28254342b1:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Are you sure? Automatic grading "
+"with an Assignment?</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 06abcb416649b99722ae8072a25f7095:5855
+msgid ""
+"With an Assignment you can grade without knowing the identity of the "
+"learners."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: bf9aabcd0bb331024f5982bf40c38bd9:5855
+msgid "Do you remember what the feature is called?"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 65a502821be934f2817d9b5c14beb913:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Disaster! You designed a great "
+"quiz activity for your learners where they have to correctly identify key "
+"terms for your subject.... but all the learners get 100% since the "
+"definitions of the key terms appear in the questions!<br>What went wrong and"
+" how can you correct it for the next group of learners?</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: ca98f24bd7579033ac970aa58527bce6:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"revisit the section 'Understand filters' in the Tutorial: Add activities to "
+"engage - and why not test this out in a quiz of your own design in your own "
+"practice course?</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 4f6028602e9552ec2fa0f3dc910e949e:5855
+msgid ""
+"The Glossary auto-linking filter was enabled in the quiz. Turn it off for "
+"next time!"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 185d4175897fcc1d68bdf5bdbbd4d95c:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's right! It is useful that "
+"you can disable filters in individual activities as well as in the "
+"course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 2ff02e9636788dce4813e8ac3441fa38:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The Activity names auto-linking "
+"filter was enabled in the quiz. Turn it off for next time!</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 0361882433a03e4f329e800b9beb4079:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The key term definition filter "
+"was enabled in the quiz. Turn it off for next time!</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 703be5cc737eb12f643f1cfcac60a229:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">No such filter!</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 90ee05c4dc30cf9718acff14827f1c30:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The quiz setting 'Show answers "
+"immediately' was enabled in the quiz. Change this setting for next time!</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 2546b4114560b23bfc01296af765dd53:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">But - the learners could see the "
+"definitions in the actual questions, not the answers, so it must be "
+"something else.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 2f7173d4669d1aa426984536a87b7d32:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Which of the following statements"
+" about the Forum activity are true? Select all that apply.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: a2a365fac6e44a6777a200a9bf1343b6:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"revisit the section 'Forum' in the Tutorial:Add activities to engage - and "
+"why not try out a Forum in your own course, with some test students?</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 39121d933e2513a0b30878e24381c149:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Teachers and learners can send "
+"private replies to each other that others in the discussion cannot see.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 67fa84c3b8c9d09d3805846d8998fd74:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Really? Check again.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: df0e9def94b5571b6c132e911ba2edea:5855
+msgid ""
+"You can close a particular discussion thread if it is out of date or has "
+"gone off topic."
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 2ea1ea3d51b817c2816c502b7bd557e0:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's correct. From the three "
+"dots you can 'lock' it.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: d0be3ab50920f45b4efd4c76f35c14ee:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Teachers can pin a discussion "
+"topic so that it always appears at the top for course participants.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: c1115052c4625ffe2d22cf58f8b4dce7:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Indeed. And both teachers and "
+"learners can 'star' discussions they are interested in, but these appear "
+"below any 'pinned' discussions.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: b3e27a99298926a770254048b641942b:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">There is course format called "
+"'Social' which is most appropriate for courses which are just forum "
+"discussions.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: c84ba95b6ff9cf519f7961282ac53db9:5855
+msgid "<p dir=\"ltr\" style=\"text-align: left;\">Yes, that's true!</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 73e7f728caa0d9196accab93685edec2:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">What can you do in the Gradebook?"
+" Select all the statements which are true.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 330fa2e679af057639642e4cf7a84525:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Remember that you may always "
+"revisit the section 'Gradebook' in the Tutorial: Add activities to assess, "
+"and make sure to explore the settings thoroughly in your own practice "
+"course.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: d6255d8fe4787cc52237e45d9d6e524f:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You can manually enter grades, "
+"for example, for an activity done offline.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: bc77d4a07950fda2b3a8e519219b1a39:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">That's right. Note you can also "
+"create an Assignment where nothing needs to be submitted. That has the same "
+"effect.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 82f6cbeaccaa318c6be35d84ab35b2c9:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You can create scales words "
+"(Fail, Pass) instead of using numbers to grade.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 407f1e741eb8544cd061b943de554581:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes and remember custom scales "
+"should always go from negative to positive.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: a0081b2d3747f2dcac6f2422b1a09a1e:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You can export grades so you can "
+"edit them in other software or share with colleagues.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 4fbfbd2ae4a0098e872b37ddc26d88bf:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">The export usually will be in "
+".xlsx or .ods format, although administrators may change that.<br></p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 4aae568f87211ee5e5c78fdf683d1027:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">You can set up categories in the "
+"gradebook.</p>"
+msgstr ""
+
+# {"targetlanguage": "id"}
+#: 298ffbdcba5358daca202517a7124dd8:5855
+msgid ""
+"<p dir=\"ltr\" style=\"text-align: left;\">Yes - so you can have category "
+"totals as well as a single course total.</p>"
+msgstr ""
